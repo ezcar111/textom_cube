@@ -1,0 +1,6 @@
+[2023-07-01 02:57:23] (DEBUG) => Worker-[1000]가 task-[1166700]의 'blog'(을)를 시작합니다. (Thread: 4154134)
+[2023-07-01 02:57:23] (DEBUG) => Worker-[1000]가 task-[1166700]의 'blog'(을)를 처리중입니다.
+[2023-07-01 02:57:24] (DEBUG) => 수집정보 => 채널: naver, 유형: blog, 키워드: 청소년 +명품 + 소비 | 쇼핑 | 구매, 기간: 2022-08-19 ~ 2022-08-19, 테이블: scraw_naver_datainfo
+[2023-07-01 02:59:31] (DEBUG) => ConnectionError((<urllib3.connection.HTTPConnection object at 0x7fea0c82a640>, 'Connection to 221.157.125.36 timed out. (connect timeout=30)')) caused by: ConnectTimeoutError((<urllib3.connection.HTTPConnection object at 0x7fea0c82a640>, 'Connection to 221.157.125.36 timed out. (connect timeout=30)'))
+[2023-07-01 02:59:32] (DEBUG) => 데이터 수집을 정상적으로 완료하였습니다.
+[2023-07-01 02:59:32] (DEBUG) => Worker-[1000]가 task-[1166700]의 'blog'(을)를 완료하였습니다.

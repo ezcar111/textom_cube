@@ -1,0 +1,42 @@
+[2023-09-19 08:08:40] (DEBUG) => Worker-[1000]가 task-[658440]의 'news'(을)를 시작합니다. (Thread: 1565756)
+[2023-09-19 08:08:40] (DEBUG) => Worker-[1000]가 task-[658440]의 'news'(을)를 처리중입니다.
+[2023-09-19 08:08:40] (DEBUG) => 수집정보 => 채널: daum, 유형: news, 키워드: 요넥스 배드민턴라켓 추천, 기간: 2023-06-19 ~ 2023-09-19, 테이블: scraw_daum_datainfo
+[2023-09-19 08:08:43] (DEBUG) => task-[658440] 수집 중 => 키워드: 요넥스 배드민턴라켓 추천, 카운트: 1, 내용: '셔틀콕 신동'에서 '세계 1위' 안세영, 그의 스매싱
+[2023-09-19 08:08:43] (DEBUG) => task-[658440] 수집 중 => 키워드: 요넥스 배드민턴라켓 추천, 카운트: 2, 내용: 한국 동호인에 최적화된 배드민턴 라켓 나노플레어 X7 
+[2023-09-19 08:08:43] (DEBUG) => task-[658440] 수집 중 => 키워드: 요넥스 배드민턴라켓 추천, 카운트: 3, 내용: 번개와 같은 빠른 스윙을 실현하는 요넥스 나노플레어 1
+[2023-09-19 08:08:44] (DEBUG) => task-[658440]의 (3)개의 데이터가 ES에 저장되었습니다.
+[2023-09-19 08:08:44] (DEBUG) => 데이터 수집을 정상적으로 완료하였습니다.
+[2023-09-19 08:08:44] (DEBUG) => Worker-[1000]가 task-[658440]의 'news'(을)를 완료하였습니다.
+[2023-09-19 09:05:08] (DEBUG) => earthling/handler/dao/pickles/google.pickle
+[2023-09-19 09:05:08] (DEBUG) => earthling/handler/dao/pickles/googlecn.pickle
+[2023-09-19 09:05:08] (DEBUG) => earthling/handler/dao/pickles/naver.pickle
+[2023-09-19 09:05:08] (DEBUG) => earthling/handler/dao/pickles/daum.pickle
+[2023-09-19 09:05:08] (DEBUG) => earthling/handler/dao/pickles/baidu.pickle
+[2023-09-19 09:05:08] (DEBUG) => application/google/pickles/base.pickle
+[2023-09-19 09:05:08] (DEBUG) => application/google/pickles/web.pickle
+[2023-09-19 09:05:08] (DEBUG) => application/google/pickles/news.pickle
+[2023-09-19 09:05:08] (DEBUG) => application/google/pickles/facebook.pickle
+[2023-09-19 09:05:08] (DEBUG) => application/naver/pickles/base.pickle
+[2023-09-19 09:05:08] (DEBUG) => application/naver/pickles/web.pickle
+[2023-09-19 09:05:08] (DEBUG) => application/naver/pickles/blog.pickle
+[2023-09-19 09:05:08] (DEBUG) => application/naver/pickles/news.pickle
+[2023-09-19 09:05:08] (DEBUG) => application/naver/pickles/cafe.pickle
+[2023-09-19 09:05:08] (DEBUG) => application/naver/pickles/kin.pickle
+[2023-09-19 09:05:08] (DEBUG) => application/naver/pickles/academic.pickle
+[2023-09-19 09:05:08] (DEBUG) => application/daum/pickles/base.pickle
+[2023-09-19 09:05:08] (DEBUG) => application/daum/pickles/web.pickle
+[2023-09-19 09:05:08] (DEBUG) => application/daum/pickles/news.pickle
+[2023-09-19 09:05:08] (DEBUG) => application/daum/pickles/blog.pickle
+[2023-09-19 09:05:08] (DEBUG) => application/daum/pickles/cafe.pickle
+[2023-09-19 09:05:08] (DEBUG) => application/baidu/pickles/base.pickle
+[2023-09-19 09:05:08] (DEBUG) => application/baidu/pickles/web.pickle
+[2023-09-19 09:05:08] (DEBUG) => application/baidu/pickles/news.pickle
+[2023-09-19 09:05:08] (DEBUG) => application/baidu/pickles/academic.pickle
+[2023-09-19 09:05:08] (DEBUG) => application/googlecn/pickles/base.pickle
+[2023-09-19 09:05:08] (DEBUG) => application/googlecn/pickles/web.pickle
+[2023-09-19 09:05:08] (DEBUG) => application/googlecn/pickles/academic.pickle
+[2023-09-19 09:05:09] (DEBUG) => Manager로부터 받은 echo 메시지: 50152
+[2023-09-19 09:05:09] (DEBUG) => Started Assistant Server From 10.0.0.12:50152
+[2023-09-19 09:17:39] (DEBUG) => Worker-[1000]가 task-[1260484]의 'web'(을)를 시작합니다. (Thread: 1566775)
+[2023-09-19 09:17:39] (DEBUG) => Worker-[1000]가 task-[1260484]의 'web'(을)를 처리중입니다.
+[2023-09-19 09:17:39] (DEBUG) => 수집정보 => 채널: naver, 유형: web, 키워드: 소년체육대회, 기간: 2022-06-10 ~ 2022-06-09, 테이블: scraw_naver_datainfo

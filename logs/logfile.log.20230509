@@ -1,0 +1,345 @@
+[2023-05-09 05:03:11] (DEBUG) => ConnectionError((<urllib3.connection.HTTPConnection object at 0x7f1bba3d9c40>, 'Connection to 221.157.125.36 timed out. (connect timeout=30)')) caused by: ConnectTimeoutError((<urllib3.connection.HTTPConnection object at 0x7f1bba3d9c40>, 'Connection to 221.157.125.36 timed out. (connect timeout=30)'))
+[2023-05-09 08:53:25] (DEBUG) => earthling/handler/dao/pickles/google.pickle
+[2023-05-09 08:53:25] (DEBUG) => earthling/handler/dao/pickles/googlecn.pickle
+[2023-05-09 08:53:25] (DEBUG) => earthling/handler/dao/pickles/naver.pickle
+[2023-05-09 08:53:25] (DEBUG) => earthling/handler/dao/pickles/daum.pickle
+[2023-05-09 08:53:25] (DEBUG) => earthling/handler/dao/pickles/baidu.pickle
+[2023-05-09 08:53:25] (DEBUG) => application/google/pickles/base.pickle
+[2023-05-09 08:53:25] (DEBUG) => application/google/pickles/web.pickle
+[2023-05-09 08:53:25] (DEBUG) => application/google/pickles/news.pickle
+[2023-05-09 08:53:25] (DEBUG) => application/google/pickles/facebook.pickle
+[2023-05-09 08:53:25] (DEBUG) => application/naver/pickles/base.pickle
+[2023-05-09 08:53:25] (DEBUG) => application/naver/pickles/web.pickle
+[2023-05-09 08:53:25] (DEBUG) => application/naver/pickles/blog.pickle
+[2023-05-09 08:53:25] (DEBUG) => application/naver/pickles/news.pickle
+[2023-05-09 08:53:25] (DEBUG) => application/naver/pickles/cafe.pickle
+[2023-05-09 08:53:25] (DEBUG) => application/naver/pickles/kin.pickle
+[2023-05-09 08:53:25] (DEBUG) => application/naver/pickles/academic.pickle
+[2023-05-09 08:53:25] (DEBUG) => application/daum/pickles/base.pickle
+[2023-05-09 08:53:25] (DEBUG) => application/daum/pickles/web.pickle
+[2023-05-09 08:53:25] (DEBUG) => application/daum/pickles/news.pickle
+[2023-05-09 08:53:25] (DEBUG) => application/daum/pickles/blog.pickle
+[2023-05-09 08:53:25] (DEBUG) => application/daum/pickles/cafe.pickle
+[2023-05-09 08:53:25] (DEBUG) => application/baidu/pickles/base.pickle
+[2023-05-09 08:53:25] (DEBUG) => application/baidu/pickles/web.pickle
+[2023-05-09 08:53:25] (DEBUG) => application/baidu/pickles/news.pickle
+[2023-05-09 08:53:25] (DEBUG) => application/baidu/pickles/academic.pickle
+[2023-05-09 08:53:25] (DEBUG) => application/googlecn/pickles/base.pickle
+[2023-05-09 08:53:25] (DEBUG) => application/googlecn/pickles/web.pickle
+[2023-05-09 08:53:25] (DEBUG) => application/googlecn/pickles/academic.pickle
+[2023-05-09 08:53:26] (DEBUG) => Manager로부터 받은 echo 메시지: 50152
+[2023-05-09 08:53:26] (DEBUG) => Started Assistant Server From 10.0.0.12:50152
+[2023-05-09 08:54:13] (DEBUG) => earthling/handler/dao/pickles/google.pickle
+[2023-05-09 08:54:13] (DEBUG) => earthling/handler/dao/pickles/googlecn.pickle
+[2023-05-09 08:54:13] (DEBUG) => earthling/handler/dao/pickles/naver.pickle
+[2023-05-09 08:54:13] (DEBUG) => earthling/handler/dao/pickles/daum.pickle
+[2023-05-09 08:54:13] (DEBUG) => earthling/handler/dao/pickles/baidu.pickle
+[2023-05-09 08:54:13] (DEBUG) => application/google/pickles/base.pickle
+[2023-05-09 08:54:13] (DEBUG) => application/google/pickles/web.pickle
+[2023-05-09 08:54:13] (DEBUG) => application/google/pickles/news.pickle
+[2023-05-09 08:54:13] (DEBUG) => application/google/pickles/facebook.pickle
+[2023-05-09 08:54:13] (DEBUG) => application/naver/pickles/base.pickle
+[2023-05-09 08:54:13] (DEBUG) => application/naver/pickles/web.pickle
+[2023-05-09 08:54:13] (DEBUG) => application/naver/pickles/blog.pickle
+[2023-05-09 08:54:13] (DEBUG) => application/naver/pickles/news.pickle
+[2023-05-09 08:54:13] (DEBUG) => application/naver/pickles/cafe.pickle
+[2023-05-09 08:54:13] (DEBUG) => application/naver/pickles/kin.pickle
+[2023-05-09 08:54:13] (DEBUG) => application/naver/pickles/academic.pickle
+[2023-05-09 08:54:13] (DEBUG) => application/daum/pickles/base.pickle
+[2023-05-09 08:54:13] (DEBUG) => application/daum/pickles/web.pickle
+[2023-05-09 08:54:13] (DEBUG) => application/daum/pickles/news.pickle
+[2023-05-09 08:54:13] (DEBUG) => application/daum/pickles/blog.pickle
+[2023-05-09 08:54:13] (DEBUG) => application/daum/pickles/cafe.pickle
+[2023-05-09 08:54:13] (DEBUG) => application/baidu/pickles/base.pickle
+[2023-05-09 08:54:13] (DEBUG) => application/baidu/pickles/web.pickle
+[2023-05-09 08:54:13] (DEBUG) => application/baidu/pickles/news.pickle
+[2023-05-09 08:54:13] (DEBUG) => application/baidu/pickles/academic.pickle
+[2023-05-09 08:54:13] (DEBUG) => application/googlecn/pickles/base.pickle
+[2023-05-09 08:54:13] (DEBUG) => application/googlecn/pickles/web.pickle
+[2023-05-09 08:54:13] (DEBUG) => application/googlecn/pickles/academic.pickle
+[2023-05-09 08:54:13] (DEBUG) => Manager로부터 받은 echo 메시지: 50152
+[2023-05-09 08:54:13] (DEBUG) => Started Assistant Server From 10.0.0.12:50152
+[2023-05-09 08:54:39] (DEBUG) => earthling/handler/dao/pickles/google.pickle
+[2023-05-09 08:54:39] (DEBUG) => earthling/handler/dao/pickles/googlecn.pickle
+[2023-05-09 08:54:39] (DEBUG) => earthling/handler/dao/pickles/naver.pickle
+[2023-05-09 08:54:39] (DEBUG) => earthling/handler/dao/pickles/daum.pickle
+[2023-05-09 08:54:39] (DEBUG) => earthling/handler/dao/pickles/baidu.pickle
+[2023-05-09 08:54:39] (DEBUG) => application/google/pickles/base.pickle
+[2023-05-09 08:54:39] (DEBUG) => application/google/pickles/web.pickle
+[2023-05-09 08:54:39] (DEBUG) => application/google/pickles/news.pickle
+[2023-05-09 08:54:39] (DEBUG) => application/google/pickles/facebook.pickle
+[2023-05-09 08:54:39] (DEBUG) => application/naver/pickles/base.pickle
+[2023-05-09 08:54:39] (DEBUG) => application/naver/pickles/web.pickle
+[2023-05-09 08:54:39] (DEBUG) => application/naver/pickles/blog.pickle
+[2023-05-09 08:54:39] (DEBUG) => application/naver/pickles/news.pickle
+[2023-05-09 08:54:39] (DEBUG) => application/naver/pickles/cafe.pickle
+[2023-05-09 08:54:39] (DEBUG) => application/naver/pickles/kin.pickle
+[2023-05-09 08:54:39] (DEBUG) => application/naver/pickles/academic.pickle
+[2023-05-09 08:54:39] (DEBUG) => application/daum/pickles/base.pickle
+[2023-05-09 08:54:39] (DEBUG) => application/daum/pickles/web.pickle
+[2023-05-09 08:54:39] (DEBUG) => application/daum/pickles/news.pickle
+[2023-05-09 08:54:39] (DEBUG) => application/daum/pickles/blog.pickle
+[2023-05-09 08:54:39] (DEBUG) => application/daum/pickles/cafe.pickle
+[2023-05-09 08:54:39] (DEBUG) => application/baidu/pickles/base.pickle
+[2023-05-09 08:54:39] (DEBUG) => application/baidu/pickles/web.pickle
+[2023-05-09 08:54:39] (DEBUG) => application/baidu/pickles/news.pickle
+[2023-05-09 08:54:39] (DEBUG) => application/baidu/pickles/academic.pickle
+[2023-05-09 08:54:39] (DEBUG) => application/googlecn/pickles/base.pickle
+[2023-05-09 08:54:39] (DEBUG) => application/googlecn/pickles/web.pickle
+[2023-05-09 08:54:39] (DEBUG) => application/googlecn/pickles/academic.pickle
+[2023-05-09 08:54:39] (DEBUG) => Manager로부터 받은 echo 메시지: 50152
+[2023-05-09 08:54:39] (DEBUG) => Started Assistant Server From 10.0.0.12:50152
+[2023-05-09 08:55:19] (DEBUG) => earthling/handler/dao/pickles/google.pickle
+[2023-05-09 08:55:19] (DEBUG) => earthling/handler/dao/pickles/googlecn.pickle
+[2023-05-09 08:55:19] (DEBUG) => earthling/handler/dao/pickles/naver.pickle
+[2023-05-09 08:55:19] (DEBUG) => earthling/handler/dao/pickles/daum.pickle
+[2023-05-09 08:55:19] (DEBUG) => earthling/handler/dao/pickles/baidu.pickle
+[2023-05-09 08:55:19] (DEBUG) => application/google/pickles/base.pickle
+[2023-05-09 08:55:19] (DEBUG) => application/google/pickles/web.pickle
+[2023-05-09 08:55:19] (DEBUG) => application/google/pickles/news.pickle
+[2023-05-09 08:55:19] (DEBUG) => application/google/pickles/facebook.pickle
+[2023-05-09 08:55:19] (DEBUG) => application/naver/pickles/base.pickle
+[2023-05-09 08:55:19] (DEBUG) => application/naver/pickles/web.pickle
+[2023-05-09 08:55:19] (DEBUG) => application/naver/pickles/blog.pickle
+[2023-05-09 08:55:19] (DEBUG) => application/naver/pickles/news.pickle
+[2023-05-09 08:55:19] (DEBUG) => application/naver/pickles/cafe.pickle
+[2023-05-09 08:55:19] (DEBUG) => application/naver/pickles/kin.pickle
+[2023-05-09 08:55:19] (DEBUG) => application/naver/pickles/academic.pickle
+[2023-05-09 08:55:19] (DEBUG) => application/daum/pickles/base.pickle
+[2023-05-09 08:55:19] (DEBUG) => application/daum/pickles/web.pickle
+[2023-05-09 08:55:19] (DEBUG) => application/daum/pickles/news.pickle
+[2023-05-09 08:55:19] (DEBUG) => application/daum/pickles/blog.pickle
+[2023-05-09 08:55:19] (DEBUG) => application/daum/pickles/cafe.pickle
+[2023-05-09 08:55:19] (DEBUG) => application/baidu/pickles/base.pickle
+[2023-05-09 08:55:19] (DEBUG) => application/baidu/pickles/web.pickle
+[2023-05-09 08:55:19] (DEBUG) => application/baidu/pickles/news.pickle
+[2023-05-09 08:55:19] (DEBUG) => application/baidu/pickles/academic.pickle
+[2023-05-09 08:55:19] (DEBUG) => application/googlecn/pickles/base.pickle
+[2023-05-09 08:55:19] (DEBUG) => application/googlecn/pickles/web.pickle
+[2023-05-09 08:55:19] (DEBUG) => application/googlecn/pickles/academic.pickle
+[2023-05-09 08:55:19] (DEBUG) => Manager로부터 받은 echo 메시지: 50152
+[2023-05-09 08:55:19] (DEBUG) => Started Assistant Server From 10.0.0.12:50152
+[2023-05-09 09:20:23] (DEBUG) => Worker-[1000]가 task-[1131683]의 'blog'(을)를 시작합니다. (Thread: 3169348)
+[2023-05-09 09:20:23] (DEBUG) => Worker-[1000]가 task-[1131683]의 'blog'(을)를 처리중입니다.
+[2023-05-09 09:20:23] (DEBUG) => 수집정보 => 채널: naver, 유형: blog, 키워드: 제주 세화, 기간: 2022-01-01 ~ 2022-12-31, 테이블: scraw_naver_datainfo
+[2023-05-09 09:20:39] (DEBUG) => task-[1131683] 수집 중 => 키워드: 제주 세화, 기간: 2022-01-01 ~ 2022-12-31, 카운트: 1
+[2023-05-09 09:20:42] (DEBUG) => task-[1131683] 수집 중 => 키워드: 제주 세화, 기간: 2022-01-01 ~ 2022-12-31, 카운트: 2
+[2023-05-09 09:20:46] (DEBUG) => task-[1131683] 수집 중 => 키워드: 제주 세화, 기간: 2022-01-01 ~ 2022-12-31, 카운트: 3
+[2023-05-09 09:20:49] (DEBUG) => task-[1131683] 수집 중 => 키워드: 제주 세화, 기간: 2022-01-01 ~ 2022-12-31, 카운트: 4
+[2023-05-09 09:20:52] (DEBUG) => task-[1131683] 수집 중 => 키워드: 제주 세화, 기간: 2022-01-01 ~ 2022-12-31, 카운트: 5
+[2023-05-09 09:20:55] (DEBUG) => task-[1131683] 수집 중 => 키워드: 제주 세화, 기간: 2022-01-01 ~ 2022-12-31, 카운트: 6
+[2023-05-09 09:20:58] (DEBUG) => task-[1131683] 수집 중 => 키워드: 제주 세화, 기간: 2022-01-01 ~ 2022-12-31, 카운트: 7
+[2023-05-09 09:21:01] (DEBUG) => task-[1131683] 수집 중 => 키워드: 제주 세화, 기간: 2022-01-01 ~ 2022-12-31, 카운트: 8
+[2023-05-09 09:21:04] (DEBUG) => task-[1131683] 수집 중 => 키워드: 제주 세화, 기간: 2022-01-01 ~ 2022-12-31, 카운트: 9
+[2023-05-09 09:21:07] (DEBUG) => task-[1131683] 수집 중 => 키워드: 제주 세화, 기간: 2022-01-01 ~ 2022-12-31, 카운트: 10
+[2023-05-09 09:21:10] (DEBUG) => task-[1131683] 수집 중 => 키워드: 제주 세화, 기간: 2022-01-01 ~ 2022-12-31, 카운트: 11
+[2023-05-09 09:21:13] (DEBUG) => task-[1131683] 수집 중 => 키워드: 제주 세화, 기간: 2022-01-01 ~ 2022-12-31, 카운트: 12
+[2023-05-09 09:21:16] (DEBUG) => task-[1131683] 수집 중 => 키워드: 제주 세화, 기간: 2022-01-01 ~ 2022-12-31, 카운트: 13
+[2023-05-09 09:21:19] (DEBUG) => task-[1131683] 수집 중 => 키워드: 제주 세화, 기간: 2022-01-01 ~ 2022-12-31, 카운트: 14
+[2023-05-09 09:21:22] (DEBUG) => task-[1131683] 수집 중 => 키워드: 제주 세화, 기간: 2022-01-01 ~ 2022-12-31, 카운트: 15
+[2023-05-09 09:21:25] (DEBUG) => task-[1131683] 수집 중 => 키워드: 제주 세화, 기간: 2022-01-01 ~ 2022-12-31, 카운트: 16
+[2023-05-09 09:21:28] (DEBUG) => task-[1131683] 수집 중 => 키워드: 제주 세화, 기간: 2022-01-01 ~ 2022-12-31, 카운트: 17
+[2023-05-09 09:21:32] (DEBUG) => task-[1131683] 수집 중 => 키워드: 제주 세화, 기간: 2022-01-01 ~ 2022-12-31, 카운트: 18
+[2023-05-09 09:21:35] (DEBUG) => task-[1131683] 수집 중 => 키워드: 제주 세화, 기간: 2022-01-01 ~ 2022-12-31, 카운트: 19
+[2023-05-09 09:21:38] (DEBUG) => task-[1131683] 수집 중 => 키워드: 제주 세화, 기간: 2022-01-01 ~ 2022-12-31, 카운트: 20
+[2023-05-09 09:21:41] (DEBUG) => task-[1131683] 수집 중 => 키워드: 제주 세화, 기간: 2022-01-01 ~ 2022-12-31, 카운트: 21
+[2023-05-09 09:21:47] (DEBUG) => task-[1131683] 수집 중 => 키워드: 제주 세화, 기간: 2022-01-01 ~ 2022-12-31, 카운트: 22
+[2023-05-09 09:21:50] (DEBUG) => task-[1131683] 수집 중 => 키워드: 제주 세화, 기간: 2022-01-01 ~ 2022-12-31, 카운트: 23
+[2023-05-09 09:21:53] (DEBUG) => task-[1131683] 수집 중 => 키워드: 제주 세화, 기간: 2022-01-01 ~ 2022-12-31, 카운트: 24
+[2023-05-09 09:21:57] (DEBUG) => task-[1131683] 수집 중 => 키워드: 제주 세화, 기간: 2022-01-01 ~ 2022-12-31, 카운트: 25
+[2023-05-09 09:22:00] (DEBUG) => task-[1131683] 수집 중 => 키워드: 제주 세화, 기간: 2022-01-01 ~ 2022-12-31, 카운트: 26
+[2023-05-09 09:22:03] (DEBUG) => task-[1131683] 수집 중 => 키워드: 제주 세화, 기간: 2022-01-01 ~ 2022-12-31, 카운트: 27
+[2023-05-09 13:50:52] (DEBUG) => earthling/handler/dao/pickles/google.pickle
+[2023-05-09 13:50:52] (DEBUG) => earthling/handler/dao/pickles/googlecn.pickle
+[2023-05-09 13:50:52] (DEBUG) => earthling/handler/dao/pickles/naver.pickle
+[2023-05-09 13:50:52] (DEBUG) => earthling/handler/dao/pickles/daum.pickle
+[2023-05-09 13:50:52] (DEBUG) => earthling/handler/dao/pickles/baidu.pickle
+[2023-05-09 13:50:52] (DEBUG) => application/google/pickles/base.pickle
+[2023-05-09 13:50:52] (DEBUG) => application/google/pickles/web.pickle
+[2023-05-09 13:50:52] (DEBUG) => application/google/pickles/news.pickle
+[2023-05-09 13:50:52] (DEBUG) => application/google/pickles/facebook.pickle
+[2023-05-09 13:50:52] (DEBUG) => application/naver/pickles/base.pickle
+[2023-05-09 13:50:52] (DEBUG) => application/naver/pickles/web.pickle
+[2023-05-09 13:50:52] (DEBUG) => application/naver/pickles/blog.pickle
+[2023-05-09 13:50:52] (DEBUG) => application/naver/pickles/news.pickle
+[2023-05-09 13:50:52] (DEBUG) => application/naver/pickles/cafe.pickle
+[2023-05-09 13:50:52] (DEBUG) => application/naver/pickles/kin.pickle
+[2023-05-09 13:50:52] (DEBUG) => application/naver/pickles/academic.pickle
+[2023-05-09 13:50:52] (DEBUG) => application/daum/pickles/base.pickle
+[2023-05-09 13:50:52] (DEBUG) => application/daum/pickles/web.pickle
+[2023-05-09 13:50:52] (DEBUG) => application/daum/pickles/news.pickle
+[2023-05-09 13:50:52] (DEBUG) => application/daum/pickles/blog.pickle
+[2023-05-09 13:50:52] (DEBUG) => application/daum/pickles/cafe.pickle
+[2023-05-09 13:50:52] (DEBUG) => application/baidu/pickles/base.pickle
+[2023-05-09 13:50:52] (DEBUG) => application/baidu/pickles/web.pickle
+[2023-05-09 13:50:52] (DEBUG) => application/baidu/pickles/news.pickle
+[2023-05-09 13:50:52] (DEBUG) => application/baidu/pickles/academic.pickle
+[2023-05-09 13:50:52] (DEBUG) => application/googlecn/pickles/base.pickle
+[2023-05-09 13:50:52] (DEBUG) => application/googlecn/pickles/web.pickle
+[2023-05-09 13:50:52] (DEBUG) => application/googlecn/pickles/academic.pickle
+[2023-05-09 13:50:52] (DEBUG) => Manager로부터 받은 echo 메시지: 50152
+[2023-05-09 13:50:52] (DEBUG) => Started Assistant Server From 10.0.0.12:50152
+[2023-05-09 14:52:39] (DEBUG) => Worker-[1000]가 task-[415588]의 'web'(을)를 시작합니다. (Thread: 3173800)
+[2023-05-09 14:52:39] (DEBUG) => Worker-[1000]가 task-[415588]의 'web'(을)를 처리중입니다.
+[2023-05-09 14:52:39] (DEBUG) => 수집정보 => 채널: google, 유형: web, 키워드: 외식 +창업, 기간: 2020-05-03 ~ 2021-05-09, 테이블: scraw_google_datainfo
+[2023-05-09 14:52:42] (DEBUG) => task-[415588] 수집 중 => 키워드: 외식 +창업, 카운트: 1, 내용: [음식점 창업] 음식점 창업을 위해 필요한 3요소와 성
+[2023-05-09 14:52:42] (DEBUG) => task-[415588] 수집 중 => 키워드: 외식 +창업, 카운트: 2, 내용: 대한외식창업아카데미학원	https://daehancoo
+[2023-05-09 14:52:42] (DEBUG) => task-[415588] 수집 중 => 키워드: 외식 +창업, 카운트: 3, 내용: 외식업 분류와 외식 창업의 유형 - 맛스러운 BLOG	
+[2023-05-09 14:52:42] (DEBUG) => task-[415588] 수집 중 => 키워드: 외식 +창업, 카운트: 4, 내용: 상반기 외식업 창업 1순위 메뉴는 '카페' - 식품외식
+[2023-05-09 14:52:42] (DEBUG) => task-[415588] 수집 중 => 키워드: 외식 +창업, 카운트: 5, 내용: 한국외식창업개발원	http://foodrc.or.kr/
+[2023-05-09 14:52:42] (DEBUG) => task-[415588] 수집 중 => 키워드: 외식 +창업, 카운트: 6, 내용: 위치 기반 맞춤형 외식창업 솔루션 '픽쿡' 출시 - 벤
+[2023-05-09 14:52:42] (DEBUG) => task-[415588] 수집 중 => 키워드: 외식 +창업, 카운트: 7, 내용: 외식 창업 가이드 - 예스폼 서식 이슈 > 직장인 상식
+[2023-05-09 14:52:42] (DEBUG) => task-[415588] 수집 중 => 키워드: 외식 +창업, 카운트: 8, 내용: 외식사업창업론 - 예스24	http://www.yes2
+[2023-05-09 14:52:42] (DEBUG) => task-[415588] 수집 중 => 키워드: 외식 +창업, 카운트: 9, 내용: 외식창업인큐베이팅(청년키움식당) - 열고닫기	https
+[2023-05-09 14:52:42] (DEBUG) => Trying... 10 / 100.0.. Wait 20 seconds
+[2023-05-09 14:53:05] (DEBUG) => task-[415588] 수집 중 => 키워드: 외식 +창업, 카운트: 10, 내용: 외식산업 창업 및 경영 - 남서울대학교 | KOCW 공
+[2023-05-09 14:53:05] (DEBUG) => task-[415588] 수집 중 => 키워드: 외식 +창업, 카운트: 11, 내용: 위대한상사, 위치기반 맞춤형 외식창업 솔루션 '픽쿡' 
+[2023-05-09 14:53:05] (DEBUG) => task-[415588] 수집 중 => 키워드: 외식 +창업, 카운트: 12, 내용: [우리동네 소상공인] 청년외식창업공동체 '아울러' - 
+[2023-05-09 14:53:05] (DEBUG) => task-[415588] 수집 중 => 키워드: 외식 +창업, 카운트: 13, 내용: 무료 창업교육 “소자본 외식창업의 성공전략” - 교육리
+[2023-05-09 14:53:05] (DEBUG) => task-[415588] 수집 중 => 키워드: 외식 +창업, 카운트: 14, 내용: [외식창업 TIP] 2021년 외식 트렌드 - 키친인큐
+[2023-05-09 14:53:05] (DEBUG) => task-[415588] 수집 중 => 키워드: 외식 +창업, 카운트: 15, 내용: 이벤트 및 특강 - 한솔외식창업 아카데미	http://
+[2023-05-09 14:53:05] (DEBUG) => task-[415588] 수집 중 => 키워드: 외식 +창업, 카운트: 16, 내용: 장안에서 외식창업 해볼래? - Events - 아이부키
+[2023-05-09 14:53:05] (DEBUG) => task-[415588] 수집 중 => 키워드: 외식 +창업, 카운트: 17, 내용: '인기명', 프랜차이즈 외식 창업 아이템으로 관심 - 
+[2023-05-09 14:53:05] (DEBUG) => Trying... 20 / 100.0.. Wait 20 seconds
+[2023-05-09 14:53:28] (DEBUG) => task-[415588] 수집 중 => 키워드: 외식 +창업, 카운트: 18, 내용: 외식창업컨설팅 - 쉐프코리아	http://www.xn-
+[2023-05-09 14:53:28] (DEBUG) => task-[415588] 수집 중 => 키워드: 외식 +창업, 카운트: 19, 내용: 외식창업 명량핫도그 창업비용 매출분석 - 담다 - 티스
+[2023-05-09 14:53:28] (DEBUG) => task-[415588] 수집 중 => 키워드: 외식 +창업, 카운트: 20, 내용: 국립대학육성사업 지역 특산물을 활용한 외식창업 레시피 
+[2023-05-09 14:53:28] (DEBUG) => task-[415588] 수집 중 => 키워드: 외식 +창업, 카운트: 21, 내용: 외식창업, 불필요한 경쟁을 피한 '털보고된이' - FE
+[2023-05-09 14:53:28] (DEBUG) => task-[415588] 수집 중 => 키워드: 외식 +창업, 카운트: 22, 내용: [카드뉴스] 완주군 청년 외식창업 공동체 '가치식당' 
+[2023-05-09 14:53:28] (DEBUG) => task-[415588] 수집 중 => 키워드: 외식 +창업, 카운트: 23, 내용: 외식&디저트 창업과	https://m.daedong.a
+[2023-05-09 14:53:28] (DEBUG) => task-[415588] 수집 중 => 키워드: 외식 +창업, 카운트: 24, 내용: 공주대, 지역특산물 활용 '외식창업 레시피 공모전' 개
+[2023-05-09 14:53:28] (DEBUG) => task-[415588] 수집 중 => 키워드: 외식 +창업, 카운트: 25, 내용: 남성보다는 여성을 타깃으로 한 시장의 범위가 훨씬 더 
+[2023-05-09 14:53:28] (DEBUG) => task-[415588] 수집 중 => 키워드: 외식 +창업, 카운트: 26, 내용: 코로나 이후 외식창업 대세는 '소자본', '배달', '
+[2023-05-09 14:53:28] (DEBUG) => task-[415588] 수집 중 => 키워드: 외식 +창업, 카운트: 27, 내용: '외식분야 전문가 창업강의' 참여자 모집 | 올마이스 
+[2023-05-09 14:53:28] (DEBUG) => Trying... 30 / 100.0.. Wait 20 seconds
+[2023-05-09 14:53:51] (DEBUG) => task-[415588] 수집 중 => 키워드: 외식 +창업, 카운트: 28, 내용: 위대한상사, 위치 기반 맞춤형 외식창업 솔루션 '픽쿡'
+[2023-05-09 14:53:51] (DEBUG) => task-[415588] 수집 중 => 키워드: 외식 +창업, 카운트: 29, 내용: 대구광역시 청년 외식창업 지원사업 <2020 청년팝업레
+[2023-05-09 14:53:51] (DEBUG) => task-[415588] 수집 중 => 키워드: 외식 +창업, 카운트: 30, 내용: 외식 프랜차이즈 창업아이템 숙달돼지, 차별적인 '습식 
+[2023-05-09 14:53:51] (DEBUG) => task-[415588] 수집 중 => 키워드: 외식 +창업, 카운트: 31, 내용: 아울러 청년외식창업공동체 - 도심에서 느껴보는 감성캠핑
+[2023-05-09 14:53:51] (DEBUG) => task-[415588] 수집 중 => 키워드: 외식 +창업, 카운트: 32, 내용: 춘천시 청년외식창업공간 아울러, '승승장구' - 춘천사
+[2023-05-09 14:53:51] (DEBUG) => task-[415588] 수집 중 => 키워드: 외식 +창업, 카운트: 33, 내용: 엔쿡외식창업조리아카데미	http://m.encook.k
+[2023-05-09 14:53:51] (DEBUG) => task-[415588] 수집 중 => 키워드: 외식 +창업, 카운트: 34, 내용: 인천 연수구 청년외식사업지원센터, 창업점포 모두 위생등
+[2023-05-09 14:53:51] (DEBUG) => task-[415588] 수집 중 => 키워드: 외식 +창업, 카운트: 35, 내용: 외식 창업계획서 - 한정식 전문점 창업 사업계획서	ht
+[2023-05-09 14:53:51] (DEBUG) => task-[415588] 수집 중 => 키워드: 외식 +창업, 카운트: 36, 내용: 100억 자산가가 된 가난한 소년, 라라브레드 강호동의
+[2023-05-09 14:53:51] (DEBUG) => Trying... 40 / 100.0.. Wait 20 seconds
+[2023-05-09 14:54:14] (DEBUG) => task-[415588] 수집 중 => 키워드: 외식 +창업, 카운트: 37, 내용: 명랑시대협동조합 - 명랑핫도그	https://myung
+[2023-05-09 14:54:14] (DEBUG) => task-[415588] 수집 중 => 키워드: 외식 +창업, 카운트: 38, 내용: 요리사소개 1 페이지 | 레시피코리아 외식창업요리	ht
+[2023-05-09 14:54:14] (DEBUG) => task-[415588] 수집 중 => 키워드: 외식 +창업, 카운트: 39, 내용: 학과소개 - 대경대학교 외식창업조리과	https://h
+[2023-05-09 14:54:14] (DEBUG) => task-[415588] 수집 중 => 키워드: 외식 +창업, 카운트: 40, 내용: 서울디지털대학교 외식조리전공 전공소개 | 전공개요	ht
+[2023-05-09 14:54:14] (DEBUG) => task-[415588] 수집 중 => 키워드: 외식 +창업, 카운트: 41, 내용: 취업현황 - [학과] 전주대학교 외식산업학과	https
+[2023-05-09 14:54:14] (DEBUG) => task-[415588] 수집 중 => 키워드: 외식 +창업, 카운트: 42, 내용: 매칭에 정보까지 전달···나누다키친, 외식 창업 서비스
+[2023-05-09 14:54:14] (DEBUG) => task-[415588] 수집 중 => 키워드: 외식 +창업, 카운트: 43, 내용: 외식 창업, 대세는 '공유주방' < 인포메이션 < 소비
+[2023-05-09 14:54:14] (DEBUG) => task-[415588] 수집 중 => 키워드: 외식 +창업, 카운트: 44, 내용: 외식ㆍ카페 창업과정 - 상록호텔조리직업전문학교	http
+[2023-05-09 14:54:14] (DEBUG) => task-[415588] 수집 중 => 키워드: 외식 +창업, 카운트: 45, 내용: 외식 프랜차이즈 창업, 신중하게 접근해야	https:/
+[2023-05-09 14:54:14] (DEBUG) => Trying... 50 / 100.0.. Wait 20 seconds
+[2023-05-09 14:54:36] (DEBUG) => task-[415588] 수집 중 => 키워드: 외식 +창업, 카운트: 46, 내용: 외식창업 브랜드 모던한식당, 적은 비용 부담의 다양한 
+[2023-05-09 14:54:36] (DEBUG) => task-[415588] 수집 중 => 키워드: 외식 +창업, 카운트: 47, 내용: 셰프 에드워드 권이 뜬다ㆍㆍ청년들의 외식 창업지원을 위
+[2023-05-09 14:54:36] (DEBUG) => task-[415588] 수집 중 => 키워드: 외식 +창업, 카운트: 48, 내용: 코로나19 에도 외식 창업의 열풍 등꺼비 식당. - 올
+[2023-05-09 14:54:36] (DEBUG) => task-[415588] 수집 중 => 키워드: 외식 +창업, 카운트: 49, 내용: 푸드트럭 아이콘 창업테마 PPT배경양식 - 레포트샵	h
+[2023-05-09 14:54:36] (DEBUG) => task-[415588] 수집 중 => 키워드: 외식 +창업, 카운트: 50, 내용: 대구가톨릭대학교 외식•조리학과 학과소개	http://a
+[2023-05-09 14:54:36] (DEBUG) => task-[415588] 수집 중 => 키워드: 외식 +창업, 카운트: 51, 내용: “묻지마 창업 NO”...위대한 상사, 상권분석 기반 
+[2023-05-09 14:54:36] (DEBUG) => task-[415588] 수집 중 => 키워드: 외식 +창업, 카운트: 52, 내용: 외식경영학 - 세종대학교 미래교육원	https://ce
+[2023-05-09 14:54:36] (DEBUG) => task-[415588] 수집 중 => 키워드: 외식 +창업, 카운트: 53, 내용: 사업소개 - 청년들의 부엌	http://gb-kitch
+[2023-05-09 14:54:36] (DEBUG) => task-[415588] 수집 중 => 키워드: 외식 +창업, 카운트: 54, 내용: 외식경영과 - 백석문화대학교	https://www.bs
+[2023-05-09 14:54:36] (DEBUG) => task-[415588] 수집 중 => 키워드: 외식 +창업, 카운트: 55, 내용: 호텔항공외식관광학부 > 인문사회계열 > 학과안내	htt
+[2023-05-09 14:54:36] (DEBUG) => Trying... 60 / 100.0.. Wait 20 seconds
+[2023-05-09 14:54:59] (DEBUG) => task-[415588] 수집 중 => 키워드: 외식 +창업, 카운트: 56, 내용: 브랜드몰 소개 | 주식회사 더나음	https://www
+[2023-05-09 14:54:59] (DEBUG) => task-[415588] 수집 중 => 키워드: 외식 +창업, 카운트: 57, 내용: 소식 - 털보고된이	http://xn--299a60l9
+[2023-05-09 14:54:59] (DEBUG) => task-[415588] 수집 중 => 키워드: 외식 +창업, 카운트: 58, 내용: 춘천시, 청년외식창업 공동체공간 '아울러' 오픈 ...
+[2023-05-09 14:54:59] (DEBUG) => task-[415588] 수집 중 => 키워드: 외식 +창업, 카운트: 59, 내용: 카페창업 - 한솔요리학원	http://www.hscoo
+[2023-05-09 14:54:59] (DEBUG) => task-[415588] 수집 중 => 키워드: 외식 +창업, 카운트: 60, 내용: 핀연구소, 대구시 지원 '외식업 청년셰프 컨설팅 지원사
+[2023-05-09 14:54:59] (DEBUG) => task-[415588] 수집 중 => 키워드: 외식 +창업, 카운트: 61, 내용: 예비창업자 - 사)외식프랜차이즈진흥원	http://ff
+[2023-05-09 14:54:59] (DEBUG) => task-[415588] 수집 중 => 키워드: 외식 +창업, 카운트: 62, 내용: 위대한상사 - 공유 - 기업나라	https://nara
+[2023-05-09 14:54:59] (DEBUG) => task-[415588] 수집 중 => 키워드: 외식 +창업, 카운트: 63, 내용: 외식창업 프랜차이즈 '전주소반', 고기한상 스몰한정식 
+[2023-05-09 14:54:59] (DEBUG) => task-[415588] 수집 중 => 키워드: 외식 +창업, 카운트: 64, 내용: 젊은 감각의 CEO 3人, 트렌디 한 외식 창업의 새 
+[2023-05-09 14:54:59] (DEBUG) => task-[415588] 수집 중 => 키워드: 외식 +창업, 카운트: 65, 내용: 대전 동구 대동 '하늘마을 기술학교' 외식창업과정 주민
+[2023-05-09 14:54:59] (DEBUG) => Trying... 70 / 100.0.. Wait 20 seconds
+[2023-05-09 14:55:23] (DEBUG) => task-[415588] 수집 중 => 키워드: 외식 +창업, 카운트: 66, 내용: 외식창업 '보승회관', 가맹점주 만족도 높은 브랜드 주
+[2023-05-09 14:55:23] (DEBUG) => task-[415588] 수집 중 => 키워드: 외식 +창업, 카운트: 67, 내용: '비대면 외식 천하' 주목받는 초소형 창업 - 경향신문
+[2023-05-09 14:55:23] (DEBUG) => task-[415588] 수집 중 => 키워드: 외식 +창업, 카운트: 68, 내용: 제일창업박람회 in 대전 – 외식 창업편	https:/
+[2023-05-09 14:55:23] (DEBUG) => task-[415588] 수집 중 => 키워드: 외식 +창업, 카운트: 69, 내용: 창업할 때 반드시 고려해야 하는 '이것'	https:/
+[2023-05-09 14:55:23] (DEBUG) => task-[415588] 수집 중 => 키워드: 외식 +창업, 카운트: 70, 내용: 들풀 > 회원업체 - 권후진 외식창업연구소	http:/
+[2023-05-09 14:55:23] (DEBUG) => task-[415588] 수집 중 => 키워드: 외식 +창업, 카운트: 71, 내용: 외식업 하기 전에 알았더라면 좋았을 것들>	https:
+[2023-05-09 14:55:23] (DEBUG) => task-[415588] 수집 중 => 키워드: 외식 +창업, 카운트: 72, 내용: 파파도나스	https://papadonas.com/36
+[2023-05-09 14:55:23] (DEBUG) => task-[415588] 수집 중 => 키워드: 외식 +창업, 카운트: 73, 내용: 공주대, 청년키움식당 공주점“힐링”으로 외식창업에 ..
+[2023-05-09 14:55:23] (DEBUG) => task-[415588] 수집 중 => 키워드: 외식 +창업, 카운트: 74, 내용: 청년 외식 창업 인큐베이팅 사업 업무협약 - 일간경북신
+[2023-05-09 14:55:23] (DEBUG) => task-[415588] 수집 중 => 키워드: 외식 +창업, 카운트: 75, 내용: 인테리어 - 낭만치킨	http://www.romanti
+[2023-05-09 14:55:23] (DEBUG) => Trying... 80 / 100.0.. Wait 20 seconds
+[2023-05-09 14:55:46] (DEBUG) => task-[415588] 수집 중 => 키워드: 외식 +창업, 카운트: 76, 내용: 50대 창업 - 도움말 편 - 라이나전성기재단	http
+[2023-05-09 14:55:46] (DEBUG) => task-[415588] 수집 중 => 키워드: 외식 +창업, 카운트: 77, 내용: 주춤한 외식프랜차이즈창업 시장에서도 성장하고 있는 '핵
+[2023-05-09 14:55:46] (DEBUG) => task-[415588] 수집 중 => 키워드: 외식 +창업, 카운트: 78, 내용: 레시피코리아 외식창업요리 - Pinterest	http
+[2023-05-09 14:55:46] (DEBUG) => task-[415588] 수집 중 => 키워드: 외식 +창업, 카운트: 79, 내용: 오늘애김밥 - 창업	https://www.today-g
+[2023-05-09 14:55:46] (DEBUG) => task-[415588] 수집 중 => 키워드: 외식 +창업, 카운트: 80, 내용: 바리스타 - 한솔요리학원	http://www.hscoo
+[2023-05-09 14:55:46] (DEBUG) => task-[415588] 수집 중 => 키워드: 외식 +창업, 카운트: 81, 내용: 교수진 - 호텔관광외식경영학부	https://trave
+[2023-05-09 14:55:46] (DEBUG) => task-[415588] 수집 중 => 키워드: 외식 +창업, 카운트: 82, 내용: "5성급 호텔 취업 목표" "백종원처럼 외식 창업 꿈"
+[2023-05-09 14:55:46] (DEBUG) => task-[415588] 수집 중 => 키워드: 외식 +창업, 카운트: 83, 내용: "2020년도 창업 강좌 만족도 조사" 참여 안내 ..
+[2023-05-09 14:55:46] (DEBUG) => task-[415588] 수집 중 => 키워드: 외식 +창업, 카운트: 84, 내용: 완주청년정책 청년메카완주	https://youth.wa
+[2023-05-09 14:55:46] (DEBUG) => task-[415588] 수집 중 => 키워드: 외식 +창업, 카운트: 85, 내용: 성공적인 돈까스창업을 위한 3가지 전략 - 부엉이돈가스
+[2023-05-09 14:55:46] (DEBUG) => Trying... 90 / 100.0.. Wait 20 seconds
+[2023-05-09 14:56:09] (DEBUG) => task-[415588] 수집 중 => 키워드: 외식 +창업, 카운트: 86, 내용: 공주시, '청년키움식당' 공주점 오픈…창업교육의 장 제
+[2023-05-09 14:56:09] (DEBUG) => task-[415588] 수집 중 => 키워드: 외식 +창업, 카운트: 87, 내용: 코로나 쇼크에도 살아남은 외식업은…지금 창업 괜찮을까 
+[2023-05-09 14:56:09] (DEBUG) => task-[415588] 수집 중 => 키워드: 외식 +창업, 카운트: 88, 내용: 순천효산고등학교 - 전남 특성화고/마이스터고 홍보 포털
+[2023-05-09 14:56:09] (DEBUG) => task-[415588] 수집 중 => 키워드: 외식 +창업, 카운트: 89, 내용: 프랜차이즈 - 다다믄	https://dadamun.co
+[2023-05-09 14:56:09] (DEBUG) => task-[415588] 수집 중 => 키워드: 외식 +창업, 카운트: 90, 내용: 대학생활 - 경희대학교	https://www.khu.a
+[2023-05-09 14:56:09] (DEBUG) => task-[415588] 수집 중 => 키워드: 외식 +창업, 카운트: 91, 내용: 취업분야>학과소개>학과안내 | 호텔외식조리과 - 국제대
+[2023-05-09 14:56:09] (DEBUG) => task-[415588] 수집 중 => 키워드: 외식 +창업, 카운트: 92, 내용: 창업문의 - 신이내린족발과보쌈	http://sinjok
+[2023-05-09 14:56:09] (DEBUG) => task-[415588] 수집 중 => 키워드: 외식 +창업, 카운트: 93, 내용: “청년키움식당 덕분에 창업” - 완주신문	http://
+[2023-05-09 14:56:09] (DEBUG) => task-[415588] 수집 중 => 키워드: 외식 +창업, 카운트: 94, 내용: 모미락 발자취 ＞ 모미락 ＞ 모미락	https://ww
+[2023-05-09 14:56:09] (DEBUG) => task-[415588] 수집 중 => 키워드: 외식 +창업, 카운트: 95, 내용: 외식산업경영론 - 도서출판 새로미	http://www.
+[2023-05-09 14:56:09] (DEBUG) => Trying... 100 / 100.0.. Wait 20 seconds
+[2023-05-09 14:56:32] (DEBUG) => task-[415588] 수집 중 => 키워드: 외식 +창업, 카운트: 96, 내용: "성공창업 발판에 초기 두려움을 싹~"...완주청년키움
+[2023-05-09 14:56:32] (DEBUG) => task-[415588] 수집 중 => 키워드: 외식 +창업, 카운트: 97, 내용: 동아리 | 학생활동 - 대림대학교 호텔조리과	https
+[2023-05-09 14:56:32] (DEBUG) => task-[415588] 수집 중 => 키워드: 외식 +창업, 카운트: 98, 내용: 보건 - 뉴스 | 청도일보	http://www.chdo
+[2023-05-09 14:56:32] (DEBUG) => task-[415588] 수집 중 => 키워드: 외식 +창업, 카운트: 99, 내용: 외식업 폐업 급증에도 음식점 창업 늘었다 - 광주일보	
+[2023-05-09 14:56:32] (DEBUG) => task-[415588] 수집 중 => 키워드: 외식 +창업, 카운트: 100, 내용: 김기웅 대표 “코로나19 이후 위쿡은 더 성장할 것” 
+[2023-05-09 14:56:32] (DEBUG) => task-[415588] 수집 중 => 키워드: 외식 +창업, 카운트: 101, 내용: 호텔외식경영과 > 제주한라대학교 CHEJU HALLA 
+[2023-05-09 14:56:32] (DEBUG) => task-[415588] 수집 중 => 키워드: 외식 +창업, 카운트: 102, 내용: 완주 청년키움식당 덕분에 창업했어요 - 전북투데이	ht
+[2023-05-09 14:56:32] (DEBUG) => task-[415588] 수집 중 => 키워드: 외식 +창업, 카운트: 103, 내용: 창업지원정보 | 청년식탐1기, 그린브로스 샐러드 4/1
+[2023-05-09 14:56:32] (DEBUG) => task-[415588] 수집 중 => 키워드: 외식 +창업, 카운트: 104, 내용: 공지사항 | 커뮤니티 | 박문수천안요리직업기술전문학원	
+[2023-05-09 14:56:32] (DEBUG) => task-[415588] 수집 중 => 키워드: 외식 +창업, 카운트: 105, 내용: 외식창업 프랜차이즈 '뼈큰감자탕', '원팩파우치시스템'
+[2023-05-09 15:08:35] (DEBUG) => ConnectionError((<urllib3.connection.HTTPConnection object at 0x7fcd63628250>, 'Connection to 221.157.125.36 timed out. (connect timeout=30)')) caused by: ConnectTimeoutError((<urllib3.connection.HTTPConnection object at 0x7fcd63628250>, 'Connection to 221.157.125.36 timed out. (connect timeout=30)'))
+[2023-05-09 15:08:35] (DEBUG) => 데이터 수집을 정상적으로 완료하였습니다.
+[2023-05-09 15:08:35] (DEBUG) => Worker-[1000]가 task-[415588]의 'web'(을)를 완료하였습니다.
+[2023-05-09 15:59:28] (DEBUG) => Worker-[1000]가 task-[642934]의 'web'(을)를 시작합니다. (Thread: 3175139)
+[2023-05-09 15:59:28] (DEBUG) => Worker-[1000]가 task-[642934]의 'web'(을)를 처리중입니다.
+[2023-05-09 15:59:28] (DEBUG) => 수집정보 => 채널: daum, 유형: web, 키워드: 스페셜티  +커피, 기간: 2018-09-12 ~ 2018-12-11, 테이블: scraw_daum_datainfo
+[2023-05-09 15:59:28] (DEBUG) => 데이터가 존재하지 않습니다.
+[2023-05-09 15:59:29] (DEBUG) => 데이터 수집을 정상적으로 완료하였습니다.
+[2023-05-09 15:59:29] (DEBUG) => Worker-[1000]가 task-[642934]의 'web'(을)를 완료하였습니다.
+[2023-05-09 15:59:52] (DEBUG) => Worker-[1000]가 task-[1131715]의 'blog'(을)를 시작합니다. (Thread: 3175146)
+[2023-05-09 15:59:52] (DEBUG) => Worker-[1000]가 task-[1131715]의 'blog'(을)를 처리중입니다.
+[2023-05-09 15:59:52] (DEBUG) => 수집정보 => 채널: naver, 유형: blog, 키워드: 스페셜티  +커피, 기간: 2018-06-12 ~ 2018-09-11, 테이블: scraw_naver_datainfo
+[2023-05-09 16:00:01] (DEBUG) => task-[1131715] 수집 중 => 키워드: 스페셜티  +커피, 기간: 2018-06-12 ~ 2018-09-11, 카운트: 1
+[2023-05-09 16:00:04] (DEBUG) => task-[1131715] 수집 중 => 키워드: 스페셜티  +커피, 기간: 2018-06-12 ~ 2018-09-11, 카운트: 2
+[2023-05-09 16:00:07] (DEBUG) => task-[1131715] 수집 중 => 키워드: 스페셜티  +커피, 기간: 2018-06-12 ~ 2018-09-11, 카운트: 3
+[2023-05-09 16:00:10] (DEBUG) => task-[1131715] 수집 중 => 키워드: 스페셜티  +커피, 기간: 2018-06-12 ~ 2018-09-11, 카운트: 4
+[2023-05-09 16:00:13] (DEBUG) => task-[1131715] 수집 중 => 키워드: 스페셜티  +커피, 기간: 2018-06-12 ~ 2018-09-11, 카운트: 5
+[2023-05-09 16:00:16] (DEBUG) => task-[1131715] 수집 중 => 키워드: 스페셜티  +커피, 기간: 2018-06-12 ~ 2018-09-11, 카운트: 6
+[2023-05-09 16:00:19] (DEBUG) => task-[1131715] 수집 중 => 키워드: 스페셜티  +커피, 기간: 2018-06-12 ~ 2018-09-11, 카운트: 7
+[2023-05-09 16:00:22] (DEBUG) => task-[1131715] 수집 중 => 키워드: 스페셜티  +커피, 기간: 2018-06-12 ~ 2018-09-11, 카운트: 8
+[2023-05-09 16:00:25] (DEBUG) => task-[1131715] 수집 중 => 키워드: 스페셜티  +커피, 기간: 2018-06-12 ~ 2018-09-11, 카운트: 9
+[2023-05-09 16:00:28] (DEBUG) => task-[1131715] 수집 중 => 키워드: 스페셜티  +커피, 기간: 2018-06-12 ~ 2018-09-11, 카운트: 10
+[2023-05-09 16:00:33] (DEBUG) => task-[1131715] 수집 중 => 키워드: 스페셜티  +커피, 기간: 2018-06-12 ~ 2018-09-11, 카운트: 11
+[2023-05-09 16:00:37] (DEBUG) => task-[1131715] 수집 중 => 키워드: 스페셜티  +커피, 기간: 2018-06-12 ~ 2018-09-11, 카운트: 12
+[2023-05-09 16:00:40] (DEBUG) => task-[1131715] 수집 중 => 키워드: 스페셜티  +커피, 기간: 2018-06-12 ~ 2018-09-11, 카운트: 13
+[2023-05-09 16:00:43] (DEBUG) => task-[1131715] 수집 중 => 키워드: 스페셜티  +커피, 기간: 2018-06-12 ~ 2018-09-11, 카운트: 14
+[2023-05-09 16:00:46] (DEBUG) => task-[1131715] 수집 중 => 키워드: 스페셜티  +커피, 기간: 2018-06-12 ~ 2018-09-11, 카운트: 15
+[2023-05-09 16:00:49] (DEBUG) => task-[1131715] 수집 중 => 키워드: 스페셜티  +커피, 기간: 2018-06-12 ~ 2018-09-11, 카운트: 16
+[2023-05-09 16:00:52] (DEBUG) => task-[1131715] 수집 중 => 키워드: 스페셜티  +커피, 기간: 2018-06-12 ~ 2018-09-11, 카운트: 17
+[2023-05-09 16:00:55] (DEBUG) => task-[1131715] 수집 중 => 키워드: 스페셜티  +커피, 기간: 2018-06-12 ~ 2018-09-11, 카운트: 18
+[2023-05-09 16:00:58] (DEBUG) => task-[1131715] 수집 중 => 키워드: 스페셜티  +커피, 기간: 2018-06-12 ~ 2018-09-11, 카운트: 19
+[2023-05-09 16:01:01] (DEBUG) => task-[1131715] 수집 중 => 키워드: 스페셜티  +커피, 기간: 2018-06-12 ~ 2018-09-11, 카운트: 20
+[2023-05-09 16:01:04] (DEBUG) => task-[1131715] 수집 중 => 키워드: 스페셜티  +커피, 기간: 2018-06-12 ~ 2018-09-11, 카운트: 21
+[2023-05-09 16:01:07] (DEBUG) => task-[1131715] 수집 중 => 키워드: 스페셜티  +커피, 기간: 2018-06-12 ~ 2018-09-11, 카운트: 22
+[2023-05-09 16:01:10] (DEBUG) => task-[1131715] 수집 중 => 키워드: 스페셜티  +커피, 기간: 2018-06-12 ~ 2018-09-11, 카운트: 23
+[2023-05-09 16:01:13] (DEBUG) => task-[1131715] 수집 중 => 키워드: 스페셜티  +커피, 기간: 2018-06-12 ~ 2018-09-11, 카운트: 24
+[2023-05-09 16:01:17] (DEBUG) => task-[1131715] 수집 중 => 키워드: 스페셜티  +커피, 기간: 2018-06-12 ~ 2018-09-11, 카운트: 25
+[2023-05-09 16:01:20] (DEBUG) => task-[1131715] 수집 중 => 키워드: 스페셜티  +커피, 기간: 2018-06-12 ~ 2018-09-11, 카운트: 26
+[2023-05-09 16:01:23] (DEBUG) => task-[1131715] 수집 중 => 키워드: 스페셜티  +커피, 기간: 2018-06-12 ~ 2018-09-11, 카운트: 27
+[2023-05-09 16:01:26] (DEBUG) => task-[1131715] 수집 중 => 키워드: 스페셜티  +커피, 기간: 2018-06-12 ~ 2018-09-11, 카운트: 28
+[2023-05-09 16:01:29] (DEBUG) => task-[1131715] 수집 중 => 키워드: 스페셜티  +커피, 기간: 2018-06-12 ~ 2018-09-11, 카운트: 29
+[2023-05-09 16:01:32] (DEBUG) => task-[1131715] 수집 중 => 키워드: 스페셜티  +커피, 기간: 2018-06-12 ~ 2018-09-11, 카운트: 30
+[2023-05-09 16:01:35] (DEBUG) => task-[1131715] 수집 중 => 키워드: 스페셜티  +커피, 기간: 2018-06-12 ~ 2018-09-11, 카운트: 31
+[2023-05-09 16:01:38] (DEBUG) => task-[1131715] 수집 중 => 키워드: 스페셜티  +커피, 기간: 2018-06-12 ~ 2018-09-11, 카운트: 32
+[2023-05-09 16:01:42] (DEBUG) => task-[1131715] 수집 중 => 키워드: 스페셜티  +커피, 기간: 2018-06-12 ~ 2018-09-11, 카운트: 33
+[2023-05-09 16:01:45] (DEBUG) => task-[1131715] 수집 중 => 키워드: 스페셜티  +커피, 기간: 2018-06-12 ~ 2018-09-11, 카운트: 34

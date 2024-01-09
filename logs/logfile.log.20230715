@@ -1,0 +1,1251 @@
+[2023-07-15 12:19:39] (DEBUG) => earthling/handler/dao/pickles/google.pickle
+[2023-07-15 12:19:39] (DEBUG) => earthling/handler/dao/pickles/googlecn.pickle
+[2023-07-15 12:19:39] (DEBUG) => earthling/handler/dao/pickles/naver.pickle
+[2023-07-15 12:19:39] (DEBUG) => earthling/handler/dao/pickles/daum.pickle
+[2023-07-15 12:19:39] (DEBUG) => earthling/handler/dao/pickles/baidu.pickle
+[2023-07-15 12:19:39] (DEBUG) => application/google/pickles/base.pickle
+[2023-07-15 12:19:39] (DEBUG) => application/google/pickles/web.pickle
+[2023-07-15 12:19:39] (DEBUG) => application/google/pickles/news.pickle
+[2023-07-15 12:19:39] (DEBUG) => application/google/pickles/facebook.pickle
+[2023-07-15 12:19:39] (DEBUG) => application/naver/pickles/base.pickle
+[2023-07-15 12:19:39] (DEBUG) => application/naver/pickles/web.pickle
+[2023-07-15 12:19:39] (DEBUG) => application/naver/pickles/blog.pickle
+[2023-07-15 12:19:39] (DEBUG) => application/naver/pickles/news.pickle
+[2023-07-15 12:19:39] (DEBUG) => application/naver/pickles/cafe.pickle
+[2023-07-15 12:19:39] (DEBUG) => application/naver/pickles/kin.pickle
+[2023-07-15 12:19:39] (DEBUG) => application/naver/pickles/academic.pickle
+[2023-07-15 12:19:39] (DEBUG) => application/daum/pickles/base.pickle
+[2023-07-15 12:19:40] (DEBUG) => application/daum/pickles/web.pickle
+[2023-07-15 12:19:40] (DEBUG) => application/daum/pickles/news.pickle
+[2023-07-15 12:19:40] (DEBUG) => application/daum/pickles/blog.pickle
+[2023-07-15 12:19:40] (DEBUG) => application/daum/pickles/cafe.pickle
+[2023-07-15 12:19:40] (DEBUG) => application/baidu/pickles/base.pickle
+[2023-07-15 12:19:40] (DEBUG) => application/baidu/pickles/web.pickle
+[2023-07-15 12:19:40] (DEBUG) => application/baidu/pickles/news.pickle
+[2023-07-15 12:19:40] (DEBUG) => application/baidu/pickles/academic.pickle
+[2023-07-15 12:19:40] (DEBUG) => application/googlecn/pickles/base.pickle
+[2023-07-15 12:19:40] (DEBUG) => application/googlecn/pickles/web.pickle
+[2023-07-15 12:19:40] (DEBUG) => application/googlecn/pickles/academic.pickle
+[2023-07-15 12:19:40] (DEBUG) => Manager로부터 받은 echo 메시지: 50152
+[2023-07-15 12:19:40] (DEBUG) => Started Assistant Server From 10.0.0.12:50152
+[2023-07-15 12:21:10] (DEBUG) => Worker-[1000]가 task-[429726]의 'news'(을)를 시작합니다. (Thread: 181794)
+[2023-07-15 12:21:10] (DEBUG) => Worker-[1000]가 task-[429726]의 'news'(을)를 처리중입니다.
+[2023-07-15 12:21:10] (DEBUG) => 수집정보 => 채널: google, 유형: news, 키워드: IRA  +전기차, 기간: 2022-12-11 ~ 2023-01-10, 테이블: scraw_google_datainfo
+[2023-07-15 12:21:13] (DEBUG) => task-[429726] 수집 중 => 키워드: IRA  +전기차, 카운트: 1, 내용: 	https://m.khan.co.kr/article/
+[2023-07-15 12:21:13] (DEBUG) => task-[429726] 수집 중 => 키워드: IRA  +전기차, 카운트: 2, 내용: 	http://www.autoherald.co.kr/n
+[2023-07-15 12:21:13] (DEBUG) => task-[429726] 수집 중 => 키워드: IRA  +전기차, 카운트: 3, 내용: 	https://www.newspim.com/news/
+[2023-07-15 12:21:13] (DEBUG) => task-[429726] 수집 중 => 키워드: IRA  +전기차, 카운트: 4, 내용: 	https://www.donga.com/news/In
+[2023-07-15 12:21:13] (DEBUG) => task-[429726] 수집 중 => 키워드: IRA  +전기차, 카운트: 5, 내용: 	https://www.hankyung.com/econ
+[2023-07-15 12:21:13] (DEBUG) => task-[429726] 수집 중 => 키워드: IRA  +전기차, 카운트: 6, 내용: 	https://m.khan.co.kr/article/
+[2023-07-15 12:21:13] (DEBUG) => task-[429726] 수집 중 => 키워드: IRA  +전기차, 카운트: 7, 내용: 	https://www.electimes.com/new
+[2023-07-15 12:21:13] (DEBUG) => task-[429726] 수집 중 => 키워드: IRA  +전기차, 카운트: 8, 내용: 	https://www.newspim.com/news/
+[2023-07-15 12:21:13] (DEBUG) => task-[429726] 수집 중 => 키워드: IRA  +전기차, 카운트: 9, 내용: 	https://www.hani.co.kr/arti/e
+[2023-07-15 12:21:13] (DEBUG) => task-[429726] 수집 중 => 키워드: IRA  +전기차, 카운트: 10, 내용: 	https://www.hani.co.kr/arti/e
+[2023-07-15 12:21:13] (DEBUG) => task-[429726] 수집 중 => 키워드: IRA  +전기차, 카운트: 11, 내용: 	https://news.mt.co.kr/mtview.
+[2023-07-15 12:21:13] (DEBUG) => task-[429726] 수집 중 => 키워드: IRA  +전기차, 카운트: 12, 내용: 	https://m.khan.co.kr/article/
+[2023-07-15 12:21:13] (DEBUG) => task-[429726] 수집 중 => 키워드: IRA  +전기차, 카운트: 13, 내용: 	https://www.newspim.com/news/
+[2023-07-15 12:21:13] (DEBUG) => task-[429726] 수집 중 => 키워드: IRA  +전기차, 카운트: 14, 내용: 	https://www.nocutnews.co.kr/n
+[2023-07-15 12:21:13] (DEBUG) => task-[429726] 수집 중 => 키워드: IRA  +전기차, 카운트: 15, 내용: 	https://www.sedaily.com/NewsV
+[2023-07-15 12:21:13] (DEBUG) => task-[429726] 수집 중 => 키워드: IRA  +전기차, 카운트: 16, 내용: 	http://news.bizwatch.co.kr/ar
+[2023-07-15 12:21:13] (DEBUG) => task-[429726] 수집 중 => 키워드: IRA  +전기차, 카운트: 17, 내용: 	https://news.mt.co.kr/mtview.
+[2023-07-15 12:21:13] (DEBUG) => task-[429726] 수집 중 => 키워드: IRA  +전기차, 카운트: 18, 내용: 	https://biz.chosun.com/stock/
+[2023-07-15 12:21:13] (DEBUG) => task-[429726] 수집 중 => 키워드: IRA  +전기차, 카운트: 19, 내용: 	https://www.thescoop.co.kr/ne
+[2023-07-15 12:21:13] (DEBUG) => task-[429726] 수집 중 => 키워드: IRA  +전기차, 카운트: 20, 내용: 	https://m.ceoscoredaily.com/p
+[2023-07-15 12:21:13] (DEBUG) => task-[429726] 수집 중 => 키워드: IRA  +전기차, 카운트: 21, 내용: 	https://www.sedaily.com/NewsV
+[2023-07-15 12:21:13] (DEBUG) => task-[429726] 수집 중 => 키워드: IRA  +전기차, 카운트: 22, 내용: 	https://news.mt.co.kr/mtview.
+[2023-07-15 12:21:13] (DEBUG) => task-[429726] 수집 중 => 키워드: IRA  +전기차, 카운트: 23, 내용: 	https://www.epnc.co.kr/news/a
+[2023-07-15 12:21:13] (DEBUG) => task-[429726] 수집 중 => 키워드: IRA  +전기차, 카운트: 24, 내용: 	https://news.mt.co.kr/mtview.
+[2023-07-15 12:21:13] (DEBUG) => task-[429726] 수집 중 => 키워드: IRA  +전기차, 카운트: 25, 내용: 	http://www.dailyimpact.co.kr/
+[2023-07-15 12:21:13] (DEBUG) => task-[429726] 수집 중 => 키워드: IRA  +전기차, 카운트: 26, 내용: 	https://biz.chosun.com/stock/
+[2023-07-15 12:21:13] (DEBUG) => task-[429726] 수집 중 => 키워드: IRA  +전기차, 카운트: 27, 내용: 	https://www.voakorea.com/a/69
+[2023-07-15 12:21:13] (DEBUG) => task-[429726] 수집 중 => 키워드: IRA  +전기차, 카운트: 28, 내용: 	https://www.infostockdaily.co
+[2023-07-15 12:21:13] (DEBUG) => task-[429726] 수집 중 => 키워드: IRA  +전기차, 카운트: 29, 내용: 	https://www.chosun.com/econom
+[2023-07-15 12:21:13] (DEBUG) => task-[429726] 수집 중 => 키워드: IRA  +전기차, 카운트: 30, 내용: 	https://www.infostockdaily.co
+[2023-07-15 12:21:13] (DEBUG) => task-[429726] 수집 중 => 키워드: IRA  +전기차, 카운트: 31, 내용: 	http://www.dailyimpact.co.kr/
+[2023-07-15 12:21:13] (DEBUG) => task-[429726] 수집 중 => 키워드: IRA  +전기차, 카운트: 32, 내용: 	https://www.newspim.com/news/
+[2023-07-15 12:21:13] (DEBUG) => task-[429726] 수집 중 => 키워드: IRA  +전기차, 카운트: 33, 내용: 	https://www.digitaltoday.co.k
+[2023-07-15 12:21:13] (DEBUG) => task-[429726] 수집 중 => 키워드: IRA  +전기차, 카운트: 34, 내용: 	https://www.opinionnews.co.kr
+[2023-07-15 12:21:13] (DEBUG) => task-[429726] 수집 중 => 키워드: IRA  +전기차, 카운트: 35, 내용: 	http://www.greenpostkorea.co.
+[2023-07-15 12:21:13] (DEBUG) => task-[429726] 수집 중 => 키워드: IRA  +전기차, 카운트: 36, 내용: 	https://news.mt.co.kr/mtview.
+[2023-07-15 12:21:13] (DEBUG) => task-[429726] 수집 중 => 키워드: IRA  +전기차, 카운트: 37, 내용: 	https://www.ytn.co.kr/_ln/010
+[2023-07-15 12:21:13] (DEBUG) => task-[429726] 수집 중 => 키워드: IRA  +전기차, 카운트: 38, 내용: 	https://zdnet.co.kr/view/?no=
+[2023-07-15 12:21:13] (DEBUG) => task-[429726] 수집 중 => 키워드: IRA  +전기차, 카운트: 39, 내용: 	https://m.ceoscoredaily.com/p
+[2023-07-15 12:21:13] (DEBUG) => task-[429726] 수집 중 => 키워드: IRA  +전기차, 카운트: 40, 내용: 	https://www.etnews.com/202212
+[2023-07-15 12:21:13] (DEBUG) => task-[429726] 수집 중 => 키워드: IRA  +전기차, 카운트: 41, 내용: 	https://m.ekn.kr/view.php?key
+[2023-07-15 12:21:13] (DEBUG) => task-[429726] 수집 중 => 키워드: IRA  +전기차, 카운트: 42, 내용: 	https://news.mt.co.kr/mtview.
+[2023-07-15 12:21:13] (DEBUG) => task-[429726] 수집 중 => 키워드: IRA  +전기차, 카운트: 43, 내용: 	https://news.mt.co.kr/mtview.
+[2023-07-15 12:21:13] (DEBUG) => task-[429726] 수집 중 => 키워드: IRA  +전기차, 카운트: 44, 내용: 	https://www.fnnews.com/news/2
+[2023-07-15 12:21:13] (DEBUG) => task-[429726] 수집 중 => 키워드: IRA  +전기차, 카운트: 45, 내용: 	https://www.hankyung.com/econ
+[2023-07-15 12:21:13] (DEBUG) => task-[429726] 수집 중 => 키워드: IRA  +전기차, 카운트: 46, 내용: 	https://m.fntimes.com/html/vi
+[2023-07-15 12:21:13] (DEBUG) => task-[429726] 수집 중 => 키워드: IRA  +전기차, 카운트: 47, 내용: 	https://www.newspim.com/news/
+[2023-07-15 12:21:13] (DEBUG) => task-[429726] 수집 중 => 키워드: IRA  +전기차, 카운트: 48, 내용: 	https://zdnet.co.kr/view/?no=
+[2023-07-15 12:21:13] (DEBUG) => task-[429726] 수집 중 => 키워드: IRA  +전기차, 카운트: 49, 내용: 	https://m.dnews.co.kr/m_home/
+[2023-07-15 12:21:13] (DEBUG) => task-[429726] 수집 중 => 키워드: IRA  +전기차, 카운트: 50, 내용: 	https://zdnet.co.kr/view/?no=
+[2023-07-15 12:21:13] (DEBUG) => task-[429726] 수집 중 => 키워드: IRA  +전기차, 카운트: 51, 내용: 	http://www.sisaon.co.kr/news/
+[2023-07-15 12:21:13] (DEBUG) => task-[429726] 수집 중 => 키워드: IRA  +전기차, 카운트: 52, 내용: 	https://www.theguru.co.kr/mob
+[2023-07-15 12:21:13] (DEBUG) => task-[429726] 수집 중 => 키워드: IRA  +전기차, 카운트: 53, 내용: 	http://www.autoherald.co.kr/n
+[2023-07-15 12:21:13] (DEBUG) => task-[429726] 수집 중 => 키워드: IRA  +전기차, 카운트: 54, 내용: 	http://www.autoherald.co.kr/n
+[2023-07-15 12:21:13] (DEBUG) => task-[429726] 수집 중 => 키워드: IRA  +전기차, 카운트: 55, 내용: 	https://www.kipost.net/news/a
+[2023-07-15 12:21:13] (DEBUG) => task-[429726] 수집 중 => 키워드: IRA  +전기차, 카운트: 56, 내용: 	https://www.businesspost.co.k
+[2023-07-15 12:21:13] (DEBUG) => task-[429726] 수집 중 => 키워드: IRA  +전기차, 카운트: 57, 내용: 	https://www.sedaily.com/NewsV
+[2023-07-15 12:21:13] (DEBUG) => task-[429726] 수집 중 => 키워드: IRA  +전기차, 카운트: 58, 내용: 	https://m.kmib.co.kr/view.asp
+[2023-07-15 12:21:13] (DEBUG) => task-[429726] 수집 중 => 키워드: IRA  +전기차, 카운트: 59, 내용: 	https://m.ceoscoredaily.com/p
+[2023-07-15 12:21:13] (DEBUG) => task-[429726] 수집 중 => 키워드: IRA  +전기차, 카운트: 60, 내용: 	https://theguru.co.kr/mobile/
+[2023-07-15 12:21:13] (DEBUG) => task-[429726] 수집 중 => 키워드: IRA  +전기차, 카운트: 61, 내용: 	https://m.ceoscoredaily.com/p
+[2023-07-15 12:21:13] (DEBUG) => task-[429726] 수집 중 => 키워드: IRA  +전기차, 카운트: 62, 내용: 	https://www.donga.com/news/Ec
+[2023-07-15 12:21:13] (DEBUG) => task-[429726] 수집 중 => 키워드: IRA  +전기차, 카운트: 63, 내용: 	https://www.mk.co.kr/news/bus
+[2023-07-15 12:21:13] (DEBUG) => task-[429726] 수집 중 => 키워드: IRA  +전기차, 카운트: 64, 내용: 	https://kr.investing.com/news
+[2023-07-15 12:21:13] (DEBUG) => task-[429726] 수집 중 => 키워드: IRA  +전기차, 카운트: 65, 내용: 	https://www.infostockdaily.co
+[2023-07-15 12:21:13] (DEBUG) => task-[429726] 수집 중 => 키워드: IRA  +전기차, 카운트: 66, 내용: 	https://www.donga.com/news/Ec
+[2023-07-15 12:21:13] (DEBUG) => task-[429726] 수집 중 => 키워드: IRA  +전기차, 카운트: 67, 내용: 	https://www.infostockdaily.co
+[2023-07-15 12:21:13] (DEBUG) => task-[429726] 수집 중 => 키워드: IRA  +전기차, 카운트: 68, 내용: 	https://www.hankyung.com/econ
+[2023-07-15 12:21:13] (DEBUG) => task-[429726] 수집 중 => 키워드: IRA  +전기차, 카운트: 69, 내용: 	https://www.industrynews.co.k
+[2023-07-15 12:21:13] (DEBUG) => task-[429726] 수집 중 => 키워드: IRA  +전기차, 카운트: 70, 내용: 	https://www.newsway.co.kr/new
+[2023-07-15 12:21:13] (DEBUG) => task-[429726] 수집 중 => 키워드: IRA  +전기차, 카운트: 71, 내용: 	https://www.yna.co.kr/view/AK
+[2023-07-15 12:21:13] (DEBUG) => task-[429726] 수집 중 => 키워드: IRA  +전기차, 카운트: 72, 내용: 	https://www.newspim.com/news/
+[2023-07-15 12:21:13] (DEBUG) => task-[429726] 수집 중 => 키워드: IRA  +전기차, 카운트: 73, 내용: 	https://www.infostockdaily.co
+[2023-07-15 12:21:13] (DEBUG) => task-[429726] 수집 중 => 키워드: IRA  +전기차, 카운트: 74, 내용: 	https://www.hani.co.kr/arti/e
+[2023-07-15 12:21:13] (DEBUG) => task-[429726] 수집 중 => 키워드: IRA  +전기차, 카운트: 75, 내용: 	https://www.digitaltoday.co.k
+[2023-07-15 12:21:13] (DEBUG) => task-[429726] 수집 중 => 키워드: IRA  +전기차, 카운트: 76, 내용: 	https://www.voakorea.com/a/69
+[2023-07-15 12:21:13] (DEBUG) => task-[429726] 수집 중 => 키워드: IRA  +전기차, 카운트: 77, 내용: 	https://www.businesspost.co.k
+[2023-07-15 12:21:13] (DEBUG) => task-[429726] 수집 중 => 키워드: IRA  +전기차, 카운트: 78, 내용: 	https://www.electimes.com/new
+[2023-07-15 12:21:13] (DEBUG) => task-[429726] 수집 중 => 키워드: IRA  +전기차, 카운트: 79, 내용: 	https://dream.kotra.or.kr/use
+[2023-07-15 12:21:13] (DEBUG) => task-[429726] 수집 중 => 키워드: IRA  +전기차, 카운트: 80, 내용: 	https://news.mt.co.kr/mtview.
+[2023-07-15 12:21:13] (DEBUG) => task-[429726] 수집 중 => 키워드: IRA  +전기차, 카운트: 81, 내용: 	https://www.businesspost.co.k
+[2023-07-15 12:21:13] (DEBUG) => task-[429726] 수집 중 => 키워드: IRA  +전기차, 카운트: 82, 내용: 	https://www.newspim.com/news/
+[2023-07-15 12:21:13] (DEBUG) => task-[429726] 수집 중 => 키워드: IRA  +전기차, 카운트: 83, 내용: 	https://www.electimes.com/new
+[2023-07-15 12:21:13] (DEBUG) => task-[429726] 수집 중 => 키워드: IRA  +전기차, 카운트: 84, 내용: 	https://www.businesspost.co.k
+[2023-07-15 12:21:13] (DEBUG) => task-[429726] 수집 중 => 키워드: IRA  +전기차, 카운트: 85, 내용: 	https://www.digitaltoday.co.k
+[2023-07-15 12:21:13] (DEBUG) => task-[429726] 수집 중 => 키워드: IRA  +전기차, 카운트: 86, 내용: 	https://zdnet.co.kr/view/?no=
+[2023-07-15 12:21:13] (DEBUG) => task-[429726] 수집 중 => 키워드: IRA  +전기차, 카운트: 87, 내용: 	https://zdnet.co.kr/view/?no=
+[2023-07-15 12:21:13] (DEBUG) => task-[429726] 수집 중 => 키워드: IRA  +전기차, 카운트: 88, 내용: 	http://m.newsprime.co.kr/sect
+[2023-07-15 12:21:13] (DEBUG) => task-[429726] 수집 중 => 키워드: IRA  +전기차, 카운트: 89, 내용: 	https://www.hankyung.com/econ
+[2023-07-15 12:21:13] (DEBUG) => task-[429726] 수집 중 => 키워드: IRA  +전기차, 카운트: 90, 내용: 	https://www.ekoreanews.co.kr/
+[2023-07-15 12:21:13] (DEBUG) => task-[429726] 수집 중 => 키워드: IRA  +전기차, 카운트: 91, 내용: 	http://www.dailyimpact.co.kr/
+[2023-07-15 12:21:13] (DEBUG) => task-[429726] 수집 중 => 키워드: IRA  +전기차, 카운트: 92, 내용: 	http://m.ddaily.co.kr/page/vi
+[2023-07-15 12:21:13] (DEBUG) => task-[429726] 수집 중 => 키워드: IRA  +전기차, 카운트: 93, 내용: 	https://m.hankookilbo.com/New
+[2023-07-15 12:21:13] (DEBUG) => task-[429726] 수집 중 => 키워드: IRA  +전기차, 카운트: 94, 내용: 	http://www.infostockdaily.co.
+[2023-07-15 12:21:13] (DEBUG) => task-[429726] 수집 중 => 키워드: IRA  +전기차, 카운트: 95, 내용: 	http://www.autoherald.co.kr/n
+[2023-07-15 12:21:13] (DEBUG) => task-[429726] 수집 중 => 키워드: IRA  +전기차, 카운트: 96, 내용: 	https://www.yna.co.kr/view/AK
+[2023-07-15 12:21:13] (DEBUG) => task-[429726] 수집 중 => 키워드: IRA  +전기차, 카운트: 97, 내용: 	https://www.mk.co.kr/news/cul
+[2023-07-15 12:21:13] (DEBUG) => task-[429726] 수집 중 => 키워드: IRA  +전기차, 카운트: 98, 내용: 	https://www.wikileaks-kr.org/
+[2023-07-15 12:21:13] (DEBUG) => task-[429726] 수집 중 => 키워드: IRA  +전기차, 카운트: 99, 내용: 	http://www.dailyimpact.co.kr/
+[2023-07-15 12:21:13] (DEBUG) => task-[429726] 수집 중 => 키워드: IRA  +전기차, 카운트: 100, 내용: 	http://news.heraldcorp.com/vi
+[2023-07-15 12:21:13] (DEBUG) => Trying... 100 / 100.. Wait 50 seconds
+[2023-07-15 12:24:06] (DEBUG) => ConnectionError((<urllib3.connection.HTTPConnection object at 0x7f20a876fe50>, 'Connection to 221.157.125.36 timed out. (connect timeout=30)')) caused by: ConnectTimeoutError((<urllib3.connection.HTTPConnection object at 0x7f20a876fe50>, 'Connection to 221.157.125.36 timed out. (connect timeout=30)'))
+[2023-07-15 12:24:06] (DEBUG) => 데이터 수집을 정상적으로 완료하였습니다.
+[2023-07-15 12:24:06] (DEBUG) => Worker-[1000]가 task-[429726]의 'news'(을)를 완료하였습니다.
+[2023-07-15 12:24:10] (DEBUG) => Worker-[1000]가 task-[429709]의 'news'(을)를 시작합니다. (Thread: 181823)
+[2023-07-15 12:24:10] (DEBUG) => Worker-[1000]가 task-[429709]의 'news'(을)를 처리중입니다.
+[2023-07-15 12:24:10] (DEBUG) => 수집정보 => 채널: google, 유형: news, 키워드: "숏폼" -코인 -마스터 -보험 -셀러비, 기간: 2023-04-06 ~ 2023-04-06, 테이블: scraw_google_datainfo
+[2023-07-15 12:24:13] (DEBUG) => task-[429709] 수집 중 => 키워드: "숏폼" -코인 -마스터 -보험 -셀러비, 카운트: 1, 내용: 	https://biz.sbs.co.kr/article
+[2023-07-15 12:24:13] (DEBUG) => task-[429709] 수집 중 => 키워드: "숏폼" -코인 -마스터 -보험 -셀러비, 카운트: 2, 내용: 	https://biz.sbs.co.kr/article
+[2023-07-15 12:24:13] (DEBUG) => task-[429709] 수집 중 => 키워드: "숏폼" -코인 -마스터 -보험 -셀러비, 카운트: 3, 내용: 	https://biz.sbs.co.kr/article
+[2023-07-15 12:24:13] (DEBUG) => task-[429709] 수집 중 => 키워드: "숏폼" -코인 -마스터 -보험 -셀러비, 카운트: 4, 내용: 	https://biz.sbs.co.kr/article
+[2023-07-15 12:24:13] (DEBUG) => task-[429709] 수집 중 => 키워드: "숏폼" -코인 -마스터 -보험 -셀러비, 카운트: 5, 내용: 	https://biz.sbs.co.kr/article
+[2023-07-15 12:24:13] (DEBUG) => task-[429709] 수집 중 => 키워드: "숏폼" -코인 -마스터 -보험 -셀러비, 카운트: 6, 내용: 	https://biz.sbs.co.kr/article
+[2023-07-15 12:24:13] (DEBUG) => task-[429709] 수집 중 => 키워드: "숏폼" -코인 -마스터 -보험 -셀러비, 카운트: 7, 내용: 	https://news.koreadaily.com/2
+[2023-07-15 12:24:13] (DEBUG) => task-[429709] 수집 중 => 키워드: "숏폼" -코인 -마스터 -보험 -셀러비, 카운트: 8, 내용: 	https://www.kbmaeil.com/news/
+[2023-07-15 12:24:13] (DEBUG) => task-[429709] 수집 중 => 키워드: "숏폼" -코인 -마스터 -보험 -셀러비, 카운트: 9, 내용: 	https://biz.sbs.co.kr/article
+[2023-07-15 12:24:13] (DEBUG) => task-[429709] 수집 중 => 키워드: "숏폼" -코인 -마스터 -보험 -셀러비, 카운트: 10, 내용: 	https://www.jjan.kr/article/2
+[2023-07-15 12:24:13] (DEBUG) => task-[429709] 수집 중 => 키워드: "숏폼" -코인 -마스터 -보험 -셀러비, 카운트: 11, 내용: 	https://m.khan.co.kr/article/
+[2023-07-15 12:26:13] (DEBUG) => ConnectionError((<urllib3.connection.HTTPConnection object at 0x7f20a88cb9d0>, 'Connection to 221.157.125.36 timed out. (connect timeout=30)')) caused by: ConnectTimeoutError((<urllib3.connection.HTTPConnection object at 0x7f20a88cb9d0>, 'Connection to 221.157.125.36 timed out. (connect timeout=30)'))
+[2023-07-15 12:26:13] (DEBUG) => 데이터 수집을 정상적으로 완료하였습니다.
+[2023-07-15 12:26:13] (DEBUG) => Worker-[1000]가 task-[429709]의 'news'(을)를 완료하였습니다.
+[2023-07-15 12:27:34] (DEBUG) => Worker-[1000]가 task-[646623]의 'web'(을)를 시작합니다. (Thread: 181867)
+[2023-07-15 12:27:34] (DEBUG) => Worker-[1000]가 task-[646623]의 'web'(을)를 처리중입니다.
+[2023-07-15 12:27:34] (DEBUG) => 수집정보 => 채널: daum, 유형: web, 키워드: 건강기능식품, 기간: 2022-07-15 ~ 2023-07-15, 테이블: scraw_daum_datainfo
+[2023-07-15 12:27:35] (DEBUG) => task-[646623] 수집 중 => 키워드: 건강기능식품, 카운트: 1, 내용: 핫딜월드 - 카카오스토리	http://story.kak
+[2023-07-15 12:27:35] (DEBUG) => task-[646623] 수집 중 => 키워드: 건강기능식품, 카운트: 2, 내용: 정훈(승범창범)~ - 카카오스토리	http://stor
+[2023-07-15 12:27:35] (DEBUG) => task-[646623] 수집 중 => 키워드: 건강기능식품, 카운트: 3, 내용: 요즘 <b>건강</b><b>기능식품</b> 인식안좋은데
+[2023-07-15 12:27:35] (DEBUG) => task-[646623] 수집 중 => 키워드: 건강기능식품, 카운트: 4, 내용: 종근당<b>건강</b> 어린이홍삼 20ml x 30개입
+[2023-07-15 12:27:35] (DEBUG) => task-[646623] 수집 중 => 키워드: 건강기능식품, 카운트: 5, 내용: 종근당<b>건강</b> 활력 비타민B 플러스 800mg
+[2023-07-15 12:27:35] (DEBUG) => task-[646623] 수집 중 => 키워드: 건강기능식품, 카운트: 6, 내용: 어바틀 루테인 영양제(시력 황반변성 녹내장 눈 에좋은음
+[2023-07-15 12:27:35] (DEBUG) => task-[646623] 수집 중 => 키워드: 건강기능식품, 카운트: 7, 내용: 비에날씬 비에날 퀸 유산균 효능 후기 추천 bnr17 
+[2023-07-15 12:27:35] (DEBUG) => task-[646623] 수집 중 => 키워드: 건강기능식품, 카운트: 8, 내용: JW중외제약 <b>건강</b><b>기능식품</b> 한알
+[2023-07-15 12:27:35] (DEBUG) => task-[646623] 수집 중 => 키워드: 건강기능식품, 카운트: 9, 내용: 우리복떡집	https://bigcheese.kr/nam
+[2023-07-15 12:27:35] (DEBUG) => task-[646623] 수집 중 => 키워드: 건강기능식품, 카운트: 10, 내용: 코스트코 초콜릿 허쉬 미니 너겟 쿠키앤크림 트윅스 엠엔
+[2023-07-15 12:27:35] (DEBUG) => task-[646623] 수집 중 => 키워드: 건강기능식품, 카운트: 11, 내용: 유산균 효능과 제품 고르는 중요한 팁	https://i
+[2023-07-15 12:27:35] (DEBUG) => task-[646623] 수집 중 => 키워드: 건강기능식품, 카운트: 12, 내용: 양재역 도시락 - 인기순위 추천 순위닷	http://s
+[2023-07-15 12:27:35] (DEBUG) => task-[646623] 수집 중 => 키워드: 건강기능식품, 카운트: 13, 내용: 류필립 "♥미나, 관리에 병적으로 집착..성격 장애 생
+[2023-07-15 12:27:35] (DEBUG) => task-[646623] 수집 중 => 키워드: 건강기능식품, 카운트: 14, 내용: 발포로빼 캐시닥 7월14일	https://luckyqu
+[2023-07-15 12:27:35] (DEBUG) => task-[646623] 수집 중 => 키워드: 건강기능식품, 카운트: 15, 내용: "제로콜라 하루 55캔까지 안전"…'발암가능물질' 아스
+[2023-07-15 12:27:43] (DEBUG) => task-[646623] 수집 중 => 키워드: 건강기능식품, 카운트: 16, 내용: 핫딜월드 - 카카오스토리	http://story.kak
+[2023-07-15 12:27:43] (DEBUG) => task-[646623] 수집 중 => 키워드: 건강기능식품, 카운트: 17, 내용: 정훈(승범창범)~ - 카카오스토리	http://stor
+[2023-07-15 12:27:43] (DEBUG) => task-[646623] 수집 중 => 키워드: 건강기능식품, 카운트: 18, 내용: 요즘 <b>건강</b><b>기능식품</b> 인식안좋은데
+[2023-07-15 12:27:43] (DEBUG) => task-[646623] 수집 중 => 키워드: 건강기능식품, 카운트: 19, 내용: 종근당<b>건강</b> 어린이홍삼 20ml x 30개입
+[2023-07-15 12:27:43] (DEBUG) => task-[646623] 수집 중 => 키워드: 건강기능식품, 카운트: 20, 내용: 종근당<b>건강</b> 활력 비타민B 플러스 800mg
+[2023-07-15 12:27:43] (DEBUG) => task-[646623] 수집 중 => 키워드: 건강기능식품, 카운트: 21, 내용: 어바틀 루테인 영양제(시력 황반변성 녹내장 눈 에좋은음
+[2023-07-15 12:27:43] (DEBUG) => task-[646623] 수집 중 => 키워드: 건강기능식품, 카운트: 22, 내용: 비에날씬 비에날 퀸 유산균 효능 후기 추천 bnr17 
+[2023-07-15 12:27:43] (DEBUG) => task-[646623] 수집 중 => 키워드: 건강기능식품, 카운트: 23, 내용: JW중외제약 <b>건강</b><b>기능식품</b> 한알
+[2023-07-15 12:27:43] (DEBUG) => task-[646623] 수집 중 => 키워드: 건강기능식품, 카운트: 24, 내용: 우리복떡집	https://bigcheese.kr/nam
+[2023-07-15 12:27:43] (DEBUG) => task-[646623] 수집 중 => 키워드: 건강기능식품, 카운트: 25, 내용: 코스트코 초콜릿 허쉬 미니 너겟 쿠키앤크림 트윅스 엠엔
+[2023-07-15 12:27:43] (DEBUG) => task-[646623] 수집 중 => 키워드: 건강기능식품, 카운트: 26, 내용: 유산균 효능과 제품 고르는 중요한 팁	https://i
+[2023-07-15 12:27:43] (DEBUG) => task-[646623] 수집 중 => 키워드: 건강기능식품, 카운트: 27, 내용: 양재역 도시락 - 인기순위 추천 순위닷	http://s
+[2023-07-15 12:27:43] (DEBUG) => task-[646623] 수집 중 => 키워드: 건강기능식품, 카운트: 28, 내용: 류필립 "♥미나, 관리에 병적으로 집착..성격 장애 생
+[2023-07-15 12:27:43] (DEBUG) => task-[646623] 수집 중 => 키워드: 건강기능식품, 카운트: 29, 내용: 발포로빼 캐시닥 7월14일	https://luckyqu
+[2023-07-15 12:27:43] (DEBUG) => task-[646623] 수집 중 => 키워드: 건강기능식품, 카운트: 30, 내용: "제로콜라 하루 55캔까지 안전"…'발암가능물질' 아스
+[2023-07-15 12:27:51] (DEBUG) => task-[646623] 수집 중 => 키워드: 건강기능식품, 카운트: 31, 내용: 휴온스푸디언스, 계명대 MOU 체결	http://www
+[2023-07-15 12:27:51] (DEBUG) => task-[646623] 수집 중 => 키워드: 건강기능식품, 카운트: 32, 내용: 한국, 올해 국제수학올림피아드서 국가종합 3위 차지	h
+[2023-07-15 12:27:51] (DEBUG) => task-[646623] 수집 중 => 키워드: 건강기능식품, 카운트: 33, 내용: 중기부, 저소득·저신용 자영업자 대상 ‘햇살론’ 특례운
+[2023-07-15 12:27:51] (DEBUG) => task-[646623] 수집 중 => 키워드: 건강기능식품, 카운트: 34, 내용: [SEN]엔케이맥스, 늘어나는 공매도에도 주가 '방긋'
+[2023-07-15 12:27:51] (DEBUG) => task-[646623] 수집 중 => 키워드: 건강기능식품, 카운트: 35, 내용: 임신 준비중인데요~ 친구가 메틸 엽산이 임신 준비중일 
+[2023-07-15 12:27:51] (DEBUG) => task-[646623] 수집 중 => 키워드: 건강기능식품, 카운트: 36, 내용: 식약처, <b>건강</b><b>기능식품</b> 부작용 
+[2023-07-15 12:27:51] (DEBUG) => task-[646623] 수집 중 => 키워드: 건강기능식품, 카운트: 37, 내용: IAM_(<b>건강</b><b>기능식품</b>) - 나
+[2023-07-15 12:27:51] (DEBUG) => task-[646623] 수집 중 => 키워드: 건강기능식품, 카운트: 38, 내용: 대전참여연대 "획일적인 성장판 검사 지원 조례가 아닌 
+[2023-07-15 12:27:51] (DEBUG) => task-[646623] 수집 중 => 키워드: 건강기능식품, 카운트: 39, 내용: 슈퍼 잔티젠 효능 원 캡슐 다이어트 성분 부작용	htt
+[2023-07-15 12:27:51] (DEBUG) => task-[646623] 수집 중 => 키워드: 건강기능식품, 카운트: 40, 내용: 중기부, 저소득·저신용 자영업자 대상 ‘햇살론’ 특례운
+[2023-07-15 12:27:51] (DEBUG) => task-[646623] 수집 중 => 키워드: 건강기능식품, 카운트: 41, 내용: 자동차번호 과태료 조회 미리하고 안전운전 하세요	htt
+[2023-07-15 12:27:51] (DEBUG) => task-[646623] 수집 중 => 키워드: 건강기능식품, 카운트: 42, 내용: 전통시장 서민경제살리기 운동본부, 목포서 장보기 행사	
+[2023-07-15 12:27:51] (DEBUG) => task-[646623] 수집 중 => 키워드: 건강기능식품, 카운트: 43, 내용: 3대 허가 민원 ‘친절하고 빠르게’ 원스톱 처리	htt
+[2023-07-15 12:27:51] (DEBUG) => task-[646623] 수집 중 => 키워드: 건강기능식품, 카운트: 44, 내용: 별빛 쏟아지는 ‘1004섬 신안군’, 별 관측 체험의 
+[2023-07-15 12:27:51] (DEBUG) => task-[646623] 수집 중 => 키워드: 건강기능식품, 카운트: 45, 내용: [정치] 방심위, 김용 사무실 압수수색 비판한 '김어준
+[2023-07-15 12:28:00] (DEBUG) => task-[646623] 수집 중 => 키워드: 건강기능식품, 카운트: 46, 내용: [블로터] 신동원 농심 회장 "2030년까지 美 매출 
+[2023-07-15 12:28:00] (DEBUG) => task-[646623] 수집 중 => 키워드: 건강기능식품, 카운트: 47, 내용: 신동원 농심 회장 "2030년 미국 1위" 천명	htt
+[2023-07-15 12:28:00] (DEBUG) => task-[646623] 수집 중 => 키워드: 건강기능식품, 카운트: 48, 내용: “휴가 갔다왔으니 이번엔 여름방학 갑니다” 학교도 아닌
+[2023-07-15 12:28:00] (DEBUG) => task-[646623] 수집 중 => 키워드: 건강기능식품, 카운트: 49, 내용: 성수기 피한 ‘얼리 휴가족’휴가 후유증도 피하려면?	h
+[2023-07-15 12:28:00] (DEBUG) => task-[646623] 수집 중 => 키워드: 건강기능식품, 카운트: 50, 내용: 국회 인청특위, 권영준 대법관 후보자 인청…고액 로펌 
+[2023-07-15 12:28:00] (DEBUG) => task-[646623] 수집 중 => 키워드: 건강기능식품, 카운트: 51, 내용: 미궁 대장사랑 부작용 효능 가격 먹는 법 총정리	htt
+[2023-07-15 12:28:00] (DEBUG) => task-[646623] 수집 중 => 키워드: 건강기능식품, 카운트: 52, 내용: 미애부인재원지점	https://voiceofyouth.
+[2023-07-15 12:28:00] (DEBUG) => task-[646623] 수집 중 => 키워드: 건강기능식품, 카운트: 53, 내용: 정성무역 (온라인 종합몰) 업체의 통신판매 정보 : 위
+[2023-07-15 12:28:00] (DEBUG) => task-[646623] 수집 중 => 키워드: 건강기능식품, 카운트: 54, 내용: 제천시 - 단체장 - News8	http://news8
+[2023-07-15 12:28:00] (DEBUG) => task-[646623] 수집 중 => 키워드: 건강기능식품, 카운트: 55, 내용: 다이어트하면서 보조약챙겨먹는거 있어?	https://t
+[2023-07-15 12:28:00] (DEBUG) => task-[646623] 수집 중 => 키워드: 건강기능식품, 카운트: 56, 내용: 연골 치료제, 약도 알고 먹어야 좋다.	https://
+[2023-07-15 12:28:00] (DEBUG) => task-[646623] 수집 중 => 키워드: 건강기능식품, 카운트: 57, 내용: 관절 영양제 드시는거 있나요? : 클리앙	https:/
+[2023-07-15 12:28:00] (DEBUG) => task-[646623] 수집 중 => 키워드: 건강기능식품, 카운트: 58, 내용: 청양군, 집중호우기 농경지 농작물 철저 관리 당부	ht
+[2023-07-15 12:28:00] (DEBUG) => task-[646623] 수집 중 => 키워드: 건강기능식품, 카운트: 59, 내용: 호주 시장개척 수출상담 참여하세요	https://www
+[2023-07-15 12:28:00] (DEBUG) => task-[646623] 수집 중 => 키워드: 건강기능식품, 카운트: 60, 내용: 산소청정지역! 청송군에도 대학과 기업이 들어간다!!	h
+[2023-07-15 12:28:08] (DEBUG) => task-[646623] 수집 중 => 키워드: 건강기능식품, 카운트: 61, 내용: FC서울, 국내 1등 제약사 ‘유한양행’과 파트너십 체
+[2023-07-15 12:28:08] (DEBUG) => task-[646623] 수집 중 => 키워드: 건강기능식품, 카운트: 62, 내용: hy 한국야쿠르트 충청지점, 세종시 어려운 이웃을 위한
+[2023-07-15 12:28:08] (DEBUG) => task-[646623] 수집 중 => 키워드: 건강기능식품, 카운트: 63, 내용: 일동제약, ‘마이니 딥슬립 이뮨’ 등 신제품 경품 행사
+[2023-07-15 12:28:08] (DEBUG) => task-[646623] 수집 중 => 키워드: 건강기능식품, 카운트: 64, 내용: 나이 들수록 침침… 루테인-지아잔틴으로 눈 집중 관리하
+[2023-07-15 12:28:08] (DEBUG) => task-[646623] 수집 중 => 키워드: 건강기능식품, 카운트: 65, 내용: 순한 차전차피 성분으로 대장을 시원하게	https://
+[2023-07-15 12:28:08] (DEBUG) => task-[646623] 수집 중 => 키워드: 건강기능식품, 카운트: 66, 내용: <b>건강</b><b>기능식품</b> 선물 살 때는 '
+[2023-07-15 12:28:08] (DEBUG) => task-[646623] 수집 중 => 키워드: 건강기능식품, 카운트: 67, 내용: 행복해서 웃는 게 아니라	https://www.cmin
+[2023-07-15 12:28:08] (DEBUG) => task-[646623] 수집 중 => 키워드: 건강기능식품, 카운트: 68, 내용: 피토틱스 바나바리프 효능, 성분, 함량, 먹는법, 부작
+[2023-07-15 12:28:08] (DEBUG) => task-[646623] 수집 중 => 키워드: 건강기능식품, 카운트: 69, 내용: 우리엔터프라이즈 주식 투자자를 위한 2023년 7월 주
+[2023-07-15 12:28:08] (DEBUG) => task-[646623] 수집 중 => 키워드: 건강기능식품, 카운트: 70, 내용: 아연 하루 50mg 먹어도 괜찮을까? 효능, 권장량과 
+[2023-07-15 12:28:08] (DEBUG) => task-[646623] 수집 중 => 키워드: 건강기능식품, 카운트: 71, 내용: 초록잎홍합 관절영양제 리뷰 고헬씨초록잎홍합	https:
+[2023-07-15 12:28:08] (DEBUG) => task-[646623] 수집 중 => 키워드: 건강기능식품, 카운트: 72, 내용: 2022년 01월	https://chaehui.kr/2
+[2023-07-15 12:28:08] (DEBUG) => task-[646623] 수집 중 => 키워드: 건강기능식품, 카운트: 73, 내용: <b>식품</b>음료신문	http://www.think
+[2023-07-15 12:28:08] (DEBUG) => task-[646623] 수집 중 => 키워드: 건강기능식품, 카운트: 74, 내용: [PREVIEW] 에버콜라겐-더시에나 퀸즈크라운 202
+[2023-07-15 12:28:08] (DEBUG) => task-[646623] 수집 중 => 키워드: 건강기능식품, 카운트: 75, 내용: 조세일보	http://www.joseilbo.com/n
+[2023-07-15 12:28:16] (DEBUG) => task-[646623] 수집 중 => 키워드: 건강기능식품, 카운트: 76, 내용: OATC, 킥더허들과 <b>건강</b><b>기능식품</
+[2023-07-15 12:28:16] (DEBUG) => task-[646623] 수집 중 => 키워드: 건강기능식품, 카운트: 77, 내용: 당뇨병 환자와 홍삼과 인삼의 관계	https://ilo
+[2023-07-15 12:28:16] (DEBUG) => task-[646623] 수집 중 => 키워드: 건강기능식품, 카운트: 78, 내용: 도봉구, 다시 찾은 이팔청춘! 동성제약과 함께 어르신 
+[2023-07-15 12:28:16] (DEBUG) => task-[646623] 수집 중 => 키워드: 건강기능식품, 카운트: 79, 내용: (주)한국<b>건강</b><b>기능식품</b>공공사업단
+[2023-07-15 12:28:16] (DEBUG) => task-[646623] 수집 중 => 키워드: 건강기능식품, 카운트: 80, 내용: 연세생활<b>건강</b>, 건기식 ‘위편한세상’ 출시	
+[2023-07-15 12:28:16] (DEBUG) => task-[646623] 수집 중 => 키워드: 건강기능식품, 카운트: 81, 내용: 뼈<b>건강</b> 혈관<b>건강</b> 영양소 비타민
+[2023-07-15 12:28:16] (DEBUG) => task-[646623] 수집 중 => 키워드: 건강기능식품, 카운트: 82, 내용: 창업아이템&gt; 업종별 창업아이템&gt; 교육/서비스
+[2023-07-15 12:28:16] (DEBUG) => task-[646623] 수집 중 => 키워드: 건강기능식품, 카운트: 83, 내용: 전북일보 인터넷신문	http://www.jjan.kr/
+[2023-07-15 12:28:16] (DEBUG) => task-[646623] 수집 중 => 키워드: 건강기능식품, 카운트: 84, 내용: 영업허가·등록·신고안내	https://www.cheon
+[2023-07-15 12:28:16] (DEBUG) => task-[646623] 수집 중 => 키워드: 건강기능식품, 카운트: 85, 내용: GC녹십자, ‘식물성 루테인지아잔틴24’ 출시 - 테크
+[2023-07-15 12:28:16] (DEBUG) => task-[646623] 수집 중 => 키워드: 건강기능식품, 카운트: 86, 내용: 무더운 여름, 케이와이비타민(바디드림연구소)과 함께 <
+[2023-07-15 12:28:16] (DEBUG) => task-[646623] 수집 중 => 키워드: 건강기능식품, 카운트: 87, 내용: 대체당이 2B급 발암 물질?	https://kibbeu
+[2023-07-15 12:28:16] (DEBUG) => task-[646623] 수집 중 => 키워드: 건강기능식품, 카운트: 88, 내용: 서울시 중구 <b>건강</b><b>기능식품</b>일반판
+[2023-07-15 12:30:25] (DEBUG) => ConnectionError((<urllib3.connection.HTTPConnection object at 0x7f209bedcc40>, 'Connection to 221.157.125.36 timed out. (connect timeout=30)')) caused by: ConnectTimeoutError((<urllib3.connection.HTTPConnection object at 0x7f209bedcc40>, 'Connection to 221.157.125.36 timed out. (connect timeout=30)'))
+[2023-07-15 12:30:25] (DEBUG) => 데이터 수집을 정상적으로 완료하였습니다.
+[2023-07-15 12:30:25] (DEBUG) => Worker-[1000]가 task-[646623]의 'web'(을)를 완료하였습니다.
+[2023-07-15 12:31:10] (DEBUG) => Worker-[1000]가 task-[646625]의 'news'(을)를 시작합니다. (Thread: 181898)
+[2023-07-15 12:31:10] (DEBUG) => Worker-[1000]가 task-[646625]의 'news'(을)를 처리중입니다.
+[2023-07-15 12:31:10] (DEBUG) => 수집정보 => 채널: daum, 유형: news, 키워드: health, 기간: 2022-07-15 ~ 2023-07-15, 테이블: scraw_daum_datainfo
+[2023-07-15 12:31:14] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 1, 내용: Korea’s Health and Medical Uni
+[2023-07-15 12:31:14] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 2, 내용: ROMANIA CANCER HEALTH PROTEST	
+[2023-07-15 12:31:14] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 3, 내용: Disruption expected as 50,000 
+[2023-07-15 12:31:14] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 4, 내용: Medical services disrupted as 
+[2023-07-15 12:31:14] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 5, 내용: Concerns mount over paralyzing
+[2023-07-15 12:31:14] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 6, 내용: Majority of foreign health ins
+[2023-07-15 12:31:14] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 7, 내용: Health strike	https://v.daum.n
+[2023-07-15 12:31:14] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 8, 내용: Pediatricians push for law gua
+[2023-07-15 12:31:14] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 9, 내용: Korea seeks to add health and 
+[2023-07-15 12:31:14] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 10, 내용: Minister urges health workers 
+[2023-07-15 12:31:25] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 11, 내용: KT Hosts Healthcare Seminar at
+[2023-07-15 12:31:25] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 12, 내용: BANGLADESH HEALTH DENGUE	https
+[2023-07-15 12:31:25] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 13, 내용: Health ministry urges cancella
+[2023-07-15 12:31:25] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 14, 내용: [WT논평] The World Health Organi
+[2023-07-15 12:31:25] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 15, 내용: Health authorities, experts ca
+[2023-07-15 12:31:25] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 16, 내용: Britain Health Service Anniver
+[2023-07-15 12:31:25] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 17, 내용: USA BIDEN HEALTHCARE	https://v
+[2023-07-15 12:31:25] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 18, 내용: Lunit eyes Middle East healthc
+[2023-07-15 12:31:25] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 19, 내용: Seventeen's Seungkwan to take 
+[2023-07-15 12:31:25] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 20, 내용: Can winter swimming boost ment
+[2023-07-15 12:31:36] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 21, 내용: 6 ways universities can promot
+[2023-07-15 12:31:36] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 22, 내용: Foreign subscribers paid more 
+[2023-07-15 12:31:36] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 23, 내용: Samsung Bioepis, Celltrion Hea
+[2023-07-15 12:31:36] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 24, 내용: Chinese subscribers cause heal
+[2023-07-15 12:31:36] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 25, 내용: Health effects of aspartame un
+[2023-07-15 12:31:36] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 26, 내용: 호남대 간호학과, 키르기스스탄 ‘Health Fair’
+[2023-07-15 12:31:36] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 27, 내용: USA HEALTH PROTEST	https://v.d
+[2023-07-15 12:31:36] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 28, 내용: A to Z of Korean national heal
+[2023-07-15 12:31:36] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 29, 내용: Kakao Healthcare to Spearhead 
+[2023-07-15 12:31:36] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 30, 내용: 김선정 순천향대 교수, 美 ‘Academy Health
+[2023-07-15 12:31:48] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 31, 내용: Korea to amend laws to prevent
+[2023-07-15 12:31:48] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 32, 내용: Lewis Capaldi cancels first Ko
+[2023-07-15 12:31:48] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 33, 내용: Body mass index: why practitio
+[2023-07-15 12:31:48] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 34, 내용: AIDS Healthcare Foundation's W
+[2023-07-15 12:31:48] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 35, 내용: Health Care Fraud Investigatio
+[2023-07-15 12:31:48] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 36, 내용: Korean digital health start-up
+[2023-07-15 12:31:48] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 37, 내용: The US will send depleted uran
+[2023-07-15 12:31:48] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 38, 내용: Celltrion Healthcare has decid
+[2023-07-15 12:31:48] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 39, 내용: How Nokia spurred Finland's bu
+[2023-07-15 12:31:48] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 40, 내용: GE Healthcare Korea employee d
+[2023-07-15 12:31:59] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 41, 내용: Celltrion, Jeil Health Science
+[2023-07-15 12:31:59] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 42, 내용: GE Healthcare worker dies afte
+[2023-07-15 12:31:59] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 43, 내용: Celltrion Healthcare rushes to
+[2023-07-15 12:31:59] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 44, 내용: Health minister reveals will t
+[2023-07-15 12:31:59] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 45, 내용: Kakao Healthcare, Dexcom to la
+[2023-07-15 12:31:59] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 46, 내용: Senior physician-community hea
+[2023-07-15 12:31:59] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 47, 내용: Naver showcased responsive hea
+[2023-07-15 12:31:59] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 48, 내용: Health authority urges hajj pi
+[2023-07-15 12:31:59] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 49, 내용: Police forces across England p
+[2023-07-15 12:31:59] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 50, 내용: Aspartame May be Classified as
+[2023-07-15 12:32:10] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 51, 내용: Kakao Healthcare, Dexcom Forge
+[2023-07-15 12:32:10] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 52, 내용: Health Ministry to strip medic
+[2023-07-15 12:32:10] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 53, 내용: Kakao Healthcare to launch glu
+[2023-07-15 12:32:10] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 54, 내용: POLAND HEALTH ABORTION	https:/
+[2023-07-15 12:32:10] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 55, 내용: [Health Recipe] 낮잠의 중요성	https:
+[2023-07-15 12:32:10] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 56, 내용: Transgender Health Florida	htt
+[2023-07-15 12:32:10] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 57, 내용: AI is already being used in he
+[2023-07-15 12:32:10] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 58, 내용: New Zealand Health	https://v.d
+[2023-07-15 12:32:10] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 59, 내용: 2023 K-Wellness fair showcases
+[2023-07-15 12:32:10] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 60, 내용: Samsung Health bets big on sle
+[2023-07-15 12:32:21] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 61, 내용: S. Korea aims to boost health 
+[2023-07-15 12:32:21] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 62, 내용: 농기평, '동물감염병과 원헬스(One Health)' 
+[2023-07-15 12:32:21] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 63, 내용: ROMANIA HEALTH CARE WORKERS PR
+[2023-07-15 12:32:21] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 64, 내용: [Health Recipe] 흔하지만 잘 모르는 어지럼
+[2023-07-15 12:32:21] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 65, 내용: The Ministry of Health and Wel
+[2023-07-15 12:32:21] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 66, 내용: GI Biome teams up with 2 digit
+[2023-07-15 12:32:21] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 67, 내용: Kyrgios Mental Health Tennis	h
+[2023-07-15 12:32:21] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 68, 내용: 2023 Clio Health Awards	https:
+[2023-07-15 12:32:21] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 69, 내용: Sleep and paid services are fu
+[2023-07-15 12:32:21] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 70, 내용: Lotte Healthcare scraps nutrie
+[2023-07-15 12:32:33] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 71, 내용: North Korea's high status at W
+[2023-07-15 12:32:33] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 72, 내용: Mount Sinai-Behavioral Health 
+[2023-07-15 12:32:33] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 73, 내용: [Health & Wells] 무병장수의 비결, 식습관
+[2023-07-15 12:32:33] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 74, 내용: ‘Korea's healthcare system sta
+[2023-07-15 12:32:33] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 75, 내용: Britain Transgender Health	htt
+[2023-07-15 12:32:33] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 76, 내용: Transgender Health-Tennessee	h
+[2023-07-15 12:32:33] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 77, 내용: Health Law-Preventive Services
+[2023-07-15 12:32:33] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 78, 내용: Health Ministry, KMA agree to 
+[2023-07-15 12:32:33] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 79, 내용: 영도구,'함께하는 Health-care'추진	https
+[2023-07-15 12:32:33] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 80, 내용: FRANCE MACRON HEALTH	https://v
+[2023-07-15 12:32:44] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 81, 내용: Samsung targets healthcare mar
+[2023-07-15 12:32:44] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 82, 내용: RIGHT Foundation, BMGF, FIND c
+[2023-07-15 12:32:44] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 83, 내용: SHINee's Onew to take break du
+[2023-07-15 12:32:44] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 84, 내용: KT forays into health care in 
+[2023-07-15 12:32:44] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 85, 내용: World Bank urges Caribbean cou
+[2023-07-15 12:32:44] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 86, 내용: [Health Recipe] 다 함께 체중 관리	htt
+[2023-07-15 12:32:44] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 87, 내용: 2023 Clio Health Awards	https:
+[2023-07-15 12:32:44] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 88, 내용: 2023 Clio Health Awards	https:
+[2023-07-15 12:32:44] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 89, 내용: 2023 Clio Health Awards	https:
+[2023-07-15 12:32:44] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 90, 내용: Selvas Healthcare Acquires Sta
+[2023-07-15 12:32:55] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 91, 내용: SK bioscience COVID-19 Vaccine
+[2023-07-15 12:32:55] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 92, 내용: [KBR Exclusive: Inside Boston 
+[2023-07-15 12:32:55] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 93, 내용: Employers need to prioritize e
+[2023-07-15 12:32:55] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 94, 내용: 영도구,'함께하는 Health-care'추진	https
+[2023-07-15 12:32:55] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 95, 내용: GERMANY MIGRATION HEALTHCARE	h
+[2023-07-15 12:32:55] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 96, 내용: ROMANIA HEALTH CARE WORKERS PR
+[2023-07-15 12:32:55] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 97, 내용: Government criticizes timing, 
+[2023-07-15 12:32:55] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 98, 내용: HLB to be included in KRX300 H
+[2023-07-15 12:32:55] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 99, 내용: Korea, EU strengthen green, di
+[2023-07-15 12:32:55] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 100, 내용: ROMANIA HEALTH CARE WORKERS PR
+[2023-07-15 12:33:07] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 101, 내용: [Lupus & KCR 2023] Social dete
+[2023-07-15 12:33:07] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 102, 내용: ROMANIA HEALTH CARE WORKERS PR
+[2023-07-15 12:33:07] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 103, 내용: ROMANIA HEALTH CARE WORKERS PR
+[2023-07-15 12:33:07] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 104, 내용: ROMANIA HEALTH CARE WORKERS PR
+[2023-07-15 12:33:07] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 105, 내용: GE헬스케어, ‘Reimagining Better He
+[2023-07-15 12:33:07] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 106, 내용: GE 헬스케어, 'Reimagining Better H
+[2023-07-15 12:33:07] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 107, 내용: Hyundai Group active in promot
+[2023-07-15 12:33:07] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 108, 내용: [Health & Wells] 음식 고유의 맛이 건강을
+[2023-07-15 12:33:07] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 109, 내용: 'Korea should use national pen
+[2023-07-15 12:33:07] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 110, 내용: epaselect ROMANIA HEALTH CARE 
+[2023-07-15 12:33:18] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 111, 내용: 영도구,'함께하는 Health-care'추진	https
+[2023-07-15 12:33:18] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 112, 내용: Congress Youth Mental Health	h
+[2023-07-15 12:33:18] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 113, 내용: Congress Youth Mental Health	h
+[2023-07-15 12:33:18] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 114, 내용: Protesting nurses delay medica
+[2023-07-15 12:33:18] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 115, 내용: KHIDI opens online classes for
+[2023-07-15 12:33:18] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 116, 내용: Congress Youth Mental Health	h
+[2023-07-15 12:33:18] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 117, 내용: Congress Youth Mental Health	h
+[2023-07-15 12:33:18] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 118, 내용: Congress Youth Mental Health	h
+[2023-07-15 12:33:18] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 119, 내용: Congress Youth Mental Health	h
+[2023-07-15 12:33:18] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 120, 내용: SWITZERLAND WHO WORLD HEALTH A
+[2023-07-15 12:33:30] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 121, 내용: Body dysmorphic disorder: what
+[2023-07-15 12:33:30] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 122, 내용: 윤권근 대구시의원, 대구의료원 방문해 장애친화 건강검진
+[2023-07-15 12:33:30] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 123, 내용: Including race in clinical alg
+[2023-07-15 12:33:30] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 124, 내용: Credit payment holidays reduce
+[2023-07-15 12:33:30] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 125, 내용: Samsung aims to expand sleep c
+[2023-07-15 12:33:30] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 126, 내용: Regulator meets with digital h
+[2023-07-15 12:33:30] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 127, 내용: NerdWallet-Health-Emergency-Me
+[2023-07-15 12:33:30] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 128, 내용: [Special] Junior doctors disap
+[2023-07-15 12:33:30] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 129, 내용: epaselect SWITZERLAND WHO WORL
+[2023-07-15 12:33:30] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 130, 내용: Korea to offer tax benefits to
+[2023-07-15 12:33:41] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 131, 내용: Editorial: Korea’s major labor
+[2023-07-15 12:33:41] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 132, 내용: BELGIUM EU USA HEALTH	https://
+[2023-07-15 12:33:41] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 133, 내용: Providence Therapeutics Announ
+[2023-07-15 12:33:41] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 134, 내용: Health authorities warn agains
+[2023-07-15 12:33:41] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 135, 내용: AFGHANISTAN HEALTH	https://v.d
+[2023-07-15 12:33:41] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 136, 내용: BRAZIL HEALTH	https://v.daum.n
+[2023-07-15 12:33:41] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 137, 내용: BRAZIL HEALTH	https://v.daum.n
+[2023-07-15 12:33:41] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 138, 내용: BRAZIL HEALTH	https://v.daum.n
+[2023-07-15 12:33:41] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 139, 내용: AFGHANISTAN HEALTH	https://v.d
+[2023-07-15 12:33:41] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 140, 내용: BRAZIL HEALTH	https://v.daum.n
+[2023-07-15 12:33:52] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 141, 내용: BRAZIL HEALTH	https://v.daum.n
+[2023-07-15 12:33:52] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 142, 내용: AFGHANISTAN HEALTH	https://v.d
+[2023-07-15 12:33:52] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 143, 내용: BELGIUM EU USA HEALTH	https://
+[2023-07-15 12:33:52] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 144, 내용: BELGIUM EU USA HEALTH	https://
+[2023-07-15 12:33:52] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 145, 내용: BELGIUM EU USA HEALTH	https://
+[2023-07-15 12:33:52] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 146, 내용: BELGIUM EU USA HEALTH	https://
+[2023-07-15 12:33:52] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 147, 내용: BELGIUM EU USA HEALTH	https://
+[2023-07-15 12:33:52] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 148, 내용: Grounds found for including he
+[2023-07-15 12:33:52] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 149, 내용: Daewoong's digital healthcare 
+[2023-07-15 12:33:52] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 150, 내용: BANGLADESH HEALTH	https://v.da
+[2023-07-15 12:34:04] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 151, 내용: 2023 Clio Health Awards	https:
+[2023-07-15 12:34:04] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 152, 내용: 2023 Clio Health Awards	https:
+[2023-07-15 12:34:04] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 153, 내용: 2023 Clio Health Awards	https:
+[2023-07-15 12:34:04] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 154, 내용: Selvas Healthcare Acquires Sta
+[2023-07-15 12:34:04] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 155, 내용: SK bioscience COVID-19 Vaccine
+[2023-07-15 12:34:04] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 156, 내용: [KBR Exclusive: Inside Boston 
+[2023-07-15 12:34:04] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 157, 내용: Employers need to prioritize e
+[2023-07-15 12:34:04] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 158, 내용: 영도구,'함께하는 Health-care'추진	https
+[2023-07-15 12:34:04] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 159, 내용: GERMANY MIGRATION HEALTHCARE	h
+[2023-07-15 12:34:04] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 160, 내용: ROMANIA HEALTH CARE WORKERS PR
+[2023-07-15 12:34:15] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 161, 내용: Government criticizes timing, 
+[2023-07-15 12:34:15] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 162, 내용: HLB to be included in KRX300 H
+[2023-07-15 12:34:15] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 163, 내용: Korea, EU strengthen green, di
+[2023-07-15 12:34:15] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 164, 내용: ROMANIA HEALTH CARE WORKERS PR
+[2023-07-15 12:34:15] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 165, 내용: [Lupus & KCR 2023] Social dete
+[2023-07-15 12:34:15] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 166, 내용: ROMANIA HEALTH CARE WORKERS PR
+[2023-07-15 12:34:15] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 167, 내용: ROMANIA HEALTH CARE WORKERS PR
+[2023-07-15 12:34:15] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 168, 내용: ROMANIA HEALTH CARE WORKERS PR
+[2023-07-15 12:34:15] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 169, 내용: GE헬스케어, ‘Reimagining Better He
+[2023-07-15 12:34:15] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 170, 내용: GE 헬스케어, 'Reimagining Better H
+[2023-07-15 12:34:26] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 171, 내용: Hyundai Group active in promot
+[2023-07-15 12:34:26] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 172, 내용: [Health & Wells] 음식 고유의 맛이 건강을
+[2023-07-15 12:34:26] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 173, 내용: 'Korea should use national pen
+[2023-07-15 12:34:26] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 174, 내용: epaselect ROMANIA HEALTH CARE 
+[2023-07-15 12:34:26] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 175, 내용: 영도구,'함께하는 Health-care'추진	https
+[2023-07-15 12:34:26] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 176, 내용: Congress Youth Mental Health	h
+[2023-07-15 12:34:26] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 177, 내용: Congress Youth Mental Health	h
+[2023-07-15 12:34:26] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 178, 내용: Protesting nurses delay medica
+[2023-07-15 12:34:26] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 179, 내용: KHIDI opens online classes for
+[2023-07-15 12:34:26] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 180, 내용: Congress Youth Mental Health	h
+[2023-07-15 12:34:37] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 181, 내용: Congress Youth Mental Health	h
+[2023-07-15 12:34:37] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 182, 내용: Congress Youth Mental Health	h
+[2023-07-15 12:34:37] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 183, 내용: Congress Youth Mental Health	h
+[2023-07-15 12:34:37] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 184, 내용: SWITZERLAND WHO WORLD HEALTH A
+[2023-07-15 12:34:37] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 185, 내용: Body dysmorphic disorder: what
+[2023-07-15 12:34:37] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 186, 내용: 윤권근 대구시의원, 대구의료원 방문해 장애친화 건강검진
+[2023-07-15 12:34:37] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 187, 내용: Including race in clinical alg
+[2023-07-15 12:34:37] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 188, 내용: Credit payment holidays reduce
+[2023-07-15 12:34:37] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 189, 내용: Samsung aims to expand sleep c
+[2023-07-15 12:34:37] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 190, 내용: Regulator meets with digital h
+[2023-07-15 12:34:48] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 191, 내용: NerdWallet-Health-Emergency-Me
+[2023-07-15 12:34:48] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 192, 내용: [Special] Junior doctors disap
+[2023-07-15 12:34:48] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 193, 내용: epaselect SWITZERLAND WHO WORL
+[2023-07-15 12:34:48] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 194, 내용: Korea to offer tax benefits to
+[2023-07-15 12:34:48] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 195, 내용: Editorial: Korea’s major labor
+[2023-07-15 12:34:48] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 196, 내용: BELGIUM EU USA HEALTH	https://
+[2023-07-15 12:34:48] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 197, 내용: Providence Therapeutics Announ
+[2023-07-15 12:34:48] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 198, 내용: Health authorities warn agains
+[2023-07-15 12:34:48] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 199, 내용: AFGHANISTAN HEALTH	https://v.d
+[2023-07-15 12:34:48] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 200, 내용: BRAZIL HEALTH	https://v.daum.n
+[2023-07-15 12:35:00] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 201, 내용: BRAZIL HEALTH	https://v.daum.n
+[2023-07-15 12:35:00] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 202, 내용: BRAZIL HEALTH	https://v.daum.n
+[2023-07-15 12:35:00] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 203, 내용: AFGHANISTAN HEALTH	https://v.d
+[2023-07-15 12:35:00] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 204, 내용: BRAZIL HEALTH	https://v.daum.n
+[2023-07-15 12:35:00] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 205, 내용: BRAZIL HEALTH	https://v.daum.n
+[2023-07-15 12:35:00] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 206, 내용: AFGHANISTAN HEALTH	https://v.d
+[2023-07-15 12:35:00] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 207, 내용: BELGIUM EU USA HEALTH	https://
+[2023-07-15 12:35:00] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 208, 내용: BELGIUM EU USA HEALTH	https://
+[2023-07-15 12:35:00] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 209, 내용: BELGIUM EU USA HEALTH	https://
+[2023-07-15 12:35:00] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 210, 내용: BELGIUM EU USA HEALTH	https://
+[2023-07-15 12:35:11] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 211, 내용: BELGIUM EU USA HEALTH	https://
+[2023-07-15 12:35:11] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 212, 내용: Grounds found for including he
+[2023-07-15 12:35:11] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 213, 내용: Daewoong's digital healthcare 
+[2023-07-15 12:35:11] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 214, 내용: BANGLADESH HEALTH	https://v.da
+[2023-07-15 12:35:11] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 215, 내용: 용인특례시 보건소는 사고 마약류 관리·배출에 더욱 만전
+[2023-07-15 12:35:11] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 216, 내용: SK bioscience Presents Next Pa
+[2023-07-15 12:35:11] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 217, 내용: Health issues holding back you
+[2023-07-15 12:35:11] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 218, 내용: Suicide among young Koreans is
+[2023-07-15 12:35:11] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 219, 내용: AI Health Monitoring for Pet, 
+[2023-07-15 12:35:11] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 220, 내용: 한국바이오협회-벨기에 Health Campus Limb
+[2023-07-15 12:35:22] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 221, 내용: 계양구의회 의원연구단체, 장애인 건강권 강화 위한 토론
+[2023-07-15 12:35:22] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 222, 내용: BELGIUM EU USA HEALTH	https://
+[2023-07-15 12:35:22] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 223, 내용: Can we train our taste buds fo
+[2023-07-15 12:35:22] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 224, 내용: BELGIUM EU USA HEALTH	https://
+[2023-07-15 12:35:22] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 225, 내용: BELGIUM EU USA HEALTH	https://
+[2023-07-15 12:35:22] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 226, 내용: Spy agency says hard living is
+[2023-07-15 12:35:22] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 227, 내용: [Wang Son-taek] Another scenar
+[2023-07-15 12:35:22] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 228, 내용: SWITZERLAND WHO WORLD HEALTH A
+[2023-07-15 12:35:22] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 229, 내용: Yoon asks Kishida to include K
+[2023-07-15 12:35:22] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 230, 내용: CHILE HEALTH	https://v.daum.ne
+[2023-07-15 12:35:33] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 231, 내용: Korea announces end to COVID-1
+[2023-07-15 12:35:33] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 232, 내용: Health workers cope with a hug
+[2023-07-15 12:35:33] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 233, 내용: 의성군,‘노인 의료-돌봄 통합지원’ 출범	https:/
+[2023-07-15 12:35:33] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 234, 내용: SWITZERLAND WHO WORLD HEALTH A
+[2023-07-15 12:35:33] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 235, 내용: Madonna-Postpones-Celebration-
+[2023-07-15 12:35:33] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 236, 내용: Police Shooting Mental Health	
+[2023-07-15 12:35:33] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 237, 내용: [Health Recipe] 뼈 건강	https://v
+[2023-07-15 12:35:33] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 238, 내용: Police Shooting Mental Health	
+[2023-07-15 12:35:33] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 239, 내용: Police Shooting Mental Health	
+[2023-07-15 12:35:33] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 240, 내용: Functional health foods target
+[2023-07-15 12:35:44] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 241, 내용: Celltrion’s share buybacks fue
+[2023-07-15 12:35:44] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 242, 내용: Police Shooting Mental Health	
+[2023-07-15 12:35:44] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 243, 내용: Police Shooting Mental Health	
+[2023-07-15 12:35:44] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 244, 내용: Police Shooting Mental Health	
+[2023-07-15 12:35:44] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 245, 내용: Police Shooting Mental Health	
+[2023-07-15 12:35:44] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 246, 내용: AFGHANISTAN HEALTH	https://v.d
+[2023-07-15 12:35:44] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 247, 내용: Transgender Health Model Legis
+[2023-07-15 12:35:44] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 248, 내용: Good vibrations: how listening
+[2023-07-15 12:35:44] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 249, 내용: Transgender Health Model Legis
+[2023-07-15 12:35:44] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 250, 내용: MZ Healthcare Store Opens in T
+[2023-07-15 12:35:56] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 251, 내용: Korea’s healthcare export shri
+[2023-07-15 12:35:56] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 252, 내용: Korea to track whereabouts of 
+[2023-07-15 12:35:56] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 253, 내용: Is it unfair for overseas medi
+[2023-07-15 12:35:56] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 254, 내용: Korea’s NCC trains healthcare 
+[2023-07-15 12:35:56] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 255, 내용: Health Warning Meningitis	http
+[2023-07-15 12:35:56] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 256, 내용: 조선대병원, K-Health 국민의료AI서비스 구축 사
+[2023-07-15 12:35:56] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 257, 내용: 전남도, 양식장 유해화학물질 사용지도·안전 관리 강화	
+[2023-07-15 12:35:56] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 258, 내용: 진천군보건소 ‘23년 찾아가는 어르신 건강관리 캠페인 
+[2023-07-15 12:35:56] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 259, 내용: Samsung Electronics, Unveiling
+[2023-07-15 12:35:56] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 260, 내용: [Korean Dilemma] Does Korea ne
+[2023-07-15 12:36:07] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 261, 내용: SK, ‘청소년 마음건강 지킴이’ 버스 운행 시작	ht
+[2023-07-15 12:36:07] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 262, 내용: [Health & Wells] 이 병은 도대체 어디서 
+[2023-07-15 12:36:07] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 263, 내용: 충주시, 찾아가는 어르신 건강상담실 마무리	https:
+[2023-07-15 12:36:07] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 264, 내용: ‘GE HealthCare strives to crea
+[2023-07-15 12:36:07] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 265, 내용: André Watts, Pioneering Piano 
+[2023-07-15 12:36:07] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 266, 내용: 광주 서구, 협력체계 구축 퇴원환자 돌봄 지원 박차	h
+[2023-07-15 12:36:07] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 267, 내용: Association on Maternal and Ch
+[2023-07-15 12:36:07] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 268, 내용: Congress World Health Organiza
+[2023-07-15 12:36:07] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 269, 내용: Atomom Korea Opens 'AI Skin He
+[2023-07-15 12:36:07] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 270, 내용: Congress World health Organiza
+[2023-07-15 12:36:18] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 271, 내용: President Yoon faced Prime Min
+[2023-07-15 12:36:18] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 272, 내용: 양평군치매안심센터, 경기도의회 보건복지위원회 센터 방문
+[2023-07-15 12:36:18] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 273, 내용: 한국-말레이시아간 경제교류에 마중물을 붓다	https:
+[2023-07-15 12:36:18] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 274, 내용: Celltrion Healthcare’s operati
+[2023-07-15 12:36:18] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 275, 내용: Transgender-Health-Arkansas	ht
+[2023-07-15 12:36:18] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 276, 내용: 경희대병원, 7월 18일 ‘일반인을 위한 신경과 건강강
+[2023-07-15 12:36:18] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 277, 내용: Congress World Health Organiza
+[2023-07-15 12:36:18] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 278, 내용: Congress World Health Organiza
+[2023-07-15 12:36:18] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 279, 내용: Congress World Health Organiza
+[2023-07-15 12:36:18] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 280, 내용: UK: Health Minister Says Gover
+[2023-07-15 12:36:29] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 281, 내용: 영남대의료원, 아제르바이잔 감염병 예방관리 연수교육	h
+[2023-07-15 12:36:29] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 282, 내용: JAPAN HEALTH COVID-19	https://
+[2023-07-15 12:36:29] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 283, 내용: JAPAN HEALTH COVID-19	https://
+[2023-07-15 12:36:29] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 284, 내용: JAPAN HEALTH COVID-19	https://
+[2023-07-15 12:36:29] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 285, 내용: SWITZERLAND WHO WORLD HEALTH A
+[2023-07-15 12:36:29] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 286, 내용: "1000만원 휠체어도 무료"…'복지기술' 활로 찾는 
+[2023-07-15 12:36:29] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 287, 내용: 인천서구, 현업종사자 등 온열질환 예방관리 및 지역보건
+[2023-07-15 12:36:29] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 288, 내용: Britain Measles	https://v.daum
+[2023-07-15 12:36:29] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 289, 내용: Association on Maternal and Ch
+[2023-07-15 12:36:29] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 290, 내용: ‘Rookie Legend’ Kim Eun-mi’s G
+[2023-07-15 12:36:40] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 291, 내용: 구례군, ‘제8기 지역보건의료계획 수립 성과대회’서 장
+[2023-07-15 12:36:40] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 292, 내용: Nongshim sets vision to achiev
+[2023-07-15 12:36:40] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 293, 내용: 단양군, 주민 의료서비스 확대 서울세계로병원과 협약 체
+[2023-07-15 12:36:40] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 294, 내용: Food safety agency to keep cur
+[2023-07-15 12:36:40] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 295, 내용: Health Commissioner Retiring	h
+[2023-07-15 12:36:40] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 296, 내용: Association on Maternal and Ch
+[2023-07-15 12:36:40] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 297, 내용: Association on Maternal and Ch
+[2023-07-15 12:36:40] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 298, 내용: CROATIA SUMMIT HEALTH OBESITY	
+[2023-07-15 12:36:40] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 299, 내용: Congress World Health Organiza
+[2023-07-15 12:36:40] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 300, 내용: Health Commissioner Retiring	h
+[2023-07-15 12:36:51] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 301, 내용: Congress World Health Organiza
+[2023-07-15 12:36:51] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 302, 내용: 군포시, 지역보건의료계획 평가 ‘최우수’ 보건복지부장관
+[2023-07-15 12:36:51] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 303, 내용: 국민사회복지협회, '일본 원전 오염수 방류' 국제해양재
+[2023-07-15 12:36:51] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 304, 내용: Tracking health care’s global 
+[2023-07-15 12:36:51] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 305, 내용: 조선대병원, K-Health 국민의료AI서비스 구축 잰
+[2023-07-15 12:36:51] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 306, 내용: Congress World Health Organiza
+[2023-07-15 12:36:51] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 307, 내용: 인천경제청, 코엑스서 ‘IFEZ 바이오·헬스케어 공급사
+[2023-07-15 12:36:51] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 308, 내용: Congress World Health Organiza
+[2023-07-15 12:36:51] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 309, 내용: South Korea Medical Device Sec
+[2023-07-15 12:36:51] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 310, 내용: President Yoon, who voiced his
+[2023-07-15 12:37:03] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 311, 내용: SWITZERLAND WHO WORLD HEALTH A
+[2023-07-15 12:37:03] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 312, 내용: SWITZERLAND WHO WORLD HEALTH A
+[2023-07-15 12:37:03] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 313, 내용: 김병욱 의원, 학생 마음 건강 챙김 토론회 국회서 개최
+[2023-07-15 12:37:03] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 314, 내용: 스마트폰에 탑재된 유용한 건강 관리 기능 알아보기	ht
+[2023-07-15 12:37:03] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 315, 내용: Korean healthcare industry exp
+[2023-07-15 12:37:03] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 316, 내용: 경기 광주시보건소, 지역보건의료계획 등 복지부 장관상 
+[2023-07-15 12:37:03] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 317, 내용: 보건의료노조 '13~14일 총파업' 예고	https:/
+[2023-07-15 12:37:03] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 318, 내용: 용인특례시, ‘지역보건의료계획’·‘통합건강증진’2개 부
+[2023-07-15 12:37:03] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 319, 내용: ‘Denmark wants to synergize it
+[2023-07-15 12:37:03] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 320, 내용: 지멘스 헬시니어스, '글로벌 헬스데이' 지정	https
+[2023-07-15 12:37:14] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 321, 내용: Daejeon City Selected K-Health
+[2023-07-15 12:37:14] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 322, 내용: SFTS case in Jeju suggest stra
+[2023-07-15 12:37:14] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 323, 내용: 직장인 88.3%, 복날 보양식 챙긴다..1위는 ‘삼계
+[2023-07-15 12:37:14] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 324, 내용: Congress World Health Organiza
+[2023-07-15 12:37:14] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 325, 내용: Congress World Health Organiza
+[2023-07-15 12:37:14] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 326, 내용: [Herald Interview] Daewoong Ph
+[2023-07-15 12:37:14] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 327, 내용: SWITZERLAND WHO WORLD HEALTH A
+[2023-07-15 12:37:14] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 328, 내용: Vitalize officialdom by recrui
+[2023-07-15 12:37:14] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 329, 내용: SWITZERLAND WHO WORLD HEALTH A
+[2023-07-15 12:37:14] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 330, 내용: Taking patients hostage hurts 
+[2023-07-15 12:37:25] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 331, 내용: SWITZERLAND WHO WORLD HEALTH A
+[2023-07-15 12:37:25] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 332, 내용: [주말엔] 의대 졸업생 중 ‘의사과학자’ 1%도 안돼…
+[2023-07-15 12:37:25] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 333, 내용: 청송군, 건강증진 우수기관 입증...지방자치단체 합동성
+[2023-07-15 12:37:25] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 334, 내용: Korean food, beverage companie
+[2023-07-15 12:37:25] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 335, 내용: SWITZERLAND WHO WORLD HEALTH A
+[2023-07-15 12:37:25] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 336, 내용: 대구 남구 생명지킴이 출범	https://cp.news
+[2023-07-15 12:37:25] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 337, 내용: Regulator ‘half-positive’ to d
+[2023-07-15 12:37:25] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 338, 내용: 충북대 의학과 양희수씨, 빅데이터 활용 ‘장애인의 뇌졸
+[2023-07-15 12:37:25] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 339, 내용: Korean pharma needs to shift f
+[2023-07-15 12:37:25] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 340, 내용: [Health Recipe] 갱년기를 대하는 중년 남성
+[2023-07-15 12:37:36] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 341, 내용: LG Electronics sets sights on 
+[2023-07-15 12:37:36] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 342, 내용: LG Electronics to invest at le
+[2023-07-15 12:37:36] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 343, 내용: Transgender Health Missouri	ht
+[2023-07-15 12:37:36] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 344, 내용: Transgender Health Indiana	htt
+[2023-07-15 12:37:36] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 345, 내용: SWITZERLAND WHO WORLD HEALTH A
+[2023-07-15 12:37:36] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 346, 내용: [Nani Jansen Reventlow] Righti
+[2023-07-15 12:37:36] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 347, 내용: 도민들의 건강한 삶을 위해 ‘찾아가는 의료복지서비스’ 
+[2023-07-15 12:37:36] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 348, 내용: Congress World health Organiza
+[2023-07-15 12:37:36] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 349, 내용: 코로나19 유행 때 대학생의 거의 절반이 ‘체중 증가’
+[2023-07-15 12:37:36] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 350, 내용: No ‘medical crisis’ seen on st
+[2023-07-15 12:37:48] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 351, 내용: Transgender Health Missouri	ht
+[2023-07-15 12:37:48] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 352, 내용: '세계최초' 타액 당측정기 동운아나텍, 상용화 임박	h
+[2023-07-15 12:37:48] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 353, 내용: Ozempic shortages in the UK ma
+[2023-07-15 12:37:48] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 354, 내용: 대구시, 보건복지부 지역보건의료계획 평가 ‘최우수기관’
+[2023-07-15 12:37:48] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 355, 내용: Korea working on new service i
+[2023-07-15 12:37:48] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 356, 내용: Suwon City Recruits Health and
+[2023-07-15 12:37:48] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 357, 내용: Oh Youngkeyoung of Bayer Consu
+[2023-07-15 12:37:48] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 358, 내용: 박준 경남도의원, ‘이·통장 건강검진비’ 근거 마련	h
+[2023-07-15 12:37:48] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 359, 내용: USA TRANSGENDER HEALTHCARE	htt
+[2023-07-15 12:37:48] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 360, 내용: 총콜레스테롤 수치 변동 심하면 '이 질환' 발병 위험 
+[2023-07-15 12:37:59] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 361, 내용: LG Household & Health Care rep
+[2023-07-15 12:37:59] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 362, 내용: How do I stop my mind racing a
+[2023-07-15 12:37:59] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 363, 내용: Two types of children’s Tyleno
+[2023-07-15 12:37:59] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 364, 내용: Food and beverage industry see
+[2023-07-15 12:37:59] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 365, 내용: Transgender Rights Health Care
+[2023-07-15 12:37:59] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 366, 내용: Mental health: almost half of 
+[2023-07-15 12:37:59] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 367, 내용: Taking patients hostage hurts 
+[2023-07-15 12:37:59] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 368, 내용: Korea to designate substitutes
+[2023-07-15 12:37:59] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 369, 내용: GREECE HEATWAVE	https://v.daum
+[2023-07-15 12:37:59] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 370, 내용: GREECE HEATWAVE	https://v.daum
+[2023-07-15 12:38:10] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 371, 내용: Yuhan’s lung cancer treatment 
+[2023-07-15 12:38:10] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 372, 내용: Korea sees next 5 years as cri
+[2023-07-15 12:38:10] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 373, 내용: GREECE HEATWAVE	https://v.daum
+[2023-07-15 12:38:10] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 374, 내용: 진천군보건소, ‘23년 하반기 ‘임산부 출산·건강증진 
+[2023-07-15 12:38:10] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 375, 내용: Transgender Rights-Healthcare	
+[2023-07-15 12:38:10] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 376, 내용: Abortion Transgender Health Re
+[2023-07-15 12:38:10] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 377, 내용: Health ministry disciplines 4 
+[2023-07-15 12:38:10] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 378, 내용: BRITAIN PHARMACIES HEALTH CARE
+[2023-07-15 12:38:10] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 379, 내용: Transgender Rights Health Care
+[2023-07-15 12:38:10] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 380, 내용: [Special] The medical reality 
+[2023-07-15 12:38:21] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 381, 내용: BRITAIN PHARMACIES HEALTH CARE
+[2023-07-15 12:38:21] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 382, 내용: 미국 금권정치와 파리 금융협약 정상회의[제프리 삭스의 
+[2023-07-15 12:38:21] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 383, 내용: BRITAIN PHARMACIES HEALTH CARE
+[2023-07-15 12:38:21] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 384, 내용: Elevance Health-Results	https:
+[2023-07-15 12:38:21] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 385, 내용: Transgender Rights Health Care
+[2023-07-15 12:38:21] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 386, 내용: USA TRANSGENDER HEALTHCARE	htt
+[2023-07-15 12:38:21] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 387, 내용: How Art Can Improve Your Menta
+[2023-07-15 12:38:21] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 388, 내용: Earns CVS Health	https://v.dau
+[2023-07-15 12:38:21] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 389, 내용: Nestlé to Close Two US Health 
+[2023-07-15 12:38:21] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 390, 내용: 대구남구보건소, 건강증진사업 종합 부문 최우수기관 선정
+[2023-07-15 12:38:32] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 391, 내용: 아세안+3 외교장관회의…박진 "아세안 중심성 지지…日·
+[2023-07-15 12:38:32] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 392, 내용: CROATIA SUMMIT HEALTH OBESITY	
+[2023-07-15 12:38:32] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 393, 내용: Abortion-Transgender-Health-Re
+[2023-07-15 12:38:32] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 394, 내용: The ‘ghost children’ and ‘heih
+[2023-07-15 12:38:32] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 395, 내용: USA TRANSGENDER HEALTHCARE	htt
+[2023-07-15 12:38:32] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 396, 내용: USA TRANSGENDER HEALTHCARE	htt
+[2023-07-15 12:38:32] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 397, 내용: USA TRANSGENDER HEALTHCARE	htt
+[2023-07-15 12:38:32] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 398, 내용: Lisa Marie Presley Died From B
+[2023-07-15 12:38:32] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 399, 내용: 이 세상에서 하나뿐인 그 무엇? 'THE WE호텔 제주
+[2023-07-15 12:38:32] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 400, 내용: SPAIN EU EMPLOYMENT	https://v.
+[2023-07-15 12:38:44] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 401, 내용: 진천군, 보건부 ‘23년 보건사업 2개 분야 우수지자체
+[2023-07-15 12:38:44] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 402, 내용: BC-US--Birth to Death-Teen Yea
+[2023-07-15 12:38:44] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 403, 내용: 영국 케임브리지대 연구… 노년기 ‘삶의 질’ 높이는 간
+[2023-07-15 12:38:44] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 404, 내용: 증평군보건소, 복지부 ‘23년 지방자치단체 합동 성과대
+[2023-07-15 12:38:44] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 405, 내용: SK bioscience, Government Phar
+[2023-07-15 12:38:44] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 406, 내용: SPAIN EU EMPLOYMENT	https://v.
+[2023-07-15 12:38:44] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 407, 내용: USA TRANSGENDER HEALTHCARE	htt
+[2023-07-15 12:38:44] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 408, 내용: 익산시 '보건복지부 장관' 기관 표창	https://c
+[2023-07-15 12:38:44] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 409, 내용: Government, nurses must reach 
+[2023-07-15 12:38:44] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 410, 내용: 단양군보건소, 경로당 심폐소생술 순회 교육 추진	htt
+[2023-07-15 12:38:55] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 411, 내용: USA TRANSGENDER HEALTHCARE	htt
+[2023-07-15 12:38:55] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 412, 내용: [Health Recipe] 탄수화물은 죄가 없다	ht
+[2023-07-15 12:38:55] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 413, 내용: "보스턴서 맛본 바이오 투자 생태계…국내 혁신신약 개발
+[2023-07-15 12:38:55] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 414, 내용: USA TRANSGENDER HEALTHCARE	htt
+[2023-07-15 12:38:55] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 415, 내용: Yuhan to offer lung cancer dru
+[2023-07-15 12:38:55] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 416, 내용: USA TRANSGENDER HEALTHCARE	htt
+[2023-07-15 12:38:55] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 417, 내용: 강진군 강진읍 지사협, 삼계탕은 사랑을 싣고...100
+[2023-07-15 12:38:55] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 418, 내용: 창원특례시 마산보건소, '보건복지부 장관상' 수상	ht
+[2023-07-15 12:38:55] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 419, 내용: The true cost of food: High gr
+[2023-07-15 12:38:55] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 420, 내용: 영동군보건소, 지역주민 맞춤형 방문 건강관리사업 추진	
+[2023-07-15 12:39:06] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 421, 내용: ITALY HEALTH	https://v.daum.ne
+[2023-07-15 12:39:06] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 422, 내용: SPAIN EU EMPLOYMENT	https://v.
+[2023-07-15 12:39:06] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 423, 내용: 전남도, 전국 첫 ‘청소년 행복성장지원 혁신지구’ 선포
+[2023-07-15 12:39:06] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 424, 내용: USA TRANSGENDER HEALTHCARE	htt
+[2023-07-15 12:39:06] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 425, 내용: 대구한의대, 중학생 대상으로 '꿈 찾기 진로캠프' 개최
+[2023-07-15 12:39:06] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 426, 내용: Why it's so hard for same-sex 
+[2023-07-15 12:39:06] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 427, 내용: [INTERVIEW] North Korean leade
+[2023-07-15 12:39:06] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 428, 내용: Samsung Unveils Display that D
+[2023-07-15 12:39:06] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 429, 내용: SPAIN EU EMPLOYMENT	https://v.
+[2023-07-15 12:39:06] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 430, 내용: SPAIN EU EMPLOYMENT	https://v.
+[2023-07-15 12:39:17] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 431, 내용: JAPAN G7 HEALTH	https://v.daum
+[2023-07-15 12:39:17] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 432, 내용: SPAIN EU EMPLOYMENT	https://v.
+[2023-07-15 12:39:17] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 433, 내용: Transgender Health Indiana	htt
+[2023-07-15 12:39:17] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 434, 내용: USA TRANSGENDER HEALTHCARE	htt
+[2023-07-15 12:39:17] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 435, 내용: [Health 건강] “편두통·비만 환자 치매 걸릴 확
+[2023-07-15 12:39:17] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 436, 내용: Health Worker Shortage	https:/
+[2023-07-15 12:39:17] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 437, 내용: Health Worker Shortage	https:/
+[2023-07-15 12:39:17] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 438, 내용: One size does not fit all, int
+[2023-07-15 12:39:17] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 439, 내용: IARC head highlights importanc
+[2023-07-15 12:39:17] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 440, 내용: 서구정신건강복지센터, '디카시 & 네컷만화 공모전'실시
+[2023-07-15 12:39:28] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 441, 내용: 충주시-대한당뇨병연합, 당뇨환자 지원 협약 체결	htt
+[2023-07-15 12:39:28] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 442, 내용: epaselect USA TRANSGENDER HEAL
+[2023-07-15 12:39:28] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 443, 내용: 계양구, 군·구 행정실적 종합평가 추진 상황 보고회 및
+[2023-07-15 12:39:28] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 444, 내용: SK bioscience signs vaccine de
+[2023-07-15 12:39:28] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 445, 내용: Prime Therapeutics to cover Sa
+[2023-07-15 12:39:28] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 446, 내용: Celltrion affiliates gear up f
+[2023-07-15 12:39:28] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 447, 내용: Striking Actors Join Writers o
+[2023-07-15 12:39:28] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 448, 내용: National Senior Games - 10th A
+[2023-07-15 12:39:28] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 449, 내용: 전북대병원 '보건의료노조 파업' 대책 마련	https:
+[2023-07-15 12:39:28] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 450, 내용: Indonesia seeks Korean support
+[2023-07-15 12:39:40] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 451, 내용: Defectors open up about hopes,
+[2023-07-15 12:39:40] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 452, 내용: Fiber is your body's natural g
+[2023-07-15 12:39:40] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 453, 내용: Flight attendant's online post
+[2023-07-15 12:39:40] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 454, 내용: 윤석열 대통령, 폴란드 상·하원의장 면담 '의회 차원 
+[2023-07-15 12:39:40] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 455, 내용: Confusion persists as hospital
+[2023-07-15 12:39:40] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 456, 내용: ‘대프리카’ 온열질환 주의...‘온열질환 응급실 감시체
+[2023-07-15 12:39:40] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 457, 내용: 제천시, 휴온스그룹 제19회 제천국제음악영화제 후원금 
+[2023-07-15 12:39:40] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 458, 내용: 한국건강관리협회, 건강증진사업단 탄자니아 파견	http
+[2023-07-15 12:39:40] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 459, 내용: BC-US--Birth to Death-Teen Yea
+[2023-07-15 12:39:40] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 460, 내용: Transgender-Health-Indiana	htt
+[2023-07-15 12:39:51] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 461, 내용: Korean firms, labs to co-devel
+[2023-07-15 12:39:51] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 462, 내용: Oregon Smoking Materials Pause
+[2023-07-15 12:39:51] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 463, 내용: 상명대 바이오헬스사업단, SYM Healthcare(주
+[2023-07-15 12:39:51] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 464, 내용: Celltrion Healthcare secures b
+[2023-07-15 12:39:51] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 465, 내용: 달성군 보건소, 지방자치단체 건강증진사업 성과대회 '우
+[2023-07-15 12:39:51] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 466, 내용: 윤석열 대통령 “오염수 방류 점검에 한국 전문가 참여토
+[2023-07-15 12:39:51] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 467, 내용: SNUH to lead digitization to p
+[2023-07-15 12:39:51] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 468, 내용: 제로콜라⋅막걸리 걱정할 필요 없는 3가지 이유	http
+[2023-07-15 12:39:51] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 469, 내용: LG Electronics to focus on pla
+[2023-07-15 12:39:51] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 470, 내용: 전남도, 인구 위기를 기회로 전환·전남 미래 준비 다짐
+[2023-07-15 12:40:02] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 471, 내용: Samsung, Apple Set to Duke it 
+[2023-07-15 12:40:02] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 472, 내용: Lopsided doctor supply and dem
+[2023-07-15 12:40:02] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 473, 내용: 삼성전자, 오산천에 수달을 불러들인 물 관리 비법	ht
+[2023-07-15 12:40:02] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 474, 내용: "치아결손 있으면 암 위험 높아…구강세균이 장기에 직접
+[2023-07-15 12:40:02] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 475, 내용: 인천시, 보건의료노조 파업 대비 대응방안 논의...비상
+[2023-07-15 12:40:02] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 476, 내용: 전남교육청 청소년기자단 역량강화 연수	https://c
+[2023-07-15 12:40:02] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 477, 내용: SPAIN EU EMPLOYMENT	https://v.
+[2023-07-15 12:40:02] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 478, 내용: 씨젠 “300억원 자사주 매입해 기술공유사업 재원 활용
+[2023-07-15 12:40:02] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 479, 내용: Kakao Healthcare Launches Bloo
+[2023-07-15 12:40:02] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 480, 내용: 대구보건대, 파티마병원 찾아 영유아 놀이체험 봉사활동 
+[2023-07-15 12:40:13] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 481, 내용: LG Electronics Targets $77B Re
+[2023-07-15 12:40:13] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 482, 내용: Abortion Transgender Health Re
+[2023-07-15 12:40:13] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 483, 내용: Outcome Health Fraud	https://v
+[2023-07-15 12:40:13] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 484, 내용: SPAIN EU EMPLOYMENT	https://v.
+[2023-07-15 12:40:13] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 485, 내용: SPAIN EU EMPLOYMENT	https://v.
+[2023-07-15 12:40:13] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 486, 내용: 동아ST, 스텔라라 바이오시밀러 유럽의약품청 품목허가 
+[2023-07-15 12:40:13] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 487, 내용: 대전시교육청, 에듀힐링센터 새 보금자리 마련 나서...
+[2023-07-15 12:40:13] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 488, 내용: Transgender Health Texas	https
+[2023-07-15 12:40:13] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 489, 내용: Kakao Healthcare calls Dr. Dia
+[2023-07-15 12:40:13] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 490, 내용: ITALY VATICAN POPE HEALTH	http
+[2023-07-15 12:40:24] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 491, 내용: 김선정 순천향대 교수, 美 전문학회서 분절적 의료 문제
+[2023-07-15 12:40:24] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 492, 내용: ‘Physician-assisted suicide fe
+[2023-07-15 12:40:24] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 493, 내용: 김병욱 의원, ‘학생 마음 건강 챙김 국회 토론회’ 개
+[2023-07-15 12:40:24] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 494, 내용: Hagwon owner given 20 years fo
+[2023-07-15 12:40:24] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 495, 내용: Largest US home healthcare com
+[2023-07-15 12:40:24] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 496, 내용: Transgender Health Texas	https
+[2023-07-15 12:40:24] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 497, 내용: Koyote marks 25th anniversary 
+[2023-07-15 12:40:24] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 498, 내용: Plunging tax revenues threaten
+[2023-07-15 12:40:24] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 499, 내용: Sex or social media? The sacri
+[2023-07-15 12:40:24] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 500, 내용: 【인사】전주시	https://cp.news.search
+[2023-07-15 12:40:36] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 501, 내용: Yoon asks Kishida to include K
+[2023-07-15 12:40:36] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 502, 내용: Kuehne+Nagel Expands Healthcar
+[2023-07-15 12:40:36] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 503, 내용: 동아에스티, 유럽의약품청에 스텔라라 바이오시밀러 품목허
+[2023-07-15 12:40:36] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 504, 내용: 상명대, SYM Healthcare(주)와 업무협약	h
+[2023-07-15 12:40:36] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 505, 내용: UKRAINE RUSSIA CONFLICT 500 DA
+[2023-07-15 12:40:36] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 506, 내용: National infectious diseases c
+[2023-07-15 12:40:36] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 507, 내용: Automobile, battery, ship expo
+[2023-07-15 12:40:36] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 508, 내용: 부천시, 정신건강 북큐레이션 운영	https://cp.
+[2023-07-15 12:40:36] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 509, 내용: Over 900 'ghost baby' cases un
+[2023-07-15 12:40:36] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 510, 내용: Adenomyosis: from symptoms to 
+[2023-07-15 12:40:47] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 511, 내용: Flight Attack	https://v.daum.n
+[2023-07-15 12:40:47] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 512, 내용: Transgender Health Texas	https
+[2023-07-15 12:40:47] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 513, 내용: 충주시보건소, ‘23년 상반기 주민 참여형 생활터 걷기
+[2023-07-15 12:40:47] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 514, 내용: Medical, healthcare to be most
+[2023-07-15 12:40:47] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 515, 내용: Strikers bring Hyundai Motor p
+[2023-07-15 12:40:47] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 516, 내용: [Reporter’s Notebook] What sho
+[2023-07-15 12:40:47] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 517, 내용: Transgender Rights Health Care
+[2023-07-15 12:40:47] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 518, 내용: Celltrion Healthcare’s Avastin
+[2023-07-15 12:40:47] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 519, 내용: ‘Reimbursement, key to expandi
+[2023-07-15 12:40:47] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 520, 내용: 윤석열 대통령 "오염수 방류, 국민 건강·안전 최우선 
+[2023-07-15 12:40:58] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 521, 내용: 동아ST, 스텔라라 바이오시밀러 유럽서 품목허가 신청	
+[2023-07-15 12:40:58] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 522, 내용: Transgender Rights Health Care
+[2023-07-15 12:40:58] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 523, 내용: UK Healthcare Union Accepts Go
+[2023-07-15 12:40:58] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 524, 내용: Transgender Health Missouri	ht
+[2023-07-15 12:40:58] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 525, 내용: 순천시, 2회 추경예산안 1조 5,865억원 편성..1
+[2023-07-15 12:40:58] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 526, 내용: National Senior Games - 10th A
+[2023-07-15 12:40:58] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 527, 내용: Ahead of Yoon-Kishida summit, 
+[2023-07-15 12:40:58] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 528, 내용: 전남교육청, 청소년 ‘정신건강’ 치유 힘 모은다	htt
+[2023-07-15 12:40:58] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 529, 내용: Growing shark encounters put e
+[2023-07-15 12:40:58] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 530, 내용: 7 in 10 urinary stone patients
+[2023-07-15 12:41:09] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 531, 내용: 동아에스티, 유럽의약품청에 '스텔라라' 바이오시밀러 품
+[2023-07-15 12:41:09] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 532, 내용: NYC Mayor Adams signs Healthca
+[2023-07-15 12:41:09] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 533, 내용: NYC Mayor Adams signs Healthca
+[2023-07-15 12:41:09] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 534, 내용: Overvaluation, lack of access,
+[2023-07-15 12:41:09] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 535, 내용: 동아ST, 스텔라라 바이오시밀러 유럽 품목허가 신청 완
+[2023-07-15 12:41:09] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 536, 내용: 부산시- 국가수리과학연구소, 부산의료수학센터 설립’을 
+[2023-07-15 12:41:09] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 537, 내용: ‘GE HealthCare prioritizes wor
+[2023-07-15 12:41:09] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 538, 내용: Bioventures defy slowdown, lau
+[2023-07-15 12:41:09] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 539, 내용: Korean retailers brace for WHO
+[2023-07-15 12:41:09] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 540, 내용: 동아ST, 스텔라라 바이오시밀러 ‘DMB-3115’ E
+[2023-07-15 12:41:20] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 541, 내용: [Herald Interview] Shin Kyung-
+[2023-07-15 12:41:20] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 542, 내용: 동아ST, 스텔라라 바이오시밀러 유럽 품목허가 신청	h
+[2023-07-15 12:41:20] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 543, 내용: Korea Lands at 3rd among Asian
+[2023-07-15 12:41:20] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 544, 내용: NYC Mayor Adams signs Healthca
+[2023-07-15 12:41:20] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 545, 내용: Korea’s government ensures pro
+[2023-07-15 12:41:20] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 546, 내용: [아미랑] 마지막을 준비하는 이들이 꼭 읽어야 할 글	
+[2023-07-15 12:41:20] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 547, 내용: [투자가에게 듣는다] ① 싱가포르 바이오 큰 손 “M&
+[2023-07-15 12:41:20] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 548, 내용: Another pediatric clinic to cl
+[2023-07-15 12:41:20] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 549, 내용: FM to rally support against NK
+[2023-07-15 12:41:20] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 550, 내용: [밀당365] 연근으로 조림만? ‘깐풍연근’ 만들어 봐
+[2023-07-15 12:41:32] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 551, 내용: 괴산군보건소, 동인초 교직원 대상 'S.O.S 골든타임
+[2023-07-15 12:41:32] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 552, 내용: 아세안 6개국·아세안 보건부 공무원, 韓 보건복지부 방
+[2023-07-15 12:41:32] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 553, 내용: WHO, 아스파탐 ‘발암 가능 물질’ 지정···“현재 
+[2023-07-15 12:41:32] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 554, 내용: 박병규 광주 광산구청장, 어르신들에 건강 삼계탕 배식 
+[2023-07-15 12:41:32] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 555, 내용: 휴대전화로 ‘이만큼’ 통화 많이 하면 혈압 쑥↑	htt
+[2023-07-15 12:41:32] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 556, 내용: 경남도, 책임의료기관 공동 심포지엄 개최	https:/
+[2023-07-15 12:41:32] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 557, 내용: Samsung Electronics files vari
+[2023-07-15 12:41:32] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 558, 내용: 동아ST '스텔라라' 바이오시밀러, 유럽 허가 신청 완
+[2023-07-15 12:41:32] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 559, 내용: 동아ST, '스텔라라 바이오시밀러' 유럽에 허가 신청	
+[2023-07-15 12:41:32] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 560, 내용: Int'l passenger numbers at 7 a
+[2023-07-15 12:41:43] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 561, 내용: 공주시 청소노동자 휴게실은 '창고'	https://cp
+[2023-07-15 12:41:43] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 562, 내용: Korea to lift quarantine requi
+[2023-07-15 12:41:43] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 563, 내용: Yoon asks Japan for S. Korea's
+[2023-07-15 12:41:43] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 564, 내용: [Editorial] Signs of insolvenc
+[2023-07-15 12:41:43] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 565, 내용: NYC Mayor Adams signs Healthca
+[2023-07-15 12:41:43] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 566, 내용: Korea’s Celltrion Group speeds
+[2023-07-15 12:41:43] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 567, 내용: NYC Mayor Adams signs Healthca
+[2023-07-15 12:41:43] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 568, 내용: NYC Mayor Adams signs Healthca
+[2023-07-15 12:41:43] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 569, 내용: 충북교육청, 아침 결식학생 위한 간편식 제공사업 추진	
+[2023-07-15 12:41:43] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 570, 내용: 글로벌 의료 관광의 미래 전망 보고서 발표	https:
+[2023-07-15 12:41:54] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 571, 내용: It’s hard to secure local doct
+[2023-07-15 12:41:54] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 572, 내용: 몇kcal 덜 먹는다고 살 빠질까? 칼로리 오해 5	h
+[2023-07-15 12:41:54] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 573, 내용: 작년 제네시스 스코티시 오픈 3위 김주형, 우승 재도전
+[2023-07-15 12:41:54] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 574, 내용: The illusion of ‘greedflation’
+[2023-07-15 12:41:54] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 575, 내용: Korea maintains aspartame inta
+[2023-07-15 12:41:54] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 576, 내용: Korea adds 333,000 jobs in Jun
+[2023-07-15 12:41:54] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 577, 내용: [Column] Taking more than 10 m
+[2023-07-15 12:41:54] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 578, 내용: Canada First Nations Health	ht
+[2023-07-15 12:41:54] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 579, 내용: Canada First Nations Health	ht
+[2023-07-15 12:41:54] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 580, 내용: [From the Scene] KT to boost m
+[2023-07-15 12:42:05] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 581, 내용: Severe asthma treatment Cinqai
+[2023-07-15 12:42:05] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 582, 내용: Fukushima likely on agenda whe
+[2023-07-15 12:42:05] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 583, 내용: Yoon might discuss Fukushima w
+[2023-07-15 12:42:05] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 584, 내용: Naver Pre-released on Hyper Cl
+[2023-07-15 12:42:05] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 585, 내용: "양치질 건성으로 하면 큰일 나"…치아 상태 안 좋으면
+[2023-07-15 12:42:05] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 586, 내용: 독일, ‘신뢰출산제’ 시행… 산모 신원 밀봉하고 16세
+[2023-07-15 12:42:05] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 587, 내용: Pharma firms scramble for slic
+[2023-07-15 12:42:05] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 588, 내용: W8.6b returned to people who s
+[2023-07-15 12:42:05] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 589, 내용: Oregon Abortion Transgender He
+[2023-07-15 12:42:05] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 590, 내용: EDGC to launch urinary diagnos
+[2023-07-15 12:42:16] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 591, 내용: 부산과학기술대, 「Oral Health Care Cen
+[2023-07-15 12:42:16] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 592, 내용: 동아ST, 스텔라라 바이오시밀러 유럽 품목허가 신청	h
+[2023-07-15 12:42:16] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 593, 내용: 亞 보건 공무원들, 한국 보건의료 인재양성 현장 체험	
+[2023-07-15 12:42:16] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 594, 내용: Korean drugmakers step up deve
+[2023-07-15 12:42:16] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 595, 내용: 한국, 주력산업 반도체·소재·자본재 미·일·중과 경합 
+[2023-07-15 12:42:16] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 596, 내용: Samsung Biologics has record f
+[2023-07-15 12:42:16] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 597, 내용: Korea's Nongshim Targets $1.5B
+[2023-07-15 12:42:16] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 598, 내용: 한국사회보장정보원, 아세안 6개국 보건 공무원 현장 견
+[2023-07-15 12:42:16] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 599, 내용: 청주의료원, 중도중복장애학생 건강권 보장 협약 체결	h
+[2023-07-15 12:42:16] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 600, 내용: Regulator keeps close eye on G
+[2023-07-15 12:42:28] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 601, 내용: 물 많이 마시면 독소 배출될까?	https://v.da
+[2023-07-15 12:42:28] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 602, 내용: Taking public health hostage	h
+[2023-07-15 12:42:28] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 603, 내용: 남동구, AI-IoT 기반 어르신 건강관리 및 원도심 
+[2023-07-15 12:42:28] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 604, 내용: 충주시, 의료 재정 절감 재가 의료급여 시범사업 추진	
+[2023-07-15 12:42:28] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 605, 내용: [Best Brand] Metamix aims to p
+[2023-07-15 12:42:28] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 606, 내용: 'Korea's negative perception o
+[2023-07-15 12:42:28] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 607, 내용: Korea’s National Pension Servi
+[2023-07-15 12:42:28] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 608, 내용: [KH explains] Fear of being sh
+[2023-07-15 12:42:28] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 609, 내용: Georgia Mental Health	https://
+[2023-07-15 12:42:28] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 610, 내용: “양치질 건성으로 하면 안되겠네”…치아상태 안좋으면 각
+[2023-07-15 12:42:39] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 611, 내용: "이젠 우울하지 않소" 고립 중장년 1인가구 회복 프로
+[2023-07-15 12:42:39] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 612, 내용: 음성삼성휴먼시아아파트, 제7호 공동주택 금연 아파트 지
+[2023-07-15 12:42:39] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 613, 내용: 전남자치경찰위-전남교육청, 학교폭력 예방 머리 맞대	h
+[2023-07-15 12:42:39] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 614, 내용: 라이징스타 릭시아나 물특 오픈... 주가 높이는 ADC
+[2023-07-15 12:42:39] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 615, 내용: Ending the social malaise of l
+[2023-07-15 12:42:39] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 616, 내용: 상명대 바이오헬스 혁신융합대학 사업단-SYM Healt
+[2023-07-15 12:42:39] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 617, 내용: Koreans ditch costly getaways 
+[2023-07-15 12:42:39] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 618, 내용: 단양군, 충주의료원과 주민 의료서비스 증진 협약	htt
+[2023-07-15 12:42:39] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 619, 내용: 전국 유일 초광역 ‘광주·전남 반도체 특화단지’ 유치 
+[2023-07-15 12:42:39] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 620, 내용: Probe turns up more cases of d
+[2023-07-15 12:42:50] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 621, 내용: 김천대-(주)필립스코리아 업무협약..구강건강 증진 및 
+[2023-07-15 12:42:50] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 622, 내용: [Health Recipe] 손톱으로 보는 건강	htt
+[2023-07-15 12:42:50] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 623, 내용: 부산 수산물, 꼼꼼하게 검사, 촘촘하게 감시..."안심
+[2023-07-15 12:42:50] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 624, 내용: [속보] 미국 고용보고서 예상밖 "20만명" 뉴욕증시 
+[2023-07-15 12:42:50] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 625, 내용: SPAIN EU EMPLOYMENT	https://v.
+[2023-07-15 12:42:50] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 626, 내용: The secret world of moss, anci
+[2023-07-15 12:42:50] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 627, 내용: No. of mosquitoes carrying mal
+[2023-07-15 12:42:50] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 628, 내용: 진천군보건소, ‘23년도 의료수급권자 국가건강검진 이벤
+[2023-07-15 12:42:50] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 629, 내용: Profit versus health: 4 ways b
+[2023-07-15 12:42:50] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 630, 내용: Liberal politicians head to Ja
+[2023-07-15 12:43:01] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 631, 내용: Yoon arrives in Lithuania, beg
+[2023-07-15 12:43:01] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 632, 내용: 진천군정신건강복지센터, 지역 한의원과 ‘마음청진기’사업
+[2023-07-15 12:43:01] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 633, 내용: Sixth-grader's sexually explic
+[2023-07-15 12:43:01] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 634, 내용: Korea aims to curtail suicide 
+[2023-07-15 12:43:01] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 635, 내용: First Shipyard Workers’ Labor 
+[2023-07-15 12:43:01] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 636, 내용: Mental health checkup cycle sh
+[2023-07-15 12:43:01] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 637, 내용: Pepón Osorio Review: The Artis
+[2023-07-15 12:43:01] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 638, 내용: Attempts to poach popular K-po
+[2023-07-15 12:43:01] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 639, 내용: Mental Health Mandated Care	ht
+[2023-07-15 12:43:01] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 640, 내용: Seoul says it respects IAEA re
+[2023-07-15 12:43:12] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 641, 내용: Soccer Everton Alli	https://v.
+[2023-07-15 12:43:12] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 642, 내용: ITALY WEATHER HEAT	https://v.d
+[2023-07-15 12:43:12] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 643, 내용: 대구 중구보건소-몬스터커피, 심뇌혈관질환예방 업무 협약
+[2023-07-15 12:43:12] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 644, 내용: 中왕이, 후쿠시마 오염수 방출 우려 표명…아세안, 한중
+[2023-07-15 12:43:12] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 645, 내용: 섬뜩한 경고…암까지 부른다	https://v.daum.
+[2023-07-15 12:43:12] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 646, 내용: 보건복지부, 아세안 보건부 중간관리자 대상 초청 연수 
+[2023-07-15 12:43:12] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 647, 내용: 인천교육청, 신기술·신산업 분야 중심 직업계고 학과 재
+[2023-07-15 12:43:12] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 648, 내용: VATICAN ITALY POPE FRANCIS HEA
+[2023-07-15 12:43:12] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 649, 내용: “30년 전 엠씨스퀘어 아냐?”…LG전자의 스트레스 솔
+[2023-07-15 12:43:12] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 650, 내용: Samsung Bioepis, Organon's Hum
+[2023-07-15 12:43:23] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 651, 내용: 경기도교육청, 2023 교육전문직원 임용후보자 공개전형
+[2023-07-15 12:43:23] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 652, 내용: ITALY WEATHER HEAT	https://v.d
+[2023-07-15 12:43:23] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 653, 내용: 상명대 바이오헬스 혁신융합대학 사업단 SYM Healt
+[2023-07-15 12:43:23] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 654, 내용: Presidential office likely to 
+[2023-07-15 12:43:23] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 655, 내용: 영천시 신녕면 주민자치 건강체조팀, 전국댄스대회 대상 
+[2023-07-15 12:43:23] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 656, 내용: Are you under digital distress
+[2023-07-15 12:43:23] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 657, 내용: ITALY WEATHER HEAT	https://v.d
+[2023-07-15 12:43:23] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 658, 내용: Korea declares emergency measu
+[2023-07-15 12:43:23] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 659, 내용: 포항시, 전방위적인 폭염 대비 나서	https://cp
+[2023-07-15 12:43:23] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 660, 내용: Korea’s LS Electric to build f
+[2023-07-15 12:43:35] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 661, 내용: 지멘스 헬시니어스, ‘글로벌 헬스데이’ 지정… 임직원 
+[2023-07-15 12:43:35] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 662, 내용: Transgender Rights Health Care
+[2023-07-15 12:43:35] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 663, 내용: Mental Health Mandated Care	ht
+[2023-07-15 12:43:35] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 664, 내용: Judge Mental Health	https://v.
+[2023-07-15 12:43:35] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 665, 내용: Transgender Rights Health Care
+[2023-07-15 12:43:35] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 666, 내용: Rhenus Sets Industry Focus wit
+[2023-07-15 12:43:35] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 667, 내용: Transgender Rights Health Care
+[2023-07-15 12:43:35] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 668, 내용: Hollywood Actors Go on Strike 
+[2023-07-15 12:43:35] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 669, 내용: 비대면 진료, 건보 재정 낭비 말고 본인 부담하자	ht
+[2023-07-15 12:43:35] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 670, 내용: Transgender Health Missouri	ht
+[2023-07-15 12:43:46] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 671, 내용: 지멘스 헬시니어스, '글로벌 헬스데이' 지정… 임직원 
+[2023-07-15 12:43:46] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 672, 내용: 지멘스 헬시니어스, '글로벌 헬스데이' 행사 가져	ht
+[2023-07-15 12:43:46] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 673, 내용: Medical tourism to Korea for p
+[2023-07-15 12:43:46] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 674, 내용: 지멘스 헬시니어스, ‘글로벌 헬스데이’ 지정 진행	ht
+[2023-07-15 12:43:46] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 675, 내용: 지멘스 헬시니어스, ‘글로벌 헬스데이’ 지정	https
+[2023-07-15 12:43:46] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 676, 내용: 청주시의회 유광욱 의원, 청소년 심리적 외상 예방 및 
+[2023-07-15 12:43:46] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 677, 내용: Barely more than 1 in 3 Korean
+[2023-07-15 12:43:46] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 678, 내용: [Health & Wells] 이 통증은 도대체 무슨 
+[2023-07-15 12:43:46] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 679, 내용: What are microaggressions? And
+[2023-07-15 12:43:46] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 680, 내용: GREECE HEATWAVE	https://v.daum
+[2023-07-15 12:43:57] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 681, 내용: 강기원 의원 발의 ‘환자안전법’ 국회 복지위 통과	ht
+[2023-07-15 12:43:57] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 682, 내용: 전남도, 장흥에 행안부‘청년 창업행복노년’ 스마트타운 
+[2023-07-15 12:43:57] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 683, 내용: Transgender Rights-Healthcare	
+[2023-07-15 12:43:57] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 684, 내용: 단양군보건소, 경로당 14개소 자동심장충격기 비치	ht
+[2023-07-15 12:43:57] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 685, 내용: BRAZIL GOVERNMENT LULA HEALTH 
+[2023-07-15 12:43:57] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 686, 내용: 엔데믹 시대 환자 중심 ‘분산형 임상’ 화두로	http
+[2023-07-15 12:43:57] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 687, 내용: China’s Shoukang Group may bec
+[2023-07-15 12:43:57] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 688, 내용: GREECE HEATWAVE	https://v.daum
+[2023-07-15 12:43:57] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 689, 내용: 인천부평도서관, '쏠쏠책방' 학습자 모집	https:/
+[2023-07-15 12:43:57] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 690, 내용: Logan Paul’s PRIME Energy Drin
+[2023-07-15 12:44:08] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 691, 내용: Transgender Health Florida	htt
+[2023-07-15 12:44:08] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 692, 내용: GREECE WEATHER	https://v.daum.
+[2023-07-15 12:44:08] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 693, 내용: 충북교육청, 학교 관리감독자 산업안전보건교육 진행	ht
+[2023-07-15 12:44:08] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 694, 내용: ITALY VATICAN POPE FRANCIS HEA
+[2023-07-15 12:44:08] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 695, 내용: Ending the social malaise of l
+[2023-07-15 12:44:08] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 696, 내용: [Health Recipe] 이 계절, 셀프 왁싱	ht
+[2023-07-15 12:44:08] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 697, 내용: India Population Health	https:
+[2023-07-15 12:44:08] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 698, 내용: Sales of Jeonju Paper to resum
+[2023-07-15 12:44:08] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 699, 내용: Today is Chobok: Chicken price
+[2023-07-15 12:44:08] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 700, 내용: 남양주시, (사)경기도다르크 경찰에 고발	https:/
+[2023-07-15 12:44:20] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 701, 내용: Yoon urges lawmakers to pass d
+[2023-07-15 12:44:20] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 702, 내용: Twin panda cubs born in Korea	
+[2023-07-15 12:44:20] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 703, 내용: GC Biopharma ‘Plant Lutein Zea
+[2023-07-15 12:44:20] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 704, 내용: 부모 부양 경제적 손실 5.5억…"장기요양 투자해야"	
+[2023-07-15 12:44:20] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 705, 내용: Hollywood Actors’ Strike Looms
+[2023-07-15 12:44:20] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 706, 내용: epaselect INDIA WORLD POPULATI
+[2023-07-15 12:44:20] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 707, 내용: "어린이만 맞는 게 아니다" 성인 위한 예방접종은?	h
+[2023-07-15 12:44:20] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 708, 내용: 'To develop digital health, se
+[2023-07-15 12:44:20] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 709, 내용: 식품 전문가들이 해외여행 갈 때 피하는 ‘이 음식’	h
+[2023-07-15 12:44:20] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 710, 내용: [밀당365] 당뇨 있으면 머리카락도 잘 빠지나요?	h
+[2023-07-15 12:44:31] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 711, 내용: DP calls on IAEA to reconsider
+[2023-07-15 12:44:31] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 712, 내용: epaselect SOUTH KOREA PROTEST	
+[2023-07-15 12:44:31] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 713, 내용: 밀양시, 도심 속 주차환경개선 사업 주목	https:/
+[2023-07-15 12:44:31] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 714, 내용: Now chaos from the credit coop
+[2023-07-15 12:44:31] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 715, 내용: ‘Ghost babies’ expose Korea’s 
+[2023-07-15 12:44:31] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 716, 내용: 삼성바이오에피스, '하드리마' 미국 사보험 등재	htt
+[2023-07-15 12:44:31] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 717, 내용: 괴산군, 넷째아 출산 가정에 출산장려금 지원	https
+[2023-07-15 12:44:31] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 718, 내용: (FILE) BRITAIN BBC	https://v.d
+[2023-07-15 12:44:31] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 719, 내용: Korea’s tougher immigration in
+[2023-07-15 12:44:31] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 720, 내용: 기아, 인도 공장 4년만에 누적생산 100만대 달성	h
+[2023-07-15 12:44:42] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 721, 내용: [아미랑]“신장의 70% 잘라냈지만 삶의 질은 더 좋아
+[2023-07-15 12:44:42] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 722, 내용: 동아에스티, 유럽의약품청에 스텔라라 바이오시밀러 DMB
+[2023-07-15 12:44:42] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 723, 내용: '2023 메디엑스포 코리아' 개막 ...첨단의료산업 
+[2023-07-15 12:44:42] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 724, 내용: 잘 자야 근육 커진다?…운동 효과 높이는 사소한 4가지
+[2023-07-15 12:44:42] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 725, 내용: Yoon, Kishida to meet during N
+[2023-07-15 12:44:42] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 726, 내용: SRI LANKA PROTEST ECONOMIC CRI
+[2023-07-15 12:44:42] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 727, 내용: 인천동부교육청, 약물 오남용 예방 교육극 지원 사업 실
+[2023-07-15 12:44:42] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 728, 내용: [Analysis] Why do Korean stude
+[2023-07-15 12:44:42] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 729, 내용: Switzerland World Health Day	h
+[2023-07-15 12:44:42] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 730, 내용: Switzerland World Health Day	h
+[2023-07-15 12:44:53] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 731, 내용: 제로원AI, 울산과기원-울산의대와 "의과학대학원 AI 
+[2023-07-15 12:44:53] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 732, 내용: SRI LANKA PROTEST ECONOMIC CRI
+[2023-07-15 12:44:53] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 733, 내용: AHF?s SOUTH CAROLINA We The Pe
+[2023-07-15 12:44:53] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 734, 내용: 심혈관질환 위험 낮추는 식품들, 하루 얼마나 먹어야?	
+[2023-07-15 12:44:53] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 735, 내용: Bankrupt US partner of Hanmi h
+[2023-07-15 12:44:53] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 736, 내용: NKMAX attracts $50 million fro
+[2023-07-15 12:44:53] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 737, 내용: ‘Knock on US's door instead of
+[2023-07-15 12:44:53] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 738, 내용: Outlook for Korean SMEs remain
+[2023-07-15 12:44:53] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 739, 내용: United Nations Debt Crisis	htt
+[2023-07-15 12:44:53] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 740, 내용: 경제위기마다 등장하는 긴축재정, '시세션' 심화한다	h
+[2023-07-15 12:45:04] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 741, 내용: 조길형 충주시장, 여름철 무더위쉼터 현장점검	https
+[2023-07-15 12:45:04] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 742, 내용: 대구행복진흥원, 행복대학 강좌 누적 대구시민 2천명 다
+[2023-07-15 12:45:04] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 743, 내용: Korea’s digital health industr
+[2023-07-15 12:45:04] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 744, 내용: AHF?s SOUTH CAROLINA We The Pe
+[2023-07-15 12:45:04] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 745, 내용: 넷마블 엠엔비, 카카오 선물하기와 복날 기념 프로모션 
+[2023-07-15 12:45:04] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 746, 내용: Congress Health Data Breach	ht
+[2023-07-15 12:45:04] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 747, 내용: 김해 의생명·산업진흥원, 인제대학교 보건의료융합대학 업
+[2023-07-15 12:45:04] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 748, 내용: [제약업계 소식] 7월 14일	https://cp.ne
+[2023-07-15 12:45:04] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 749, 내용: Aspartame scandal freaks out K
+[2023-07-15 12:45:04] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 750, 내용: ITALY POPE FRANCIS HEALTH	http
+[2023-07-15 12:45:15] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 751, 내용: ITALY VATICAN POPE FRANCIS HEA
+[2023-07-15 12:45:15] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 752, 내용: ITALY VATICAN POPE FRANCIS HEA
+[2023-07-15 12:45:15] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 753, 내용: AHF's We The People DALLAS adv
+[2023-07-15 12:45:15] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 754, 내용: "장애인 뇌졸중 발병률↑…비장애인보다 20∼30년 빨라
+[2023-07-15 12:45:15] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 755, 내용: 인성정보·제이엘케이 등 원격진료 관련주 강세…기술력 지
+[2023-07-15 12:45:15] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 756, 내용: 광주은행, 순천서 초복 맞이 배식 봉사활동 펼쳐	htt
+[2023-07-15 12:45:15] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 757, 내용: SOUTH KOREA PROTEST	https://v.
+[2023-07-15 12:45:15] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 758, 내용: AHF?s SOUTH CAROLINA We The Pe
+[2023-07-15 12:45:15] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 759, 내용: California Governor AP Intervi
+[2023-07-15 12:45:15] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 760, 내용: 음성군, 취약계층 여름철 폭염 예방 물품 지원	http
+[2023-07-15 12:45:27] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 761, 내용: 광주보건환경연구원, 부적합농산물 1623kg 폐기	ht
+[2023-07-15 12:45:27] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 762, 내용: AHF's We The People LOS ANGELE
+[2023-07-15 12:45:27] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 763, 내용: AHF's We The People LOS ANGELE
+[2023-07-15 12:45:27] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 764, 내용: AHF's We The People LOS ANGELE
+[2023-07-15 12:45:27] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 765, 내용: AHF's We The People LOS ANGELE
+[2023-07-15 12:45:27] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 766, 내용: Judge Mental Health	https://v.
+[2023-07-15 12:45:27] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 767, 내용: 순천시, 간부승진 4급 2명·5급 6명 정기인사 단행.
+[2023-07-15 12:45:27] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 768, 내용: [속보] 식약처, 새우깡 미세플라스틱 논란 관련… "포
+[2023-07-15 12:45:27] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 769, 내용: Transgender Health Florida	htt
+[2023-07-15 12:45:27] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 770, 내용: <건강조언> 남성형 탈모치료 어떻게 해야 효과적일까	h
+[2023-07-15 12:45:38] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 771, 내용: Next-gen K-Beauty Leaders Driv
+[2023-07-15 12:45:38] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 772, 내용: ITALY POPE FRANCIS HEALTH	http
+[2023-07-15 12:45:38] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 773, 내용: BRITAIN HEALTH STRIKE	https://
+[2023-07-15 12:45:38] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 774, 내용: 안동.구미.의성.칠곡, 복지부 일상돌봄 서비스 사업 선
+[2023-07-15 12:45:38] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 775, 내용: 대구 달서구-대구의료원, 재가의료급여 시범사업 추진 업
+[2023-07-15 12:45:38] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 776, 내용: ‘TV 수신료·전기요금 분리 징수’ 국무회의 의결…총리
+[2023-07-15 12:45:38] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 777, 내용: 영덕군, 중장년 정신건강증진을 위한 소셜다이닝 프로그램
+[2023-07-15 12:45:38] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 778, 내용: [Health 건강] 열대야에 ‘잠 못 이루는 밤’ 일
+[2023-07-15 12:45:38] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 779, 내용: YEMEN CONFLICT HEALTH CAMPAIGN
+[2023-07-15 12:45:38] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 780, 내용: [Editorial] Follow reciprocity
+[2023-07-15 12:45:49] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 781, 내용: Decline in birth weight trends
+[2023-07-15 12:45:49] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 782, 내용: India Population Health	https:
+[2023-07-15 12:45:49] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 783, 내용: Exhibition commemorates decade
+[2023-07-15 12:45:49] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 784, 내용: 노인 삶의 질 높이려면? "일어나서 움직이세요"	htt
+[2023-07-15 12:45:49] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 785, 내용: [NEWS IN FOCUS] K-beauty brand
+[2023-07-15 12:45:49] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 786, 내용: "양치질 잘해야겠네"…섬뜩한 경고 [건강!톡]	http
+[2023-07-15 12:45:49] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 787, 내용: 159 overseas medical schools r
+[2023-07-15 12:45:49] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 788, 내용: 단양군 적성면새마을회, 취약계층 삼계탕 나눔행사 진행	
+[2023-07-15 12:45:49] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 789, 내용: YEMEN CONFLICT HEALTH CAMPAIGN
+[2023-07-15 12:45:49] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 790, 내용: [INTERVIEW] M&A in materials, 
+[2023-07-15 12:46:00] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 791, 내용: CERAGEM, Opens the 1st 'Wellne
+[2023-07-15 12:46:00] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 792, 내용: 우리나라 분절적 의료의 문제점 지적	https://cp
+[2023-07-15 12:46:00] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 793, 내용: Pianist Lim yun-chan US tour c
+[2023-07-15 12:46:00] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 794, 내용: Cytiva report reveals Korea’s 
+[2023-07-15 12:46:00] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 795, 내용: "입 속 청결해야 암 위험 낮아져…구강세균이 장기에 직
+[2023-07-15 12:46:00] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 796, 내용: 한전 충북본부, 안전문화 확산 및 대국민 캠페인 동참 
+[2023-07-15 12:46:00] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 797, 내용: VATICAN ITALY POPE FRANCIS HEA
+[2023-07-15 12:46:00] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 798, 내용: 보성군, 고향사랑기부제 기부자 1,000명 돌파	htt
+[2023-07-15 12:46:00] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 799, 내용: 국제무대에선 "여성인권 증진" 외치는 한국, 국내에선 
+[2023-07-15 12:46:00] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 800, 내용: 월드헬스시티포럼 조직위 “월드헬스시티포럼(WHCF) 송
+[2023-07-15 12:46:11] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 801, 내용: CERAGEM, Opens the 1st 'Wellne
+[2023-07-15 12:46:11] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 802, 내용: 우리나라 분절적 의료의 문제점 지적	https://cp
+[2023-07-15 12:46:11] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 803, 내용: Pianist Lim yun-chan US tour c
+[2023-07-15 12:46:11] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 804, 내용: Cytiva report reveals Korea’s 
+[2023-07-15 12:46:11] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 805, 내용: "입 속 청결해야 암 위험 낮아져…구강세균이 장기에 직
+[2023-07-15 12:46:11] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 806, 내용: 한전 충북본부, 안전문화 확산 및 대국민 캠페인 동참 
+[2023-07-15 12:46:11] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 807, 내용: VATICAN ITALY POPE FRANCIS HEA
+[2023-07-15 12:46:11] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 808, 내용: 보성군, 고향사랑기부제 기부자 1,000명 돌파	htt
+[2023-07-15 12:46:11] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 809, 내용: 국제무대에선 "여성인권 증진" 외치는 한국, 국내에선 
+[2023-07-15 12:46:11] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 810, 내용: 월드헬스시티포럼 조직위 “월드헬스시티포럼(WHCF) 송
+[2023-07-15 12:46:23] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 811, 내용: CERAGEM, Opens the 1st 'Wellne
+[2023-07-15 12:46:23] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 812, 내용: 우리나라 분절적 의료의 문제점 지적	https://cp
+[2023-07-15 12:46:23] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 813, 내용: Pianist Lim yun-chan US tour c
+[2023-07-15 12:46:23] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 814, 내용: Cytiva report reveals Korea’s 
+[2023-07-15 12:46:23] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 815, 내용: "입 속 청결해야 암 위험 낮아져…구강세균이 장기에 직
+[2023-07-15 12:46:23] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 816, 내용: 한전 충북본부, 안전문화 확산 및 대국민 캠페인 동참 
+[2023-07-15 12:46:23] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 817, 내용: VATICAN ITALY POPE FRANCIS HEA
+[2023-07-15 12:46:23] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 818, 내용: 보성군, 고향사랑기부제 기부자 1,000명 돌파	htt
+[2023-07-15 12:46:23] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 819, 내용: 국제무대에선 "여성인권 증진" 외치는 한국, 국내에선 
+[2023-07-15 12:46:23] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 820, 내용: 월드헬스시티포럼 조직위 “월드헬스시티포럼(WHCF) 송
+[2023-07-15 12:46:34] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 821, 내용: CERAGEM, Opens the 1st 'Wellne
+[2023-07-15 12:46:34] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 822, 내용: 우리나라 분절적 의료의 문제점 지적	https://cp
+[2023-07-15 12:46:34] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 823, 내용: Pianist Lim yun-chan US tour c
+[2023-07-15 12:46:34] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 824, 내용: Cytiva report reveals Korea’s 
+[2023-07-15 12:46:34] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 825, 내용: "입 속 청결해야 암 위험 낮아져…구강세균이 장기에 직
+[2023-07-15 12:46:34] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 826, 내용: 한전 충북본부, 안전문화 확산 및 대국민 캠페인 동참 
+[2023-07-15 12:46:34] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 827, 내용: VATICAN ITALY POPE FRANCIS HEA
+[2023-07-15 12:46:34] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 828, 내용: 보성군, 고향사랑기부제 기부자 1,000명 돌파	htt
+[2023-07-15 12:46:34] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 829, 내용: 국제무대에선 "여성인권 증진" 외치는 한국, 국내에선 
+[2023-07-15 12:46:34] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 830, 내용: 월드헬스시티포럼 조직위 “월드헬스시티포럼(WHCF) 송
+[2023-07-15 12:46:45] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 831, 내용: CERAGEM, Opens the 1st 'Wellne
+[2023-07-15 12:46:45] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 832, 내용: 우리나라 분절적 의료의 문제점 지적	https://cp
+[2023-07-15 12:46:45] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 833, 내용: Pianist Lim yun-chan US tour c
+[2023-07-15 12:46:45] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 834, 내용: Cytiva report reveals Korea’s 
+[2023-07-15 12:46:45] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 835, 내용: "입 속 청결해야 암 위험 낮아져…구강세균이 장기에 직
+[2023-07-15 12:46:45] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 836, 내용: 한전 충북본부, 안전문화 확산 및 대국민 캠페인 동참 
+[2023-07-15 12:46:45] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 837, 내용: VATICAN ITALY POPE FRANCIS HEA
+[2023-07-15 12:46:45] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 838, 내용: 보성군, 고향사랑기부제 기부자 1,000명 돌파	htt
+[2023-07-15 12:46:45] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 839, 내용: 국제무대에선 "여성인권 증진" 외치는 한국, 국내에선 
+[2023-07-15 12:46:45] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 840, 내용: 월드헬스시티포럼 조직위 “월드헬스시티포럼(WHCF) 송
+[2023-07-15 12:46:56] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 841, 내용: CERAGEM, Opens the 1st 'Wellne
+[2023-07-15 12:46:56] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 842, 내용: 우리나라 분절적 의료의 문제점 지적	https://cp
+[2023-07-15 12:46:56] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 843, 내용: Pianist Lim yun-chan US tour c
+[2023-07-15 12:46:56] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 844, 내용: Cytiva report reveals Korea’s 
+[2023-07-15 12:46:56] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 845, 내용: "입 속 청결해야 암 위험 낮아져…구강세균이 장기에 직
+[2023-07-15 12:46:56] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 846, 내용: 한전 충북본부, 안전문화 확산 및 대국민 캠페인 동참 
+[2023-07-15 12:46:56] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 847, 내용: VATICAN ITALY POPE FRANCIS HEA
+[2023-07-15 12:46:56] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 848, 내용: 보성군, 고향사랑기부제 기부자 1,000명 돌파	htt
+[2023-07-15 12:46:56] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 849, 내용: 국제무대에선 "여성인권 증진" 외치는 한국, 국내에선 
+[2023-07-15 12:46:56] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 850, 내용: 월드헬스시티포럼 조직위 “월드헬스시티포럼(WHCF) 송
+[2023-07-15 12:47:07] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 851, 내용: CERAGEM, Opens the 1st 'Wellne
+[2023-07-15 12:47:07] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 852, 내용: 우리나라 분절적 의료의 문제점 지적	https://cp
+[2023-07-15 12:47:07] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 853, 내용: Pianist Lim yun-chan US tour c
+[2023-07-15 12:47:07] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 854, 내용: Cytiva report reveals Korea’s 
+[2023-07-15 12:47:07] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 855, 내용: "입 속 청결해야 암 위험 낮아져…구강세균이 장기에 직
+[2023-07-15 12:47:07] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 856, 내용: 한전 충북본부, 안전문화 확산 및 대국민 캠페인 동참 
+[2023-07-15 12:47:07] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 857, 내용: VATICAN ITALY POPE FRANCIS HEA
+[2023-07-15 12:47:07] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 858, 내용: 보성군, 고향사랑기부제 기부자 1,000명 돌파	htt
+[2023-07-15 12:47:07] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 859, 내용: 국제무대에선 "여성인권 증진" 외치는 한국, 국내에선 
+[2023-07-15 12:47:07] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 860, 내용: 월드헬스시티포럼 조직위 “월드헬스시티포럼(WHCF) 송
+[2023-07-15 12:47:19] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 861, 내용: CERAGEM, Opens the 1st 'Wellne
+[2023-07-15 12:47:19] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 862, 내용: 우리나라 분절적 의료의 문제점 지적	https://cp
+[2023-07-15 12:47:19] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 863, 내용: Pianist Lim yun-chan US tour c
+[2023-07-15 12:47:19] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 864, 내용: Cytiva report reveals Korea’s 
+[2023-07-15 12:47:19] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 865, 내용: "입 속 청결해야 암 위험 낮아져…구강세균이 장기에 직
+[2023-07-15 12:47:19] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 866, 내용: 한전 충북본부, 안전문화 확산 및 대국민 캠페인 동참 
+[2023-07-15 12:47:19] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 867, 내용: VATICAN ITALY POPE FRANCIS HEA
+[2023-07-15 12:47:19] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 868, 내용: 보성군, 고향사랑기부제 기부자 1,000명 돌파	htt
+[2023-07-15 12:47:19] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 869, 내용: 국제무대에선 "여성인권 증진" 외치는 한국, 국내에선 
+[2023-07-15 12:47:19] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 870, 내용: 월드헬스시티포럼 조직위 “월드헬스시티포럼(WHCF) 송
+[2023-07-15 12:47:30] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 871, 내용: CERAGEM, Opens the 1st 'Wellne
+[2023-07-15 12:47:30] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 872, 내용: 우리나라 분절적 의료의 문제점 지적	https://cp
+[2023-07-15 12:47:30] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 873, 내용: Pianist Lim yun-chan US tour c
+[2023-07-15 12:47:30] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 874, 내용: Cytiva report reveals Korea’s 
+[2023-07-15 12:47:30] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 875, 내용: "입 속 청결해야 암 위험 낮아져…구강세균이 장기에 직
+[2023-07-15 12:47:30] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 876, 내용: 한전 충북본부, 안전문화 확산 및 대국민 캠페인 동참 
+[2023-07-15 12:47:30] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 877, 내용: VATICAN ITALY POPE FRANCIS HEA
+[2023-07-15 12:47:30] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 878, 내용: 보성군, 고향사랑기부제 기부자 1,000명 돌파	htt
+[2023-07-15 12:47:30] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 879, 내용: 국제무대에선 "여성인권 증진" 외치는 한국, 국내에선 
+[2023-07-15 12:47:30] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 880, 내용: 월드헬스시티포럼 조직위 “월드헬스시티포럼(WHCF) 송
+[2023-07-15 12:47:41] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 881, 내용: CERAGEM, Opens the 1st 'Wellne
+[2023-07-15 12:47:41] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 882, 내용: 우리나라 분절적 의료의 문제점 지적	https://cp
+[2023-07-15 12:47:41] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 883, 내용: Pianist Lim yun-chan US tour c
+[2023-07-15 12:47:41] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 884, 내용: Cytiva report reveals Korea’s 
+[2023-07-15 12:47:41] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 885, 내용: "입 속 청결해야 암 위험 낮아져…구강세균이 장기에 직
+[2023-07-15 12:47:41] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 886, 내용: 한전 충북본부, 안전문화 확산 및 대국민 캠페인 동참 
+[2023-07-15 12:47:41] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 887, 내용: VATICAN ITALY POPE FRANCIS HEA
+[2023-07-15 12:47:41] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 888, 내용: 보성군, 고향사랑기부제 기부자 1,000명 돌파	htt
+[2023-07-15 12:47:41] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 889, 내용: 국제무대에선 "여성인권 증진" 외치는 한국, 국내에선 
+[2023-07-15 12:47:41] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 890, 내용: 월드헬스시티포럼 조직위 “월드헬스시티포럼(WHCF) 송
+[2023-07-15 12:47:52] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 891, 내용: CERAGEM, Opens the 1st 'Wellne
+[2023-07-15 12:47:52] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 892, 내용: 우리나라 분절적 의료의 문제점 지적	https://cp
+[2023-07-15 12:47:52] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 893, 내용: Pianist Lim yun-chan US tour c
+[2023-07-15 12:47:52] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 894, 내용: Cytiva report reveals Korea’s 
+[2023-07-15 12:47:52] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 895, 내용: "입 속 청결해야 암 위험 낮아져…구강세균이 장기에 직
+[2023-07-15 12:47:52] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 896, 내용: 한전 충북본부, 안전문화 확산 및 대국민 캠페인 동참 
+[2023-07-15 12:47:52] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 897, 내용: VATICAN ITALY POPE FRANCIS HEA
+[2023-07-15 12:47:52] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 898, 내용: 보성군, 고향사랑기부제 기부자 1,000명 돌파	htt
+[2023-07-15 12:47:52] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 899, 내용: 국제무대에선 "여성인권 증진" 외치는 한국, 국내에선 
+[2023-07-15 12:47:52] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 900, 내용: 월드헬스시티포럼 조직위 “월드헬스시티포럼(WHCF) 송
+[2023-07-15 12:48:03] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 901, 내용: CERAGEM, Opens the 1st 'Wellne
+[2023-07-15 12:48:03] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 902, 내용: 우리나라 분절적 의료의 문제점 지적	https://cp
+[2023-07-15 12:48:03] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 903, 내용: Pianist Lim yun-chan US tour c
+[2023-07-15 12:48:03] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 904, 내용: Cytiva report reveals Korea’s 
+[2023-07-15 12:48:03] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 905, 내용: "입 속 청결해야 암 위험 낮아져…구강세균이 장기에 직
+[2023-07-15 12:48:03] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 906, 내용: 한전 충북본부, 안전문화 확산 및 대국민 캠페인 동참 
+[2023-07-15 12:48:03] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 907, 내용: VATICAN ITALY POPE FRANCIS HEA
+[2023-07-15 12:48:03] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 908, 내용: 보성군, 고향사랑기부제 기부자 1,000명 돌파	htt
+[2023-07-15 12:48:03] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 909, 내용: 국제무대에선 "여성인권 증진" 외치는 한국, 국내에선 
+[2023-07-15 12:48:03] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 910, 내용: 월드헬스시티포럼 조직위 “월드헬스시티포럼(WHCF) 송
+[2023-07-15 12:48:15] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 911, 내용: CERAGEM, Opens the 1st 'Wellne
+[2023-07-15 12:48:15] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 912, 내용: 우리나라 분절적 의료의 문제점 지적	https://cp
+[2023-07-15 12:48:15] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 913, 내용: Pianist Lim yun-chan US tour c
+[2023-07-15 12:48:15] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 914, 내용: Cytiva report reveals Korea’s 
+[2023-07-15 12:48:15] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 915, 내용: "입 속 청결해야 암 위험 낮아져…구강세균이 장기에 직
+[2023-07-15 12:48:15] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 916, 내용: 한전 충북본부, 안전문화 확산 및 대국민 캠페인 동참 
+[2023-07-15 12:48:15] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 917, 내용: VATICAN ITALY POPE FRANCIS HEA
+[2023-07-15 12:48:15] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 918, 내용: 보성군, 고향사랑기부제 기부자 1,000명 돌파	htt
+[2023-07-15 12:48:15] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 919, 내용: 국제무대에선 "여성인권 증진" 외치는 한국, 국내에선 
+[2023-07-15 12:48:15] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 920, 내용: 월드헬스시티포럼 조직위 “월드헬스시티포럼(WHCF) 송
+[2023-07-15 12:48:26] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 921, 내용: CERAGEM, Opens the 1st 'Wellne
+[2023-07-15 12:48:26] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 922, 내용: 우리나라 분절적 의료의 문제점 지적	https://cp
+[2023-07-15 12:48:26] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 923, 내용: Pianist Lim yun-chan US tour c
+[2023-07-15 12:48:26] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 924, 내용: Cytiva report reveals Korea’s 
+[2023-07-15 12:48:26] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 925, 내용: 한전 충북본부, 안전문화 확산 및 대국민 캠페인 동참 
+[2023-07-15 12:48:26] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 926, 내용: "입 속 청결해야 암 위험 낮아져…구강세균이 장기에 직
+[2023-07-15 12:48:26] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 927, 내용: VATICAN ITALY POPE FRANCIS HEA
+[2023-07-15 12:48:26] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 928, 내용: 보성군, 고향사랑기부제 기부자 1,000명 돌파	htt
+[2023-07-15 12:48:26] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 929, 내용: 국제무대에선 "여성인권 증진" 외치는 한국, 국내에선 
+[2023-07-15 12:48:26] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 930, 내용: 월드헬스시티포럼 조직위 “월드헬스시티포럼(WHCF) 송
+[2023-07-15 12:48:37] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 931, 내용: CERAGEM, Opens the 1st 'Wellne
+[2023-07-15 12:48:37] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 932, 내용: 우리나라 분절적 의료의 문제점 지적	https://cp
+[2023-07-15 12:48:37] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 933, 내용: Pianist Lim yun-chan US tour c
+[2023-07-15 12:48:37] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 934, 내용: Cytiva report reveals Korea’s 
+[2023-07-15 12:48:37] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 935, 내용: 한전 충북본부, 안전문화 확산 및 대국민 캠페인 동참 
+[2023-07-15 12:48:37] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 936, 내용: "입 속 청결해야 암 위험 낮아져…구강세균이 장기에 직
+[2023-07-15 12:48:37] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 937, 내용: VATICAN ITALY POPE FRANCIS HEA
+[2023-07-15 12:48:37] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 938, 내용: 보성군, 고향사랑기부제 기부자 1,000명 돌파	htt
+[2023-07-15 12:48:37] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 939, 내용: 국제무대에선 "여성인권 증진" 외치는 한국, 국내에선 
+[2023-07-15 12:48:37] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 940, 내용: 월드헬스시티포럼 조직위 “월드헬스시티포럼(WHCF) 송
+[2023-07-15 12:48:48] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 941, 내용: CERAGEM, Opens the 1st 'Wellne
+[2023-07-15 12:48:48] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 942, 내용: 우리나라 분절적 의료의 문제점 지적	https://cp
+[2023-07-15 12:48:48] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 943, 내용: Pianist Lim yun-chan US tour c
+[2023-07-15 12:48:48] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 944, 내용: Cytiva report reveals Korea’s 
+[2023-07-15 12:48:48] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 945, 내용: 한전 충북본부, 안전문화 확산 및 대국민 캠페인 동참 
+[2023-07-15 12:48:48] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 946, 내용: "입 속 청결해야 암 위험 낮아져…구강세균이 장기에 직
+[2023-07-15 12:48:48] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 947, 내용: VATICAN ITALY POPE FRANCIS HEA
+[2023-07-15 12:48:48] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 948, 내용: 보성군, 고향사랑기부제 기부자 1,000명 돌파	htt
+[2023-07-15 12:48:48] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 949, 내용: 국제무대에선 "여성인권 증진" 외치는 한국, 국내에선 
+[2023-07-15 12:48:48] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 950, 내용: 월드헬스시티포럼 조직위 “월드헬스시티포럼(WHCF) 송
+[2023-07-15 12:48:59] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 951, 내용: CERAGEM, Opens the 1st 'Wellne
+[2023-07-15 12:48:59] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 952, 내용: 우리나라 분절적 의료의 문제점 지적	https://cp
+[2023-07-15 12:48:59] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 953, 내용: Pianist Lim yun-chan US tour c
+[2023-07-15 12:48:59] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 954, 내용: Cytiva report reveals Korea’s 
+[2023-07-15 12:48:59] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 955, 내용: 한전 충북본부, 안전문화 확산 및 대국민 캠페인 동참 
+[2023-07-15 12:48:59] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 956, 내용: "입 속 청결해야 암 위험 낮아져…구강세균이 장기에 직
+[2023-07-15 12:48:59] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 957, 내용: VATICAN ITALY POPE FRANCIS HEA
+[2023-07-15 12:48:59] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 958, 내용: 보성군, 고향사랑기부제 기부자 1,000명 돌파	htt
+[2023-07-15 12:48:59] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 959, 내용: 국제무대에선 "여성인권 증진" 외치는 한국, 국내에선 
+[2023-07-15 12:48:59] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 960, 내용: 월드헬스시티포럼 조직위 “월드헬스시티포럼(WHCF) 송
+[2023-07-15 12:49:11] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 961, 내용: CERAGEM, Opens the 1st 'Wellne
+[2023-07-15 12:49:11] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 962, 내용: 우리나라 분절적 의료의 문제점 지적	https://cp
+[2023-07-15 12:49:11] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 963, 내용: Pianist Lim yun-chan US tour c
+[2023-07-15 12:49:11] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 964, 내용: Cytiva report reveals Korea’s 
+[2023-07-15 12:49:11] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 965, 내용: 한전 충북본부, 안전문화 확산 및 대국민 캠페인 동참 
+[2023-07-15 12:49:11] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 966, 내용: VATICAN ITALY POPE FRANCIS HEA
+[2023-07-15 12:49:11] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 967, 내용: "입 속 청결해야 암 위험 낮아져…구강세균이 장기에 직
+[2023-07-15 12:49:11] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 968, 내용: 보성군, 고향사랑기부제 기부자 1,000명 돌파	htt
+[2023-07-15 12:49:11] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 969, 내용: 국제무대에선 "여성인권 증진" 외치는 한국, 국내에선 
+[2023-07-15 12:49:11] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 970, 내용: 월드헬스시티포럼 조직위 “월드헬스시티포럼(WHCF) 송
+[2023-07-15 12:49:22] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 971, 내용: CERAGEM, Opens the 1st 'Wellne
+[2023-07-15 12:49:22] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 972, 내용: 우리나라 분절적 의료의 문제점 지적	https://cp
+[2023-07-15 12:49:22] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 973, 내용: Pianist Lim yun-chan US tour c
+[2023-07-15 12:49:22] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 974, 내용: Cytiva report reveals Korea’s 
+[2023-07-15 12:49:22] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 975, 내용: 한전 충북본부, 안전문화 확산 및 대국민 캠페인 동참 
+[2023-07-15 12:49:22] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 976, 내용: VATICAN ITALY POPE FRANCIS HEA
+[2023-07-15 12:49:22] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 977, 내용: "입 속 청결해야 암 위험 낮아져…구강세균이 장기에 직
+[2023-07-15 12:49:22] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 978, 내용: 보성군, 고향사랑기부제 기부자 1,000명 돌파	htt
+[2023-07-15 12:49:22] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 979, 내용: 국제무대에선 "여성인권 증진" 외치는 한국, 국내에선 
+[2023-07-15 12:49:22] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 980, 내용: 월드헬스시티포럼 조직위 “월드헬스시티포럼(WHCF) 송
+[2023-07-15 12:49:33] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 981, 내용: CERAGEM, Opens the 1st 'Wellne
+[2023-07-15 12:49:33] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 982, 내용: 우리나라 분절적 의료의 문제점 지적	https://cp
+[2023-07-15 12:49:33] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 983, 내용: Pianist Lim yun-chan US tour c
+[2023-07-15 12:49:33] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 984, 내용: Cytiva report reveals Korea’s 
+[2023-07-15 12:49:33] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 985, 내용: 한전 충북본부, 안전문화 확산 및 대국민 캠페인 동참 
+[2023-07-15 12:49:33] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 986, 내용: VATICAN ITALY POPE FRANCIS HEA
+[2023-07-15 12:49:33] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 987, 내용: "입 속 청결해야 암 위험 낮아져…구강세균이 장기에 직
+[2023-07-15 12:49:33] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 988, 내용: 보성군, 고향사랑기부제 기부자 1,000명 돌파	htt
+[2023-07-15 12:49:33] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 989, 내용: 국제무대에선 "여성인권 증진" 외치는 한국, 국내에선 
+[2023-07-15 12:49:33] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 990, 내용: 월드헬스시티포럼 조직위 “월드헬스시티포럼(WHCF) 송
+[2023-07-15 12:49:44] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 991, 내용: CERAGEM, Opens the 1st 'Wellne
+[2023-07-15 12:49:44] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 992, 내용: 우리나라 분절적 의료의 문제점 지적	https://cp
+[2023-07-15 12:49:44] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 993, 내용: Pianist Lim yun-chan US tour c
+[2023-07-15 12:49:44] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 994, 내용: Cytiva report reveals Korea’s 
+[2023-07-15 12:49:44] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 995, 내용: 한전 충북본부, 안전문화 확산 및 대국민 캠페인 동참 
+[2023-07-15 12:49:44] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 996, 내용: VATICAN ITALY POPE FRANCIS HEA
+[2023-07-15 12:49:44] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 997, 내용: "입 속 청결해야 암 위험 낮아져…구강세균이 장기에 직
+[2023-07-15 12:49:44] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 998, 내용: 보성군, 고향사랑기부제 기부자 1,000명 돌파	htt
+[2023-07-15 12:49:44] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 999, 내용: 국제무대에선 "여성인권 증진" 외치는 한국, 국내에선 
+[2023-07-15 12:49:44] (DEBUG) => task-[646625] 수집 중 => 키워드: health, 카운트: 1000, 내용: 월드헬스시티포럼 조직위 “월드헬스시티포럼(WHCF) 송

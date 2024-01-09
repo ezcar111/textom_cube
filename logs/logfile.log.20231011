@@ -1,0 +1,559 @@
+[2023-10-11 23:42:16] (DEBUG) => Worker-[1000]가 task-[4127]의 'academic'(을)를 시작합니다. (Thread: 32092)
+[2023-10-11 23:42:16] (DEBUG) => Worker-[1000]가 task-[4127]의 'academic'(을)를 처리중입니다.
+[2023-10-11 23:42:17] (DEBUG) => 수집정보 => 채널: baidu, 유형: academic, 키워드: ChatGPT, 기간: 2023-07-11 ~ 2023-10-11, 테이블: scraw_baidu_datainfo
+[2023-10-11 23:42:17] (DEBUG) => [Messaging] 다음의 URL에서 콘텐츠를 수집합니다=> http://xueshu.baidu.com/s?wd=ChatGPT&pn=0&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8&filter=sc_year%3D%7B2023%2C2023%7D&sc_hit=1
+[2023-10-11 23:42:19] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 1, 내용: Southern New Hampshire's Paul 
+[2023-10-11 23:42:19] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 2, 내용: THE ORTHOPAEDIC FORUM What's I
+[2023-10-11 23:42:19] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 3, 내용: 算法"舒适圈"及其破茧——兼论ChatGPT的算法内容	ht
+[2023-10-11 23:42:19] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 4, 내용: ChatGPTin Radiology: Evaluatin
+[2023-10-11 23:42:19] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 5, 내용: chatGPT,AlOps与未来数据中心建设	https:h
+[2023-10-11 23:42:19] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 6, 내용: ChatGPT热潮下的图书馆服务:理念,机遇与破局*	htt
+[2023-10-11 23:42:19] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 7, 내용: The Value of Open AI and Chat 
+[2023-10-11 23:42:19] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 8, 내용: Chat GPT: the need for an ethi
+[2023-10-11 23:42:19] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 9, 내용: I Asked a ChatGPT to Write an 
+[2023-10-11 23:42:19] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 10, 내용: We still need to teach enginee
+[2023-10-11 23:42:39] (DEBUG) => [Current Working] Repeat: 1.0/100.0, Collection: 10/1000.. Wait 10 seconds
+[2023-10-11 23:42:39] (DEBUG) => [Messaging] 다음의 URL에서 콘텐츠를 수집합니다=> http://xueshu.baidu.com/s?wd=ChatGPT&pn=10&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8&filter=sc_year%3D%7B2023%2C2023%7D&sc_hit=1
+[2023-10-11 23:42:40] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 11, 내용: Lawyer in ChatGPT Fake-Cases H
+[2023-10-11 23:42:40] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 12, 내용: Using ChatGPT and other AI‐ass
+[2023-10-11 23:42:40] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 13, 내용: The Challenges for Regulating 
+[2023-10-11 23:42:40] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 14, 내용: [图书]     AIGC新纪元 洞察ChatGPT与智能
+[2023-10-11 23:42:40] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 15, 내용: [图书]     码上行动:利用PYTHON与CHATGP
+[2023-10-11 23:42:40] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 16, 내용: Using ChatGPT to Teach Enhance
+[2023-10-11 23:42:40] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 17, 내용: Nearly Half of Firms Are Draft
+[2023-10-11 23:42:40] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 18, 내용: 知识复制抑或创新激发?——人工智能(ChatGPT)对社科类
+[2023-10-11 23:42:40] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 19, 내용: 人类与ChatGPT的共存共生:从"数字鸿沟"到"数智鸿沟"
+[2023-10-11 23:42:40] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 20, 내용: [图书]     深度学习在自然语言处理中的应用 从词表征
+[2023-10-11 23:43:00] (DEBUG) => [Current Working] Repeat: 2.0/100.0, Collection: 20/1000.. Wait 10 seconds
+[2023-10-11 23:43:00] (DEBUG) => [Messaging] 다음의 URL에서 콘텐츠를 수집합니다=> http://xueshu.baidu.com/s?wd=ChatGPT&pn=20&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8&filter=sc_year%3D%7B2023%2C2023%7D&sc_hit=1
+[2023-10-11 23:43:01] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 21, 내용: ChatGPT in Dermatology Clinica
+[2023-10-11 23:43:01] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 22, 내용: OpenAI Hit With First Defamati
+[2023-10-11 23:43:01] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 23, 내용: ChatGPT Can Help Lawyers Do Th
+[2023-10-11 23:43:01] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 24, 내용: 自然语言处理模型辅助法律检索的限度及应对——以ChatGPT
+[2023-10-11 23:43:01] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 25, 내용: WEB 3.0, METAVERSE & CHATGPT W
+[2023-10-11 23:43:01] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 26, 내용: Using chatbots like ChatGPT to
+[2023-10-11 23:43:01] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 27, 내용: Chatbots Attempt Physics Homew
+[2023-10-11 23:43:01] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 28, 내용: ChatGPT视域下人工智能安全风险治理探析	https:h
+[2023-10-11 23:43:01] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 29, 내용: ChatGPT推进网络政治悖论性传播的可能性维度	https
+[2023-10-11 23:43:01] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 30, 내용: ChatGPT Tempts Big Law Despite
+[2023-10-11 23:43:21] (DEBUG) => [Current Working] Repeat: 3.0/100.0, Collection: 30/1000.. Wait 10 seconds
+[2023-10-11 23:43:21] (DEBUG) => [Messaging] 다음의 URL에서 콘텐츠를 수집합니다=> http://xueshu.baidu.com/s?wd=ChatGPT&pn=30&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8&filter=sc_year%3D%7B2023%2C2023%7D&sc_hit=1
+[2023-10-11 23:43:22] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 31, 내용: [图书]     智慧共生 ChatGPT与AIGC生产力
+[2023-10-11 23:43:22] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 32, 내용: 基于ChatGPT的生成式共同价值标准例句库建设	https
+[2023-10-11 23:43:22] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 33, 내용: 数字出版领域智能语言模型的应用,风险与治理——基于ChatG
+[2023-10-11 23:43:22] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 34, 내용: 生成式人工智能时代的政治传播走向——基于ChatGPT的讨论
+[2023-10-11 23:43:22] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 35, 내용: Letter to the Editor on "Will 
+[2023-10-11 23:43:22] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 36, 내용: Of Slats Grobnik, Jason Whitlo
+[2023-10-11 23:43:22] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 37, 내용: China Mandates Security Review
+[2023-10-11 23:43:22] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 38, 내용: ChatGPT's knowledge of copyrig
+[2023-10-11 23:43:22] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 39, 내용: ChatGPT in transfusion medicin
+[2023-10-11 23:43:22] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 40, 내용: Finding the Place of ChatGPT i
+[2023-10-11 23:43:42] (DEBUG) => [Current Working] Repeat: 4.0/100.0, Collection: 40/1000.. Wait 10 seconds
+[2023-10-11 23:43:42] (DEBUG) => [Messaging] 다음의 URL에서 콘텐츠를 수집합니다=> http://xueshu.baidu.com/s?wd=ChatGPT&pn=40&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8&filter=sc_year%3D%7B2023%2C2023%7D&sc_hit=1
+[2023-10-11 23:43:43] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 41, 내용: The Bloomberg Terminal Just Go
+[2023-10-11 23:43:43] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 42, 내용: Not just ChatGPT: bank traders
+[2023-10-11 23:43:43] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 43, 내용: Potential applications of Chat
+[2023-10-11 23:43:43] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 44, 내용: An open AI roundup: What marke
+[2023-10-11 23:43:43] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 45, 내용: Southern New Hampshire's Paul 
+[2023-10-11 23:43:43] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 46, 내용: Southern New Hampshire's Paul 
+[2023-10-11 23:43:43] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 47, 내용: An open AI roundup: What marke
+[2023-10-11 23:43:43] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 48, 내용: The CW Way and a Reply from Ch
+[2023-10-11 23:43:43] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 49, 내용: Google's Monopoly Delayed Inno
+[2023-10-11 23:43:43] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 50, 내용: 人工智能聊天机器人ChatGPT的媒介属性,影响与局限	ht
+[2023-10-11 23:44:04] (DEBUG) => [Current Working] Repeat: 5.0/100.0, Collection: 50/1000.. Wait 10 seconds
+[2023-10-11 23:44:04] (DEBUG) => [Messaging] 다음의 URL에서 콘텐츠를 수집합니다=> http://xueshu.baidu.com/s?wd=ChatGPT&pn=50&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8&filter=sc_year%3D%7B2023%2C2023%7D&sc_hit=1
+[2023-10-11 23:44:05] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 51, 내용: ChatGPT Can Help Lawyers Do Th
+[2023-10-11 23:44:05] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 52, 내용: ChatGPT—A promising generative
+[2023-10-11 23:44:05] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 53, 내용: Artificial intelligence—ChatGP
+[2023-10-11 23:44:05] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 54, 내용: 广告人VS ChatGPT,戛纳幼狮勇敢应答	https:h
+[2023-10-11 23:44:05] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 55, 내용: 征服自然or道法自然?——关于ChatGPT的另类思考	ht
+[2023-10-11 23:44:05] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 56, 내용: 人工智能技术对国际中文教育的影响与对策——在ChatGPT出
+[2023-10-11 23:44:05] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 57, 내용: 技术时代的教育存在危机透视--从ChatGPT出发的思考	h
+[2023-10-11 23:44:05] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 58, 내용: 科大讯飞,布局ChatGPT玩家里的中坚力量	https:h
+[2023-10-11 23:44:05] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 59, 내용: 从元宇宙到ChatGPT:人际传播场景的回归	https:h
+[2023-10-11 23:44:05] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 60, 내용: ChatGPT对我国会计教育教学和学术诚信的影响探索	htt
+[2023-10-11 23:44:25] (DEBUG) => [Current Working] Repeat: 6.0/100.0, Collection: 60/1000.. Wait 10 seconds
+[2023-10-11 23:44:25] (DEBUG) => [Messaging] 다음의 URL에서 콘텐츠를 수집합니다=> http://xueshu.baidu.com/s?wd=ChatGPT&pn=60&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8&filter=sc_year%3D%7B2023%2C2023%7D&sc_hit=1
+[2023-10-11 23:44:26] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 61, 내용: The Role of ChatGPT in Periane
+[2023-10-11 23:44:26] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 62, 내용: Aye, AI! ChatGPT passes multip
+[2023-10-11 23:44:26] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 63, 내용: 机器学习时代的人类学习——ChatGPT引发的教育哲学反思	
+[2023-10-11 23:44:26] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 64, 내용: "推进教育数字化"系列之四 教育人工智能与教师专业发展——C
+[2023-10-11 23:44:26] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 65, 내용: ChatGPT in Research: Balancing
+[2023-10-11 23:44:26] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 66, 내용: 机喻文化:ChatGPT引发的相关思考及对策建议	https
+[2023-10-11 23:44:26] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 67, 내용: 当软件测试遇上ChatGPT:软件测试未来展望	https:
+[2023-10-11 23:44:26] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 68, 내용: ChatGPT横空出世数字经济发展面临新机遇	https:h
+[2023-10-11 23:44:26] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 69, 내용: ChatGPT+MindShow:一键自动生成演示文稿	ht
+[2023-10-11 23:44:26] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 70, 내용: ChatGPT类产品给用户算法素养带来的挑战及其应对	htt
+[2023-10-11 23:44:46] (DEBUG) => [Current Working] Repeat: 7.0/100.0, Collection: 70/1000.. Wait 10 seconds
+[2023-10-11 23:44:46] (DEBUG) => [Messaging] 다음의 URL에서 콘텐츠를 수집합니다=> http://xueshu.baidu.com/s?wd=ChatGPT&pn=70&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8&filter=sc_year%3D%7B2023%2C2023%7D&sc_hit=1
+[2023-10-11 23:44:47] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 71, 내용: A Brief Overview of ChatGPT:Th
+[2023-10-11 23:44:47] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 72, 내용: Take a closer look at how Chat
+[2023-10-11 23:44:47] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 73, 내용: 对话ChatGPT:体育社会学的优势何在?	https:ht
+[2023-10-11 23:44:47] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 74, 내용: 基于智能内容生成的新闻传播生态重塑,风险与应对——以Chat
+[2023-10-11 23:44:47] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 75, 내용: ChatGPT类人工智能推动教育数字化变革的失范风险及应对策
+[2023-10-11 23:44:47] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 76, 내용: The ChatGPT Storm and What Fac
+[2023-10-11 23:44:47] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 77, 내용: ChatGPT应用于数字出版的伦理风险与伦理原则	https
+[2023-10-11 23:44:47] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 78, 내용: 妥善应对ChatGPT对我国服务外包的挑战	https:ht
+[2023-10-11 23:44:47] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 79, 내용: ChatGPT-AIGC对创新价值链升级的影响	https:
+[2023-10-11 23:44:47] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 80, 내용: A Debate With ChatGPT About It
+[2023-10-11 23:45:07] (DEBUG) => [Current Working] Repeat: 8.0/100.0, Collection: 80/1000.. Wait 10 seconds
+[2023-10-11 23:45:07] (DEBUG) => [Messaging] 다음의 URL에서 콘텐츠를 수집합니다=> http://xueshu.baidu.com/s?wd=ChatGPT&pn=80&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8&filter=sc_year%3D%7B2023%2C2023%7D&sc_hit=1
+[2023-10-11 23:45:08] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 81, 내용: [图书]     一本书读懂ChatGPT,AIGC和元宇
+[2023-10-11 23:45:08] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 82, 내용: ChatGPT use could change views
+[2023-10-11 23:45:08] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 83, 내용: ChatGPT use could change views
+[2023-10-11 23:45:08] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 84, 내용: 基于ChatGPT古诗对联理解与生成能力的评价体系	http
+[2023-10-11 23:45:08] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 85, 내용: ChatGPT use could change views
+[2023-10-11 23:45:08] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 86, 내용: ChatGPT use could change views
+[2023-10-11 23:45:08] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 87, 내용: ChatGPT与高等教育:人工智能如何驱动学习变革	http
+[2023-10-11 23:45:08] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 88, 내용: ChatGPT时代的高等教育应对:禁止还是变革	https:
+[2023-10-11 23:45:08] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 89, 내용: ChatGPT助推教育考试数字化转型:机遇,应用及挑战	ht
+[2023-10-11 23:45:08] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 90, 내용: 基于生成式人工智能的教育转型图景——ChatGPT究竟对教育
+[2023-10-11 23:45:28] (DEBUG) => [Current Working] Repeat: 9.0/100.0, Collection: 90/1000.. Wait 10 seconds
+[2023-10-11 23:45:28] (DEBUG) => [Messaging] 다음의 URL에서 콘텐츠를 수집합니다=> http://xueshu.baidu.com/s?wd=ChatGPT&pn=90&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8&filter=sc_year%3D%7B2023%2C2023%7D&sc_hit=1
+[2023-10-11 23:45:30] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 91, 내용: ChatGPT及其核心技术在智能会计中的应用	https:h
+[2023-10-11 23:45:30] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 92, 내용: ChatGPT们带来的新闻生产变革及启示	https:htt
+[2023-10-11 23:45:30] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 93, 내용: 人工智能助推教育变革的现实图景——教师对ChatGPT的应对
+[2023-10-11 23:45:30] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 94, 내용: 实践观视域下ChatGPT教学应用的路径选择	https:h
+[2023-10-11 23:45:30] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 95, 내용: ChatGPT和人工智能:从基本原理到教育应用	https:
+[2023-10-11 23:45:30] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 96, 내용: ChatGPT use could change views
+[2023-10-11 23:45:30] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 97, 내용: ChatGPT参与知识生产的技术路径,应用与挑战	https
+[2023-10-11 23:45:30] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 98, 내용: ChatGPT: Opportunities and Ris
+[2023-10-11 23:45:30] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 99, 내용: 迭代与颠覆:ChatGPT与传媒业结合下的新风向	https
+[2023-10-11 23:45:30] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 100, 내용: ChatGPT赋能教师专业发展:机遇,挑战和路径	https
+[2023-10-11 23:45:50] (DEBUG) => [Current Working] Repeat: 10.0/100.0, Collection: 100/1000.. Wait 10 seconds
+[2023-10-11 23:45:50] (DEBUG) => [Messaging] 다음의 URL에서 콘텐츠를 수집합니다=> http://xueshu.baidu.com/s?wd=ChatGPT&pn=100&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8&filter=sc_year%3D%7B2023%2C2023%7D&sc_hit=1
+[2023-10-11 23:45:51] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 101, 내용: ChatGPT新思考:AIGC模式下新闻内容生产的机遇,挑战
+[2023-10-11 23:45:51] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 102, 내용: 从ChatGPT看人机耦合的趋势	https:https:/
+[2023-10-11 23:45:51] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 103, 내용: ChatGPT技术热潮下教育变革的挑战和对策	https:h
+[2023-10-11 23:45:51] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 104, 내용: ChatGPT引领AI热潮 金融行业能否抓住机遇	https
+[2023-10-11 23:45:51] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 105, 내용: Utilizing ChatGPT to help stud
+[2023-10-11 23:45:51] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 106, 내용: ChatGPT爆火背后关于网络安全环境的利弊思考	https
+[2023-10-11 23:45:51] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 107, 내용: ChatGPT在银行业信息安全建设的应用	https:htt
+[2023-10-11 23:45:51] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 108, 내용: ChatGPT对国际中文师资培养的影响与应对	https:h
+[2023-10-11 23:45:51] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 109, 내용: Ways ChatGPT Might Impact the 
+[2023-10-11 23:45:51] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 110, 내용: ChatGPT对教育带来的挑战与机遇(笔会)	https:h
+[2023-10-11 23:46:11] (DEBUG) => [Current Working] Repeat: 11.0/100.0, Collection: 110/1000.. Wait 10 seconds
+[2023-10-11 23:46:11] (DEBUG) => [Messaging] 다음의 URL에서 콘텐츠를 수집합니다=> http://xueshu.baidu.com/s?wd=ChatGPT&pn=110&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8&filter=sc_year%3D%7B2023%2C2023%7D&sc_hit=1
+[2023-10-11 23:46:12] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 111, 내용: 基于ChatGPT的成本管理应用研究	https:https
+[2023-10-11 23:46:12] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 112, 내용: ChatGPT在审计中的可能应用路径	https:https
+[2023-10-11 23:46:12] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 113, 내용: 基于ChatGPT的初中数学学习初探	https:https
+[2023-10-11 23:46:12] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 114, 내용: ChatGPT驱动的教学新业态及其效果探析	https:ht
+[2023-10-11 23:46:12] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 115, 내용: ChatGPT浪潮与智能互联时代的全新开启	https:ht
+[2023-10-11 23:46:12] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 116, 내용: What Hath ChatGPT Wrought?	htt
+[2023-10-11 23:46:12] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 117, 내용: ChatGPT为代表的大模型对信息资源管理的影响	https
+[2023-10-11 23:46:12] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 118, 내용: ChatGPT在高等教育领域的应用,风险及应对	https:
+[2023-10-11 23:46:12] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 119, 내용: ChatGPT-4在中文写作中的辅助性定位	https:ht
+[2023-10-11 23:46:12] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 120, 내용: 人机耦合:ChatGPT对新闻业的重塑可能	https:ht
+[2023-10-11 23:46:32] (DEBUG) => [Current Working] Repeat: 12.0/100.0, Collection: 120/1000.. Wait 10 seconds
+[2023-10-11 23:46:32] (DEBUG) => [Messaging] 다음의 URL에서 콘텐츠를 수집합니다=> http://xueshu.baidu.com/s?wd=ChatGPT&pn=120&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8&filter=sc_year%3D%7B2023%2C2023%7D&sc_hit=1
+[2023-10-11 23:46:33] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 121, 내용: [图书]     与AI对话 ChatGPT提示工程揭秘 
+[2023-10-11 23:46:33] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 122, 내용: ChatGPT与传媒:未来传媒行业的变革之路——第一期中国传
+[2023-10-11 23:46:33] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 123, 내용: ChatGPT在医院财务管理中的应用探析	https:htt
+[2023-10-11 23:46:33] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 124, 내용: ChatGPT对保险行业的影响与启示	https:https
+[2023-10-11 23:46:33] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 125, 내용: ChatGPT对公共治理的挑战与机遇(笔谈)	https:h
+[2023-10-11 23:46:33] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 126, 내용: ChatGPT对社会治理的影响及政策建议	https:htt
+[2023-10-11 23:46:33] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 127, 내용: ChatGPT,不止是第四次工业革命的开始	https:ht
+[2023-10-11 23:46:33] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 128, 내용: ChatGPT的传播特征及伦理困境	https:https:
+[2023-10-11 23:46:33] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 129, 내용: AI觉醒ChatGPT的冲击,与教师发展的路向	https:
+[2023-10-11 23:46:33] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 130, 내용: ChatGPT的技术逻辑,社会影响与传播学未来	https:
+[2023-10-11 23:46:53] (DEBUG) => [Current Working] Repeat: 13.0/100.0, Collection: 130/1000.. Wait 10 seconds
+[2023-10-11 23:46:53] (DEBUG) => [Messaging] 다음의 URL에서 콘텐츠를 수집합니다=> http://xueshu.baidu.com/s?wd=ChatGPT&pn=130&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8&filter=sc_year%3D%7B2023%2C2023%7D&sc_hit=1
+[2023-10-11 23:46:54] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 131, 내용: ChatGPT and consumers: Benefit
+[2023-10-11 23:46:54] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 132, 내용: ChatGPT在网络健康信息鉴别中的应用探讨	https:h
+[2023-10-11 23:46:54] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 133, 내용: ChatGPT应用背景下教育发展的逻辑转换及实践路径	htt
+[2023-10-11 23:46:54] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 134, 내용: ChatGPT下全媒体人才培养面临的挑战与机遇	https:
+[2023-10-11 23:46:54] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 135, 내용: ChatGPT与中国少儿期刊未来创新发展	https:htt
+[2023-10-11 23:46:54] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 136, 내용: ChatGPT的智能性及其在财税领域的应用	https:ht
+[2023-10-11 23:46:54] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 137, 내용: Will ChatGPT Replace Me?	https
+[2023-10-11 23:46:54] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 138, 내용: ChatGPT对算力存在双重影响	https:https:/
+[2023-10-11 23:46:54] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 139, 내용: ChatGPT的发展对情报信息工作的影响及启示	https:
+[2023-10-11 23:46:54] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 140, 내용: [图书]     ChatGPT 智能对话开创新时代 经济
+[2023-10-11 23:47:14] (DEBUG) => [Current Working] Repeat: 14.0/100.0, Collection: 140/1000.. Wait 10 seconds
+[2023-10-11 23:47:14] (DEBUG) => [Messaging] 다음의 URL에서 콘텐츠를 수집합니다=> http://xueshu.baidu.com/s?wd=ChatGPT&pn=140&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8&filter=sc_year%3D%7B2023%2C2023%7D&sc_hit=1
+[2023-10-11 23:47:15] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 141, 내용: [图书]     预售 AI智能办公:从训练CHATGPT
+[2023-10-11 23:47:15] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 142, 내용: An Opinion on ChatGPT in Healt
+[2023-10-11 23:47:15] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 143, 내용: ChatGPT对运营商影响及发展建议	https:https
+[2023-10-11 23:47:15] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 144, 내용: ChatGPT技术下教育面临的挑战和机遇	https:htt
+[2023-10-11 23:47:15] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 145, 내용: ChatGPT财税应用随想	https:https://xu
+[2023-10-11 23:47:15] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 146, 내용: ChatGPT的风险分析及国际治理趋势	https:http
+[2023-10-11 23:47:15] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 147, 내용: ChatGPT席卷全球,为什么会伴随恐慌?	https:ht
+[2023-10-11 23:47:15] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 148, 내용: ChatGPT应用前景及存在的问题探究	https:http
+[2023-10-11 23:47:15] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 149, 내용: ChatGPT技术及其对军事安全影响	https:https
+[2023-10-11 23:47:15] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 150, 내용: ChatGPT for e-Tourism: a techn
+[2023-10-11 23:47:35] (DEBUG) => [Current Working] Repeat: 15.0/100.0, Collection: 150/1000.. Wait 10 seconds
+[2023-10-11 23:47:35] (DEBUG) => [Messaging] 다음의 URL에서 콘텐츠를 수집합니다=> http://xueshu.baidu.com/s?wd=ChatGPT&pn=150&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8&filter=sc_year%3D%7B2023%2C2023%7D&sc_hit=1
+[2023-10-11 23:47:36] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 151, 내용: ChatGPT安全威胁研究	https:https://xu
+[2023-10-11 23:47:36] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 152, 내용: ChatGPT热潮背后的冷思考	https:https://
+[2023-10-11 23:47:36] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 153, 내용: ChatGPT: Friend or foe?	https:
+[2023-10-11 23:47:36] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 154, 내용: ChatGPT:生成还是创作?助手还是对手?	https:h
+[2023-10-11 23:47:36] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 155, 내용: ChatGPT在金融行业的应用探讨	https:https:
+[2023-10-11 23:47:36] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 156, 내용: ChatGPT对教师的含义	https:https://xu
+[2023-10-11 23:47:36] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 157, 내용: THIS IS CHATGPT; HOW MAY I HEL
+[2023-10-11 23:47:36] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 158, 내용: ChatGPT及其对图书馆行业的影响	https:https
+[2023-10-11 23:47:36] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 159, 내용: 不要过度神化ChatGPT	https:https://xu
+[2023-10-11 23:47:36] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 160, 내용: ChatGPT有望成为企业法律顾问吗	https:https
+[2023-10-11 23:47:56] (DEBUG) => [Current Working] Repeat: 16.0/100.0, Collection: 160/1000.. Wait 10 seconds
+[2023-10-11 23:47:56] (DEBUG) => [Messaging] 다음의 URL에서 콘텐츠를 수집합니다=> http://xueshu.baidu.com/s?wd=ChatGPT&pn=160&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8&filter=sc_year%3D%7B2023%2C2023%7D&sc_hit=1
+[2023-10-11 23:47:57] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 161, 내용: [图书]     这就是ChatGPT 人工智能	http
+[2023-10-11 23:47:57] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 162, 내용: ChatGPT:挺好玩儿的	https:https://xu
+[2023-10-11 23:47:57] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 163, 내용: ChatGPT和你有关系吗?	https:https://x
+[2023-10-11 23:47:57] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 164, 내용: ChatGPT:"有限盈利"的公司+有趣的"人"	https
+[2023-10-11 23:47:57] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 165, 내용: 中国距离ChatGPT还有多远?	https:https:/
+[2023-10-11 23:47:57] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 166, 내용: [图书]     你好,ChatGPT 人工智能	http
+[2023-10-11 23:47:57] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 167, 내용: ChatGPT会颠覆谁?	https:https://xue
+[2023-10-11 23:47:57] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 168, 내용: ChatGPT的"火"能否持续炙热?	https:https
+[2023-10-11 23:47:57] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 169, 내용: 智能对话新篇章——ChatGPT的探索与未来	https:h
+[2023-10-11 23:47:57] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 170, 내용: 这就是ChatGPT	https:https://xuesh
+[2023-10-11 23:48:17] (DEBUG) => [Current Working] Repeat: 17.0/100.0, Collection: 170/1000.. Wait 10 seconds
+[2023-10-11 23:48:17] (DEBUG) => [Messaging] 다음의 URL에서 콘텐츠를 수집합니다=> http://xueshu.baidu.com/s?wd=ChatGPT&pn=170&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8&filter=sc_year%3D%7B2023%2C2023%7D&sc_hit=1
+[2023-10-11 23:48:18] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 171, 내용: 对外传播的"ChatGPT时刻"——以《中国日报》双重内嵌式
+[2023-10-11 23:48:18] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 172, 내용: "嵌入"与"扩散":ChatGPT的技术特质与传播影响	ht
+[2023-10-11 23:48:18] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 173, 내용: 挑战·融合·变革:"ChatGPT与未来教育"会议综述	ht
+[2023-10-11 23:48:18] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 174, 내용: "法力无边"的ChatGPT及其负算力	https:http
+[2023-10-11 23:48:18] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 175, 내용: Chat GPT在会计领域的应用前景,挑战及对策	https
+[2023-10-11 23:48:18] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 176, 내용: Chat GPT and AI Will Advance E
+[2023-10-11 23:48:18] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 177, 내용: Chat GPT in dermatology: Progr
+[2023-10-11 23:48:18] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 178, 내용: The Emergence of Chat GPT and 
+[2023-10-11 23:48:18] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 179, 내용: Chat GPT概念被过度预期	https:https://
+[2023-10-11 23:48:18] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 180, 내용: This article was written by a 
+[2023-10-11 23:48:38] (DEBUG) => [Current Working] Repeat: 18.0/100.0, Collection: 180/1000.. Wait 10 seconds
+[2023-10-11 23:48:38] (DEBUG) => [Messaging] 다음의 URL에서 콘텐츠를 수집합니다=> http://xueshu.baidu.com/s?wd=ChatGPT&pn=180&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8&filter=sc_year%3D%7B2023%2C2023%7D&sc_hit=1
+[2023-10-11 23:48:40] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 181, 내용: 生成式人工智能与教育创新:机遇,挑战与应对——来自上海外国语
+[2023-10-11 23:48:40] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 182, 내용: [图书]     何为人类 GPT书写的人类备忘录 科技综
+[2023-10-11 23:48:40] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 183, 내용: GPT-4影响的全面分析:经济高质量发展与国家安全防范	ht
+[2023-10-11 23:48:40] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 184, 내용: 从Chat到GTP	https:https://xueshu
+[2023-10-11 23:48:40] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 185, 내용: GPT技术的全球治理方案:一个技术多边主义的框架	https
+[2023-10-11 23:48:40] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 186, 내용: Chemists are teaching GPT-4 to
+[2023-10-11 23:48:40] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 187, 내용: 从GPT看AGI的本质突破:传媒业新挑战与未来	https:
+[2023-10-11 23:48:40] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 188, 내용: GPT-4等人工智能的传媒应用,传播重构与风险规避	http
+[2023-10-11 23:48:40] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 189, 내용: 基于GPT模型的人工智能数据伪造风险研究	https:htt
+[2023-10-11 23:48:40] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 190, 내용: 从GPT-4 看陕西人工智能	https:https://x
+[2023-10-11 23:49:00] (DEBUG) => [Current Working] Repeat: 19.0/100.0, Collection: 190/1000.. Wait 10 seconds
+[2023-10-11 23:49:00] (DEBUG) => [Messaging] 다음의 URL에서 콘텐츠를 수집합니다=> http://xueshu.baidu.com/s?wd=ChatGPT&pn=190&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8&filter=sc_year%3D%7B2023%2C2023%7D&sc_hit=1
+[2023-10-11 23:49:01] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 191, 내용: Artificial intelligence: Oppor
+[2023-10-11 23:49:01] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 192, 내용: 文学与"算法"	https:https://xueshu.b
+[2023-10-11 23:49:01] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 193, 내용: How to Use Artificial Intellig
+[2023-10-11 23:49:01] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 194, 내용: GPT与人工智能:可能是好事,也可能不是	https:htt
+[2023-10-11 23:49:01] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 195, 내용: [图书]     人工智能与ChatGPT 人工智能	ht
+[2023-10-11 23:49:01] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 196, 내용: AI大模型:不只作画与聊天	https:https://xu
+[2023-10-11 23:49:01] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 197, 내용: 八谈"元宇宙",兼谈AI大模型:两种火爆,一伪一真	http
+[2023-10-11 23:49:01] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 198, 내용: 大型语言模型内容检测算法和绕过机制研究	https:http
+[2023-10-11 23:49:01] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 199, 내용: 人工智能生成内容时代学术期刊出版的机遇与挑战	https:h
+[2023-10-11 23:49:01] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 200, 내용: 出版再想象:AI与内容生产变革	https:https://
+[2023-10-11 23:49:21] (DEBUG) => [Current Working] Repeat: 20.0/100.0, Collection: 200/1000.. Wait 10 seconds
+[2023-10-11 23:49:21] (DEBUG) => [Messaging] 다음의 URL에서 콘텐츠를 수집합니다=> http://xueshu.baidu.com/s?wd=ChatGPT&pn=200&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8&filter=sc_year%3D%7B2023%2C2023%7D&sc_hit=1
+[2023-10-11 23:49:22] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 201, 내용: AI会赋能纸媒吗?——基于SWOT分析	https:http
+[2023-10-11 23:49:22] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 202, 내용: AI AND THE FUTURE OF PUBLISHIN
+[2023-10-11 23:49:22] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 203, 내용: 语言模型与方块世界	https:https://xueshu
+[2023-10-11 23:49:22] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 204, 내용: Relying on Al	https:https://xu
+[2023-10-11 23:49:22] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 205, 내용: Is it 'Real' or is it…	https:h
+[2023-10-11 23:49:22] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 206, 내용: Rates against the machine	http
+[2023-10-11 23:49:22] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 207, 내용: Human‐ and AI‐based authorship
+[2023-10-11 23:49:22] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 208, 내용: AI intensifies fight against '
+[2023-10-11 23:49:22] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 209, 내용: 生成式人工智能成热点	https:https://xuesh
+[2023-10-11 23:49:22] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 210, 내용: 日韩人工智能最新国家战略与目标	https:https://
+[2023-10-11 23:49:42] (DEBUG) => [Current Working] Repeat: 21.0/100.0, Collection: 210/1000.. Wait 10 seconds
+[2023-10-11 23:49:42] (DEBUG) => [Messaging] 다음의 URL에서 콘텐츠를 수집합니다=> http://xueshu.baidu.com/s?wd=ChatGPT&pn=210&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8&filter=sc_year%3D%7B2023%2C2023%7D&sc_hit=1
+[2023-10-11 23:49:43] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 211, 내용: A disruptive innovation or dis
+[2023-10-11 23:49:43] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 212, 내용: 人工智能发展需要关注"复利效应"	https:https:/
+[2023-10-11 23:49:43] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 213, 내용: 算力"基石"助力AIGC崛起	https:https://x
+[2023-10-11 23:49:43] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 214, 내용: Editor's note	https:https://xu
+[2023-10-11 23:49:43] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 215, 내용: 生成式人工智能的教育启示:让每个人成为他自己	https:h
+[2023-10-11 23:49:43] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 216, 내용: Breaking boundaries: The remar
+[2023-10-11 23:49:43] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 217, 내용: A Tool for Learning:Classroom 
+[2023-10-11 23:49:43] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 218, 내용: 人工智能生成内容(AIGC)及其在图书出版中的应用探讨	ht
+[2023-10-11 23:49:43] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 219, 내용: WRITE ME A. PROPOSAL	https:htt
+[2023-10-11 23:49:43] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 220, 내용: 对话式人工智能赋能科研创新的可能性,局限性及未来发展	htt
+[2023-10-11 23:50:03] (DEBUG) => [Current Working] Repeat: 22.0/100.0, Collection: 220/1000.. Wait 10 seconds
+[2023-10-11 23:50:03] (DEBUG) => [Messaging] 다음의 URL에서 콘텐츠를 수집합니다=> http://xueshu.baidu.com/s?wd=ChatGPT&pn=220&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8&filter=sc_year%3D%7B2023%2C2023%7D&sc_hit=1
+[2023-10-11 23:50:04] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 221, 내용: 当医学课程考核遇上生成式人工智能:价值,挑战与未来展望	ht
+[2023-10-11 23:50:04] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 222, 내용: [图书]     一本书读懂ChatGPT 人工智能	ht
+[2023-10-11 23:50:04] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 223, 내용: 谁创造了ChatGPT?——OpenAI:一家有"利润上限"
+[2023-10-11 23:50:04] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 224, 내용: Fake ChatGPT tools online	http
+[2023-10-11 23:50:04] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 225, 내용: [图书]     用ChatGPT与VBA一键搞定Exce
+[2023-10-11 23:50:04] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 226, 내용: Generative AI and Web Search E
+[2023-10-11 23:50:04] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 227, 내용: 国内外AI大模型比拼:禀赋各异	https:https://
+[2023-10-11 23:50:04] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 228, 내용: 大模型技术的网络安全治理和应对研究	https:https:
+[2023-10-11 23:50:04] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 229, 내용: ChatGPT: what does it mean for
+[2023-10-11 23:50:04] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 230, 내용: 技术赋能与技术适配的辩证思维	https:https://x
+[2023-10-11 23:50:24] (DEBUG) => [Current Working] Repeat: 23.0/100.0, Collection: 230/1000.. Wait 10 seconds
+[2023-10-11 23:50:24] (DEBUG) => [Messaging] 다음의 URL에서 콘텐츠를 수집합니다=> http://xueshu.baidu.com/s?wd=ChatGPT&pn=230&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8&filter=sc_year%3D%7B2023%2C2023%7D&sc_hit=1
+[2023-10-11 23:50:25] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 231, 내용: 人工智能发展的风险与治理	https:https://xue
+[2023-10-11 23:50:25] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 232, 내용: 人工智能大模型在智慧农业领域的应用	https:https:
+[2023-10-11 23:50:25] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 233, 내용: "Are Als doing something like 
+[2023-10-11 23:50:25] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 234, 내용: 新闻业务智能化趋势及其应对	https:https://xu
+[2023-10-11 23:50:25] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 235, 내용: The Next Great Misinformation 
+[2023-10-11 23:50:25] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 236, 내용: Paralegals Race to Stay Releva
+[2023-10-11 23:50:25] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 237, 내용: Understanding computational di
+[2023-10-11 23:50:25] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 238, 내용: PAINTS & COATINGS HMG Paints e
+[2023-10-11 23:50:25] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 239, 내용: AI时代的信息安全新挑战	https:https://xue
+[2023-10-11 23:50:25] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 240, 내용: "人-机-组织"共生系统:一个智能化组织理论框架	https
+[2023-10-11 23:50:45] (DEBUG) => [Current Working] Repeat: 24.0/100.0, Collection: 240/1000.. Wait 10 seconds
+[2023-10-11 23:50:45] (DEBUG) => [Messaging] 다음의 URL에서 콘텐츠를 수집합니다=> http://xueshu.baidu.com/s?wd=ChatGPT&pn=240&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8&filter=sc_year%3D%7B2023%2C2023%7D&sc_hit=1
+[2023-10-11 23:50:46] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 241, 내용: 自媒体语境中网络阅读行为新特征及反思	https:https
+[2023-10-11 23:50:46] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 242, 내용: 人机交互的互诱导性——对"AIGC茧房"的冷思考	https
+[2023-10-11 23:50:46] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 243, 내용: You're right to be concerned, 
+[2023-10-11 23:50:46] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 244, 내용: Exploring the potential of tim
+[2023-10-11 23:50:46] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 245, 내용: The human factor still trounce
+[2023-10-11 23:50:46] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 246, 내용: 生成式人工智能技术下的学术生产与出版:变革,失范与路径	ht
+[2023-10-11 23:50:46] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 247, 내용: LET AI BE YOUR FRIEND	https:ht
+[2023-10-11 23:50:46] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 248, 내용: Connection and Conversations	h
+[2023-10-11 23:50:46] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 249, 내용: 吃着火锅聊聊天,年薪高达百万元	https:https://
+[2023-10-11 23:50:46] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 250, 내용: As Attention on AI Increases, 
+[2023-10-11 23:51:06] (DEBUG) => [Current Working] Repeat: 25.0/100.0, Collection: 250/1000.. Wait 10 seconds
+[2023-10-11 23:51:06] (DEBUG) => [Messaging] 다음의 URL에서 콘텐츠를 수집합니다=> http://xueshu.baidu.com/s?wd=ChatGPT&pn=250&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8&filter=sc_year%3D%7B2023%2C2023%7D&sc_hit=1
+[2023-10-11 23:51:07] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 251, 내용: Who Is Responsible Around Here
+[2023-10-11 23:51:07] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 252, 내용: 人工智能与数字经济专题序言——人工智能赋能数字经济,共创未来
+[2023-10-11 23:51:07] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 253, 내용: How can we transform travel me
+[2023-10-11 23:51:07] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 254, 내용: 生成式人工智能时代的学生作业设计与评价	https:http
+[2023-10-11 23:51:07] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 255, 내용: 智能技术驱动高等教育变革——《2023地平线报告:教与学版》
+[2023-10-11 23:51:07] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 256, 내용: [图书]     生成式人工智能 AIGC的逻辑与应用 人
+[2023-10-11 23:51:07] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 257, 내용: 数字化转型的浪潮中,斯坦福博士是如何求解的	https:ht
+[2023-10-11 23:51:07] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 258, 내용: The rise of generative AI	http
+[2023-10-11 23:51:07] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 259, 내용: Digital twins advance digital 
+[2023-10-11 23:51:07] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 260, 내용: [图书]     宇航员的蜜蜂 改变机器人和人工智能史的5
+[2023-10-11 23:51:27] (DEBUG) => [Current Working] Repeat: 26.0/100.0, Collection: 260/1000.. Wait 10 seconds
+[2023-10-11 23:51:27] (DEBUG) => [Messaging] 다음의 URL에서 콘텐츠를 수집합니다=> http://xueshu.baidu.com/s?wd=ChatGPT&pn=260&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8&filter=sc_year%3D%7B2023%2C2023%7D&sc_hit=1
+[2023-10-11 23:51:29] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 261, 내용: 悄然拥有"自主意识"的人工智能	https:https://
+[2023-10-11 23:51:29] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 262, 내용: There's more to innovation tha
+[2023-10-11 23:51:29] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 263, 내용: [图书]     大模型时代 经济理论,法规	https:
+[2023-10-11 23:51:29] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 264, 내용: SHAPING TOMORROW	https:https:/
+[2023-10-11 23:51:29] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 265, 내용: 生成式AI投融资热潮席卷全球	https:https://x
+[2023-10-11 23:51:29] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 266, 내용: Stay Ahead of the Game: Defend
+[2023-10-11 23:51:29] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 267, 내용: AIGC对全媒体生产传播体系的影响及对策建议	https:h
+[2023-10-11 23:51:29] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 268, 내용: 生成式AI下一站:文本转视频 技术与道德伦理挑战如影随形	h
+[2023-10-11 23:51:29] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 269, 내용: Al and the future fab shop	htt
+[2023-10-11 23:51:29] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 270, 내용: 教育的逻辑及人工智能的教育诱惑	https:https://
+[2023-10-11 23:51:49] (DEBUG) => [Current Working] Repeat: 27.0/100.0, Collection: 270/1000.. Wait 10 seconds
+[2023-10-11 23:51:49] (DEBUG) => [Messaging] 다음의 URL에서 콘텐츠를 수집합니다=> http://xueshu.baidu.com/s?wd=ChatGPT&pn=270&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8&filter=sc_year%3D%7B2023%2C2023%7D&sc_hit=1
+[2023-10-11 23:51:50] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 271, 내용: The last word:FROM NATIONAL CO
+[2023-10-11 23:51:50] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 272, 내용: 网络舆情监测管理系统的架构与应用	https:https:/
+[2023-10-11 23:51:50] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 273, 내용: Our assessment of the robot's 
+[2023-10-11 23:51:50] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 274, 내용: 透视AI大模型 国家队必须勇担重任	https:https:
+[2023-10-11 23:51:50] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 275, 내용: Study Finds AI Language Models
+[2023-10-11 23:51:50] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 276, 내용: 新一轮AI爆发下电信运营商的挑战和机遇	https:http
+[2023-10-11 23:51:50] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 277, 내용: 生成式人工智能重塑教育及教师应对之道	https:https
+[2023-10-11 23:51:50] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 278, 내용: 全球话语竞争下的中国对外话语体系建构新思维	https:ht
+[2023-10-11 23:51:50] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 279, 내용: Did artificial intelligence wr
+[2023-10-11 23:51:50] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 280, 내용: AIGC技术在智慧广电与网络新视听中的应用探析	https:
+[2023-10-11 23:52:10] (DEBUG) => [Current Working] Repeat: 28.0/100.0, Collection: 280/1000.. Wait 10 seconds
+[2023-10-11 23:52:10] (DEBUG) => [Messaging] 다음의 URL에서 콘텐츠를 수집합니다=> http://xueshu.baidu.com/s?wd=ChatGPT&pn=280&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8&filter=sc_year%3D%7B2023%2C2023%7D&sc_hit=1
+[2023-10-11 23:52:11] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 281, 내용: 跨文化传播中的通用人工智能:变革,机遇与挑战	https:h
+[2023-10-11 23:52:11] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 282, 내용: 生成式人工智能给图书馆带来的机遇,挑战及应对策略	https
+[2023-10-11 23:52:11] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 283, 내용: 人工智能背景下学术期刊编辑角色转型与应对策略	https:h
+[2023-10-11 23:52:11] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 284, 내용: 大语言模型背景下情报研究的数字化应对策略及实践场景	http
+[2023-10-11 23:52:11] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 285, 내용: 人工智能时代教育者的镜像一瞥	https:https://x
+[2023-10-11 23:52:11] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 286, 내용: 国际中文教育数字化发展的趋势与反思	https:https:
+[2023-10-11 23:52:11] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 287, 내용: 以智能变革思维透视并赢得智能变革先机	https:https
+[2023-10-11 23:52:11] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 288, 내용: 新一代人工智能与国际传播战略升维	https:https:/
+[2023-10-11 23:52:11] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 289, 내용: 前瞻性研判元宇宙对交通运输的颠覆性影响	https:http
+[2023-10-11 23:52:11] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 290, 내용: 人工智能时代的国际传播:应用,趋势与反思	https:htt
+[2023-10-11 23:52:31] (DEBUG) => [Current Working] Repeat: 29.0/100.0, Collection: 290/1000.. Wait 10 seconds
+[2023-10-11 23:52:31] (DEBUG) => [Messaging] 다음의 URL에서 콘텐츠를 수집합니다=> http://xueshu.baidu.com/s?wd=ChatGPT&pn=290&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8&filter=sc_year%3D%7B2023%2C2023%7D&sc_hit=1
+[2023-10-11 23:52:32] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 291, 내용: 人工智能时代国际传播的污名化行为:形式,趋势与影响	http
+[2023-10-11 23:52:32] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 292, 내용: 个人信息保护维度下Chatbot的法律规制	https:ht
+[2023-10-11 23:52:32] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 293, 내용: Skills, technologies to get ah
+[2023-10-11 23:52:32] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 294, 내용: 从模仿到超越:元宇宙视野下AI虚拟主持的具身融合	https
+[2023-10-11 23:52:32] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 295, 내용: Harnessing the Promise of Arti
+[2023-10-11 23:52:32] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 296, 내용: 对话式AI背景下科学教学的变革方向,实践路径与风险应对	ht
+[2023-10-11 23:52:32] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 297, 내용: Al and Other Technology Transf
+[2023-10-11 23:52:32] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 298, 내용: THE HIT MAN	https:https://xues
+[2023-10-11 23:52:32] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 299, 내용: voices of the searchers	https:
+[2023-10-11 23:52:32] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 300, 내용: 数字化转型下的新型需求管理方法和机制	https:https
+[2023-10-11 23:52:52] (DEBUG) => [Current Working] Repeat: 30.0/100.0, Collection: 300/1000.. Wait 10 seconds
+[2023-10-11 23:52:52] (DEBUG) => [Messaging] 다음의 URL에서 콘텐츠를 수집합니다=> http://xueshu.baidu.com/s?wd=ChatGPT&pn=300&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8&filter=sc_year%3D%7B2023%2C2023%7D&sc_hit=1
+[2023-10-11 23:52:53] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 301, 내용: 论教育技术向善:基于技术反噬公平的视角	https:http
+[2023-10-11 23:52:53] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 302, 내용: 优秀的品牌物业企业重质量,重实力,重长期发展	https:h
+[2023-10-11 23:52:53] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 303, 내용: Al et al	https:https://xueshu.
+[2023-10-11 23:52:53] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 304, 내용: 人工智能的审视与展望	https:https://xuesh
+[2023-10-11 23:52:53] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 305, 내용: 生成式人工智能在央媒的应用初探——以央视新闻在AI应用领域的
+[2023-10-11 23:52:53] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 306, 내용: 智能应用热中的人类理性	https:https://xues
+[2023-10-11 23:52:53] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 307, 내용: AIGC赋能主流媒体转型发展的创新路径	https:http
+[2023-10-11 23:52:53] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 308, 내용: AI COMES OF AGE IN THE INDUSTR
+[2023-10-11 23:52:53] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 309, 내용: Shell Wields AI as Transition 
+[2023-10-11 23:52:53] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 310, 내용: Artificial intelligence is her
+[2023-10-11 23:53:13] (DEBUG) => [Current Working] Repeat: 31.0/100.0, Collection: 310/1000.. Wait 10 seconds
+[2023-10-11 23:53:13] (DEBUG) => [Messaging] 다음의 URL에서 콘텐츠를 수집합니다=> http://xueshu.baidu.com/s?wd=ChatGPT&pn=310&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8&filter=sc_year%3D%7B2023%2C2023%7D&sc_hit=1
+[2023-10-11 23:53:14] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 311, 내용: INSIGHT: AI helps chemicals me
+[2023-10-11 23:53:14] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 312, 내용: How will AI change the job of 
+[2023-10-11 23:53:14] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 313, 내용: This Startup Is Unlocking AI f
+[2023-10-11 23:53:14] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 314, 내용: IN AI WE TRUST?	https:https://
+[2023-10-11 23:53:14] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 315, 내용: Digital Transformation as the 
+[2023-10-11 23:53:14] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 316, 내용: HOW THE IMECHE COULD USE AI	ht
+[2023-10-11 23:53:14] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 317, 내용: Als will become useless if the
+[2023-10-11 23:53:14] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 318, 내용: Generative AI in Health Care a
+[2023-10-11 23:53:14] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 319, 내용: [图书]     驾驭ChatGPT:学会使用提示词 人工
+[2023-10-11 23:53:14] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 320, 내용: [图书]     码上行动 零基础学会Python编程 C
+[2023-10-11 23:53:34] (DEBUG) => [Current Working] Repeat: 32.0/100.0, Collection: 320/1000.. Wait 10 seconds
+[2023-10-11 23:53:34] (DEBUG) => [Messaging] 다음의 URL에서 콘텐츠를 수집합니다=> http://xueshu.baidu.com/s?wd=ChatGPT&pn=320&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8&filter=sc_year%3D%7B2023%2C2023%7D&sc_hit=1
+[2023-10-11 23:53:36] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 321, 내용: Tools such as ChatGPT threaten
+[2023-10-11 23:53:36] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 322, 내용: Innopolis University Researche
+[2023-10-11 23:53:36] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 323, 내용: New Artificial Intelligence St
+[2023-10-11 23:53:36] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 324, 내용: Reports Outline Sensor Researc
+[2023-10-11 23:53:36] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 325, 내용: Microsoft's Azure OpenAI Servi
+[2023-10-11 23:53:36] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 326, 내용: 未来已来,GPT-4重磅登场	https:https://x
+[2023-10-11 23:53:36] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 327, 내용: Department of Neuroradiology R
+[2023-10-11 23:53:36] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 328, 내용: University of Florida Research
+[2023-10-11 23:53:36] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 329, 내용: New Artificial Intelligence Re
+[2023-10-11 23:53:36] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 330, 내용: 职场新鲜事儿	https:https://xueshu.ba
+[2023-10-11 23:53:56] (DEBUG) => [Current Working] Repeat: 33.0/100.0, Collection: 330/1000.. Wait 10 seconds
+[2023-10-11 23:53:56] (DEBUG) => [Messaging] 다음의 URL에서 콘텐츠를 수집합니다=> http://xueshu.baidu.com/s?wd=ChatGPT&pn=330&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8&filter=sc_year%3D%7B2023%2C2023%7D&sc_hit=1
+[2023-10-11 23:53:57] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 331, 내용: CROSSTALK	https:https://xueshu
+[2023-10-11 23:53:57] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 332, 내용: 聊天机器人	https:https://xueshu.bai
+[2023-10-11 23:53:57] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 333, 내용: Data from George Mason Univers
+[2023-10-11 23:53:57] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 334, 내용: AI 'brain' created from core m
+[2023-10-11 23:53:57] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 335, 내용: Why Nature will not allow the 
+[2023-10-11 23:53:57] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 336, 내용: Beck's Autonomous creates itse
+[2023-10-11 23:53:57] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 337, 내용: Not-So-Artificial Intelligence
+[2023-10-11 23:53:57] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 338, 내용: [图书]     读库 2303 杂文	https:htt
+[2023-10-11 23:53:57] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 339, 내용: 高等教育与生成式人工智能——来自巴黎政治大学的观点	http
+[2023-10-11 23:53:57] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 340, 내용: The 100-million sprint	https:h
+[2023-10-11 23:54:17] (DEBUG) => [Current Working] Repeat: 34.0/100.0, Collection: 340/1000.. Wait 10 seconds
+[2023-10-11 23:54:17] (DEBUG) => [Messaging] 다음의 URL에서 콘텐츠를 수집합니다=> http://xueshu.baidu.com/s?wd=ChatGPT&pn=340&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8&filter=sc_year%3D%7B2023%2C2023%7D&sc_hit=1
+[2023-10-11 23:54:18] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 341, 내용: UPFRONT	https:https://xueshu.b
+[2023-10-11 23:54:18] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 342, 내용: In-House Counsel Should Jump o
+[2023-10-11 23:54:18] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 343, 내용: "人工智能与国家治理现代化高端论坛"在青岛成功举行	http
+[2023-10-11 23:54:18] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 344, 내용: AI TAKES A TURN AT WRITING WDR
+[2023-10-11 23:54:18] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 345, 내용: Correspondence	https:https://x
+[2023-10-11 23:54:18] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 346, 내용: EU adopts draft AI law	https:h
+[2023-10-11 23:54:18] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 347, 내용: Al in the Aggregates Industry	
+[2023-10-11 23:54:18] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 348, 내용: 生成式AI与舆论——"海量耳机效应"	https:https
+[2023-10-11 23:54:18] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 349, 내용: 浅谈生成式人工智能在保险行业的应用	https:https:
+[2023-10-11 23:54:18] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 350, 내용: 部落化回归:新媒介下的音乐传播用户的圈层价值研究	https
+[2023-10-11 23:54:38] (DEBUG) => [Current Working] Repeat: 35.0/100.0, Collection: 350/1000.. Wait 10 seconds
+[2023-10-11 23:54:38] (DEBUG) => [Messaging] 다음의 URL에서 콘텐츠를 수집합니다=> http://xueshu.baidu.com/s?wd=ChatGPT&pn=350&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8&filter=sc_year%3D%7B2023%2C2023%7D&sc_hit=1
+[2023-10-11 23:54:39] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 351, 내용: 数字化,是实现中国式政府采购现代化的必然选择	https:h
+[2023-10-11 23:54:39] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 352, 내용: A Whole New World	https:https:
+[2023-10-11 23:54:39] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 353, 내용: 年轻的创意,总会让人热泪盈眶--记2023戛纳幼狮中国区选拔
+[2023-10-11 23:54:39] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 354, 내용: 拥抱AIGC热潮 运营商业务场景探索及赋能建议	https:
+[2023-10-11 23:54:39] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 355, 내용: 人工智能是否会替代人类?	https:https://xue
+[2023-10-11 23:54:39] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 356, 내용: 媒体人的"科技观"	https:https://xueshu
+[2023-10-11 23:54:39] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 357, 내용: 全球新闻业跨年回顾与展望(外2则)	https:https:
+[2023-10-11 23:54:39] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 358, 내용: 聊天机器人与新闻传播的全链条再造	https:https:/
+[2023-10-11 23:54:39] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 359, 내용: 人机对话与教育立人	https:https://xueshu
+[2023-10-11 23:54:39] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 360, 내용: 景鲲:AI2C时代即将爆发,挖掘新场景红利	https:ht
+[2023-10-11 23:54:59] (DEBUG) => [Current Working] Repeat: 36.0/100.0, Collection: 360/1000.. Wait 10 seconds
+[2023-10-11 23:54:59] (DEBUG) => [Messaging] 다음의 URL에서 콘텐츠를 수집합니다=> http://xueshu.baidu.com/s?wd=ChatGPT&pn=360&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8&filter=sc_year%3D%7B2023%2C2023%7D&sc_hit=1
+[2023-10-11 23:55:00] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 361, 내용: 迎向影像化生存的3.0时代	https:https://xu
+[2023-10-11 23:55:00] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 362, 내용: 强人工智能崛起引发新一轮AI备战升级	https:https
+[2023-10-11 23:55:00] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 363, 내용: 生成式AI发展将改变汽车商业模式	https:https:/
+[2023-10-11 23:55:00] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 364, 내용: 浅析建筑学科中的人工智能生成内容技术	https:https
+[2023-10-11 23:55:00] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 365, 내용: 2022未来感科技企业TOP100	https:https:
+[2023-10-11 23:55:00] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 366, 내용: 人工智能全学段贯通式人才培养的作用与策略	https:htt
+[2023-10-11 23:55:00] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 367, 내용: 当人工智能遇上青少年科技创新活动	https:https:/
+[2023-10-11 23:55:00] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 368, 내용: 全民阅读,看见数字阅读的新商业样本	https:https:
+[2023-10-11 23:55:00] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 369, 내용: Editorial: What Have Large-Lan
+[2023-10-11 23:55:20] (DEBUG) => [Current Working] Repeat: 37.0/100.0, Collection: 369/1000.. Wait 10 seconds
+[2023-10-11 23:55:20] (DEBUG) => [Messaging] 다음의 URL에서 콘텐츠를 수집합니다=> http://xueshu.baidu.com/s?wd=ChatGPT&pn=370&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8&filter=sc_year%3D%7B2023%2C2023%7D&sc_hit=1
+[2023-10-11 23:55:21] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 370, 내용: 迎向影像化生存的3.0时代	https:https://xu
+[2023-10-11 23:55:21] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 371, 내용: 强人工智能崛起引发新一轮AI备战升级	https:https
+[2023-10-11 23:55:21] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 372, 내용: 生成式AI发展将改变汽车商业模式	https:https:/
+[2023-10-11 23:55:21] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 373, 내용: 浅析建筑学科中的人工智能生成内容技术	https:https
+[2023-10-11 23:55:21] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 374, 내용: 2022未来感科技企业TOP100	https:https:
+[2023-10-11 23:55:21] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 375, 내용: 人工智能全学段贯通式人才培养的作用与策略	https:htt
+[2023-10-11 23:55:21] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 376, 내용: 当人工智能遇上青少年科技创新活动	https:https:/
+[2023-10-11 23:55:21] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 377, 내용: 全民阅读,看见数字阅读的新商业样本	https:https:
+[2023-10-11 23:55:21] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 378, 내용: Editorial: What Have Large-Lan
+[2023-10-11 23:55:41] (DEBUG) => [Current Working] Repeat: 38.0/100.0, Collection: 378/1000.. Wait 10 seconds
+[2023-10-11 23:55:41] (DEBUG) => [Messaging] 다음의 URL에서 콘텐츠를 수집합니다=> http://xueshu.baidu.com/s?wd=ChatGPT&pn=380&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8&filter=sc_year%3D%7B2023%2C2023%7D&sc_hit=1
+[2023-10-11 23:55:42] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 379, 내용: 迎向影像化生存的3.0时代	https:https://xu
+[2023-10-11 23:55:42] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 380, 내용: 强人工智能崛起引发新一轮AI备战升级	https:https
+[2023-10-11 23:55:42] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 381, 내용: 生成式AI发展将改变汽车商业模式	https:https:/
+[2023-10-11 23:55:42] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 382, 내용: 浅析建筑学科中的人工智能生成内容技术	https:https
+[2023-10-11 23:55:42] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 383, 내용: 2022未来感科技企业TOP100	https:https:
+[2023-10-11 23:55:42] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 384, 내용: 人工智能全学段贯通式人才培养的作用与策略	https:htt
+[2023-10-11 23:55:42] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 385, 내용: 当人工智能遇上青少年科技创新活动	https:https:/
+[2023-10-11 23:55:42] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 386, 내용: 全民阅读,看见数字阅读的新商业样本	https:https:
+[2023-10-11 23:55:42] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 387, 내용: Editorial: What Have Large-Lan
+[2023-10-11 23:56:02] (DEBUG) => [Current Working] Repeat: 39.0/100.0, Collection: 387/1000.. Wait 10 seconds
+[2023-10-11 23:56:02] (DEBUG) => [Messaging] 다음의 URL에서 콘텐츠를 수집합니다=> http://xueshu.baidu.com/s?wd=ChatGPT&pn=390&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8&filter=sc_year%3D%7B2023%2C2023%7D&sc_hit=1
+[2023-10-11 23:56:04] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 388, 내용: 迎向影像化生存的3.0时代	https:https://xu
+[2023-10-11 23:56:04] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 389, 내용: 强人工智能崛起引发新一轮AI备战升级	https:https
+[2023-10-11 23:56:04] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 390, 내용: 生成式AI发展将改变汽车商业模式	https:https:/
+[2023-10-11 23:56:04] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 391, 내용: 浅析建筑学科中的人工智能生成内容技术	https:https
+[2023-10-11 23:56:04] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 392, 내용: 2022未来感科技企业TOP100	https:https:
+[2023-10-11 23:56:04] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 393, 내용: 人工智能全学段贯通式人才培养的作用与策略	https:htt
+[2023-10-11 23:56:04] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 394, 내용: 当人工智能遇上青少年科技创新活动	https:https:/
+[2023-10-11 23:56:04] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 395, 내용: 全民阅读,看见数字阅读的新商业样本	https:https:
+[2023-10-11 23:56:04] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 396, 내용: Editorial: What Have Large-Lan
+[2023-10-11 23:56:24] (DEBUG) => [Current Working] Repeat: 40.0/100.0, Collection: 396/1000.. Wait 10 seconds
+[2023-10-11 23:56:24] (DEBUG) => [Messaging] 다음의 URL에서 콘텐츠를 수집합니다=> http://xueshu.baidu.com/s?wd=ChatGPT&pn=400&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8&filter=sc_year%3D%7B2023%2C2023%7D&sc_hit=1
+[2023-10-11 23:56:25] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 397, 내용: 迎向影像化生存的3.0时代	https:https://xu
+[2023-10-11 23:56:25] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 398, 내용: 强人工智能崛起引发新一轮AI备战升级	https:https
+[2023-10-11 23:56:25] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 399, 내용: 生成式AI发展将改变汽车商业模式	https:https:/
+[2023-10-11 23:56:25] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 400, 내용: 浅析建筑学科中的人工智能生成内容技术	https:https
+[2023-10-11 23:56:25] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 401, 내용: 2022未来感科技企业TOP100	https:https:
+[2023-10-11 23:56:25] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 402, 내용: 人工智能全学段贯通式人才培养的作用与策略	https:htt
+[2023-10-11 23:56:25] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 403, 내용: 当人工智能遇上青少年科技创新活动	https:https:/
+[2023-10-11 23:56:25] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 404, 내용: 全民阅读,看见数字阅读的新商业样本	https:https:
+[2023-10-11 23:56:25] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 405, 내용: Editorial: What Have Large-Lan
+[2023-10-11 23:56:45] (DEBUG) => [Current Working] Repeat: 41.0/100.0, Collection: 405/1000.. Wait 10 seconds
+[2023-10-11 23:56:45] (DEBUG) => [Messaging] 다음의 URL에서 콘텐츠를 수집합니다=> http://xueshu.baidu.com/s?wd=ChatGPT&pn=410&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8&filter=sc_year%3D%7B2023%2C2023%7D&sc_hit=1
+[2023-10-11 23:56:46] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 406, 내용: 迎向影像化生存的3.0时代	https:https://xu
+[2023-10-11 23:56:46] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 407, 내용: 强人工智能崛起引发新一轮AI备战升级	https:https
+[2023-10-11 23:56:46] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 408, 내용: 生成式AI发展将改变汽车商业模式	https:https:/
+[2023-10-11 23:56:46] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 409, 내용: 浅析建筑学科中的人工智能生成内容技术	https:https
+[2023-10-11 23:56:46] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 410, 내용: 2022未来感科技企业TOP100	https:https:
+[2023-10-11 23:56:46] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 411, 내용: 人工智能全学段贯通式人才培养的作用与策略	https:htt
+[2023-10-11 23:56:46] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 412, 내용: 当人工智能遇上青少年科技创新活动	https:https:/
+[2023-10-11 23:56:46] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 413, 내용: 全民阅读,看见数字阅读的新商业样本	https:https:
+[2023-10-11 23:56:46] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 414, 내용: Editorial: What Have Large-Lan
+[2023-10-11 23:57:06] (DEBUG) => [Current Working] Repeat: 42.0/100.0, Collection: 414/1000.. Wait 10 seconds
+[2023-10-11 23:57:06] (DEBUG) => [Messaging] 다음의 URL에서 콘텐츠를 수집합니다=> http://xueshu.baidu.com/s?wd=ChatGPT&pn=420&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8&filter=sc_year%3D%7B2023%2C2023%7D&sc_hit=1
+[2023-10-11 23:57:07] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 415, 내용: 迎向影像化生存的3.0时代	https:https://xu
+[2023-10-11 23:57:07] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 416, 내용: 强人工智能崛起引发新一轮AI备战升级	https:https
+[2023-10-11 23:57:07] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 417, 내용: 生成式AI发展将改变汽车商业模式	https:https:/
+[2023-10-11 23:57:07] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 418, 내용: 浅析建筑学科中的人工智能生成内容技术	https:https
+[2023-10-11 23:57:07] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 419, 내용: 2022未来感科技企业TOP100	https:https:
+[2023-10-11 23:57:07] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 420, 내용: 人工智能全学段贯通式人才培养的作用与策略	https:htt
+[2023-10-11 23:57:07] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 421, 내용: 当人工智能遇上青少年科技创新活动	https:https:/
+[2023-10-11 23:57:07] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 422, 내용: 全民阅读,看见数字阅读的新商业样本	https:https:
+[2023-10-11 23:57:07] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 423, 내용: Editorial: What Have Large-Lan
+[2023-10-11 23:57:27] (DEBUG) => [Current Working] Repeat: 43.0/100.0, Collection: 423/1000.. Wait 10 seconds
+[2023-10-11 23:57:27] (DEBUG) => [Messaging] 다음의 URL에서 콘텐츠를 수집합니다=> http://xueshu.baidu.com/s?wd=ChatGPT&pn=430&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8&filter=sc_year%3D%7B2023%2C2023%7D&sc_hit=1
+[2023-10-11 23:57:29] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 424, 내용: 迎向影像化生存的3.0时代	https:https://xu
+[2023-10-11 23:57:29] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 425, 내용: 强人工智能崛起引发新一轮AI备战升级	https:https
+[2023-10-11 23:57:29] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 426, 내용: 生成式AI发展将改变汽车商业模式	https:https:/
+[2023-10-11 23:57:29] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 427, 내용: 浅析建筑学科中的人工智能生成内容技术	https:https
+[2023-10-11 23:57:29] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 428, 내용: 2022未来感科技企业TOP100	https:https:
+[2023-10-11 23:57:29] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 429, 내용: 人工智能全学段贯通式人才培养的作用与策略	https:htt
+[2023-10-11 23:57:29] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 430, 내용: 当人工智能遇上青少年科技创新活动	https:https:/
+[2023-10-11 23:57:29] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 431, 내용: 全民阅读,看见数字阅读的新商业样本	https:https:
+[2023-10-11 23:57:29] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 432, 내용: Editorial: What Have Large-Lan
+[2023-10-11 23:57:49] (DEBUG) => [Current Working] Repeat: 44.0/100.0, Collection: 432/1000.. Wait 10 seconds
+[2023-10-11 23:57:49] (DEBUG) => [Messaging] 다음의 URL에서 콘텐츠를 수집합니다=> http://xueshu.baidu.com/s?wd=ChatGPT&pn=440&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8&filter=sc_year%3D%7B2023%2C2023%7D&sc_hit=1
+[2023-10-11 23:57:50] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 433, 내용: 迎向影像化生存的3.0时代	https:https://xu
+[2023-10-11 23:57:50] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 434, 내용: 强人工智能崛起引发新一轮AI备战升级	https:https
+[2023-10-11 23:57:50] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 435, 내용: 生成式AI发展将改变汽车商业模式	https:https:/
+[2023-10-11 23:57:50] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 436, 내용: 浅析建筑学科中的人工智能生成内容技术	https:https
+[2023-10-11 23:57:50] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 437, 내용: 2022未来感科技企业TOP100	https:https:
+[2023-10-11 23:57:50] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 438, 내용: 人工智能全学段贯通式人才培养的作用与策略	https:htt
+[2023-10-11 23:57:50] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 439, 내용: 当人工智能遇上青少年科技创新活动	https:https:/
+[2023-10-11 23:57:50] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 440, 내용: 全民阅读,看见数字阅读的新商业样本	https:https:
+[2023-10-11 23:57:50] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 441, 내용: Editorial: What Have Large-Lan
+[2023-10-11 23:58:10] (DEBUG) => [Current Working] Repeat: 45.0/100.0, Collection: 441/1000.. Wait 10 seconds
+[2023-10-11 23:58:10] (DEBUG) => [Messaging] 다음의 URL에서 콘텐츠를 수집합니다=> http://xueshu.baidu.com/s?wd=ChatGPT&pn=450&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8&filter=sc_year%3D%7B2023%2C2023%7D&sc_hit=1
+[2023-10-11 23:58:11] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 442, 내용: Editorial: What Have Large-Lan
+[2023-10-11 23:58:31] (DEBUG) => [Current Working] Repeat: 46.0/100.0, Collection: 442/1000.. Wait 10 seconds
+[2023-10-11 23:58:31] (DEBUG) => [Messaging] 다음의 URL에서 콘텐츠를 수집합니다=> http://xueshu.baidu.com/s?wd=ChatGPT&pn=460&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8&filter=sc_year%3D%7B2023%2C2023%7D&sc_hit=1
+[2023-10-11 23:58:31] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 443, 내용: Editorial: What Have Large-Lan
+[2023-10-11 23:58:51] (DEBUG) => [Current Working] Repeat: 47.0/100.0, Collection: 443/1000.. Wait 10 seconds
+[2023-10-11 23:58:51] (DEBUG) => [Messaging] 다음의 URL에서 콘텐츠를 수집합니다=> http://xueshu.baidu.com/s?wd=ChatGPT&pn=470&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8&filter=sc_year%3D%7B2023%2C2023%7D&sc_hit=1
+[2023-10-11 23:58:52] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 444, 내용: Editorial: What Have Large-Lan
+[2023-10-11 23:59:12] (DEBUG) => [Current Working] Repeat: 48.0/100.0, Collection: 444/1000.. Wait 10 seconds
+[2023-10-11 23:59:12] (DEBUG) => [Messaging] 다음의 URL에서 콘텐츠를 수집합니다=> http://xueshu.baidu.com/s?wd=ChatGPT&pn=480&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8&filter=sc_year%3D%7B2023%2C2023%7D&sc_hit=1
+[2023-10-11 23:59:13] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 445, 내용: Editorial: What Have Large-Lan
+[2023-10-11 23:59:33] (DEBUG) => [Current Working] Repeat: 49.0/100.0, Collection: 445/1000.. Wait 10 seconds
+[2023-10-11 23:59:33] (DEBUG) => [Messaging] 다음의 URL에서 콘텐츠를 수집합니다=> http://xueshu.baidu.com/s?wd=ChatGPT&pn=490&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8&filter=sc_year%3D%7B2023%2C2023%7D&sc_hit=1
+[2023-10-11 23:59:34] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 446, 내용: Editorial: What Have Large-Lan
+[2023-10-11 23:59:54] (DEBUG) => [Current Working] Repeat: 50.0/100.0, Collection: 446/1000.. Wait 10 seconds
+[2023-10-11 23:59:54] (DEBUG) => [Messaging] 다음의 URL에서 콘텐츠를 수집합니다=> http://xueshu.baidu.com/s?wd=ChatGPT&pn=500&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8&filter=sc_year%3D%7B2023%2C2023%7D&sc_hit=1
+[2023-10-11 23:59:55] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 447, 내용: 迎向影像化生存的3.0时代	https:https://xu
+[2023-10-11 23:59:55] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 448, 내용: 强人工智能崛起引发新一轮AI备战升级	https:https
+[2023-10-11 23:59:55] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 449, 내용: 生成式AI发展将改变汽车商业模式	https:https:/
+[2023-10-11 23:59:55] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 450, 내용: 浅析建筑学科中的人工智能生成内容技术	https:https
+[2023-10-11 23:59:55] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 451, 내용: 2022未来感科技企业TOP100	https:https:
+[2023-10-11 23:59:55] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 452, 내용: 人工智能全学段贯通式人才培养的作用与策略	https:htt
+[2023-10-11 23:59:55] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 453, 내용: 当人工智能遇上青少年科技创新活动	https:https:/
+[2023-10-11 23:59:55] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 454, 내용: 全民阅读,看见数字阅读的新商业样本	https:https:
+[2023-10-11 23:59:55] (DEBUG) => task-[4127] 수집 중 => 키워드: ChatGPT, 카운트: 455, 내용: Editorial: What Have Large-Lan

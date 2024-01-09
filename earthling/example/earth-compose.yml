@@ -1,0 +1,60 @@
+db:
+  earthling:
+    db_address: '211.195.9.228'
+    db_name: 'earthling'
+    username: 'theimc'
+    password: 'theimc#10!'
+    auto_commit: True
+
+  edumining:
+    db_address: '211.195.9.228'
+    db_name: 'edumining'
+    username: 'theimc'
+    password: 'theimc#10!'
+    auto_commit: True
+  
+mq:
+  address: '211.195.9.228'
+  port: 5672
+  username: 'rabbitmq'
+  password: 'rabbitmq'
+
+sse:
+  address: '211.195.9.228'
+  port: 7777
+
+rpc:
+  host:
+    address: '211.195.9.228'
+    port: 50052
+
+  manager:
+    address: '211.195.9.228'
+    port: 50051
+
+  assistant:
+    -
+      address: '211.195.9.228'
+      port: 50052
+      workers: [1000, 2000, 3000]
+      # workers: ['ttolgi', 'hochi'] # 'hochi', 'saechomi', 'yolongi']
+# ttolgi tteong-i hochi saechomi deulago yolong-i macho mimi mongchi kiki gangdali jjingjjing-i
+    # -
+    #   address: '211.195.9.228'
+    #   port: 50052
+    #   worker: [50053, 50054, 50055]
+
+    # -
+    #   address: '211.195.9.228'
+    #   port: 50052
+    #   worker: [50053, 50054, 50055]
+
+
+      
+    # -
+    #   name: 'Jin'
+    #   age: 300
+    # -
+    #   name: 'hwan'
+    #   age: 400
+

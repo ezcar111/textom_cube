@@ -1,0 +1,6 @@
+[2023-06-03 00:49:49] (DEBUG) => Worker-[1000]가 task-[1148248]의 'news'(을)를 시작합니다. (Thread: 3585511)
+[2023-06-03 00:49:49] (DEBUG) => Worker-[1000]가 task-[1148248]의 'news'(을)를 처리중입니다.
+[2023-06-03 00:49:49] (DEBUG) => 수집정보 => 채널: naver, 유형: news, 키워드: "중앙교육연수원", 기간: 2021-07-05 ~ 2021-07-11, 테이블: scraw_naver_datainfo
+[2023-06-03 00:51:55] (DEBUG) => ConnectionError((<urllib3.connection.HTTPConnection object at 0x7fc023ca9bb0>, 'Connection to 221.157.125.36 timed out. (connect timeout=30)')) caused by: ConnectTimeoutError((<urllib3.connection.HTTPConnection object at 0x7fc023ca9bb0>, 'Connection to 221.157.125.36 timed out. (connect timeout=30)'))
+[2023-06-03 00:51:55] (DEBUG) => 데이터 수집을 정상적으로 완료하였습니다.
+[2023-06-03 00:51:55] (DEBUG) => Worker-[1000]가 task-[1148248]의 'news'(을)를 완료하였습니다.

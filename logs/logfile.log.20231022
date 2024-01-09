@@ -1,0 +1,310 @@
+[2023-10-22 23:35:13] (DEBUG) => Worker-[1000]가 task-[4221]의 'academic'(을)를 시작합니다. (Thread: 304881)
+[2023-10-22 23:35:13] (DEBUG) => Worker-[1000]가 task-[4221]의 'academic'(을)를 처리중입니다.
+[2023-10-22 23:35:13] (DEBUG) => 수집정보 => 채널: baidu, 유형: academic, 키워드: 张国荣+韩国, 기간: 2013-10-01 ~ 2023-10-22, 테이블: scraw_baidu_datainfo
+[2023-10-22 23:35:14] (DEBUG) => [Messaging] 다음의 URL에서 콘텐츠를 수집합니다=> http://xueshu.baidu.com/s?wd=%E5%BC%A0%E5%9B%BD%E8%8D%A3%2B%E9%9F%A9%E5%9B%BD&pn=0&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8&filter=sc_year%3D%7B2013%2C2023%7D&sc_hit=1
+[2023-10-22 23:35:15] (DEBUG) => task-[4221] 수집 중 => 키워드: 张国荣+韩国, 카운트: 1, 내용: [图书]     永远的哥哥张国荣 杂文	https:ht
+[2023-10-22 23:35:15] (DEBUG) => task-[4221] 수집 중 => 키워드: 张国荣+韩国, 카운트: 2, 내용: 找到适合自身体质的保健良方(七)	https:https:/
+[2023-10-22 23:35:15] (DEBUG) => task-[4221] 수집 중 => 키워드: 张国荣+韩国, 카운트: 3, 내용: 精品文化纪录片的传播结构解析--以北京电视台《档案》为例	h
+[2023-10-22 23:35:15] (DEBUG) => task-[4221] 수집 중 => 키워드: 张国荣+韩国, 카운트: 4, 내용: 供给侧重塑中"互联网+教学"的探索	https:https:
+[2023-10-22 23:35:15] (DEBUG) => task-[4221] 수집 중 => 키워드: 张国荣+韩国, 카운트: 5, 내용: 低压缺氧预处理对暴露于+Gz加速度所致大鼠脑组织损伤的保护作
+[2023-10-22 23:35:15] (DEBUG) => task-[4221] 수집 중 => 키워드: 张国荣+韩国, 카운트: 6, 내용: [专利]     一种微网无功-电压控制装置及其控制方法	
+[2023-10-22 23:35:15] (DEBUG) => task-[4221] 수집 중 => 키워드: 张国荣+韩国, 카운트: 7, 내용: [专利]     Microgrid reactive-v
+[2023-10-22 23:35:15] (DEBUG) => task-[4221] 수집 중 => 키워드: 张国荣+韩国, 카운트: 8, 내용: 低压低氧预处理对加速度暴露大鼠心肌损伤的保护作用	https
+[2023-10-22 23:35:15] (DEBUG) => task-[4221] 수집 중 => 키워드: 张国荣+韩国, 카운트: 9, 내용: 低压低氧预处理对加速度暴露大鼠心肌损伤的保护作用	https
+[2023-10-22 23:35:15] (DEBUG) => task-[4221] 수집 중 => 키워드: 张国荣+韩国, 카운트: 10, 내용: 低压低氧预处理对加速度暴露大鼠心肌损伤的保护作用	https
+[2023-10-22 23:35:35] (DEBUG) => [Current Working] Repeat: 1.0/100.0, Collection: 10/1000.. Wait 10 seconds
+[2023-10-22 23:35:35] (DEBUG) => [Messaging] 다음의 URL에서 콘텐츠를 수집합니다=> http://xueshu.baidu.com/s?wd=%E5%BC%A0%E5%9B%BD%E8%8D%A3%2B%E9%9F%A9%E5%9B%BD&pn=10&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8&filter=sc_year%3D%7B2013%2C2023%7D&sc_hit=1
+[2023-10-22 23:35:36] (DEBUG) => task-[4221] 수집 중 => 키워드: 张国荣+韩国, 카운트: 11, 내용: 丙泊酚对过氧化氢诱导人红细胞氧化应激状态下一氧化氮通路的影响
+[2023-10-22 23:35:36] (DEBUG) => task-[4221] 수집 중 => 키워드: 张国荣+韩国, 카운트: 12, 내용: 低压低氧预处理对加速度暴露大鼠心肌损伤的保护作用	https
+[2023-10-22 23:35:36] (DEBUG) => task-[4221] 수집 중 => 키워드: 张国荣+韩国, 카운트: 13, 내용: 七氟醚抑制人红细胞抗氧化能力的实验研究	https:http
+[2023-10-22 23:35:36] (DEBUG) => task-[4221] 수집 중 => 키워드: 张国荣+韩国, 카운트: 14, 내용: 龙岩市非煤地下矿山采空区处理方法的选择	https:http
+[2023-10-22 23:35:36] (DEBUG) => task-[4221] 수집 중 => 키워드: 张国荣+韩国, 카운트: 15, 내용: 伽玛刀治疗老年原发性三叉神经痛118例临床分析	https:
+[2023-10-22 23:35:36] (DEBUG) => task-[4221] 수집 중 => 키워드: 张国荣+韩国, 카운트: 16, 내용: 基于微课程开发的人力资源管理专业教学资源库院校合作探索	ht
+[2023-10-22 23:35:36] (DEBUG) => task-[4221] 수집 중 => 키워드: 张国荣+韩国, 카운트: 17, 내용: 细胞周期蛋白依赖性蛋白激酶调控固氮共生过程初探	https:
+[2023-10-22 23:35:36] (DEBUG) => task-[4221] 수집 중 => 키워드: 张国荣+韩国, 카운트: 18, 내용: 富血小板纤维蛋白(PRF)对即刻负重种植体周围骨缺损的影响	
+[2023-10-22 23:35:36] (DEBUG) => task-[4221] 수집 중 => 키워드: 张国荣+韩国, 카운트: 19, 내용: 滩海稠油油藏海油陆采举升方式的创新和应用	https:htt
+[2023-10-22 23:35:36] (DEBUG) => task-[4221] 수집 중 => 키워드: 张国荣+韩国, 카운트: 20, 내용: 右美托咪定对神经病理性痛大鼠脊髓中央管周围灰质神经元型一氧化
+[2023-10-22 23:35:56] (DEBUG) => [Current Working] Repeat: 2.0/100.0, Collection: 20/1000.. Wait 10 seconds
+[2023-10-22 23:35:56] (DEBUG) => [Messaging] 다음의 URL에서 콘텐츠를 수집합니다=> http://xueshu.baidu.com/s?wd=%E5%BC%A0%E5%9B%BD%E8%8D%A3%2B%E9%9F%A9%E5%9B%BD&pn=20&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8&filter=sc_year%3D%7B2013%2C2023%7D&sc_hit=1
+[2023-10-22 23:35:57] (DEBUG) => task-[4221] 수집 중 => 키워드: 张国荣+韩国, 카운트: 21, 내용: 卡贝缩宫素预防宫缩乏力性产后出血的疗效观察	https:ht
+[2023-10-22 23:35:57] (DEBUG) => task-[4221] 수집 중 => 키워드: 张国荣+韩国, 카운트: 22, 내용: [专利]     一种合作无人机隔离空域划设方法	http
+[2023-10-22 23:35:57] (DEBUG) => task-[4221] 수집 중 => 키워드: 张国荣+韩国, 카운트: 23, 내용: 中西医结合治疗慢性阻塞性肺疾病急性期临床观察	https:h
+[2023-10-22 23:35:57] (DEBUG) => task-[4221] 수집 중 => 키워드: 张国荣+韩国, 카운트: 24, 내용: "向日葵农场",新农人的"农业+互联网"之路	https:h
+[2023-10-22 23:35:57] (DEBUG) => task-[4221] 수집 중 => 키워드: 张国荣+韩国, 카운트: 25, 내용: 都市快报官微10万+"秘笈"考	https:https://
+[2023-10-22 23:35:57] (DEBUG) => task-[4221] 수집 중 => 키워드: 张国荣+韩国, 카운트: 26, 내용: 以信息化建设助推 区域教育优质均衡发展	https:http
+[2023-10-22 23:35:57] (DEBUG) => task-[4221] 수집 중 => 키워드: 张国荣+韩国, 카운트: 27, 내용: 七氟醚抑制人红细胞抗氧化能力的实验研究	https:http
+[2023-10-22 23:35:57] (DEBUG) => task-[4221] 수집 중 => 키워드: 张国荣+韩国, 카운트: 28, 내용: 富血小板纤维蛋白(PRF)对即刻负重种植体周围骨缺损的影响	
+[2023-10-22 23:35:57] (DEBUG) => task-[4221] 수집 중 => 키워드: 张国荣+韩国, 카운트: 29, 내용: 龙岩市非煤地下矿山采空区处理方法的选择	https:http
+[2023-10-22 23:35:57] (DEBUG) => task-[4221] 수집 중 => 키워드: 张国荣+韩国, 카운트: 30, 내용: 卡贝缩宫素预防宫缩乏力性产后出血的疗效观察	https:ht
+[2023-10-22 23:36:17] (DEBUG) => [Current Working] Repeat: 3.0/100.0, Collection: 30/1000.. Wait 10 seconds
+[2023-10-22 23:36:17] (DEBUG) => [Messaging] 다음의 URL에서 콘텐츠를 수집합니다=> http://xueshu.baidu.com/s?wd=%E5%BC%A0%E5%9B%BD%E8%8D%A3%2B%E9%9F%A9%E5%9B%BD&pn=30&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8&filter=sc_year%3D%7B2013%2C2023%7D&sc_hit=1
+[2023-10-22 23:36:18] (DEBUG) => task-[4221] 수집 중 => 키워드: 张国荣+韩国, 카운트: 31, 내용: 供给侧重塑中"互联网+教学"的探索	https:https:
+[2023-10-22 23:36:18] (DEBUG) => task-[4221] 수집 중 => 키워드: 张国荣+韩国, 카운트: 32, 내용: "向日葵农场",新农人的"农业+互联网"之路	https:h
+[2023-10-22 23:36:38] (DEBUG) => [Current Working] Repeat: 4.0/100.0, Collection: 32/1000.. Wait 10 seconds
+[2023-10-22 23:36:38] (DEBUG) => [Messaging] 다음의 URL에서 콘텐츠를 수집합니다=> http://xueshu.baidu.com/s?wd=%E5%BC%A0%E5%9B%BD%E8%8D%A3%2B%E9%9F%A9%E5%9B%BD&pn=40&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8&filter=sc_year%3D%7B2013%2C2023%7D&sc_hit=1
+[2023-10-22 23:36:39] (DEBUG) => task-[4221] 수집 중 => 키워드: 张国荣+韩国, 카운트: 33, 내용: 供给侧重塑中"互联网+教学"的探索	https:https:
+[2023-10-22 23:36:39] (DEBUG) => task-[4221] 수집 중 => 키워드: 张国荣+韩国, 카운트: 34, 내용: "向日葵农场",新农人的"农业+互联网"之路	https:h
+[2023-10-22 23:36:59] (DEBUG) => [Current Working] Repeat: 5.0/100.0, Collection: 34/1000.. Wait 10 seconds
+[2023-10-22 23:36:59] (DEBUG) => [Messaging] 다음의 URL에서 콘텐츠를 수집합니다=> http://xueshu.baidu.com/s?wd=%E5%BC%A0%E5%9B%BD%E8%8D%A3%2B%E9%9F%A9%E5%9B%BD&pn=50&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8&filter=sc_year%3D%7B2013%2C2023%7D&sc_hit=1
+[2023-10-22 23:37:00] (DEBUG) => task-[4221] 수집 중 => 키워드: 张国荣+韩国, 카운트: 35, 내용: 供给侧重塑中"互联网+教学"的探索	https:https:
+[2023-10-22 23:37:00] (DEBUG) => task-[4221] 수집 중 => 키워드: 张国荣+韩国, 카운트: 36, 내용: "向日葵农场",新农人的"农业+互联网"之路	https:h
+[2023-10-22 23:37:20] (DEBUG) => [Current Working] Repeat: 6.0/100.0, Collection: 36/1000.. Wait 10 seconds
+[2023-10-22 23:37:20] (DEBUG) => [Messaging] 다음의 URL에서 콘텐츠를 수집합니다=> http://xueshu.baidu.com/s?wd=%E5%BC%A0%E5%9B%BD%E8%8D%A3%2B%E9%9F%A9%E5%9B%BD&pn=60&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8&filter=sc_year%3D%7B2013%2C2023%7D&sc_hit=1
+[2023-10-22 23:37:21] (DEBUG) => task-[4221] 수집 중 => 키워드: 张国荣+韩国, 카운트: 37, 내용: 供给侧重塑中"互联网+教学"的探索	https:https:
+[2023-10-22 23:37:21] (DEBUG) => task-[4221] 수집 중 => 키워드: 张国荣+韩国, 카운트: 38, 내용: "向日葵农场",新农人的"农业+互联网"之路	https:h
+[2023-10-22 23:37:41] (DEBUG) => [Current Working] Repeat: 7.0/100.0, Collection: 38/1000.. Wait 10 seconds
+[2023-10-22 23:37:41] (DEBUG) => [Messaging] 다음의 URL에서 콘텐츠를 수집합니다=> http://xueshu.baidu.com/s?wd=%E5%BC%A0%E5%9B%BD%E8%8D%A3%2B%E9%9F%A9%E5%9B%BD&pn=70&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8&filter=sc_year%3D%7B2013%2C2023%7D&sc_hit=1
+[2023-10-22 23:37:42] (DEBUG) => task-[4221] 수집 중 => 키워드: 张国荣+韩国, 카운트: 39, 내용: 供给侧重塑中"互联网+教学"的探索	https:https:
+[2023-10-22 23:37:42] (DEBUG) => task-[4221] 수집 중 => 키워드: 张国荣+韩国, 카운트: 40, 내용: "向日葵农场",新农人的"农业+互联网"之路	https:h
+[2023-10-22 23:38:02] (DEBUG) => [Current Working] Repeat: 8.0/100.0, Collection: 40/1000.. Wait 10 seconds
+[2023-10-22 23:38:02] (DEBUG) => [Messaging] 다음의 URL에서 콘텐츠를 수집합니다=> http://xueshu.baidu.com/s?wd=%E5%BC%A0%E5%9B%BD%E8%8D%A3%2B%E9%9F%A9%E5%9B%BD&pn=80&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8&filter=sc_year%3D%7B2013%2C2023%7D&sc_hit=1
+[2023-10-22 23:38:03] (DEBUG) => task-[4221] 수집 중 => 키워드: 张国荣+韩国, 카운트: 41, 내용: 供给侧重塑中"互联网+教学"的探索	https:https:
+[2023-10-22 23:38:03] (DEBUG) => task-[4221] 수집 중 => 키워드: 张国荣+韩国, 카운트: 42, 내용: "向日葵农场",新农人的"农业+互联网"之路	https:h
+[2023-10-22 23:38:23] (DEBUG) => [Current Working] Repeat: 9.0/100.0, Collection: 42/1000.. Wait 10 seconds
+[2023-10-22 23:38:23] (DEBUG) => [Messaging] 다음의 URL에서 콘텐츠를 수집합니다=> http://xueshu.baidu.com/s?wd=%E5%BC%A0%E5%9B%BD%E8%8D%A3%2B%E9%9F%A9%E5%9B%BD&pn=90&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8&filter=sc_year%3D%7B2013%2C2023%7D&sc_hit=1
+[2023-10-22 23:38:23] (DEBUG) => task-[4221] 수집 중 => 키워드: 张国荣+韩国, 카운트: 43, 내용: 供给侧重塑中"互联网+教学"的探索	https:https:
+[2023-10-22 23:38:23] (DEBUG) => task-[4221] 수집 중 => 키워드: 张国荣+韩国, 카운트: 44, 내용: "向日葵农场",新农人的"农业+互联网"之路	https:h
+[2023-10-22 23:38:44] (DEBUG) => [Current Working] Repeat: 10.0/100.0, Collection: 44/1000.. Wait 10 seconds
+[2023-10-22 23:38:44] (DEBUG) => [Messaging] 다음의 URL에서 콘텐츠를 수집합니다=> http://xueshu.baidu.com/s?wd=%E5%BC%A0%E5%9B%BD%E8%8D%A3%2B%E9%9F%A9%E5%9B%BD&pn=100&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8&filter=sc_year%3D%7B2013%2C2023%7D&sc_hit=1
+[2023-10-22 23:38:45] (DEBUG) => task-[4221] 수집 중 => 키워드: 张国荣+韩国, 카운트: 45, 내용: 供给侧重塑中"互联网+教学"的探索	https:https:
+[2023-10-22 23:38:45] (DEBUG) => task-[4221] 수집 중 => 키워드: 张国荣+韩国, 카운트: 46, 내용: "向日葵农场",新农人的"农业+互联网"之路	https:h
+[2023-10-22 23:39:05] (DEBUG) => [Current Working] Repeat: 11.0/100.0, Collection: 46/1000.. Wait 10 seconds
+[2023-10-22 23:39:05] (DEBUG) => [Messaging] 다음의 URL에서 콘텐츠를 수집합니다=> http://xueshu.baidu.com/s?wd=%E5%BC%A0%E5%9B%BD%E8%8D%A3%2B%E9%9F%A9%E5%9B%BD&pn=110&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8&filter=sc_year%3D%7B2013%2C2023%7D&sc_hit=1
+[2023-10-22 23:39:06] (DEBUG) => task-[4221] 수집 중 => 키워드: 张国荣+韩国, 카운트: 47, 내용: 供给侧重塑中"互联网+教学"的探索	https:https:
+[2023-10-22 23:39:06] (DEBUG) => task-[4221] 수집 중 => 키워드: 张国荣+韩国, 카운트: 48, 내용: "向日葵农场",新农人的"农业+互联网"之路	https:h
+[2023-10-22 23:39:26] (DEBUG) => [Current Working] Repeat: 12.0/100.0, Collection: 48/1000.. Wait 10 seconds
+[2023-10-22 23:39:26] (DEBUG) => [Messaging] 다음의 URL에서 콘텐츠를 수집합니다=> http://xueshu.baidu.com/s?wd=%E5%BC%A0%E5%9B%BD%E8%8D%A3%2B%E9%9F%A9%E5%9B%BD&pn=120&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8&filter=sc_year%3D%7B2013%2C2023%7D&sc_hit=1
+[2023-10-22 23:39:26] (DEBUG) => task-[4221] 수집 중 => 키워드: 张国荣+韩国, 카운트: 49, 내용: 供给侧重塑中"互联网+教学"的探索	https:https:
+[2023-10-22 23:39:26] (DEBUG) => task-[4221] 수집 중 => 키워드: 张国荣+韩国, 카운트: 50, 내용: "向日葵农场",新农人的"农业+互联网"之路	https:h
+[2023-10-22 23:39:46] (DEBUG) => [Current Working] Repeat: 13.0/100.0, Collection: 50/1000.. Wait 10 seconds
+[2023-10-22 23:39:46] (DEBUG) => [Messaging] 다음의 URL에서 콘텐츠를 수집합니다=> http://xueshu.baidu.com/s?wd=%E5%BC%A0%E5%9B%BD%E8%8D%A3%2B%E9%9F%A9%E5%9B%BD&pn=130&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8&filter=sc_year%3D%7B2013%2C2023%7D&sc_hit=1
+[2023-10-22 23:39:47] (DEBUG) => task-[4221] 수집 중 => 키워드: 张国荣+韩国, 카운트: 51, 내용: 供给侧重塑中"互联网+教学"的探索	https:https:
+[2023-10-22 23:39:47] (DEBUG) => task-[4221] 수집 중 => 키워드: 张国荣+韩国, 카운트: 52, 내용: "向日葵农场",新农人的"农业+互联网"之路	https:h
+[2023-10-22 23:40:07] (DEBUG) => [Current Working] Repeat: 14.0/100.0, Collection: 52/1000.. Wait 10 seconds
+[2023-10-22 23:40:07] (DEBUG) => [Messaging] 다음의 URL에서 콘텐츠를 수집합니다=> http://xueshu.baidu.com/s?wd=%E5%BC%A0%E5%9B%BD%E8%8D%A3%2B%E9%9F%A9%E5%9B%BD&pn=140&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8&filter=sc_year%3D%7B2013%2C2023%7D&sc_hit=1
+[2023-10-22 23:40:08] (DEBUG) => task-[4221] 수집 중 => 키워드: 张国荣+韩国, 카운트: 53, 내용: 供给侧重塑中"互联网+教学"的探索	https:https:
+[2023-10-22 23:40:08] (DEBUG) => task-[4221] 수집 중 => 키워드: 张国荣+韩国, 카운트: 54, 내용: "向日葵农场",新农人的"农业+互联网"之路	https:h
+[2023-10-22 23:40:28] (DEBUG) => [Current Working] Repeat: 15.0/100.0, Collection: 54/1000.. Wait 10 seconds
+[2023-10-22 23:40:28] (DEBUG) => [Messaging] 다음의 URL에서 콘텐츠를 수집합니다=> http://xueshu.baidu.com/s?wd=%E5%BC%A0%E5%9B%BD%E8%8D%A3%2B%E9%9F%A9%E5%9B%BD&pn=150&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8&filter=sc_year%3D%7B2013%2C2023%7D&sc_hit=1
+[2023-10-22 23:40:29] (DEBUG) => task-[4221] 수집 중 => 키워드: 张国荣+韩国, 카운트: 55, 내용: 供给侧重塑中"互联网+教学"的探索	https:https:
+[2023-10-22 23:40:29] (DEBUG) => task-[4221] 수집 중 => 키워드: 张国荣+韩国, 카운트: 56, 내용: "向日葵农场",新农人的"农业+互联网"之路	https:h
+[2023-10-22 23:40:49] (DEBUG) => [Current Working] Repeat: 16.0/100.0, Collection: 56/1000.. Wait 10 seconds
+[2023-10-22 23:40:49] (DEBUG) => [Messaging] 다음의 URL에서 콘텐츠를 수집합니다=> http://xueshu.baidu.com/s?wd=%E5%BC%A0%E5%9B%BD%E8%8D%A3%2B%E9%9F%A9%E5%9B%BD&pn=160&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8&filter=sc_year%3D%7B2013%2C2023%7D&sc_hit=1
+[2023-10-22 23:40:50] (DEBUG) => task-[4221] 수집 중 => 키워드: 张国荣+韩国, 카운트: 57, 내용: 供给侧重塑中"互联网+教学"的探索	https:https:
+[2023-10-22 23:40:50] (DEBUG) => task-[4221] 수집 중 => 키워드: 张国荣+韩国, 카운트: 58, 내용: "向日葵农场",新农人的"农业+互联网"之路	https:h
+[2023-10-22 23:41:10] (DEBUG) => [Current Working] Repeat: 17.0/100.0, Collection: 58/1000.. Wait 10 seconds
+[2023-10-22 23:41:10] (DEBUG) => [Messaging] 다음의 URL에서 콘텐츠를 수집합니다=> http://xueshu.baidu.com/s?wd=%E5%BC%A0%E5%9B%BD%E8%8D%A3%2B%E9%9F%A9%E5%9B%BD&pn=170&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8&filter=sc_year%3D%7B2013%2C2023%7D&sc_hit=1
+[2023-10-22 23:41:11] (DEBUG) => task-[4221] 수집 중 => 키워드: 张国荣+韩国, 카운트: 59, 내용: 供给侧重塑中"互联网+教学"的探索	https:https:
+[2023-10-22 23:41:11] (DEBUG) => task-[4221] 수집 중 => 키워드: 张国荣+韩国, 카운트: 60, 내용: "向日葵农场",新农人的"农业+互联网"之路	https:h
+[2023-10-22 23:41:31] (DEBUG) => [Current Working] Repeat: 18.0/100.0, Collection: 60/1000.. Wait 10 seconds
+[2023-10-22 23:41:31] (DEBUG) => [Messaging] 다음의 URL에서 콘텐츠를 수집합니다=> http://xueshu.baidu.com/s?wd=%E5%BC%A0%E5%9B%BD%E8%8D%A3%2B%E9%9F%A9%E5%9B%BD&pn=180&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8&filter=sc_year%3D%7B2013%2C2023%7D&sc_hit=1
+[2023-10-22 23:41:32] (DEBUG) => task-[4221] 수집 중 => 키워드: 张国荣+韩国, 카운트: 61, 내용: 供给侧重塑中"互联网+教学"的探索	https:https:
+[2023-10-22 23:41:32] (DEBUG) => task-[4221] 수집 중 => 키워드: 张国荣+韩国, 카운트: 62, 내용: "向日葵农场",新农人的"农业+互联网"之路	https:h
+[2023-10-22 23:41:52] (DEBUG) => [Current Working] Repeat: 19.0/100.0, Collection: 62/1000.. Wait 10 seconds
+[2023-10-22 23:41:52] (DEBUG) => [Messaging] 다음의 URL에서 콘텐츠를 수집합니다=> http://xueshu.baidu.com/s?wd=%E5%BC%A0%E5%9B%BD%E8%8D%A3%2B%E9%9F%A9%E5%9B%BD&pn=190&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8&filter=sc_year%3D%7B2013%2C2023%7D&sc_hit=1
+[2023-10-22 23:41:52] (DEBUG) => task-[4221] 수집 중 => 키워드: 张国荣+韩国, 카운트: 63, 내용: 供给侧重塑中"互联网+教学"的探索	https:https:
+[2023-10-22 23:41:52] (DEBUG) => task-[4221] 수집 중 => 키워드: 张国荣+韩国, 카운트: 64, 내용: "向日葵农场",新农人的"农业+互联网"之路	https:h
+[2023-10-22 23:42:12] (DEBUG) => [Current Working] Repeat: 20.0/100.0, Collection: 64/1000.. Wait 10 seconds
+[2023-10-22 23:42:12] (DEBUG) => [Messaging] 다음의 URL에서 콘텐츠를 수집합니다=> http://xueshu.baidu.com/s?wd=%E5%BC%A0%E5%9B%BD%E8%8D%A3%2B%E9%9F%A9%E5%9B%BD&pn=200&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8&filter=sc_year%3D%7B2013%2C2023%7D&sc_hit=1
+[2023-10-22 23:42:13] (DEBUG) => task-[4221] 수집 중 => 키워드: 张国荣+韩国, 카운트: 65, 내용: 供给侧重塑中"互联网+教学"的探索	https:https:
+[2023-10-22 23:42:13] (DEBUG) => task-[4221] 수집 중 => 키워드: 张国荣+韩国, 카운트: 66, 내용: "向日葵农场",新农人的"农业+互联网"之路	https:h
+[2023-10-22 23:42:33] (DEBUG) => [Current Working] Repeat: 21.0/100.0, Collection: 66/1000.. Wait 10 seconds
+[2023-10-22 23:42:33] (DEBUG) => [Messaging] 다음의 URL에서 콘텐츠를 수집합니다=> http://xueshu.baidu.com/s?wd=%E5%BC%A0%E5%9B%BD%E8%8D%A3%2B%E9%9F%A9%E5%9B%BD&pn=210&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8&filter=sc_year%3D%7B2013%2C2023%7D&sc_hit=1
+[2023-10-22 23:42:34] (DEBUG) => task-[4221] 수집 중 => 키워드: 张国荣+韩国, 카운트: 67, 내용: 供给侧重塑中"互联网+教学"的探索	https:https:
+[2023-10-22 23:42:34] (DEBUG) => task-[4221] 수집 중 => 키워드: 张国荣+韩国, 카운트: 68, 내용: "向日葵农场",新农人的"农业+互联网"之路	https:h
+[2023-10-22 23:42:54] (DEBUG) => [Current Working] Repeat: 22.0/100.0, Collection: 68/1000.. Wait 10 seconds
+[2023-10-22 23:42:54] (DEBUG) => [Messaging] 다음의 URL에서 콘텐츠를 수집합니다=> http://xueshu.baidu.com/s?wd=%E5%BC%A0%E5%9B%BD%E8%8D%A3%2B%E9%9F%A9%E5%9B%BD&pn=220&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8&filter=sc_year%3D%7B2013%2C2023%7D&sc_hit=1
+[2023-10-22 23:42:55] (DEBUG) => task-[4221] 수집 중 => 키워드: 张国荣+韩国, 카운트: 69, 내용: 供给侧重塑中"互联网+教学"的探索	https:https:
+[2023-10-22 23:42:55] (DEBUG) => task-[4221] 수집 중 => 키워드: 张国荣+韩国, 카운트: 70, 내용: "向日葵农场",新农人的"农业+互联网"之路	https:h
+[2023-10-22 23:43:15] (DEBUG) => [Current Working] Repeat: 23.0/100.0, Collection: 70/1000.. Wait 10 seconds
+[2023-10-22 23:43:15] (DEBUG) => [Messaging] 다음의 URL에서 콘텐츠를 수집합니다=> http://xueshu.baidu.com/s?wd=%E5%BC%A0%E5%9B%BD%E8%8D%A3%2B%E9%9F%A9%E5%9B%BD&pn=230&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8&filter=sc_year%3D%7B2013%2C2023%7D&sc_hit=1
+[2023-10-22 23:43:16] (DEBUG) => task-[4221] 수집 중 => 키워드: 张国荣+韩国, 카운트: 71, 내용: 供给侧重塑中"互联网+教学"的探索	https:https:
+[2023-10-22 23:43:16] (DEBUG) => task-[4221] 수집 중 => 키워드: 张国荣+韩国, 카운트: 72, 내용: "向日葵农场",新农人的"农业+互联网"之路	https:h
+[2023-10-22 23:43:36] (DEBUG) => [Current Working] Repeat: 24.0/100.0, Collection: 72/1000.. Wait 10 seconds
+[2023-10-22 23:43:36] (DEBUG) => [Messaging] 다음의 URL에서 콘텐츠를 수집합니다=> http://xueshu.baidu.com/s?wd=%E5%BC%A0%E5%9B%BD%E8%8D%A3%2B%E9%9F%A9%E5%9B%BD&pn=240&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8&filter=sc_year%3D%7B2013%2C2023%7D&sc_hit=1
+[2023-10-22 23:43:37] (DEBUG) => task-[4221] 수집 중 => 키워드: 张国荣+韩国, 카운트: 73, 내용: 供给侧重塑中"互联网+教学"的探索	https:https:
+[2023-10-22 23:43:37] (DEBUG) => task-[4221] 수집 중 => 키워드: 张国荣+韩国, 카운트: 74, 내용: "向日葵农场",新农人的"农业+互联网"之路	https:h
+[2023-10-22 23:43:57] (DEBUG) => [Current Working] Repeat: 25.0/100.0, Collection: 74/1000.. Wait 10 seconds
+[2023-10-22 23:43:57] (DEBUG) => [Messaging] 다음의 URL에서 콘텐츠를 수집합니다=> http://xueshu.baidu.com/s?wd=%E5%BC%A0%E5%9B%BD%E8%8D%A3%2B%E9%9F%A9%E5%9B%BD&pn=250&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8&filter=sc_year%3D%7B2013%2C2023%7D&sc_hit=1
+[2023-10-22 23:43:58] (DEBUG) => task-[4221] 수집 중 => 키워드: 张国荣+韩国, 카운트: 75, 내용: 供给侧重塑中"互联网+教学"的探索	https:https:
+[2023-10-22 23:43:58] (DEBUG) => task-[4221] 수집 중 => 키워드: 张国荣+韩国, 카운트: 76, 내용: "向日葵农场",新农人的"农业+互联网"之路	https:h
+[2023-10-22 23:44:18] (DEBUG) => [Current Working] Repeat: 26.0/100.0, Collection: 76/1000.. Wait 10 seconds
+[2023-10-22 23:44:18] (DEBUG) => [Messaging] 다음의 URL에서 콘텐츠를 수집합니다=> http://xueshu.baidu.com/s?wd=%E5%BC%A0%E5%9B%BD%E8%8D%A3%2B%E9%9F%A9%E5%9B%BD&pn=260&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8&filter=sc_year%3D%7B2013%2C2023%7D&sc_hit=1
+[2023-10-22 23:44:19] (DEBUG) => task-[4221] 수집 중 => 키워드: 张国荣+韩国, 카운트: 77, 내용: 供给侧重塑中"互联网+教学"的探索	https:https:
+[2023-10-22 23:44:19] (DEBUG) => task-[4221] 수집 중 => 키워드: 张国荣+韩国, 카운트: 78, 내용: "向日葵农场",新农人的"农业+互联网"之路	https:h
+[2023-10-22 23:44:39] (DEBUG) => [Current Working] Repeat: 27.0/100.0, Collection: 78/1000.. Wait 10 seconds
+[2023-10-22 23:44:39] (DEBUG) => [Messaging] 다음의 URL에서 콘텐츠를 수집합니다=> http://xueshu.baidu.com/s?wd=%E5%BC%A0%E5%9B%BD%E8%8D%A3%2B%E9%9F%A9%E5%9B%BD&pn=270&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8&filter=sc_year%3D%7B2013%2C2023%7D&sc_hit=1
+[2023-10-22 23:44:40] (DEBUG) => task-[4221] 수집 중 => 키워드: 张国荣+韩国, 카운트: 79, 내용: 供给侧重塑中"互联网+教学"的探索	https:https:
+[2023-10-22 23:44:40] (DEBUG) => task-[4221] 수집 중 => 키워드: 张国荣+韩国, 카운트: 80, 내용: "向日葵农场",新农人的"农业+互联网"之路	https:h
+[2023-10-22 23:45:00] (DEBUG) => [Current Working] Repeat: 28.0/100.0, Collection: 80/1000.. Wait 10 seconds
+[2023-10-22 23:45:00] (DEBUG) => [Messaging] 다음의 URL에서 콘텐츠를 수집합니다=> http://xueshu.baidu.com/s?wd=%E5%BC%A0%E5%9B%BD%E8%8D%A3%2B%E9%9F%A9%E5%9B%BD&pn=280&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8&filter=sc_year%3D%7B2013%2C2023%7D&sc_hit=1
+[2023-10-22 23:45:01] (DEBUG) => task-[4221] 수집 중 => 키워드: 张国荣+韩国, 카운트: 81, 내용: 供给侧重塑中"互联网+教学"的探索	https:https:
+[2023-10-22 23:45:01] (DEBUG) => task-[4221] 수집 중 => 키워드: 张国荣+韩国, 카운트: 82, 내용: "向日葵农场",新农人的"农业+互联网"之路	https:h
+[2023-10-22 23:45:21] (DEBUG) => [Current Working] Repeat: 29.0/100.0, Collection: 82/1000.. Wait 10 seconds
+[2023-10-22 23:45:21] (DEBUG) => [Messaging] 다음의 URL에서 콘텐츠를 수집합니다=> http://xueshu.baidu.com/s?wd=%E5%BC%A0%E5%9B%BD%E8%8D%A3%2B%E9%9F%A9%E5%9B%BD&pn=290&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8&filter=sc_year%3D%7B2013%2C2023%7D&sc_hit=1
+[2023-10-22 23:45:22] (DEBUG) => task-[4221] 수집 중 => 키워드: 张国荣+韩国, 카운트: 83, 내용: 供给侧重塑中"互联网+教学"的探索	https:https:
+[2023-10-22 23:45:22] (DEBUG) => task-[4221] 수집 중 => 키워드: 张国荣+韩国, 카운트: 84, 내용: "向日葵农场",新农人的"农业+互联网"之路	https:h
+[2023-10-22 23:45:42] (DEBUG) => [Current Working] Repeat: 30.0/100.0, Collection: 84/1000.. Wait 10 seconds
+[2023-10-22 23:45:42] (DEBUG) => [Messaging] 다음의 URL에서 콘텐츠를 수집합니다=> http://xueshu.baidu.com/s?wd=%E5%BC%A0%E5%9B%BD%E8%8D%A3%2B%E9%9F%A9%E5%9B%BD&pn=300&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8&filter=sc_year%3D%7B2013%2C2023%7D&sc_hit=1
+[2023-10-22 23:45:43] (DEBUG) => task-[4221] 수집 중 => 키워드: 张国荣+韩国, 카운트: 85, 내용: 供给侧重塑中"互联网+教学"的探索	https:https:
+[2023-10-22 23:45:43] (DEBUG) => task-[4221] 수집 중 => 키워드: 张国荣+韩国, 카운트: 86, 내용: "向日葵农场",新农人的"农业+互联网"之路	https:h
+[2023-10-22 23:46:03] (DEBUG) => [Current Working] Repeat: 31.0/100.0, Collection: 86/1000.. Wait 10 seconds
+[2023-10-22 23:46:03] (DEBUG) => [Messaging] 다음의 URL에서 콘텐츠를 수집합니다=> http://xueshu.baidu.com/s?wd=%E5%BC%A0%E5%9B%BD%E8%8D%A3%2B%E9%9F%A9%E5%9B%BD&pn=310&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8&filter=sc_year%3D%7B2013%2C2023%7D&sc_hit=1
+[2023-10-22 23:46:03] (DEBUG) => task-[4221] 수집 중 => 키워드: 张国荣+韩国, 카운트: 87, 내용: 供给侧重塑中"互联网+教学"的探索	https:https:
+[2023-10-22 23:46:03] (DEBUG) => task-[4221] 수집 중 => 키워드: 张国荣+韩国, 카운트: 88, 내용: "向日葵农场",新农人的"农业+互联网"之路	https:h
+[2023-10-22 23:46:23] (DEBUG) => [Current Working] Repeat: 32.0/100.0, Collection: 88/1000.. Wait 10 seconds
+[2023-10-22 23:46:23] (DEBUG) => [Messaging] 다음의 URL에서 콘텐츠를 수집합니다=> http://xueshu.baidu.com/s?wd=%E5%BC%A0%E5%9B%BD%E8%8D%A3%2B%E9%9F%A9%E5%9B%BD&pn=320&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8&filter=sc_year%3D%7B2013%2C2023%7D&sc_hit=1
+[2023-10-22 23:46:24] (DEBUG) => task-[4221] 수집 중 => 키워드: 张国荣+韩国, 카운트: 89, 내용: 供给侧重塑中"互联网+教学"的探索	https:https:
+[2023-10-22 23:46:24] (DEBUG) => task-[4221] 수집 중 => 키워드: 张国荣+韩国, 카운트: 90, 내용: "向日葵农场",新农人的"农业+互联网"之路	https:h
+[2023-10-22 23:46:44] (DEBUG) => [Current Working] Repeat: 33.0/100.0, Collection: 90/1000.. Wait 10 seconds
+[2023-10-22 23:46:44] (DEBUG) => [Messaging] 다음의 URL에서 콘텐츠를 수집합니다=> http://xueshu.baidu.com/s?wd=%E5%BC%A0%E5%9B%BD%E8%8D%A3%2B%E9%9F%A9%E5%9B%BD&pn=330&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8&filter=sc_year%3D%7B2013%2C2023%7D&sc_hit=1
+[2023-10-22 23:46:45] (DEBUG) => task-[4221] 수집 중 => 키워드: 张国荣+韩国, 카운트: 91, 내용: 供给侧重塑中"互联网+教学"的探索	https:https:
+[2023-10-22 23:46:45] (DEBUG) => task-[4221] 수집 중 => 키워드: 张国荣+韩国, 카운트: 92, 내용: "向日葵农场",新农人的"农业+互联网"之路	https:h
+[2023-10-22 23:47:05] (DEBUG) => [Current Working] Repeat: 34.0/100.0, Collection: 92/1000.. Wait 10 seconds
+[2023-10-22 23:47:05] (DEBUG) => [Messaging] 다음의 URL에서 콘텐츠를 수집합니다=> http://xueshu.baidu.com/s?wd=%E5%BC%A0%E5%9B%BD%E8%8D%A3%2B%E9%9F%A9%E5%9B%BD&pn=340&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8&filter=sc_year%3D%7B2013%2C2023%7D&sc_hit=1
+[2023-10-22 23:47:06] (DEBUG) => task-[4221] 수집 중 => 키워드: 张国荣+韩国, 카운트: 93, 내용: 供给侧重塑中"互联网+教学"的探索	https:https:
+[2023-10-22 23:47:06] (DEBUG) => task-[4221] 수집 중 => 키워드: 张国荣+韩国, 카운트: 94, 내용: "向日葵农场",新农人的"农业+互联网"之路	https:h
+[2023-10-22 23:47:26] (DEBUG) => [Current Working] Repeat: 35.0/100.0, Collection: 94/1000.. Wait 10 seconds
+[2023-10-22 23:47:26] (DEBUG) => [Messaging] 다음의 URL에서 콘텐츠를 수집합니다=> http://xueshu.baidu.com/s?wd=%E5%BC%A0%E5%9B%BD%E8%8D%A3%2B%E9%9F%A9%E5%9B%BD&pn=350&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8&filter=sc_year%3D%7B2013%2C2023%7D&sc_hit=1
+[2023-10-22 23:47:27] (DEBUG) => task-[4221] 수집 중 => 키워드: 张国荣+韩国, 카운트: 95, 내용: 供给侧重塑中"互联网+教学"的探索	https:https:
+[2023-10-22 23:47:27] (DEBUG) => task-[4221] 수집 중 => 키워드: 张国荣+韩国, 카운트: 96, 내용: "向日葵农场",新农人的"农业+互联网"之路	https:h
+[2023-10-22 23:47:47] (DEBUG) => [Current Working] Repeat: 36.0/100.0, Collection: 96/1000.. Wait 10 seconds
+[2023-10-22 23:47:47] (DEBUG) => [Messaging] 다음의 URL에서 콘텐츠를 수집합니다=> http://xueshu.baidu.com/s?wd=%E5%BC%A0%E5%9B%BD%E8%8D%A3%2B%E9%9F%A9%E5%9B%BD&pn=360&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8&filter=sc_year%3D%7B2013%2C2023%7D&sc_hit=1
+[2023-10-22 23:47:48] (DEBUG) => task-[4221] 수집 중 => 키워드: 张国荣+韩国, 카운트: 97, 내용: 供给侧重塑中"互联网+教学"的探索	https:https:
+[2023-10-22 23:47:48] (DEBUG) => task-[4221] 수집 중 => 키워드: 张国荣+韩国, 카운트: 98, 내용: "向日葵农场",新农人的"农业+互联网"之路	https:h
+[2023-10-22 23:48:08] (DEBUG) => [Current Working] Repeat: 37.0/100.0, Collection: 98/1000.. Wait 10 seconds
+[2023-10-22 23:48:08] (DEBUG) => [Messaging] 다음의 URL에서 콘텐츠를 수집합니다=> http://xueshu.baidu.com/s?wd=%E5%BC%A0%E5%9B%BD%E8%8D%A3%2B%E9%9F%A9%E5%9B%BD&pn=370&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8&filter=sc_year%3D%7B2013%2C2023%7D&sc_hit=1
+[2023-10-22 23:48:09] (DEBUG) => task-[4221] 수집 중 => 키워드: 张国荣+韩国, 카운트: 99, 내용: 供给侧重塑中"互联网+教学"的探索	https:https:
+[2023-10-22 23:48:09] (DEBUG) => task-[4221] 수집 중 => 키워드: 张国荣+韩国, 카운트: 100, 내용: "向日葵农场",新农人的"农业+互联网"之路	https:h
+[2023-10-22 23:48:29] (DEBUG) => [Current Working] Repeat: 38.0/100.0, Collection: 100/1000.. Wait 10 seconds
+[2023-10-22 23:48:29] (DEBUG) => [Messaging] 다음의 URL에서 콘텐츠를 수집합니다=> http://xueshu.baidu.com/s?wd=%E5%BC%A0%E5%9B%BD%E8%8D%A3%2B%E9%9F%A9%E5%9B%BD&pn=380&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8&filter=sc_year%3D%7B2013%2C2023%7D&sc_hit=1
+[2023-10-22 23:48:30] (DEBUG) => task-[4221] 수집 중 => 키워드: 张国荣+韩国, 카운트: 101, 내용: 供给侧重塑中"互联网+教学"的探索	https:https:
+[2023-10-22 23:48:30] (DEBUG) => task-[4221] 수집 중 => 키워드: 张国荣+韩国, 카운트: 102, 내용: "向日葵农场",新农人的"农业+互联网"之路	https:h
+[2023-10-22 23:48:50] (DEBUG) => [Current Working] Repeat: 39.0/100.0, Collection: 102/1000.. Wait 10 seconds
+[2023-10-22 23:48:50] (DEBUG) => [Messaging] 다음의 URL에서 콘텐츠를 수집합니다=> http://xueshu.baidu.com/s?wd=%E5%BC%A0%E5%9B%BD%E8%8D%A3%2B%E9%9F%A9%E5%9B%BD&pn=390&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8&filter=sc_year%3D%7B2013%2C2023%7D&sc_hit=1
+[2023-10-22 23:48:51] (DEBUG) => task-[4221] 수집 중 => 키워드: 张国荣+韩国, 카운트: 103, 내용: 供给侧重塑中"互联网+教学"的探索	https:https:
+[2023-10-22 23:48:51] (DEBUG) => task-[4221] 수집 중 => 키워드: 张国荣+韩国, 카운트: 104, 내용: "向日葵农场",新农人的"农业+互联网"之路	https:h
+[2023-10-22 23:49:11] (DEBUG) => [Current Working] Repeat: 40.0/100.0, Collection: 104/1000.. Wait 10 seconds
+[2023-10-22 23:49:11] (DEBUG) => [Messaging] 다음의 URL에서 콘텐츠를 수집합니다=> http://xueshu.baidu.com/s?wd=%E5%BC%A0%E5%9B%BD%E8%8D%A3%2B%E9%9F%A9%E5%9B%BD&pn=400&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8&filter=sc_year%3D%7B2013%2C2023%7D&sc_hit=1
+[2023-10-22 23:49:12] (DEBUG) => task-[4221] 수집 중 => 키워드: 张国荣+韩国, 카운트: 105, 내용: 供给侧重塑中"互联网+教学"的探索	https:https:
+[2023-10-22 23:49:12] (DEBUG) => task-[4221] 수집 중 => 키워드: 张国荣+韩国, 카운트: 106, 내용: "向日葵农场",新农人的"农业+互联网"之路	https:h
+[2023-10-22 23:49:32] (DEBUG) => [Current Working] Repeat: 41.0/100.0, Collection: 106/1000.. Wait 10 seconds
+[2023-10-22 23:49:32] (DEBUG) => [Messaging] 다음의 URL에서 콘텐츠를 수집합니다=> http://xueshu.baidu.com/s?wd=%E5%BC%A0%E5%9B%BD%E8%8D%A3%2B%E9%9F%A9%E5%9B%BD&pn=410&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8&filter=sc_year%3D%7B2013%2C2023%7D&sc_hit=1
+[2023-10-22 23:49:33] (DEBUG) => task-[4221] 수집 중 => 키워드: 张国荣+韩国, 카운트: 107, 내용: 供给侧重塑中"互联网+教学"的探索	https:https:
+[2023-10-22 23:49:33] (DEBUG) => task-[4221] 수집 중 => 키워드: 张国荣+韩国, 카운트: 108, 내용: "向日葵农场",新农人的"农业+互联网"之路	https:h
+[2023-10-22 23:49:53] (DEBUG) => [Current Working] Repeat: 42.0/100.0, Collection: 108/1000.. Wait 10 seconds
+[2023-10-22 23:49:53] (DEBUG) => [Messaging] 다음의 URL에서 콘텐츠를 수집합니다=> http://xueshu.baidu.com/s?wd=%E5%BC%A0%E5%9B%BD%E8%8D%A3%2B%E9%9F%A9%E5%9B%BD&pn=420&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8&filter=sc_year%3D%7B2013%2C2023%7D&sc_hit=1
+[2023-10-22 23:49:55] (DEBUG) => task-[4221] 수집 중 => 키워드: 张国荣+韩国, 카운트: 109, 내용: 供给侧重塑中"互联网+教学"的探索	https:https:
+[2023-10-22 23:49:55] (DEBUG) => task-[4221] 수집 중 => 키워드: 张国荣+韩国, 카운트: 110, 내용: "向日葵农场",新农人的"农业+互联网"之路	https:h
+[2023-10-22 23:50:15] (DEBUG) => [Current Working] Repeat: 43.0/100.0, Collection: 110/1000.. Wait 10 seconds
+[2023-10-22 23:50:15] (DEBUG) => [Messaging] 다음의 URL에서 콘텐츠를 수집합니다=> http://xueshu.baidu.com/s?wd=%E5%BC%A0%E5%9B%BD%E8%8D%A3%2B%E9%9F%A9%E5%9B%BD&pn=430&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8&filter=sc_year%3D%7B2013%2C2023%7D&sc_hit=1
+[2023-10-22 23:50:16] (DEBUG) => task-[4221] 수집 중 => 키워드: 张国荣+韩国, 카운트: 111, 내용: 供给侧重塑中"互联网+教学"的探索	https:https:
+[2023-10-22 23:50:16] (DEBUG) => task-[4221] 수집 중 => 키워드: 张国荣+韩国, 카운트: 112, 내용: "向日葵农场",新农人的"农业+互联网"之路	https:h
+[2023-10-22 23:50:36] (DEBUG) => [Current Working] Repeat: 44.0/100.0, Collection: 112/1000.. Wait 10 seconds
+[2023-10-22 23:50:36] (DEBUG) => [Messaging] 다음의 URL에서 콘텐츠를 수집합니다=> http://xueshu.baidu.com/s?wd=%E5%BC%A0%E5%9B%BD%E8%8D%A3%2B%E9%9F%A9%E5%9B%BD&pn=440&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8&filter=sc_year%3D%7B2013%2C2023%7D&sc_hit=1
+[2023-10-22 23:50:36] (DEBUG) => task-[4221] 수집 중 => 키워드: 张国荣+韩国, 카운트: 113, 내용: 供给侧重塑中"互联网+教学"的探索	https:https:
+[2023-10-22 23:50:36] (DEBUG) => task-[4221] 수집 중 => 키워드: 张国荣+韩国, 카운트: 114, 내용: "向日葵农场",新农人的"农业+互联网"之路	https:h
+[2023-10-22 23:50:56] (DEBUG) => [Current Working] Repeat: 45.0/100.0, Collection: 114/1000.. Wait 10 seconds
+[2023-10-22 23:50:56] (DEBUG) => [Messaging] 다음의 URL에서 콘텐츠를 수집합니다=> http://xueshu.baidu.com/s?wd=%E5%BC%A0%E5%9B%BD%E8%8D%A3%2B%E9%9F%A9%E5%9B%BD&pn=450&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8&filter=sc_year%3D%7B2013%2C2023%7D&sc_hit=1
+[2023-10-22 23:50:58] (DEBUG) => task-[4221] 수집 중 => 키워드: 张国荣+韩国, 카운트: 115, 내용: 供给侧重塑中"互联网+教学"的探索	https:https:
+[2023-10-22 23:50:58] (DEBUG) => task-[4221] 수집 중 => 키워드: 张国荣+韩国, 카운트: 116, 내용: "向日葵农场",新农人的"农业+互联网"之路	https:h
+[2023-10-22 23:51:18] (DEBUG) => [Current Working] Repeat: 46.0/100.0, Collection: 116/1000.. Wait 10 seconds
+[2023-10-22 23:51:18] (DEBUG) => [Messaging] 다음의 URL에서 콘텐츠를 수집합니다=> http://xueshu.baidu.com/s?wd=%E5%BC%A0%E5%9B%BD%E8%8D%A3%2B%E9%9F%A9%E5%9B%BD&pn=460&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8&filter=sc_year%3D%7B2013%2C2023%7D&sc_hit=1
+[2023-10-22 23:51:19] (DEBUG) => task-[4221] 수집 중 => 키워드: 张国荣+韩国, 카운트: 117, 내용: 供给侧重塑中"互联网+教学"的探索	https:https:
+[2023-10-22 23:51:19] (DEBUG) => task-[4221] 수집 중 => 키워드: 张国荣+韩国, 카운트: 118, 내용: "向日葵农场",新农人的"农业+互联网"之路	https:h
+[2023-10-22 23:51:39] (DEBUG) => [Current Working] Repeat: 47.0/100.0, Collection: 118/1000.. Wait 10 seconds
+[2023-10-22 23:51:39] (DEBUG) => [Messaging] 다음의 URL에서 콘텐츠를 수집합니다=> http://xueshu.baidu.com/s?wd=%E5%BC%A0%E5%9B%BD%E8%8D%A3%2B%E9%9F%A9%E5%9B%BD&pn=470&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8&filter=sc_year%3D%7B2013%2C2023%7D&sc_hit=1
+[2023-10-22 23:51:40] (DEBUG) => task-[4221] 수집 중 => 키워드: 张国荣+韩国, 카운트: 119, 내용: 供给侧重塑中"互联网+教学"的探索	https:https:
+[2023-10-22 23:51:40] (DEBUG) => task-[4221] 수집 중 => 키워드: 张国荣+韩国, 카운트: 120, 내용: "向日葵农场",新农人的"农业+互联网"之路	https:h
+[2023-10-22 23:52:00] (DEBUG) => [Current Working] Repeat: 48.0/100.0, Collection: 120/1000.. Wait 10 seconds
+[2023-10-22 23:52:00] (DEBUG) => [Messaging] 다음의 URL에서 콘텐츠를 수집합니다=> http://xueshu.baidu.com/s?wd=%E5%BC%A0%E5%9B%BD%E8%8D%A3%2B%E9%9F%A9%E5%9B%BD&pn=480&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8&filter=sc_year%3D%7B2013%2C2023%7D&sc_hit=1
+[2023-10-22 23:52:01] (DEBUG) => task-[4221] 수집 중 => 키워드: 张国荣+韩国, 카운트: 121, 내용: 供给侧重塑中"互联网+教学"的探索	https:https:
+[2023-10-22 23:52:01] (DEBUG) => task-[4221] 수집 중 => 키워드: 张国荣+韩国, 카운트: 122, 내용: "向日葵农场",新农人的"农业+互联网"之路	https:h
+[2023-10-22 23:52:21] (DEBUG) => [Current Working] Repeat: 49.0/100.0, Collection: 122/1000.. Wait 10 seconds
+[2023-10-22 23:52:21] (DEBUG) => [Messaging] 다음의 URL에서 콘텐츠를 수집합니다=> http://xueshu.baidu.com/s?wd=%E5%BC%A0%E5%9B%BD%E8%8D%A3%2B%E9%9F%A9%E5%9B%BD&pn=490&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8&filter=sc_year%3D%7B2013%2C2023%7D&sc_hit=1
+[2023-10-22 23:52:22] (DEBUG) => task-[4221] 수집 중 => 키워드: 张国荣+韩国, 카운트: 123, 내용: 供给侧重塑中"互联网+教学"的探索	https:https:
+[2023-10-22 23:52:22] (DEBUG) => task-[4221] 수집 중 => 키워드: 张国荣+韩国, 카운트: 124, 내용: "向日葵农场",新农人的"农业+互联网"之路	https:h
+[2023-10-22 23:52:42] (DEBUG) => [Current Working] Repeat: 50.0/100.0, Collection: 124/1000.. Wait 10 seconds
+[2023-10-22 23:52:42] (DEBUG) => [Messaging] 다음의 URL에서 콘텐츠를 수집합니다=> http://xueshu.baidu.com/s?wd=%E5%BC%A0%E5%9B%BD%E8%8D%A3%2B%E9%9F%A9%E5%9B%BD&pn=500&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8&filter=sc_year%3D%7B2013%2C2023%7D&sc_hit=1
+[2023-10-22 23:52:42] (DEBUG) => task-[4221] 수집 중 => 키워드: 张国荣+韩国, 카운트: 125, 내용: 供给侧重塑中"互联网+教学"的探索	https:https:
+[2023-10-22 23:52:42] (DEBUG) => task-[4221] 수집 중 => 키워드: 张国荣+韩国, 카운트: 126, 내용: "向日葵农场",新农人的"农业+互联网"之路	https:h
+[2023-10-22 23:53:02] (DEBUG) => [Current Working] Repeat: 51.0/100.0, Collection: 126/1000.. Wait 10 seconds
+[2023-10-22 23:53:02] (DEBUG) => [Messaging] 다음의 URL에서 콘텐츠를 수집합니다=> http://xueshu.baidu.com/s?wd=%E5%BC%A0%E5%9B%BD%E8%8D%A3%2B%E9%9F%A9%E5%9B%BD&pn=510&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8&filter=sc_year%3D%7B2013%2C2023%7D&sc_hit=1
+[2023-10-22 23:53:03] (DEBUG) => task-[4221] 수집 중 => 키워드: 张国荣+韩国, 카운트: 127, 내용: 供给侧重塑中"互联网+教学"的探索	https:https:
+[2023-10-22 23:53:03] (DEBUG) => task-[4221] 수집 중 => 키워드: 张国荣+韩国, 카운트: 128, 내용: "向日葵农场",新农人的"农业+互联网"之路	https:h
+[2023-10-22 23:53:23] (DEBUG) => [Current Working] Repeat: 52.0/100.0, Collection: 128/1000.. Wait 10 seconds
+[2023-10-22 23:53:23] (DEBUG) => [Messaging] 다음의 URL에서 콘텐츠를 수집합니다=> http://xueshu.baidu.com/s?wd=%E5%BC%A0%E5%9B%BD%E8%8D%A3%2B%E9%9F%A9%E5%9B%BD&pn=520&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8&filter=sc_year%3D%7B2013%2C2023%7D&sc_hit=1
+[2023-10-22 23:53:24] (DEBUG) => task-[4221] 수집 중 => 키워드: 张国荣+韩国, 카운트: 129, 내용: 供给侧重塑中"互联网+教学"的探索	https:https:
+[2023-10-22 23:53:24] (DEBUG) => task-[4221] 수집 중 => 키워드: 张国荣+韩国, 카운트: 130, 내용: "向日葵农场",新农人的"农业+互联网"之路	https:h
+[2023-10-22 23:53:44] (DEBUG) => [Current Working] Repeat: 53.0/100.0, Collection: 130/1000.. Wait 10 seconds
+[2023-10-22 23:53:44] (DEBUG) => [Messaging] 다음의 URL에서 콘텐츠를 수집합니다=> http://xueshu.baidu.com/s?wd=%E5%BC%A0%E5%9B%BD%E8%8D%A3%2B%E9%9F%A9%E5%9B%BD&pn=530&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8&filter=sc_year%3D%7B2013%2C2023%7D&sc_hit=1
+[2023-10-22 23:53:45] (DEBUG) => task-[4221] 수집 중 => 키워드: 张国荣+韩国, 카운트: 131, 내용: 供给侧重塑中"互联网+教学"的探索	https:https:
+[2023-10-22 23:53:45] (DEBUG) => task-[4221] 수집 중 => 키워드: 张国荣+韩国, 카운트: 132, 내용: "向日葵农场",新农人的"农业+互联网"之路	https:h
+[2023-10-22 23:54:05] (DEBUG) => [Current Working] Repeat: 54.0/100.0, Collection: 132/1000.. Wait 10 seconds
+[2023-10-22 23:54:05] (DEBUG) => [Messaging] 다음의 URL에서 콘텐츠를 수집합니다=> http://xueshu.baidu.com/s?wd=%E5%BC%A0%E5%9B%BD%E8%8D%A3%2B%E9%9F%A9%E5%9B%BD&pn=540&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8&filter=sc_year%3D%7B2013%2C2023%7D&sc_hit=1
+[2023-10-22 23:54:06] (DEBUG) => task-[4221] 수집 중 => 키워드: 张国荣+韩国, 카운트: 133, 내용: 供给侧重塑中"互联网+教学"的探索	https:https:
+[2023-10-22 23:54:06] (DEBUG) => task-[4221] 수집 중 => 키워드: 张国荣+韩国, 카운트: 134, 내용: "向日葵农场",新农人的"农业+互联网"之路	https:h
+[2023-10-22 23:54:26] (DEBUG) => [Current Working] Repeat: 55.0/100.0, Collection: 134/1000.. Wait 10 seconds
+[2023-10-22 23:54:26] (DEBUG) => [Messaging] 다음의 URL에서 콘텐츠를 수집합니다=> http://xueshu.baidu.com/s?wd=%E5%BC%A0%E5%9B%BD%E8%8D%A3%2B%E9%9F%A9%E5%9B%BD&pn=550&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8&filter=sc_year%3D%7B2013%2C2023%7D&sc_hit=1
+[2023-10-22 23:54:27] (DEBUG) => task-[4221] 수집 중 => 키워드: 张国荣+韩国, 카운트: 135, 내용: 供给侧重塑中"互联网+教学"的探索	https:https:
+[2023-10-22 23:54:27] (DEBUG) => task-[4221] 수집 중 => 키워드: 张国荣+韩国, 카운트: 136, 내용: "向日葵农场",新农人的"农业+互联网"之路	https:h
+[2023-10-22 23:54:47] (DEBUG) => [Current Working] Repeat: 56.0/100.0, Collection: 136/1000.. Wait 10 seconds
+[2023-10-22 23:54:47] (DEBUG) => [Messaging] 다음의 URL에서 콘텐츠를 수집합니다=> http://xueshu.baidu.com/s?wd=%E5%BC%A0%E5%9B%BD%E8%8D%A3%2B%E9%9F%A9%E5%9B%BD&pn=560&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8&filter=sc_year%3D%7B2013%2C2023%7D&sc_hit=1
+[2023-10-22 23:54:48] (DEBUG) => task-[4221] 수집 중 => 키워드: 张国荣+韩国, 카운트: 137, 내용: 供给侧重塑中"互联网+教学"的探索	https:https:
+[2023-10-22 23:54:48] (DEBUG) => task-[4221] 수집 중 => 키워드: 张国荣+韩国, 카운트: 138, 내용: "向日葵农场",新农人的"农业+互联网"之路	https:h
+[2023-10-22 23:55:08] (DEBUG) => [Current Working] Repeat: 57.0/100.0, Collection: 138/1000.. Wait 10 seconds
+[2023-10-22 23:55:08] (DEBUG) => [Messaging] 다음의 URL에서 콘텐츠를 수집합니다=> http://xueshu.baidu.com/s?wd=%E5%BC%A0%E5%9B%BD%E8%8D%A3%2B%E9%9F%A9%E5%9B%BD&pn=570&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8&filter=sc_year%3D%7B2013%2C2023%7D&sc_hit=1
+[2023-10-22 23:55:09] (DEBUG) => task-[4221] 수집 중 => 키워드: 张国荣+韩国, 카운트: 139, 내용: 供给侧重塑中"互联网+教学"的探索	https:https:
+[2023-10-22 23:55:09] (DEBUG) => task-[4221] 수집 중 => 키워드: 张国荣+韩国, 카운트: 140, 내용: "向日葵农场",新农人的"农业+互联网"之路	https:h
+[2023-10-22 23:55:29] (DEBUG) => [Current Working] Repeat: 58.0/100.0, Collection: 140/1000.. Wait 10 seconds
+[2023-10-22 23:55:29] (DEBUG) => [Messaging] 다음의 URL에서 콘텐츠를 수집합니다=> http://xueshu.baidu.com/s?wd=%E5%BC%A0%E5%9B%BD%E8%8D%A3%2B%E9%9F%A9%E5%9B%BD&pn=580&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8&filter=sc_year%3D%7B2013%2C2023%7D&sc_hit=1
+[2023-10-22 23:55:30] (DEBUG) => task-[4221] 수집 중 => 키워드: 张国荣+韩国, 카운트: 141, 내용: 供给侧重塑中"互联网+教学"的探索	https:https:
+[2023-10-22 23:55:30] (DEBUG) => task-[4221] 수집 중 => 키워드: 张国荣+韩国, 카운트: 142, 내용: "向日葵农场",新农人的"农业+互联网"之路	https:h
+[2023-10-22 23:55:50] (DEBUG) => [Current Working] Repeat: 59.0/100.0, Collection: 142/1000.. Wait 10 seconds
+[2023-10-22 23:55:50] (DEBUG) => [Messaging] 다음의 URL에서 콘텐츠를 수집합니다=> http://xueshu.baidu.com/s?wd=%E5%BC%A0%E5%9B%BD%E8%8D%A3%2B%E9%9F%A9%E5%9B%BD&pn=590&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8&filter=sc_year%3D%7B2013%2C2023%7D&sc_hit=1
+[2023-10-22 23:55:51] (DEBUG) => task-[4221] 수집 중 => 키워드: 张国荣+韩国, 카운트: 143, 내용: 供给侧重塑中"互联网+教学"的探索	https:https:
+[2023-10-22 23:55:51] (DEBUG) => task-[4221] 수집 중 => 키워드: 张国荣+韩国, 카운트: 144, 내용: "向日葵农场",新农人的"农业+互联网"之路	https:h
+[2023-10-22 23:56:11] (DEBUG) => [Current Working] Repeat: 60.0/100.0, Collection: 144/1000.. Wait 10 seconds
+[2023-10-22 23:56:11] (DEBUG) => [Messaging] 다음의 URL에서 콘텐츠를 수집합니다=> http://xueshu.baidu.com/s?wd=%E5%BC%A0%E5%9B%BD%E8%8D%A3%2B%E9%9F%A9%E5%9B%BD&pn=600&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8&filter=sc_year%3D%7B2013%2C2023%7D&sc_hit=1
+[2023-10-22 23:56:12] (DEBUG) => task-[4221] 수집 중 => 키워드: 张国荣+韩国, 카운트: 145, 내용: 供给侧重塑中"互联网+教学"的探索	https:https:
+[2023-10-22 23:56:12] (DEBUG) => task-[4221] 수집 중 => 키워드: 张国荣+韩国, 카운트: 146, 내용: "向日葵农场",新农人的"农业+互联网"之路	https:h
+[2023-10-22 23:56:32] (DEBUG) => [Current Working] Repeat: 61.0/100.0, Collection: 146/1000.. Wait 10 seconds
+[2023-10-22 23:56:32] (DEBUG) => [Messaging] 다음의 URL에서 콘텐츠를 수집합니다=> http://xueshu.baidu.com/s?wd=%E5%BC%A0%E5%9B%BD%E8%8D%A3%2B%E9%9F%A9%E5%9B%BD&pn=610&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8&filter=sc_year%3D%7B2013%2C2023%7D&sc_hit=1
+[2023-10-22 23:56:33] (DEBUG) => task-[4221] 수집 중 => 키워드: 张国荣+韩国, 카운트: 147, 내용: 供给侧重塑中"互联网+教学"的探索	https:https:
+[2023-10-22 23:56:33] (DEBUG) => task-[4221] 수집 중 => 키워드: 张国荣+韩国, 카운트: 148, 내용: "向日葵农场",新农人的"农业+互联网"之路	https:h
+[2023-10-22 23:56:53] (DEBUG) => [Current Working] Repeat: 62.0/100.0, Collection: 148/1000.. Wait 10 seconds
+[2023-10-22 23:56:53] (DEBUG) => [Messaging] 다음의 URL에서 콘텐츠를 수집합니다=> http://xueshu.baidu.com/s?wd=%E5%BC%A0%E5%9B%BD%E8%8D%A3%2B%E9%9F%A9%E5%9B%BD&pn=620&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8&filter=sc_year%3D%7B2013%2C2023%7D&sc_hit=1
+[2023-10-22 23:56:54] (DEBUG) => task-[4221] 수집 중 => 키워드: 张国荣+韩国, 카운트: 149, 내용: 供给侧重塑中"互联网+教学"的探索	https:https:
+[2023-10-22 23:56:54] (DEBUG) => task-[4221] 수집 중 => 키워드: 张国荣+韩国, 카운트: 150, 내용: "向日葵农场",新农人的"农业+互联网"之路	https:h
+[2023-10-22 23:57:14] (DEBUG) => [Current Working] Repeat: 63.0/100.0, Collection: 150/1000.. Wait 10 seconds
+[2023-10-22 23:57:14] (DEBUG) => [Messaging] 다음의 URL에서 콘텐츠를 수집합니다=> http://xueshu.baidu.com/s?wd=%E5%BC%A0%E5%9B%BD%E8%8D%A3%2B%E9%9F%A9%E5%9B%BD&pn=630&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8&filter=sc_year%3D%7B2013%2C2023%7D&sc_hit=1
+[2023-10-22 23:57:15] (DEBUG) => task-[4221] 수집 중 => 키워드: 张国荣+韩国, 카운트: 151, 내용: 供给侧重塑中"互联网+教学"的探索	https:https:
+[2023-10-22 23:57:15] (DEBUG) => task-[4221] 수집 중 => 키워드: 张国荣+韩国, 카운트: 152, 내용: "向日葵农场",新农人的"农业+互联网"之路	https:h
+[2023-10-22 23:57:35] (DEBUG) => [Current Working] Repeat: 64.0/100.0, Collection: 152/1000.. Wait 10 seconds
+[2023-10-22 23:57:35] (DEBUG) => [Messaging] 다음의 URL에서 콘텐츠를 수집합니다=> http://xueshu.baidu.com/s?wd=%E5%BC%A0%E5%9B%BD%E8%8D%A3%2B%E9%9F%A9%E5%9B%BD&pn=640&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8&filter=sc_year%3D%7B2013%2C2023%7D&sc_hit=1
+[2023-10-22 23:57:36] (DEBUG) => task-[4221] 수집 중 => 키워드: 张国荣+韩国, 카운트: 153, 내용: 供给侧重塑中"互联网+教学"的探索	https:https:
+[2023-10-22 23:57:36] (DEBUG) => task-[4221] 수집 중 => 키워드: 张国荣+韩国, 카운트: 154, 내용: "向日葵农场",新农人的"农业+互联网"之路	https:h
+[2023-10-22 23:57:56] (DEBUG) => [Current Working] Repeat: 65.0/100.0, Collection: 154/1000.. Wait 10 seconds
+[2023-10-22 23:57:56] (DEBUG) => [Messaging] 다음의 URL에서 콘텐츠를 수집합니다=> http://xueshu.baidu.com/s?wd=%E5%BC%A0%E5%9B%BD%E8%8D%A3%2B%E9%9F%A9%E5%9B%BD&pn=650&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8&filter=sc_year%3D%7B2013%2C2023%7D&sc_hit=1
+[2023-10-22 23:57:57] (DEBUG) => task-[4221] 수집 중 => 키워드: 张国荣+韩国, 카운트: 155, 내용: 供给侧重塑中"互联网+教学"的探索	https:https:
+[2023-10-22 23:57:57] (DEBUG) => task-[4221] 수집 중 => 키워드: 张国荣+韩国, 카운트: 156, 내용: "向日葵农场",新农人的"农业+互联网"之路	https:h
+[2023-10-22 23:58:17] (DEBUG) => [Current Working] Repeat: 66.0/100.0, Collection: 156/1000.. Wait 10 seconds
+[2023-10-22 23:58:17] (DEBUG) => [Messaging] 다음의 URL에서 콘텐츠를 수집합니다=> http://xueshu.baidu.com/s?wd=%E5%BC%A0%E5%9B%BD%E8%8D%A3%2B%E9%9F%A9%E5%9B%BD&pn=660&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8&filter=sc_year%3D%7B2013%2C2023%7D&sc_hit=1
+[2023-10-22 23:58:18] (DEBUG) => task-[4221] 수집 중 => 키워드: 张国荣+韩国, 카운트: 157, 내용: 供给侧重塑中"互联网+教学"的探索	https:https:
+[2023-10-22 23:58:18] (DEBUG) => task-[4221] 수집 중 => 키워드: 张国荣+韩国, 카운트: 158, 내용: "向日葵农场",新农人的"农业+互联网"之路	https:h
+[2023-10-22 23:58:38] (DEBUG) => [Current Working] Repeat: 67.0/100.0, Collection: 158/1000.. Wait 10 seconds
+[2023-10-22 23:58:38] (DEBUG) => [Messaging] 다음의 URL에서 콘텐츠를 수집합니다=> http://xueshu.baidu.com/s?wd=%E5%BC%A0%E5%9B%BD%E8%8D%A3%2B%E9%9F%A9%E5%9B%BD&pn=670&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8&filter=sc_year%3D%7B2013%2C2023%7D&sc_hit=1
+[2023-10-22 23:58:39] (DEBUG) => task-[4221] 수집 중 => 키워드: 张国荣+韩国, 카운트: 159, 내용: 供给侧重塑中"互联网+教学"的探索	https:https:
+[2023-10-22 23:58:39] (DEBUG) => task-[4221] 수집 중 => 키워드: 张国荣+韩国, 카운트: 160, 내용: "向日葵农场",新农人的"农业+互联网"之路	https:h
+[2023-10-22 23:58:59] (DEBUG) => [Current Working] Repeat: 68.0/100.0, Collection: 160/1000.. Wait 10 seconds
+[2023-10-22 23:58:59] (DEBUG) => [Messaging] 다음의 URL에서 콘텐츠를 수집합니다=> http://xueshu.baidu.com/s?wd=%E5%BC%A0%E5%9B%BD%E8%8D%A3%2B%E9%9F%A9%E5%9B%BD&pn=680&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8&filter=sc_year%3D%7B2013%2C2023%7D&sc_hit=1
+[2023-10-22 23:59:00] (DEBUG) => task-[4221] 수집 중 => 키워드: 张国荣+韩国, 카운트: 161, 내용: 供给侧重塑中"互联网+教学"的探索	https:https:
+[2023-10-22 23:59:00] (DEBUG) => task-[4221] 수집 중 => 키워드: 张国荣+韩国, 카운트: 162, 내용: "向日葵农场",新农人的"农业+互联网"之路	https:h
+[2023-10-22 23:59:20] (DEBUG) => [Current Working] Repeat: 69.0/100.0, Collection: 162/1000.. Wait 10 seconds
+[2023-10-22 23:59:20] (DEBUG) => [Messaging] 다음의 URL에서 콘텐츠를 수집합니다=> http://xueshu.baidu.com/s?wd=%E5%BC%A0%E5%9B%BD%E8%8D%A3%2B%E9%9F%A9%E5%9B%BD&pn=690&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8&filter=sc_year%3D%7B2013%2C2023%7D&sc_hit=1
+[2023-10-22 23:59:21] (DEBUG) => task-[4221] 수집 중 => 키워드: 张国荣+韩国, 카운트: 163, 내용: 供给侧重塑中"互联网+教学"的探索	https:https:
+[2023-10-22 23:59:21] (DEBUG) => task-[4221] 수집 중 => 키워드: 张国荣+韩国, 카운트: 164, 내용: "向日葵农场",新农人的"农业+互联网"之路	https:h
+[2023-10-22 23:59:41] (DEBUG) => [Current Working] Repeat: 70.0/100.0, Collection: 164/1000.. Wait 10 seconds
+[2023-10-22 23:59:41] (DEBUG) => [Messaging] 다음의 URL에서 콘텐츠를 수집합니다=> http://xueshu.baidu.com/s?wd=%E5%BC%A0%E5%9B%BD%E8%8D%A3%2B%E9%9F%A9%E5%9B%BD&pn=700&tn=SE_baiduxueshu_c1gjeupa&ie=utf-8&filter=sc_year%3D%7B2013%2C2023%7D&sc_hit=1
+[2023-10-22 23:59:41] (DEBUG) => task-[4221] 수집 중 => 키워드: 张国荣+韩国, 카운트: 165, 내용: 供给侧重塑中"互联网+教学"的探索	https:https:
+[2023-10-22 23:59:41] (DEBUG) => task-[4221] 수집 중 => 키워드: 张国荣+韩国, 카운트: 166, 내용: "向日葵农场",新农人的"农业+互联网"之路	https:h

@@ -1,0 +1,156 @@
+[2022-09-19 00:49:30] (DEBUG) => Request task-983074 to Assistant Domain: 10.0.0.3:50052
+[2022-09-19 00:49:37] (DEBUG) => Request task-983074 to Assistant Domain: 10.0.0.4:50052
+[2022-09-19 00:49:43] (DEBUG) => Request task-983074 to Assistant Domain: 10.0.0.5:50052
+[2022-09-19 00:49:50] (DEBUG) => Request task-983074 to Assistant Domain: 10.0.0.6:50052
+[2022-09-19 00:49:56] (DEBUG) => Request task-983074 to Assistant Domain: 10.0.0.7:50052
+[2022-09-19 00:50:02] (DEBUG) => Request task-983074 to Assistant Domain: 10.0.0.8:50052
+[2022-09-19 01:17:55] (DEBUG) => Request task-983075 to Assistant Domain: 10.0.0.3:50052
+[2022-09-19 01:18:02] (DEBUG) => Request task-983075 to Assistant Domain: 10.0.0.4:50052
+[2022-09-19 01:18:09] (DEBUG) => Request task-983075 to Assistant Domain: 10.0.0.5:50052
+[2022-09-19 01:18:15] (DEBUG) => Request task-983075 to Assistant Domain: 10.0.0.6:50052
+[2022-09-19 01:18:21] (DEBUG) => Request task-983075 to Assistant Domain: 10.0.0.7:50052
+[2022-09-19 01:18:51] (DEBUG) => Request task-983076 to Assistant Domain: 10.0.0.8:50052
+[2022-09-19 01:18:58] (DEBUG) => Request task-983076 to Assistant Domain: 10.0.0.9:50052
+[2022-09-19 01:20:04] (DEBUG) => Request task-983076 to Assistant Domain: 10.0.0.7:50052
+[2022-09-19 01:20:12] (DEBUG) => Request task-983076 to Assistant Domain: 10.0.0.4:50052
+[2022-09-19 01:21:00] (DEBUG) => Request task-983076 to Assistant Domain: 10.0.0.9:50052
+[2022-09-19 01:46:07] (DEBUG) => Request task-983077 to Assistant Domain: 10.0.0.3:50052
+[2022-09-19 01:46:13] (DEBUG) => Request task-983077 to Assistant Domain: 10.0.0.4:50052
+[2022-09-19 01:46:20] (DEBUG) => Request task-983077 to Assistant Domain: 10.0.0.5:50052
+[2022-09-19 01:46:25] (DEBUG) => Request task-983077 to Assistant Domain: 10.0.0.6:50052
+[2022-09-19 01:46:32] (DEBUG) => Request task-983077 to Assistant Domain: 10.0.0.4:50052
+[2022-09-19 01:46:38] (DEBUG) => Request task-983077 to Assistant Domain: 10.0.0.7:50052
+[2022-09-19 09:10:05] (DEBUG) => Request task-983079 to Assistant Domain: 10.0.0.3:50052
+[2022-09-19 09:10:06] (DEBUG) => Request task-983078 to Assistant Domain: 10.0.0.4:50052
+[2022-09-19 09:10:11] (DEBUG) => Request task-983079 to Assistant Domain: 10.0.0.5:50052
+[2022-09-19 09:10:11] (DEBUG) => Request task-983078 to Assistant Domain: 10.0.0.6:50052
+[2022-09-19 09:10:19] (DEBUG) => Request task-983079 to Assistant Domain: 10.0.0.7:50052
+[2022-09-19 09:10:19] (DEBUG) => Request task-983078 to Assistant Domain: 10.0.0.8:50052
+[2022-09-19 09:10:25] (DEBUG) => Request task-983079 to Assistant Domain: 10.0.0.9:50052
+[2022-09-19 09:12:16] (DEBUG) => Request task-983079 to Assistant Domain: 10.0.0.6:50052
+[2022-09-19 09:12:16] (DEBUG) => Request task-983078 to Assistant Domain: 10.0.0.5:50052
+[2022-09-19 09:14:38] (DEBUG) => Request task-983079 to Assistant Domain: 10.0.0.4:50052
+[2022-09-19 09:14:51] (DEBUG) => Request task-983078 to Assistant Domain: 10.0.0.3:50052
+[2022-09-19 09:15:33] (DEBUG) => Request task-983078 to Assistant Domain: 10.0.0.7:50052
+[2022-09-19 09:17:11] (DEBUG) => Request task-983081 to Assistant Domain: 10.0.0.8:50052
+[2022-09-19 09:17:11] (DEBUG) => Request task-983080 to Assistant Domain: 10.0.0.9:50052
+[2022-09-19 09:17:24] (DEBUG) => Request task-983081 to Assistant Domain: 10.0.0.6:50052
+[2022-09-19 09:17:42] (DEBUG) => Request task-983081 to Assistant Domain: 10.0.0.5:50052
+[2022-09-19 09:19:34] (DEBUG) => Request task-983081 to Assistant Domain: 10.0.0.3:50052
+[2022-09-19 09:19:34] (DEBUG) => Request task-983080 to Assistant Domain: 10.0.0.6:50052
+[2022-09-19 09:21:36] (DEBUG) => Request task-983081 to Assistant Domain: 10.0.0.6:50052
+[2022-09-19 09:21:42] (DEBUG) => Request task-983081 to Assistant Domain: 10.0.0.9:50052
+[2022-09-19 09:21:49] (DEBUG) => Request task-983080 to Assistant Domain: 10.0.0.8:50052
+[2022-09-19 09:22:39] (DEBUG) => Request task-983080 to Assistant Domain: 10.0.0.5:50052
+[2022-09-19 09:25:01] (DEBUG) => Request task-983080 to Assistant Domain: 10.0.0.3:50052
+[2022-09-19 09:26:35] (DEBUG) => Request task-983080 to Assistant Domain: 10.0.0.6:50052
+[2022-09-19 09:33:57] (DEBUG) => Request task-983082 to Assistant Domain: 10.0.0.3:50052
+[2022-09-19 09:34:02] (DEBUG) => Request task-983082 to Assistant Domain: 10.0.0.4:50052
+[2022-09-19 09:34:10] (DEBUG) => Request task-983082 to Assistant Domain: 10.0.0.5:50052
+[2022-09-19 09:35:16] (DEBUG) => Request task-983083 to Assistant Domain: 10.0.0.3:50052
+[2022-09-19 09:35:24] (DEBUG) => Request task-983083 to Assistant Domain: 10.0.0.5:50052
+[2022-09-19 09:35:29] (DEBUG) => Request task-983083 to Assistant Domain: 10.0.0.7:50052
+[2022-09-19 09:36:00] (DEBUG) => Request task-983084 to Assistant Domain: 10.0.0.8:50052
+[2022-09-19 09:37:26] (DEBUG) => Request task-983084 to Assistant Domain: 10.0.0.3:50052
+[2022-09-19 09:37:57] (DEBUG) => Request task-983084 to Assistant Domain: 10.0.0.4:50052
+[2022-09-19 10:09:47] (DEBUG) => Request task-983085 to Assistant Domain: 10.0.0.3:50052
+[2022-09-19 10:09:52] (DEBUG) => Request task-983085 to Assistant Domain: 10.0.0.4:50052
+[2022-09-19 10:49:08] (DEBUG) => Request task-983086 to Assistant Domain: 10.0.0.3:50052
+[2022-09-19 10:49:15] (DEBUG) => Request task-983086 to Assistant Domain: 10.0.0.4:50052
+[2022-09-19 10:49:20] (DEBUG) => Request task-983086 to Assistant Domain: 10.0.0.5:50052
+[2022-09-19 10:49:28] (DEBUG) => Request task-983086 to Assistant Domain: 10.0.0.6:50052
+[2022-09-19 10:49:33] (DEBUG) => Request task-983086 to Assistant Domain: 10.0.0.7:50052
+[2022-09-19 11:09:16] (DEBUG) => Request task-983087 to Assistant Domain: 10.0.0.3:50052
+[2022-09-19 11:09:47] (DEBUG) => Request task-983088 to Assistant Domain: 10.0.0.4:50052
+[2022-09-19 11:12:56] (DEBUG) => Request task-983089 to Assistant Domain: 10.0.0.5:50052
+[2022-09-19 11:13:01] (DEBUG) => Request task-983089 to Assistant Domain: 10.0.0.6:50052
+[2022-09-19 11:13:09] (DEBUG) => Request task-983089 to Assistant Domain: 10.0.0.7:50052
+[2022-09-19 11:13:14] (DEBUG) => Request task-983089 to Assistant Domain: 10.0.0.8:50052
+[2022-09-19 11:13:21] (DEBUG) => Request task-983089 to Assistant Domain: 10.0.0.9:50052
+[2022-09-19 11:14:05] (DEBUG) => Request task-983089 to Assistant Domain: 10.0.0.3:50052
+[2022-09-19 11:20:02] (DEBUG) => Request task-983090 to Assistant Domain: 10.0.0.4:50052
+[2022-09-19 11:20:08] (DEBUG) => Request task-983090 to Assistant Domain: 10.0.0.5:50052
+[2022-09-19 11:20:15] (DEBUG) => Request task-983090 to Assistant Domain: 10.0.0.6:50052
+[2022-09-19 12:02:43] (DEBUG) => Request task-983091 to Assistant Domain: 10.0.0.3:50052
+[2022-09-19 12:02:50] (DEBUG) => Request task-983091 to Assistant Domain: 10.0.0.4:50052
+[2022-09-19 12:02:56] (DEBUG) => Request task-983091 to Assistant Domain: 10.0.0.5:50052
+[2022-09-19 12:03:02] (DEBUG) => Request task-983091 to Assistant Domain: 10.0.0.6:50052
+[2022-09-19 12:03:08] (DEBUG) => Request task-983091 to Assistant Domain: 10.0.0.7:50052
+[2022-09-19 12:03:15] (DEBUG) => Request task-983091 to Assistant Domain: 10.0.0.8:50052
+[2022-09-19 12:18:13] (DEBUG) => Request task-983092 to Assistant Domain: 10.0.0.3:50052
+[2022-09-19 12:18:19] (DEBUG) => Request task-983092 to Assistant Domain: 10.0.0.4:50052
+[2022-09-19 12:18:26] (DEBUG) => Request task-983092 to Assistant Domain: 10.0.0.5:50052
+[2022-09-19 12:18:31] (DEBUG) => Request task-983092 to Assistant Domain: 10.0.0.6:50052
+[2022-09-19 12:18:38] (DEBUG) => Request task-983092 to Assistant Domain: 10.0.0.7:50052
+[2022-09-19 12:18:44] (DEBUG) => Request task-983092 to Assistant Domain: 10.0.0.9:50052
+[2022-09-19 12:39:17] (DEBUG) => Request task-983093 to Assistant Domain: 10.0.0.3:50052
+[2022-09-19 12:39:23] (DEBUG) => Request task-983093 to Assistant Domain: 10.0.0.4:50052
+[2022-09-19 12:39:30] (DEBUG) => Request task-983093 to Assistant Domain: 10.0.0.5:50052
+[2022-09-19 12:39:36] (DEBUG) => Request task-983093 to Assistant Domain: 10.0.0.6:50052
+[2022-09-19 12:39:44] (DEBUG) => Request task-983093 to Assistant Domain: 10.0.0.7:50052
+[2022-09-19 12:39:51] (DEBUG) => Request task-983093 to Assistant Domain: 10.0.0.8:50052
+[2022-09-19 13:30:39] (DEBUG) => Request task-983094 to Assistant Domain: 10.0.0.3:50052
+[2022-09-19 13:33:48] (DEBUG) => Request task-983094 to Assistant Domain: 10.0.0.3:50052
+[2022-09-19 13:37:21] (DEBUG) => Request task-983095 to Assistant Domain: 10.0.0.3:50052
+[2022-09-19 13:37:28] (DEBUG) => Request task-983095 to Assistant Domain: 10.0.0.4:50052
+[2022-09-19 13:37:34] (DEBUG) => Request task-983095 to Assistant Domain: 10.0.0.5:50052
+[2022-09-19 13:37:41] (DEBUG) => Request task-983095 to Assistant Domain: 10.0.0.6:50052
+[2022-09-19 13:37:47] (DEBUG) => Request task-983095 to Assistant Domain: 10.0.0.7:50052
+[2022-09-19 13:37:52] (DEBUG) => Request task-983095 to Assistant Domain: 10.0.0.8:50052
+[2022-09-19 13:40:06] (DEBUG) => Request task-983096 to Assistant Domain: 10.0.0.4:50052
+[2022-09-19 13:40:11] (DEBUG) => Request task-983096 to Assistant Domain: 10.0.0.5:50052
+[2022-09-19 13:40:18] (DEBUG) => Request task-983096 to Assistant Domain: 10.0.0.6:50052
+[2022-09-19 13:40:24] (DEBUG) => Request task-983096 to Assistant Domain: 10.0.0.7:50052
+[2022-09-19 13:40:31] (DEBUG) => Request task-983096 to Assistant Domain: 10.0.0.8:50052
+[2022-09-19 13:40:37] (DEBUG) => Request task-983096 to Assistant Domain: 10.0.0.9:50052
+[2022-09-19 13:41:47] (DEBUG) => Request task-983097 to Assistant Domain: 10.0.0.3:50052
+[2022-09-19 13:41:54] (DEBUG) => Request task-983097 to Assistant Domain: 10.0.0.5:50052
+[2022-09-19 13:42:00] (DEBUG) => Request task-983097 to Assistant Domain: 10.0.0.7:50052
+[2022-09-19 13:42:07] (DEBUG) => Request task-983097 to Assistant Domain: 10.0.0.8:50052
+[2022-09-19 13:42:37] (DEBUG) => Request task-983097 to Assistant Domain: 10.0.0.5:50052
+[2022-09-19 13:42:49] (DEBUG) => Request task-983097 to Assistant Domain: 10.0.0.8:50052
+[2022-09-19 16:32:59] (DEBUG) => <_InactiveRpcError of RPC that terminated with:
+	status = StatusCode.UNAVAILABLE
+	details = "failed to connect to all addresses"
+	debug_error_string = "{"created":"@1663572779.124112954","description":"Failed to pick subchannel","file":"src/core/ext/filters/client_channel/client_channel.cc","file_line":3260,"referenced_errors":[{"created":"@1663572779.124109978","description":"failed to connect to all addresses","file":"src/core/lib/transport/error_utils.cc","file_line":167,"grpc_status":14}]}"
+>
+[2022-09-19 16:32:59] (DEBUG) => Manager 서버에 연결할 수 없습니다.
+[2022-09-19 16:32:59] (DEBUG) => Started Assistant Server From 10.0.0.3:50152
+[2022-09-19 16:33:08] (DEBUG) => Worker-[1000]가 task-[354339]의 'facebook_data'(을)를 시작합니다. (Thread: 2400)
+[2022-09-19 16:33:08] (DEBUG) => Worker-[1000]가 task-[354339]의 'facebook_data'(을)를 처리중입니다.
+[2022-09-19 16:33:08] (DEBUG) => 수집정보 => 키워드: 문화예술지원 | 기업, 기간: 2019-01-01 ~ 2022-07-27, 유형: facebook_data
+[2022-09-19 16:33:42] (DEBUG) => Manager로부터 받은 echo 메시지: 50152
+[2022-09-19 16:33:42] (DEBUG) => Started Assistant Server From 10.0.0.3:50152
+[2022-09-19 16:33:45] (DEBUG) => Worker-[1000]가 task-[354339]의 'facebook_data'(을)를 시작합니다. (Thread: 2534)
+[2022-09-19 16:33:45] (DEBUG) => Worker-[1000]가 task-[354339]의 'facebook_data'(을)를 처리중입니다.
+[2022-09-19 16:33:45] (DEBUG) => 수집정보 => 키워드: 문화예술지원 | 기업, 기간: 2019-01-01 ~ 2022-07-27, 유형: facebook_data
+[2022-09-19 16:33:46] (DEBUG) => name 'query1' is not defined
+[2022-09-19 16:33:46] (DEBUG) => name 'query1' is not defined
+[2022-09-19 16:33:46] (DEBUG) => name 'query1' is not defined
+[2022-09-19 16:33:46] (DEBUG) => name 'query1' is not defined
+[2022-09-19 16:33:46] (DEBUG) => name 'query1' is not defined
+[2022-09-19 16:33:46] (DEBUG) => name 'query1' is not defined
+[2022-09-19 16:33:46] (DEBUG) => name 'query1' is not defined
+[2022-09-19 16:33:46] (DEBUG) => name 'query1' is not defined
+[2022-09-19 16:34:01] (DEBUG) => Manager로부터 받은 echo 메시지: 50152
+[2022-09-19 16:34:01] (DEBUG) => Started Assistant Server From 10.0.0.3:50152
+[2022-09-19 16:34:10] (DEBUG) => Worker-[1000]가 task-[354339]의 'facebook_data'(을)를 시작합니다. (Thread: 2695)
+[2022-09-19 16:34:10] (DEBUG) => Worker-[1000]가 task-[354339]의 'facebook_data'(을)를 처리중입니다.
+[2022-09-19 16:34:10] (DEBUG) => 수집정보 => 키워드: 문화예술지원 | 기업, 기간: 2019-01-01 ~ 2022-07-27, 유형: facebook_data
+[2022-09-19 16:34:11] (DEBUG) => task-[354339] 수집 중 => 키워드: 문화예술지원 | 기업, 카운트: 1, 내용: 기업과예술의만남 #코로나이후의메세나 #온라인세미나개최 
+[2022-09-19 16:34:11] (DEBUG) => task-[354339] 수집 중 => 키워드: 문화예술지원 | 기업, 카운트: 2, 내용: 충북문화재단, profile picture	https:
+[2022-09-19 16:34:11] (DEBUG) => task-[354339] 수집 중 => 키워드: 문화예술지원 | 기업, 카운트: 3, 내용: Startup&Company : 스타트업 성장 전략과 
+[2022-09-19 16:34:11] (DEBUG) => task-[354339] 수집 중 => 키워드: 문화예술지원 | 기업, 카운트: 4, 내용: 스타트업포럼 - 중소벤처기업부는 여성창업 활성화 ...
+[2022-09-19 16:34:11] (DEBUG) => task-[354339] 수집 중 => 키워드: 문화예술지원 | 기업, 카운트: 5, 내용: 기업 간 협력 그룹 | Workplace 고객 센터 -
+[2022-09-19 16:34:11] (DEBUG) => task-[354339] 수집 중 => 키워드: 문화예술지원 | 기업, 카운트: 6, 내용: 부산관광기업지원센터 - Home - Facebook	h
+[2022-09-19 16:34:11] (DEBUG) => task-[354339] 수집 중 => 키워드: 문화예술지원 | 기업, 카운트: 7, 내용: 잡이룸- 인담출신 취업멘토.컨설팅 - 【 현대트랜시스 
+[2022-09-19 16:34:11] (DEBUG) => task-[354339] 수집 중 => 키워드: 문화예술지원 | 기업, 카운트: 8, 내용: 서울지방중소벤처기업청, profile picture -
+[2022-09-19 16:34:11] (DEBUG) => task-[354339] 수집 중 => 키워드: 문화예술지원 | 기업, 카운트: 9, 내용: 국가뿌리산업진흥센터 - Facebook	https://
+[2022-09-19 16:34:32] (DEBUG) => task-[354339] 수집 중 => 키워드: 문화예술지원 | 기업, 카운트: 10, 내용: 유엘디자인 - "우성진공펌프" SUB PAGE~!! 회
+[2022-09-19 16:34:32] (DEBUG) => task-[354339] 수집 중 => 키워드: 문화예술지원 | 기업, 카운트: 11, 내용: 한경기업경영지원본부 - Home - Facebook	h
+[2022-09-19 16:34:32] (DEBUG) => task-[354339] 수집 중 => 키워드: 문화예술지원 | 기업, 카운트: 12, 내용: Join - Facebook	https://m.face
+[2022-09-19 16:34:32] (DEBUG) => task-[354339] 수집 중 => 키워드: 문화예술지원 | 기업, 카운트: 13, 내용: 한국인터넷기업협회 - Home | Facebook	ht
+[2022-09-19 16:34:32] (DEBUG) => task-[354339] 수집 중 => 키워드: 문화예술지원 | 기업, 카운트: 14, 내용: 경기벤처창업지원센터 is on Facebook. To 
+[2022-09-19 16:34:32] (DEBUG) => task-[354339] 수집 중 => 키워드: 문화예술지원 | 기업, 카운트: 15, 내용: 안양도시공사 - <경기도 '일하기 좋은 기업' 인증 .
+[2022-09-19 16:34:32] (DEBUG) => task-[354339] 수집 중 => 키워드: 문화예술지원 | 기업, 카운트: 16, 내용: 제주대 GTEP사업단, 지역기업 24곳과 수출지원 업무
+[2022-09-19 16:34:32] (DEBUG) => task-[354339] 수집 중 => 키워드: 문화예술지원 | 기업, 카운트: 17, 내용: 벤처기업협회 - Home | Facebook	https

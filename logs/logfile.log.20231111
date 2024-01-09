@@ -1,0 +1,3 @@
+[2023-11-11 23:59:55] (DEBUG) => Worker-[1000]가 task-[1300535]의 'academic'(을)를 시작합니다. (Thread: 30936)
+[2023-11-11 23:59:55] (DEBUG) => Worker-[1000]가 task-[1300535]의 'academic'(을)를 처리중입니다.
+[2023-11-11 23:59:55] (DEBUG) => 수집정보 => 채널: naver, 유형: academic, 키워드: "AI literacy", 기간: 2014-09-19 ~ 2014-09-19, 테이블: scraw_naver_datainfo

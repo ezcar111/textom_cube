@@ -1,0 +1,8 @@
+[2023-06-04 00:41:06] (DEBUG) => Worker-[1000]가 task-[1156798]의 'cafe'(을)를 시작합니다. (Thread: 3603839)
+[2023-06-04 00:41:06] (DEBUG) => Worker-[1000]가 task-[1156798]의 'cafe'(을)를 처리중입니다.
+[2023-06-04 00:41:06] (DEBUG) => 수집정보 => 채널: naver, 유형: cafe, 키워드: '풋살화' -'중고', 기간: 2022-12-27 ~ 2022-12-27, 테이블: scraw_naver_datainfo
+[2023-06-04 00:41:16] (DEBUG) => task-[1156798] 수집 중 => 키워드: '풋살화' -'중고', 기간: 20221227 ~ 20221227, 카운트: 1
+[2023-06-04 00:41:19] (DEBUG) => task-[1156798] 수집 중 => 키워드: '풋살화' -'중고', 기간: 20221227 ~ 20221227, 카운트: 2
+[2023-06-04 00:43:21] (DEBUG) => ConnectionError((<urllib3.connection.HTTPConnection object at 0x7f875e939b80>, 'Connection to 221.157.125.36 timed out. (connect timeout=30)')) caused by: ConnectTimeoutError((<urllib3.connection.HTTPConnection object at 0x7f875e939b80>, 'Connection to 221.157.125.36 timed out. (connect timeout=30)'))
+[2023-06-04 00:43:21] (DEBUG) => 데이터 수집을 정상적으로 완료하였습니다.
+[2023-06-04 00:43:21] (DEBUG) => Worker-[1000]가 task-[1156798]의 'cafe'(을)를 완료하였습니다.

@@ -1,0 +1,39 @@
+google:
+  dao_file_path: 'earthling/handler/dao/pickles/google.pickle'
+  data_type_names: [ 'web', 'news', 'facebook' ]
+  test_index: 359148
+  scraw_table_name: 'scraw_google_datainfo'
+  scraw_status_name: 'google_status'
+  scraw_channel_name: 'google'
+
+googlecn:
+  dao_file_path: 'earthling/handler/dao/pickles/googlecn.pickle'
+  data_type_names: [ 'web', 'academic' ]
+  test_index: 1491
+  scraw_table_name: 'scraw_google_datainfo'
+  scraw_status_name: 'google_status'
+  scraw_channel_name: 'google'
+
+naver:
+  dao_file_path: 'earthling/handler/dao/pickles/naver.pickle'
+  data_type_names: [ 'web', 'blog', 'news', 'cafe', 'kin', 'academic' ]
+  test_index: 988857
+  scraw_table_name: 'scraw_naver_datainfo'
+  scraw_status_name: 'naver_status'
+  scraw_channel_name: 'naver'
+
+daum:
+  dao_file_path: 'earthling/handler/dao/pickles/daum.pickle'
+  data_type_names: [ 'web', 'news', 'blog', 'cafe' ]
+  test_index: 632979
+  scraw_table_name: 'scraw_daum_datainfo'
+  scraw_status_name: 'daum_status'
+  scraw_channel_name: 'daum'
+
+baidu:
+  dao_file_path: 'earthling/handler/dao/pickles/baidu.pickle'
+  data_type_names: [ 'web', 'news', 'academic' ]
+  test_index: 2966
+  scraw_table_name: 'scraw_baidu_datainfo'
+  scraw_status_name: 'baidu_status'
+  scraw_channel_name: 'baidu'

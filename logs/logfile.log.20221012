@@ -1,0 +1,1361 @@
+[2022-10-12 11:13:40] (DEBUG) => application/google/pickles/base.pickle
+[2022-10-12 11:13:40] (DEBUG) => application/google/pickles/web.pickle
+[2022-10-12 11:13:40] (DEBUG) => application/google/pickles/news.pickle
+[2022-10-12 11:13:40] (DEBUG) => application/google/pickles/facebook.pickle
+[2022-10-12 11:13:40] (DEBUG) => application/naver/pickles/base.pickle
+[2022-10-12 11:13:40] (DEBUG) => application/naver/pickles/web.pickle
+[2022-10-12 11:13:40] (DEBUG) => application/naver/pickles/blog.pickle
+[2022-10-12 11:13:40] (DEBUG) => application/naver/pickles/news.pickle
+[2022-10-12 11:13:40] (DEBUG) => application/naver/pickles/cafe.pickle
+[2022-10-12 11:13:40] (DEBUG) => application/naver/pickles/kin.pickle
+[2022-10-12 11:13:40] (DEBUG) => application/naver/pickles/academic.pickle
+[2022-10-12 11:13:40] (DEBUG) => application/daum/pickles/base.pickle
+[2022-10-12 11:13:40] (DEBUG) => application/daum/pickles/web.pickle
+[2022-10-12 11:15:48] (DEBUG) => application/google/pickles/base.pickle
+[2022-10-12 11:15:48] (DEBUG) => application/google/pickles/web.pickle
+[2022-10-12 11:15:48] (DEBUG) => application/google/pickles/news.pickle
+[2022-10-12 11:15:48] (DEBUG) => application/google/pickles/facebook.pickle
+[2022-10-12 11:15:48] (DEBUG) => application/naver/pickles/base.pickle
+[2022-10-12 11:15:48] (DEBUG) => application/naver/pickles/web.pickle
+[2022-10-12 11:15:48] (DEBUG) => application/naver/pickles/blog.pickle
+[2022-10-12 11:15:48] (DEBUG) => application/naver/pickles/news.pickle
+[2022-10-12 11:15:48] (DEBUG) => application/naver/pickles/cafe.pickle
+[2022-10-12 11:15:48] (DEBUG) => application/naver/pickles/kin.pickle
+[2022-10-12 11:15:48] (DEBUG) => application/naver/pickles/academic.pickle
+[2022-10-12 11:15:48] (DEBUG) => application/daum/pickles/base.pickle
+[2022-10-12 11:15:48] (DEBUG) => application/daum/pickles/web.pickle
+[2022-10-12 11:17:17] (DEBUG) => application/google/pickles/base.pickle
+[2022-10-12 11:17:17] (DEBUG) => application/google/pickles/web.pickle
+[2022-10-12 11:17:17] (DEBUG) => application/google/pickles/news.pickle
+[2022-10-12 11:17:17] (DEBUG) => application/google/pickles/facebook.pickle
+[2022-10-12 11:17:17] (DEBUG) => application/naver/pickles/base.pickle
+[2022-10-12 11:17:17] (DEBUG) => application/naver/pickles/web.pickle
+[2022-10-12 11:17:17] (DEBUG) => application/naver/pickles/blog.pickle
+[2022-10-12 11:17:17] (DEBUG) => application/naver/pickles/news.pickle
+[2022-10-12 11:17:17] (DEBUG) => application/naver/pickles/cafe.pickle
+[2022-10-12 11:17:17] (DEBUG) => application/naver/pickles/kin.pickle
+[2022-10-12 11:17:17] (DEBUG) => application/daum/pickles/base.pickle
+[2022-10-12 11:17:17] (DEBUG) => application/daum/pickles/web.pickle
+[2022-10-12 11:18:43] (DEBUG) => application/google/pickles/base.pickle
+[2022-10-12 11:18:43] (DEBUG) => application/google/pickles/web.pickle
+[2022-10-12 11:18:43] (DEBUG) => application/google/pickles/news.pickle
+[2022-10-12 11:18:43] (DEBUG) => application/google/pickles/facebook.pickle
+[2022-10-12 11:18:43] (DEBUG) => application/naver/pickles/base.pickle
+[2022-10-12 11:18:43] (DEBUG) => application/naver/pickles/web.pickle
+[2022-10-12 11:18:43] (DEBUG) => application/naver/pickles/blog.pickle
+[2022-10-12 11:18:43] (DEBUG) => application/naver/pickles/news.pickle
+[2022-10-12 11:18:43] (DEBUG) => application/naver/pickles/cafe.pickle
+[2022-10-12 11:18:43] (DEBUG) => application/naver/pickles/kin.pickle
+[2022-10-12 11:18:43] (DEBUG) => application/naver/pickles/academic.pickle
+[2022-10-12 11:18:43] (DEBUG) => application/daum/pickles/base.pickle
+[2022-10-12 11:18:43] (DEBUG) => application/daum/pickles/web.pickle
+[2022-10-12 11:18:57] (DEBUG) => application/google/pickles/base.pickle
+[2022-10-12 11:18:57] (DEBUG) => application/google/pickles/web.pickle
+[2022-10-12 11:18:57] (DEBUG) => application/google/pickles/news.pickle
+[2022-10-12 11:18:57] (DEBUG) => application/google/pickles/facebook.pickle
+[2022-10-12 11:18:57] (DEBUG) => application/naver/pickles/base.pickle
+[2022-10-12 11:18:57] (DEBUG) => application/naver/pickles/web.pickle
+[2022-10-12 11:18:57] (DEBUG) => application/naver/pickles/blog.pickle
+[2022-10-12 11:18:57] (DEBUG) => application/naver/pickles/news.pickle
+[2022-10-12 11:18:57] (DEBUG) => application/naver/pickles/cafe.pickle
+[2022-10-12 11:18:57] (DEBUG) => application/naver/pickles/kin.pickle
+[2022-10-12 11:18:57] (DEBUG) => application/naver/pickles/academic.pickle
+[2022-10-12 11:18:57] (DEBUG) => application/daum/pickles/base.pickle
+[2022-10-12 11:18:57] (DEBUG) => application/daum/pickles/web.pickle
+[2022-10-12 11:19:08] (DEBUG) => application/google/pickles/base.pickle
+[2022-10-12 11:19:08] (DEBUG) => application/google/pickles/web.pickle
+[2022-10-12 11:19:08] (DEBUG) => application/google/pickles/news.pickle
+[2022-10-12 11:19:08] (DEBUG) => application/google/pickles/facebook.pickle
+[2022-10-12 11:19:08] (DEBUG) => application/naver/pickles/base.pickle
+[2022-10-12 11:19:08] (DEBUG) => application/naver/pickles/web.pickle
+[2022-10-12 11:19:08] (DEBUG) => application/naver/pickles/blog.pickle
+[2022-10-12 11:19:08] (DEBUG) => application/naver/pickles/news.pickle
+[2022-10-12 11:19:08] (DEBUG) => application/naver/pickles/cafe.pickle
+[2022-10-12 11:19:08] (DEBUG) => application/naver/pickles/kin.pickle
+[2022-10-12 11:19:08] (DEBUG) => application/naver/pickles/academic.pickle
+[2022-10-12 11:19:08] (DEBUG) => application/daum/pickles/base.pickle
+[2022-10-12 11:19:08] (DEBUG) => application/daum/pickles/web.pickle
+[2022-10-12 11:19:19] (DEBUG) => application/google/pickles/base.pickle
+[2022-10-12 11:19:19] (DEBUG) => application/google/pickles/web.pickle
+[2022-10-12 11:19:19] (DEBUG) => application/google/pickles/news.pickle
+[2022-10-12 11:19:19] (DEBUG) => application/google/pickles/facebook.pickle
+[2022-10-12 11:19:19] (DEBUG) => application/naver/pickles/base.pickle
+[2022-10-12 11:19:19] (DEBUG) => application/naver/pickles/web.pickle
+[2022-10-12 11:19:19] (DEBUG) => application/naver/pickles/blog.pickle
+[2022-10-12 11:19:19] (DEBUG) => application/naver/pickles/news.pickle
+[2022-10-12 11:19:19] (DEBUG) => application/naver/pickles/cafe.pickle
+[2022-10-12 11:19:19] (DEBUG) => application/naver/pickles/kin.pickle
+[2022-10-12 11:19:19] (DEBUG) => application/naver/pickles/academic.pickle
+[2022-10-12 11:19:19] (DEBUG) => application/daum/pickles/base.pickle
+[2022-10-12 11:19:19] (DEBUG) => application/daum/pickles/web.pickle
+[2022-10-12 11:19:19] (DEBUG) => application/daum/pickles/news.pickle
+[2022-10-12 11:19:26] (DEBUG) => application/google/pickles/base.pickle
+[2022-10-12 11:19:26] (DEBUG) => application/google/pickles/web.pickle
+[2022-10-12 11:19:26] (DEBUG) => application/google/pickles/news.pickle
+[2022-10-12 11:19:26] (DEBUG) => application/google/pickles/facebook.pickle
+[2022-10-12 11:19:26] (DEBUG) => application/naver/pickles/base.pickle
+[2022-10-12 11:19:26] (DEBUG) => application/naver/pickles/web.pickle
+[2022-10-12 11:19:26] (DEBUG) => application/naver/pickles/blog.pickle
+[2022-10-12 11:19:26] (DEBUG) => application/naver/pickles/news.pickle
+[2022-10-12 11:19:26] (DEBUG) => application/naver/pickles/cafe.pickle
+[2022-10-12 11:19:26] (DEBUG) => application/naver/pickles/kin.pickle
+[2022-10-12 11:19:26] (DEBUG) => application/naver/pickles/academic.pickle
+[2022-10-12 11:19:26] (DEBUG) => application/daum/pickles/base.pickle
+[2022-10-12 11:19:26] (DEBUG) => application/daum/pickles/web.pickle
+[2022-10-12 11:19:26] (DEBUG) => application/daum/pickles/news.pickle
+[2022-10-12 11:19:30] (DEBUG) => application/google/pickles/base.pickle
+[2022-10-12 11:19:30] (DEBUG) => application/google/pickles/web.pickle
+[2022-10-12 11:19:30] (DEBUG) => application/google/pickles/news.pickle
+[2022-10-12 11:19:30] (DEBUG) => application/google/pickles/facebook.pickle
+[2022-10-12 11:19:30] (DEBUG) => application/naver/pickles/base.pickle
+[2022-10-12 11:19:30] (DEBUG) => application/naver/pickles/web.pickle
+[2022-10-12 11:19:30] (DEBUG) => application/naver/pickles/blog.pickle
+[2022-10-12 11:19:30] (DEBUG) => application/naver/pickles/news.pickle
+[2022-10-12 11:19:30] (DEBUG) => application/naver/pickles/cafe.pickle
+[2022-10-12 11:19:30] (DEBUG) => application/naver/pickles/kin.pickle
+[2022-10-12 11:19:30] (DEBUG) => application/naver/pickles/academic.pickle
+[2022-10-12 11:19:30] (DEBUG) => application/daum/pickles/base.pickle
+[2022-10-12 11:19:30] (DEBUG) => application/daum/pickles/web.pickle
+[2022-10-12 11:19:30] (DEBUG) => application/daum/pickles/news.pickle
+[2022-10-12 11:19:38] (DEBUG) => application/google/pickles/base.pickle
+[2022-10-12 11:19:38] (DEBUG) => application/google/pickles/web.pickle
+[2022-10-12 11:19:38] (DEBUG) => application/google/pickles/news.pickle
+[2022-10-12 11:19:38] (DEBUG) => application/google/pickles/facebook.pickle
+[2022-10-12 11:19:38] (DEBUG) => application/naver/pickles/base.pickle
+[2022-10-12 11:19:38] (DEBUG) => application/naver/pickles/web.pickle
+[2022-10-12 11:19:38] (DEBUG) => application/naver/pickles/blog.pickle
+[2022-10-12 11:19:38] (DEBUG) => application/naver/pickles/news.pickle
+[2022-10-12 11:19:38] (DEBUG) => application/naver/pickles/cafe.pickle
+[2022-10-12 11:19:38] (DEBUG) => application/naver/pickles/kin.pickle
+[2022-10-12 11:19:38] (DEBUG) => application/naver/pickles/academic.pickle
+[2022-10-12 11:19:38] (DEBUG) => application/daum/pickles/base.pickle
+[2022-10-12 11:19:38] (DEBUG) => application/daum/pickles/web.pickle
+[2022-10-12 11:19:38] (DEBUG) => application/daum/pickles/news.pickle
+[2022-10-12 11:19:43] (DEBUG) => application/google/pickles/base.pickle
+[2022-10-12 11:19:43] (DEBUG) => application/google/pickles/web.pickle
+[2022-10-12 11:19:43] (DEBUG) => application/google/pickles/news.pickle
+[2022-10-12 11:19:43] (DEBUG) => application/google/pickles/facebook.pickle
+[2022-10-12 11:19:43] (DEBUG) => application/naver/pickles/base.pickle
+[2022-10-12 11:19:43] (DEBUG) => application/naver/pickles/web.pickle
+[2022-10-12 11:19:43] (DEBUG) => application/naver/pickles/blog.pickle
+[2022-10-12 11:19:43] (DEBUG) => application/naver/pickles/news.pickle
+[2022-10-12 11:19:43] (DEBUG) => application/naver/pickles/cafe.pickle
+[2022-10-12 11:19:43] (DEBUG) => application/naver/pickles/kin.pickle
+[2022-10-12 11:19:43] (DEBUG) => application/naver/pickles/academic.pickle
+[2022-10-12 11:19:43] (DEBUG) => application/daum/pickles/base.pickle
+[2022-10-12 11:19:43] (DEBUG) => application/daum/pickles/web.pickle
+[2022-10-12 11:19:43] (DEBUG) => application/daum/pickles/news.pickle
+[2022-10-12 11:19:47] (DEBUG) => application/google/pickles/base.pickle
+[2022-10-12 11:19:47] (DEBUG) => application/google/pickles/web.pickle
+[2022-10-12 11:19:47] (DEBUG) => application/google/pickles/news.pickle
+[2022-10-12 11:19:47] (DEBUG) => application/google/pickles/facebook.pickle
+[2022-10-12 11:19:47] (DEBUG) => application/naver/pickles/base.pickle
+[2022-10-12 11:19:47] (DEBUG) => application/naver/pickles/web.pickle
+[2022-10-12 11:19:47] (DEBUG) => application/naver/pickles/blog.pickle
+[2022-10-12 11:19:47] (DEBUG) => application/naver/pickles/news.pickle
+[2022-10-12 11:19:47] (DEBUG) => application/naver/pickles/cafe.pickle
+[2022-10-12 11:19:47] (DEBUG) => application/naver/pickles/kin.pickle
+[2022-10-12 11:19:47] (DEBUG) => application/naver/pickles/academic.pickle
+[2022-10-12 11:19:47] (DEBUG) => application/daum/pickles/base.pickle
+[2022-10-12 11:19:47] (DEBUG) => application/daum/pickles/web.pickle
+[2022-10-12 11:20:13] (DEBUG) => application/google/pickles/base.pickle
+[2022-10-12 11:20:13] (DEBUG) => application/google/pickles/web.pickle
+[2022-10-12 11:20:13] (DEBUG) => application/google/pickles/news.pickle
+[2022-10-12 11:20:13] (DEBUG) => application/google/pickles/facebook.pickle
+[2022-10-12 11:20:13] (DEBUG) => application/naver/pickles/base.pickle
+[2022-10-12 11:20:13] (DEBUG) => application/naver/pickles/web.pickle
+[2022-10-12 11:20:13] (DEBUG) => application/naver/pickles/blog.pickle
+[2022-10-12 11:20:13] (DEBUG) => application/naver/pickles/news.pickle
+[2022-10-12 11:20:13] (DEBUG) => application/naver/pickles/cafe.pickle
+[2022-10-12 11:20:13] (DEBUG) => application/naver/pickles/kin.pickle
+[2022-10-12 11:20:13] (DEBUG) => application/naver/pickles/academic.pickle
+[2022-10-12 11:20:13] (DEBUG) => application/daum/pickles/base.pickle
+[2022-10-12 11:20:13] (DEBUG) => application/daum/pickles/web.pickle
+[2022-10-12 11:20:13] (DEBUG) => application/daum/pickles/news.pickle
+[2022-10-12 11:20:21] (DEBUG) => application/google/pickles/base.pickle
+[2022-10-12 11:20:21] (DEBUG) => application/google/pickles/web.pickle
+[2022-10-12 11:20:21] (DEBUG) => application/google/pickles/news.pickle
+[2022-10-12 11:20:21] (DEBUG) => application/google/pickles/facebook.pickle
+[2022-10-12 11:20:21] (DEBUG) => application/naver/pickles/base.pickle
+[2022-10-12 11:20:21] (DEBUG) => application/naver/pickles/web.pickle
+[2022-10-12 11:20:21] (DEBUG) => application/naver/pickles/blog.pickle
+[2022-10-12 11:20:21] (DEBUG) => application/naver/pickles/news.pickle
+[2022-10-12 11:20:21] (DEBUG) => application/naver/pickles/cafe.pickle
+[2022-10-12 11:20:21] (DEBUG) => application/naver/pickles/kin.pickle
+[2022-10-12 11:20:21] (DEBUG) => application/naver/pickles/academic.pickle
+[2022-10-12 11:20:21] (DEBUG) => application/daum/pickles/base.pickle
+[2022-10-12 11:20:21] (DEBUG) => application/daum/pickles/web.pickle
+[2022-10-12 11:20:21] (DEBUG) => application/daum/pickles/news.pickle
+[2022-10-12 11:20:37] (DEBUG) => application/google/pickles/base.pickle
+[2022-10-12 11:20:37] (DEBUG) => application/google/pickles/web.pickle
+[2022-10-12 11:20:37] (DEBUG) => application/google/pickles/news.pickle
+[2022-10-12 11:20:37] (DEBUG) => application/google/pickles/facebook.pickle
+[2022-10-12 11:20:37] (DEBUG) => application/naver/pickles/base.pickle
+[2022-10-12 11:20:37] (DEBUG) => application/naver/pickles/web.pickle
+[2022-10-12 11:20:37] (DEBUG) => application/naver/pickles/blog.pickle
+[2022-10-12 11:20:37] (DEBUG) => application/naver/pickles/news.pickle
+[2022-10-12 11:20:37] (DEBUG) => application/naver/pickles/cafe.pickle
+[2022-10-12 11:20:37] (DEBUG) => application/naver/pickles/kin.pickle
+[2022-10-12 11:20:37] (DEBUG) => application/naver/pickles/academic.pickle
+[2022-10-12 11:20:37] (DEBUG) => application/daum/pickles/base.pickle
+[2022-10-12 11:20:37] (DEBUG) => application/daum/pickles/web.pickle
+[2022-10-12 11:20:42] (DEBUG) => application/google/pickles/base.pickle
+[2022-10-12 11:20:42] (DEBUG) => application/google/pickles/web.pickle
+[2022-10-12 11:20:42] (DEBUG) => application/google/pickles/news.pickle
+[2022-10-12 11:20:42] (DEBUG) => application/google/pickles/facebook.pickle
+[2022-10-12 11:20:42] (DEBUG) => application/naver/pickles/base.pickle
+[2022-10-12 11:20:42] (DEBUG) => application/naver/pickles/web.pickle
+[2022-10-12 11:20:42] (DEBUG) => application/naver/pickles/blog.pickle
+[2022-10-12 11:20:42] (DEBUG) => application/naver/pickles/news.pickle
+[2022-10-12 11:20:42] (DEBUG) => application/naver/pickles/cafe.pickle
+[2022-10-12 11:20:42] (DEBUG) => application/naver/pickles/kin.pickle
+[2022-10-12 11:20:42] (DEBUG) => application/naver/pickles/academic.pickle
+[2022-10-12 11:20:42] (DEBUG) => application/daum/pickles/base.pickle
+[2022-10-12 11:20:42] (DEBUG) => application/daum/pickles/web.pickle
+[2022-10-12 11:20:42] (DEBUG) => application/daum/pickles/news.pickle
+[2022-10-12 11:20:53] (DEBUG) => application/google/pickles/base.pickle
+[2022-10-12 11:20:53] (DEBUG) => application/google/pickles/web.pickle
+[2022-10-12 11:20:53] (DEBUG) => application/google/pickles/news.pickle
+[2022-10-12 11:20:53] (DEBUG) => application/google/pickles/facebook.pickle
+[2022-10-12 11:20:53] (DEBUG) => application/naver/pickles/base.pickle
+[2022-10-12 11:20:53] (DEBUG) => application/naver/pickles/web.pickle
+[2022-10-12 11:20:53] (DEBUG) => application/naver/pickles/blog.pickle
+[2022-10-12 11:20:53] (DEBUG) => application/naver/pickles/news.pickle
+[2022-10-12 11:20:53] (DEBUG) => application/naver/pickles/cafe.pickle
+[2022-10-12 11:20:53] (DEBUG) => application/naver/pickles/kin.pickle
+[2022-10-12 11:20:53] (DEBUG) => application/naver/pickles/academic.pickle
+[2022-10-12 11:20:53] (DEBUG) => application/daum/pickles/base.pickle
+[2022-10-12 11:20:53] (DEBUG) => application/daum/pickles/web.pickle
+[2022-10-12 11:20:53] (DEBUG) => application/daum/pickles/news.pickle
+[2022-10-12 11:21:06] (DEBUG) => application/google/pickles/base.pickle
+[2022-10-12 11:21:06] (DEBUG) => application/google/pickles/web.pickle
+[2022-10-12 11:21:06] (DEBUG) => application/google/pickles/news.pickle
+[2022-10-12 11:21:06] (DEBUG) => application/google/pickles/facebook.pickle
+[2022-10-12 11:21:06] (DEBUG) => application/naver/pickles/base.pickle
+[2022-10-12 11:21:06] (DEBUG) => application/naver/pickles/web.pickle
+[2022-10-12 11:21:06] (DEBUG) => application/naver/pickles/blog.pickle
+[2022-10-12 11:21:06] (DEBUG) => application/naver/pickles/news.pickle
+[2022-10-12 11:21:06] (DEBUG) => application/naver/pickles/cafe.pickle
+[2022-10-12 11:21:06] (DEBUG) => application/naver/pickles/kin.pickle
+[2022-10-12 11:21:06] (DEBUG) => application/naver/pickles/academic.pickle
+[2022-10-12 11:21:06] (DEBUG) => application/daum/pickles/base.pickle
+[2022-10-12 11:21:06] (DEBUG) => application/daum/pickles/web.pickle
+[2022-10-12 11:21:06] (DEBUG) => application/daum/pickles/news.pickle
+[2022-10-12 11:21:14] (DEBUG) => application/google/pickles/base.pickle
+[2022-10-12 11:21:14] (DEBUG) => application/google/pickles/web.pickle
+[2022-10-12 11:21:14] (DEBUG) => application/google/pickles/news.pickle
+[2022-10-12 11:21:14] (DEBUG) => application/google/pickles/facebook.pickle
+[2022-10-12 11:21:14] (DEBUG) => application/naver/pickles/base.pickle
+[2022-10-12 11:21:14] (DEBUG) => application/naver/pickles/web.pickle
+[2022-10-12 11:21:14] (DEBUG) => application/naver/pickles/blog.pickle
+[2022-10-12 11:21:14] (DEBUG) => application/naver/pickles/news.pickle
+[2022-10-12 11:21:14] (DEBUG) => application/naver/pickles/cafe.pickle
+[2022-10-12 11:21:14] (DEBUG) => application/naver/pickles/kin.pickle
+[2022-10-12 11:21:14] (DEBUG) => application/naver/pickles/academic.pickle
+[2022-10-12 11:21:14] (DEBUG) => application/daum/pickles/base.pickle
+[2022-10-12 11:21:14] (DEBUG) => application/daum/pickles/web.pickle
+[2022-10-12 11:21:14] (DEBUG) => application/daum/pickles/news.pickle
+[2022-10-12 11:22:00] (DEBUG) => application/google/pickles/base.pickle
+[2022-10-12 11:22:00] (DEBUG) => application/google/pickles/web.pickle
+[2022-10-12 11:22:00] (DEBUG) => application/google/pickles/news.pickle
+[2022-10-12 11:22:00] (DEBUG) => application/google/pickles/facebook.pickle
+[2022-10-12 11:22:00] (DEBUG) => application/naver/pickles/base.pickle
+[2022-10-12 11:22:00] (DEBUG) => application/naver/pickles/web.pickle
+[2022-10-12 11:22:00] (DEBUG) => application/naver/pickles/blog.pickle
+[2022-10-12 11:22:00] (DEBUG) => application/naver/pickles/news.pickle
+[2022-10-12 11:22:00] (DEBUG) => application/naver/pickles/cafe.pickle
+[2022-10-12 11:22:00] (DEBUG) => application/naver/pickles/kin.pickle
+[2022-10-12 11:22:00] (DEBUG) => application/naver/pickles/academic.pickle
+[2022-10-12 11:22:00] (DEBUG) => application/daum/pickles/base.pickle
+[2022-10-12 11:22:00] (DEBUG) => application/daum/pickles/web.pickle
+[2022-10-12 11:22:00] (DEBUG) => application/daum/pickles/news.pickle
+[2022-10-12 11:22:00] (DEBUG) => application/daum/pickles/blog.pickle
+[2022-10-12 11:22:39] (DEBUG) => application/google/pickles/base.pickle
+[2022-10-12 11:22:39] (DEBUG) => application/google/pickles/web.pickle
+[2022-10-12 11:22:39] (DEBUG) => application/google/pickles/news.pickle
+[2022-10-12 11:22:39] (DEBUG) => application/google/pickles/facebook.pickle
+[2022-10-12 11:22:39] (DEBUG) => application/naver/pickles/base.pickle
+[2022-10-12 11:22:39] (DEBUG) => application/naver/pickles/web.pickle
+[2022-10-12 11:22:39] (DEBUG) => application/naver/pickles/blog.pickle
+[2022-10-12 11:22:39] (DEBUG) => application/naver/pickles/news.pickle
+[2022-10-12 11:22:39] (DEBUG) => application/naver/pickles/cafe.pickle
+[2022-10-12 11:22:39] (DEBUG) => application/naver/pickles/kin.pickle
+[2022-10-12 11:22:39] (DEBUG) => application/naver/pickles/academic.pickle
+[2022-10-12 11:22:39] (DEBUG) => application/daum/pickles/base.pickle
+[2022-10-12 11:22:39] (DEBUG) => application/daum/pickles/web.pickle
+[2022-10-12 11:22:39] (DEBUG) => application/daum/pickles/news.pickle
+[2022-10-12 11:22:39] (DEBUG) => application/daum/pickles/blog.pickle
+[2022-10-12 11:22:48] (DEBUG) => application/google/pickles/base.pickle
+[2022-10-12 11:22:48] (DEBUG) => application/google/pickles/web.pickle
+[2022-10-12 11:22:48] (DEBUG) => application/google/pickles/news.pickle
+[2022-10-12 11:22:48] (DEBUG) => application/google/pickles/facebook.pickle
+[2022-10-12 11:22:48] (DEBUG) => application/naver/pickles/base.pickle
+[2022-10-12 11:22:48] (DEBUG) => application/naver/pickles/web.pickle
+[2022-10-12 11:22:48] (DEBUG) => application/naver/pickles/blog.pickle
+[2022-10-12 11:22:48] (DEBUG) => application/naver/pickles/news.pickle
+[2022-10-12 11:22:48] (DEBUG) => application/naver/pickles/cafe.pickle
+[2022-10-12 11:22:48] (DEBUG) => application/naver/pickles/kin.pickle
+[2022-10-12 11:22:48] (DEBUG) => application/naver/pickles/academic.pickle
+[2022-10-12 11:22:48] (DEBUG) => application/daum/pickles/base.pickle
+[2022-10-12 11:22:48] (DEBUG) => application/daum/pickles/web.pickle
+[2022-10-12 11:22:48] (DEBUG) => application/daum/pickles/news.pickle
+[2022-10-12 11:22:48] (DEBUG) => application/daum/pickles/blog.pickle
+[2022-10-12 11:22:48] (DEBUG) => application/daum/pickles/cafe.pickle
+[2022-10-12 11:22:48] (DEBUG) => application/baidu/pickles/base.pickle
+[2022-10-12 11:22:48] (DEBUG) => application/baidu/pickles/web.pickle
+[2022-10-12 11:22:48] (DEBUG) => application/baidu/pickles/news.pickle
+[2022-10-12 11:22:48] (DEBUG) => application/baidu/pickles/academic.pickle
+[2022-10-12 11:23:35] (DEBUG) => application/google/pickles/base.pickle
+[2022-10-12 11:23:35] (DEBUG) => application/google/pickles/web.pickle
+[2022-10-12 11:23:35] (DEBUG) => application/google/pickles/news.pickle
+[2022-10-12 11:23:35] (DEBUG) => application/google/pickles/facebook.pickle
+[2022-10-12 11:23:35] (DEBUG) => application/naver/pickles/base.pickle
+[2022-10-12 11:23:35] (DEBUG) => application/naver/pickles/web.pickle
+[2022-10-12 11:23:35] (DEBUG) => application/naver/pickles/blog.pickle
+[2022-10-12 11:23:35] (DEBUG) => application/naver/pickles/news.pickle
+[2022-10-12 11:23:35] (DEBUG) => application/naver/pickles/cafe.pickle
+[2022-10-12 11:23:35] (DEBUG) => application/naver/pickles/kin.pickle
+[2022-10-12 11:23:35] (DEBUG) => application/naver/pickles/academic.pickle
+[2022-10-12 11:23:35] (DEBUG) => application/daum/pickles/base.pickle
+[2022-10-12 11:23:35] (DEBUG) => application/daum/pickles/web.pickle
+[2022-10-12 11:23:35] (DEBUG) => application/daum/pickles/news.pickle
+[2022-10-12 11:23:35] (DEBUG) => application/daum/pickles/blog.pickle
+[2022-10-12 11:23:35] (DEBUG) => application/daum/pickles/cafe.pickle
+[2022-10-12 11:23:35] (DEBUG) => application/baidu/pickles/base.pickle
+[2022-10-12 11:23:35] (DEBUG) => application/baidu/pickles/web.pickle
+[2022-10-12 11:23:35] (DEBUG) => application/baidu/pickles/news.pickle
+[2022-10-12 11:23:35] (DEBUG) => application/baidu/pickles/academic.pickle
+[2022-10-12 11:27:30] (DEBUG) => <_InactiveRpcError of RPC that terminated with:
+	status = StatusCode.UNAVAILABLE
+	details = "failed to connect to all addresses"
+	debug_error_string = "{"created":"@1665541650.044982120","description":"Failed to pick subchannel","file":"src/core/ext/filters/client_channel/client_channel.cc","file_line":3260,"referenced_errors":[{"created":"@1665541650.044980999","description":"failed to connect to all addresses","file":"src/core/lib/transport/error_utils.cc","file_line":167,"grpc_status":14}]}"
+>
+[2022-10-12 11:27:30] (DEBUG) => Manager 서버에 연결할 수 없습니다.
+[2022-10-12 11:27:30] (DEBUG) => Started Assistant Server From 10.0.0.4:50152
+[2022-10-12 11:27:47] (DEBUG) => Started Manager Server From 10.0.0.4:50151
+[2022-10-12 11:27:56] (DEBUG) => Manager로부터 받은 echo 메시지: 50152
+[2022-10-12 11:27:56] (DEBUG) => Started Assistant Server From 10.0.0.4:50152
+[2022-10-12 11:28:34] (DEBUG) => Request task-359148 to Assistant Domain: 10.0.0.4:50152
+[2022-10-12 11:28:35] (DEBUG) => Worker-[1000]가 task-[359148]의 'web_data'(을)를 시작합니다. (Thread: 29458)
+[2022-10-12 11:28:35] (DEBUG) => Worker-[1000]가 task-[359148]의 'web_data'(을)를 처리중입니다.
+[2022-10-12 21:17:44] (DEBUG) => Started Manager Server From 10.0.0.4:50151
+[2022-10-12 21:17:51] (DEBUG) => Manager로부터 받은 echo 메시지: 50152
+[2022-10-12 21:17:51] (DEBUG) => Started Assistant Server From 10.0.0.4:50152
+[2022-10-12 21:19:46] (DEBUG) => Request task-988857 to Assistant Domain: 10.0.0.4:50152
+[2022-10-12 21:19:48] (DEBUG) => Worker-[1000]가 task-[988857]의 'web_data'(을)를 시작합니다. (Thread: 3285)
+[2022-10-12 21:19:48] (DEBUG) => Worker-[1000]가 task-[988857]의 'web_data'(을)를 처리중입니다.
+[2022-10-12 21:21:06] (DEBUG) => Manager로부터 받은 echo 메시지: 50152
+[2022-10-12 21:21:13] (DEBUG) => Assistant 서버[10.0.0.4:50152]를 연결할 수 없습니다. (1)
+[2022-10-12 21:21:23] (DEBUG) => Assistant 서버[10.0.0.4:50152]를 연결할 수 없습니다. (1)
+[2022-10-12 21:21:33] (DEBUG) => Assistant 서버[10.0.0.4:50152]를 연결할 수 없습니다. (1)
+[2022-10-12 21:21:40] (DEBUG) => Manager로부터 받은 echo 메시지: 50152
+[2022-10-12 21:21:43] (DEBUG) => Assistant 서버[10.0.0.4:50152]를 연결할 수 없습니다. (1)
+[2022-10-12 21:21:54] (DEBUG) => Started Manager Server From 10.0.0.4:50151
+[2022-10-12 21:21:54] (DEBUG) => Assistant 서버[10.0.0.4:50152]를 연결할 수 없습니다. (1)
+[2022-10-12 21:22:10] (DEBUG) => <_InactiveRpcError of RPC that terminated with:
+	status = StatusCode.UNAVAILABLE
+	details = "failed to connect to all addresses"
+	debug_error_string = "{"created":"@1665577330.851258257","description":"Failed to pick subchannel","file":"src/core/ext/filters/client_channel/client_channel.cc","file_line":3260,"referenced_errors":[{"created":"@1665577330.851257116","description":"failed to connect to all addresses","file":"src/core/lib/transport/error_utils.cc","file_line":167,"grpc_status":14}]}"
+>
+[2022-10-12 21:22:10] (DEBUG) => Manager 서버에 연결할 수 없습니다.
+[2022-10-12 21:22:10] (DEBUG) => Started Assistant Server From 10.0.0.4:50152
+[2022-10-12 21:22:12] (DEBUG) => Started Manager Server From 10.0.0.4:50151
+[2022-10-12 21:22:13] (DEBUG) => Request task-988857 to Assistant Domain: 10.0.0.4:50152
+[2022-10-12 21:22:13] (DEBUG) => Worker-[1000]가 task-[988857]의 'web_data'(을)를 시작합니다. (Thread: 4027)
+[2022-10-12 21:22:13] (DEBUG) => Worker-[1000]가 task-[988857]의 'web_data'(을)를 처리중입니다.
+[2022-10-12 21:22:50] (DEBUG) => Manager로부터 받은 echo 메시지: 50152
+[2022-10-12 21:22:50] (DEBUG) => Started Assistant Server From 10.0.0.4:50152
+[2022-10-12 21:22:58] (DEBUG) => Request task-988857 to Assistant Domain: 10.0.0.4:50152
+[2022-10-12 21:22:59] (DEBUG) => Worker-[1000]가 task-[988857]의 'web_data'(을)를 시작합니다. (Thread: 4174)
+[2022-10-12 21:22:59] (DEBUG) => Worker-[1000]가 task-[988857]의 'web_data'(을)를 처리중입니다.
+[2022-10-12 21:23:14] (DEBUG) => Manager로부터 받은 echo 메시지: 50152
+[2022-10-12 21:23:19] (DEBUG) => Assistant 서버[10.0.0.4:50152]를 연결할 수 없습니다. (1)
+[2022-10-12 21:23:42] (DEBUG) => <_InactiveRpcError of RPC that terminated with:
+	status = StatusCode.UNAVAILABLE
+	details = "failed to connect to all addresses"
+	debug_error_string = "{"created":"@1665577422.898309921","description":"Failed to pick subchannel","file":"src/core/ext/filters/client_channel/client_channel.cc","file_line":3260,"referenced_errors":[{"created":"@1665577422.898308541","description":"failed to connect to all addresses","file":"src/core/lib/transport/error_utils.cc","file_line":167,"grpc_status":14}]}"
+>
+[2022-10-12 21:23:42] (DEBUG) => Manager 서버에 연결할 수 없습니다.
+[2022-10-12 21:23:42] (DEBUG) => Started Assistant Server From 10.0.0.4:50152
+[2022-10-12 21:23:43] (DEBUG) => Started Manager Server From 10.0.0.4:50151
+[2022-10-12 21:24:03] (DEBUG) => Request task-988857 to Assistant Domain: 10.0.0.4:50152
+[2022-10-12 21:24:06] (DEBUG) => Worker-[1000]가 task-[988857]의 'web_data'(을)를 시작합니다. (Thread: 4625)
+[2022-10-12 21:24:06] (DEBUG) => Worker-[1000]가 task-[988857]의 'web_data'(을)를 처리중입니다.
+[2022-10-12 21:24:38] (DEBUG) => <_InactiveRpcError of RPC that terminated with:
+	status = StatusCode.UNAVAILABLE
+	details = "failed to connect to all addresses"
+	debug_error_string = "{"created":"@1665577478.886449673","description":"Failed to pick subchannel","file":"src/core/ext/filters/client_channel/client_channel.cc","file_line":3260,"referenced_errors":[{"created":"@1665577478.886448389","description":"failed to connect to all addresses","file":"src/core/lib/transport/error_utils.cc","file_line":167,"grpc_status":14}]}"
+>
+[2022-10-12 21:24:38] (DEBUG) => Manager 서버에 연결할 수 없습니다.
+[2022-10-12 21:24:38] (DEBUG) => Started Assistant Server From 10.0.0.4:50152
+[2022-10-12 21:24:40] (DEBUG) => Started Manager Server From 10.0.0.4:50151
+[2022-10-12 21:24:45] (DEBUG) => Request task-988857 to Assistant Domain: 10.0.0.4:50152
+[2022-10-12 21:24:47] (DEBUG) => Worker-[1000]가 task-[988857]의 'web_data'(을)를 시작합니다. (Thread: 4882)
+[2022-10-12 21:24:47] (DEBUG) => Worker-[1000]가 task-[988857]의 'web_data'(을)를 처리중입니다.
+[2022-10-12 21:26:52] (DEBUG) => <_InactiveRpcError of RPC that terminated with:
+	status = StatusCode.UNAVAILABLE
+	details = "failed to connect to all addresses"
+	debug_error_string = "{"created":"@1665577612.315351929","description":"Failed to pick subchannel","file":"src/core/ext/filters/client_channel/client_channel.cc","file_line":3260,"referenced_errors":[{"created":"@1665577612.315350814","description":"failed to connect to all addresses","file":"src/core/lib/transport/error_utils.cc","file_line":167,"grpc_status":14}]}"
+>
+[2022-10-12 21:26:52] (DEBUG) => Manager 서버에 연결할 수 없습니다.
+[2022-10-12 21:26:52] (DEBUG) => Started Assistant Server From 10.0.0.4:50152
+[2022-10-12 21:26:53] (DEBUG) => Started Manager Server From 10.0.0.4:50151
+[2022-10-12 21:27:03] (DEBUG) => Request task-988857 to Assistant Domain: 10.0.0.4:50152
+[2022-10-12 21:27:04] (DEBUG) => Worker-[1000]가 task-[988857]의 'web_data'(을)를 시작합니다. (Thread: 5164)
+[2022-10-12 21:27:04] (DEBUG) => Worker-[1000]가 task-[988857]의 'web_data'(을)를 처리중입니다.
+[2022-10-12 21:27:27] (DEBUG) => <_InactiveRpcError of RPC that terminated with:
+	status = StatusCode.UNAVAILABLE
+	details = "failed to connect to all addresses"
+	debug_error_string = "{"created":"@1665577647.566589114","description":"Failed to pick subchannel","file":"src/core/ext/filters/client_channel/client_channel.cc","file_line":3260,"referenced_errors":[{"created":"@1665577647.566588041","description":"failed to connect to all addresses","file":"src/core/lib/transport/error_utils.cc","file_line":167,"grpc_status":14}]}"
+>
+[2022-10-12 21:27:27] (DEBUG) => Manager 서버에 연결할 수 없습니다.
+[2022-10-12 21:27:27] (DEBUG) => Started Assistant Server From 10.0.0.4:50152
+[2022-10-12 21:27:28] (DEBUG) => Started Manager Server From 10.0.0.4:50151
+[2022-10-12 21:27:33] (DEBUG) => Request task-988857 to Assistant Domain: 10.0.0.4:50152
+[2022-10-12 21:27:36] (DEBUG) => Worker-[1000]가 task-[988857]의 'web_data'(을)를 시작합니다. (Thread: 5421)
+[2022-10-12 21:27:36] (DEBUG) => Worker-[1000]가 task-[988857]의 'web_data'(을)를 처리중입니다.
+[2022-10-12 21:28:16] (DEBUG) => Started Manager Server From 10.0.0.4:50151
+[2022-10-12 21:28:17] (DEBUG) => Manager로부터 받은 echo 메시지: 50152
+[2022-10-12 21:28:17] (DEBUG) => Started Assistant Server From 10.0.0.4:50152
+[2022-10-12 21:28:26] (DEBUG) => Request task-988857 to Assistant Domain: 10.0.0.4:50152
+[2022-10-12 21:28:29] (DEBUG) => Worker-[1000]가 task-[988857]의 'web_data'(을)를 시작합니다. (Thread: 5646)
+[2022-10-12 21:28:29] (DEBUG) => Worker-[1000]가 task-[988857]의 'web_data'(을)를 처리중입니다.
+[2022-10-12 21:28:48] (DEBUG) => <_InactiveRpcError of RPC that terminated with:
+	status = StatusCode.UNAVAILABLE
+	details = "failed to connect to all addresses"
+	debug_error_string = "{"created":"@1665577728.053294387","description":"Failed to pick subchannel","file":"src/core/ext/filters/client_channel/client_channel.cc","file_line":3260,"referenced_errors":[{"created":"@1665577728.053293098","description":"failed to connect to all addresses","file":"src/core/lib/transport/error_utils.cc","file_line":167,"grpc_status":14}]}"
+>
+[2022-10-12 21:28:48] (DEBUG) => Manager 서버에 연결할 수 없습니다.
+[2022-10-12 21:28:48] (DEBUG) => Started Assistant Server From 10.0.0.4:50152
+[2022-10-12 21:28:48] (DEBUG) => Started Manager Server From 10.0.0.4:50151
+[2022-10-12 21:28:58] (DEBUG) => Request task-988857 to Assistant Domain: 10.0.0.4:50152
+[2022-10-12 21:29:00] (DEBUG) => Worker-[1000]가 task-[988857]의 'web_data'(을)를 시작합니다. (Thread: 5910)
+[2022-10-12 21:29:00] (DEBUG) => Worker-[1000]가 task-[988857]의 'web_data'(을)를 처리중입니다.
+[2022-10-12 21:30:16] (DEBUG) => <_InactiveRpcError of RPC that terminated with:
+	status = StatusCode.UNAVAILABLE
+	details = "failed to connect to all addresses"
+	debug_error_string = "{"created":"@1665577816.288509736","description":"Failed to pick subchannel","file":"src/core/ext/filters/client_channel/client_channel.cc","file_line":3260,"referenced_errors":[{"created":"@1665577816.288508630","description":"failed to connect to all addresses","file":"src/core/lib/transport/error_utils.cc","file_line":167,"grpc_status":14}]}"
+>
+[2022-10-12 21:30:16] (DEBUG) => Manager 서버에 연결할 수 없습니다.
+[2022-10-12 21:30:16] (DEBUG) => Started Assistant Server From 10.0.0.4:50152
+[2022-10-12 21:30:17] (DEBUG) => Started Manager Server From 10.0.0.4:50151
+[2022-10-12 21:30:27] (DEBUG) => Request task-988857 to Assistant Domain: 10.0.0.4:50152
+[2022-10-12 21:30:28] (DEBUG) => Worker-[1000]가 task-[988857]의 'web_data'(을)를 시작합니다. (Thread: 6194)
+[2022-10-12 21:30:28] (DEBUG) => Worker-[1000]가 task-[988857]의 'web_data'(을)를 처리중입니다.
+[2022-10-12 21:30:28] (DEBUG) => 수집정보 => 채널: naver, 유형: web_data, 키워드: 초록매실, 기간: 2021-11-01 ~ 2022-02-28, 테이블: scraw_naver_datainfo
+[2022-10-12 21:37:22] (DEBUG) => <_InactiveRpcError of RPC that terminated with:
+	status = StatusCode.UNAVAILABLE
+	details = "failed to connect to all addresses"
+	debug_error_string = "{"created":"@1665578242.739891083","description":"Failed to pick subchannel","file":"src/core/ext/filters/client_channel/client_channel.cc","file_line":3260,"referenced_errors":[{"created":"@1665578242.739890026","description":"failed to connect to all addresses","file":"src/core/lib/transport/error_utils.cc","file_line":167,"grpc_status":14}]}"
+>
+[2022-10-12 21:37:22] (DEBUG) => Manager 서버에 연결할 수 없습니다.
+[2022-10-12 21:37:22] (DEBUG) => Started Assistant Server From 10.0.0.4:50152
+[2022-10-12 21:37:25] (DEBUG) => Started Manager Server From 10.0.0.4:50151
+[2022-10-12 21:37:35] (DEBUG) => Request task-988857 to Assistant Domain: 10.0.0.4:50152
+[2022-10-12 21:37:35] (DEBUG) => (1054, "Unknown column 'web_data_data' in 'field list'")
+[2022-10-12 21:37:35] (DEBUG) => Assistant 서버[10.0.0.4:50152]를 연결할 수 없습니다. (2)
+[2022-10-12 21:37:45] (DEBUG) => Assistant 서버[10.0.0.4:50152]를 연결할 수 없습니다. (1)
+[2022-10-12 21:39:14] (DEBUG) => Started Manager Server From 10.0.0.4:50151
+[2022-10-12 21:39:14] (DEBUG) => Assistant 서버[10.0.0.4:50152]를 연결할 수 없습니다. (1)
+[2022-10-12 21:39:20] (DEBUG) => <_InactiveRpcError of RPC that terminated with:
+	status = StatusCode.UNAVAILABLE
+	details = "failed to connect to all addresses"
+	debug_error_string = "{"created":"@1665578360.245080523","description":"Failed to pick subchannel","file":"src/core/ext/filters/client_channel/client_channel.cc","file_line":3260,"referenced_errors":[{"created":"@1665578360.245079039","description":"failed to connect to all addresses","file":"src/core/lib/transport/error_utils.cc","file_line":167,"grpc_status":14}]}"
+>
+[2022-10-12 21:39:20] (DEBUG) => Manager 서버에 연결할 수 없습니다.
+[2022-10-12 21:39:20] (DEBUG) => Started Assistant Server From 10.0.0.4:50152
+[2022-10-12 21:39:22] (DEBUG) => Started Manager Server From 10.0.0.4:50151
+[2022-10-12 21:39:22] (DEBUG) => Request task-988857 to Assistant Domain: 10.0.0.4:50152
+[2022-10-12 21:39:22] (DEBUG) => (1054, "Unknown column 'web_data_data' in 'field list'")
+[2022-10-12 21:39:22] (DEBUG) => Assistant 서버[10.0.0.4:50152]를 연결할 수 없습니다. (2)
+[2022-10-12 21:39:32] (DEBUG) => Request task-988857 to Assistant Domain: 10.0.0.4:50152
+[2022-10-12 21:39:33] (DEBUG) => (1054, "Unknown column 'web_data_data' in 'field list'")
+[2022-10-12 21:39:33] (DEBUG) => Assistant 서버[10.0.0.4:50152]를 연결할 수 없습니다. (2)
+[2022-10-12 21:39:43] (DEBUG) => Request task-988857 to Assistant Domain: 10.0.0.4:50152
+[2022-10-12 21:39:43] (DEBUG) => (1054, "Unknown column 'web_data_data' in 'field list'")
+[2022-10-12 21:39:43] (DEBUG) => Assistant 서버[10.0.0.4:50152]를 연결할 수 없습니다. (2)
+[2022-10-12 21:40:03] (DEBUG) => Request task-988857 to Assistant Domain: 10.0.0.4:50152
+[2022-10-12 21:40:03] (DEBUG) => (1054, "Unknown column 'web_data_data' in 'field list'")
+[2022-10-12 21:40:03] (DEBUG) => Assistant 서버[10.0.0.4:50152]를 연결할 수 없습니다. (2)
+[2022-10-12 21:40:13] (DEBUG) => Request task-988857 to Assistant Domain: 10.0.0.4:50152
+[2022-10-12 21:40:13] (DEBUG) => (1054, "Unknown column 'web_data_data' in 'field list'")
+[2022-10-12 21:40:13] (DEBUG) => Assistant 서버[10.0.0.4:50152]를 연결할 수 없습니다. (2)
+[2022-10-12 21:40:23] (DEBUG) => Request task-988857 to Assistant Domain: 10.0.0.4:50152
+[2022-10-12 21:40:23] (DEBUG) => (1054, "Unknown column 'web_data_data' in 'field list'")
+[2022-10-12 21:40:23] (DEBUG) => Assistant 서버[10.0.0.4:50152]를 연결할 수 없습니다. (2)
+[2022-10-12 21:40:43] (DEBUG) => Request task-988857 to Assistant Domain: 10.0.0.4:50152
+[2022-10-12 21:40:43] (DEBUG) => (1054, "Unknown column 'web_data_data' in 'field list'")
+[2022-10-12 21:40:43] (DEBUG) => Assistant 서버[10.0.0.4:50152]를 연결할 수 없습니다. (2)
+[2022-10-12 21:40:54] (DEBUG) => Request task-988857 to Assistant Domain: 10.0.0.4:50152
+[2022-10-12 21:40:54] (DEBUG) => (1054, "Unknown column 'web_data_data' in 'field list'")
+[2022-10-12 21:40:54] (DEBUG) => Assistant 서버[10.0.0.4:50152]를 연결할 수 없습니다. (2)
+[2022-10-12 21:41:04] (DEBUG) => Request task-988857 to Assistant Domain: 10.0.0.4:50152
+[2022-10-12 21:41:04] (DEBUG) => (1054, "Unknown column 'web_data_data' in 'field list'")
+[2022-10-12 21:41:04] (DEBUG) => Assistant 서버[10.0.0.4:50152]를 연결할 수 없습니다. (2)
+[2022-10-12 21:41:24] (DEBUG) => Request task-988857 to Assistant Domain: 10.0.0.4:50152
+[2022-10-12 21:41:24] (DEBUG) => (1054, "Unknown column 'web_data_data' in 'field list'")
+[2022-10-12 21:41:24] (DEBUG) => Assistant 서버[10.0.0.4:50152]를 연결할 수 없습니다. (2)
+[2022-10-12 21:41:34] (DEBUG) => Request task-988857 to Assistant Domain: 10.0.0.4:50152
+[2022-10-12 21:41:34] (DEBUG) => (1054, "Unknown column 'web_data_data' in 'field list'")
+[2022-10-12 21:41:34] (DEBUG) => Assistant 서버[10.0.0.4:50152]를 연결할 수 없습니다. (2)
+[2022-10-12 21:41:44] (DEBUG) => Request task-988857 to Assistant Domain: 10.0.0.4:50152
+[2022-10-12 21:41:44] (DEBUG) => (1054, "Unknown column 'web_data_data' in 'field list'")
+[2022-10-12 21:41:44] (DEBUG) => Assistant 서버[10.0.0.4:50152]를 연결할 수 없습니다. (2)
+[2022-10-12 21:41:57] (DEBUG) => Started Manager Server From 10.0.0.4:50151
+[2022-10-12 21:41:57] (DEBUG) => QWFQWFQWFQWFQWF
+[2022-10-12 21:41:57] (DEBUG) => Request task-988857 to Assistant Domain: 10.0.0.4:50152
+[2022-10-12 21:41:57] (DEBUG) => (1054, "Unknown column 'web_data_data' in 'field list'")
+[2022-10-12 21:41:57] (DEBUG) => Assistant 서버[10.0.0.4:50152]를 연결할 수 없습니다. (2)
+[2022-10-12 21:42:07] (DEBUG) => QWFQWFQWFQWFQWF
+[2022-10-12 21:42:07] (DEBUG) => Request task-988857 to Assistant Domain: 10.0.0.4:50152
+[2022-10-12 21:42:07] (DEBUG) => (1054, "Unknown column 'web_data_data' in 'field list'")
+[2022-10-12 21:42:07] (DEBUG) => Assistant 서버[10.0.0.4:50152]를 연결할 수 없습니다. (2)
+[2022-10-12 21:42:17] (DEBUG) => QWFQWFQWFQWFQWF
+[2022-10-12 21:42:17] (DEBUG) => Request task-988857 to Assistant Domain: 10.0.0.4:50152
+[2022-10-12 21:42:18] (DEBUG) => (1054, "Unknown column 'web_data_data' in 'field list'")
+[2022-10-12 21:42:18] (DEBUG) => Assistant 서버[10.0.0.4:50152]를 연결할 수 없습니다. (2)
+[2022-10-12 21:42:38] (DEBUG) => QWFQWFQWFQWFQWF
+[2022-10-12 21:42:38] (DEBUG) => Request task-988857 to Assistant Domain: 10.0.0.4:50152
+[2022-10-12 21:42:38] (DEBUG) => (1054, "Unknown column 'web_data_data' in 'field list'")
+[2022-10-12 21:42:38] (DEBUG) => Assistant 서버[10.0.0.4:50152]를 연결할 수 없습니다. (2)
+[2022-10-12 21:44:17] (DEBUG) => Started Manager Server From 10.0.0.4:50151
+[2022-10-12 21:44:17] (DEBUG) => Request task-988857 to Assistant Domain: 10.0.0.4:50152
+[2022-10-12 21:44:18] (DEBUG) => (1054, "Unknown column 'web_data_data' in 'field list'")
+[2022-10-12 21:44:18] (DEBUG) => Assistant 서버[10.0.0.4:50152]를 연결할 수 없습니다. (2)
+[2022-10-12 21:44:28] (DEBUG) => Request task-988857 to Assistant Domain: 10.0.0.4:50152
+[2022-10-12 21:44:28] (DEBUG) => (1054, "Unknown column 'web_data_data' in 'field list'")
+[2022-10-12 21:44:28] (DEBUG) => Assistant 서버[10.0.0.4:50152]를 연결할 수 없습니다. (2)
+[2022-10-12 21:44:38] (DEBUG) => Request task-988857 to Assistant Domain: 10.0.0.4:50152
+[2022-10-12 21:44:38] (DEBUG) => (1054, "Unknown column 'web_data_data' in 'field list'")
+[2022-10-12 21:44:38] (DEBUG) => Assistant 서버[10.0.0.4:50152]를 연결할 수 없습니다. (2)
+[2022-10-12 21:44:58] (DEBUG) => Request task-988857 to Assistant Domain: 10.0.0.4:50152
+[2022-10-12 21:44:58] (DEBUG) => (1054, "Unknown column 'web_data_data' in 'field list'")
+[2022-10-12 21:44:58] (DEBUG) => Assistant 서버[10.0.0.4:50152]를 연결할 수 없습니다. (2)
+[2022-10-12 21:45:08] (DEBUG) => Request task-988857 to Assistant Domain: 10.0.0.4:50152
+[2022-10-12 21:45:08] (DEBUG) => (1054, "Unknown column 'web_data_data' in 'field list'")
+[2022-10-12 21:45:08] (DEBUG) => Assistant 서버[10.0.0.4:50152]를 연결할 수 없습니다. (2)
+[2022-10-12 21:45:18] (DEBUG) => Request task-988857 to Assistant Domain: 10.0.0.4:50152
+[2022-10-12 21:45:18] (DEBUG) => (1054, "Unknown column 'web_data_data' in 'field list'")
+[2022-10-12 21:45:18] (DEBUG) => Assistant 서버[10.0.0.4:50152]를 연결할 수 없습니다. (2)
+[2022-10-12 21:45:22] (DEBUG) => Started Manager Server From 10.0.0.4:50151
+[2022-10-12 21:45:22] (DEBUG) => Request task-988857 to Assistant Domain: 10.0.0.4:50152
+[2022-10-12 21:45:22] (DEBUG) => {'channel': 'naver', 'data_type_name': 'web_data', 'state': 'Y'}
+[2022-10-12 21:45:22] (DEBUG) => (1054, "Unknown column 'web_data_data' in 'field list'")
+[2022-10-12 21:45:22] (DEBUG) => Assistant 서버[10.0.0.4:50152]를 연결할 수 없습니다. (2)
+[2022-10-12 21:45:32] (DEBUG) => Request task-988857 to Assistant Domain: 10.0.0.4:50152
+[2022-10-12 21:45:32] (DEBUG) => {'channel': 'naver', 'data_type_name': 'web_data', 'state': 'Y'}
+[2022-10-12 21:45:32] (DEBUG) => (1054, "Unknown column 'web_data_data' in 'field list'")
+[2022-10-12 21:45:32] (DEBUG) => Assistant 서버[10.0.0.4:50152]를 연결할 수 없습니다. (2)
+[2022-10-12 21:45:42] (DEBUG) => Request task-988857 to Assistant Domain: 10.0.0.4:50152
+[2022-10-12 21:45:42] (DEBUG) => {'channel': 'naver', 'data_type_name': 'web_data', 'state': 'Y'}
+[2022-10-12 21:45:42] (DEBUG) => (1054, "Unknown column 'web_data_data' in 'field list'")
+[2022-10-12 21:45:42] (DEBUG) => Assistant 서버[10.0.0.4:50152]를 연결할 수 없습니다. (2)
+[2022-10-12 21:46:02] (DEBUG) => Request task-988857 to Assistant Domain: 10.0.0.4:50152
+[2022-10-12 21:46:02] (DEBUG) => {'channel': 'naver', 'data_type_name': 'web_data', 'state': 'Y'}
+[2022-10-12 21:46:02] (DEBUG) => (1054, "Unknown column 'web_data_data' in 'field list'")
+[2022-10-12 21:46:02] (DEBUG) => Assistant 서버[10.0.0.4:50152]를 연결할 수 없습니다. (2)
+[2022-10-12 21:46:12] (DEBUG) => Request task-988857 to Assistant Domain: 10.0.0.4:50152
+[2022-10-12 21:46:12] (DEBUG) => {'channel': 'naver', 'data_type_name': 'web_data', 'state': 'Y'}
+[2022-10-12 21:46:13] (DEBUG) => (1054, "Unknown column 'web_data_data' in 'field list'")
+[2022-10-12 21:46:13] (DEBUG) => Assistant 서버[10.0.0.4:50152]를 연결할 수 없습니다. (2)
+[2022-10-12 21:46:23] (DEBUG) => Request task-988857 to Assistant Domain: 10.0.0.4:50152
+[2022-10-12 21:46:23] (DEBUG) => {'channel': 'naver', 'data_type_name': 'web_data', 'state': 'Y'}
+[2022-10-12 21:46:23] (DEBUG) => (1054, "Unknown column 'web_data_data' in 'field list'")
+[2022-10-12 21:46:23] (DEBUG) => Assistant 서버[10.0.0.4:50152]를 연결할 수 없습니다. (2)
+[2022-10-12 21:46:31] (DEBUG) => Started Manager Server From 10.0.0.4:50151
+[2022-10-12 21:46:32] (DEBUG) => [{'idx': 988857, 'k_idx': 1165139, 'k_ip': '10.0.0.4', 'web_data': 'Y', 'blog_data': 'N', 'news_data': '', 'cafe_data': 'N', 'kin_data': '', 'academic_data': '', 'channel': 'naver', 'data_type_names': ['web_data', 'blog_data', 'news_data', 'cafe_data', 'kin_data', 'academic_data']}]
+[2022-10-12 21:46:32] (DEBUG) => Request task-988857 to Assistant Domain: 10.0.0.4:50152
+[2022-10-12 21:46:32] (DEBUG) => {'channel': 'naver', 'data_type_name': 'web_data', 'state': 'Y'}
+[2022-10-12 21:46:32] (DEBUG) => (1054, "Unknown column 'web_data_data' in 'field list'")
+[2022-10-12 21:46:32] (DEBUG) => Assistant 서버[10.0.0.4:50152]를 연결할 수 없습니다. (2)
+[2022-10-12 21:46:42] (DEBUG) => [{'idx': 988857, 'k_idx': 1165139, 'k_ip': '10.0.0.4', 'web_data': 'Y', 'blog_data': 'N', 'news_data': '', 'cafe_data': 'N', 'kin_data': '', 'academic_data': '', 'channel': 'naver', 'data_type_names': ['web_data', 'blog_data', 'news_data', 'cafe_data', 'kin_data', 'academic_data']}]
+[2022-10-12 21:46:42] (DEBUG) => Request task-988857 to Assistant Domain: 10.0.0.4:50152
+[2022-10-12 21:46:42] (DEBUG) => {'channel': 'naver', 'data_type_name': 'web_data', 'state': 'Y'}
+[2022-10-12 21:46:42] (DEBUG) => (1054, "Unknown column 'web_data_data' in 'field list'")
+[2022-10-12 21:46:42] (DEBUG) => Assistant 서버[10.0.0.4:50152]를 연결할 수 없습니다. (2)
+[2022-10-12 21:46:52] (DEBUG) => [{'idx': 988857, 'k_idx': 1165139, 'k_ip': '10.0.0.4', 'web_data': 'Y', 'blog_data': 'N', 'news_data': '', 'cafe_data': 'N', 'kin_data': '', 'academic_data': '', 'channel': 'naver', 'data_type_names': ['web_data', 'blog_data', 'news_data', 'cafe_data', 'kin_data', 'academic_data']}]
+[2022-10-12 21:46:52] (DEBUG) => Request task-988857 to Assistant Domain: 10.0.0.4:50152
+[2022-10-12 21:46:52] (DEBUG) => {'channel': 'naver', 'data_type_name': 'web_data', 'state': 'Y'}
+[2022-10-12 21:46:52] (DEBUG) => (1054, "Unknown column 'web_data_data' in 'field list'")
+[2022-10-12 21:46:52] (DEBUG) => Assistant 서버[10.0.0.4:50152]를 연결할 수 없습니다. (2)
+[2022-10-12 21:47:12] (DEBUG) => [{'idx': 988857, 'k_idx': 1165139, 'k_ip': '10.0.0.4', 'web_data': 'Y', 'blog_data': 'N', 'news_data': '', 'cafe_data': 'N', 'kin_data': '', 'academic_data': '', 'channel': 'naver', 'data_type_names': ['web_data', 'blog_data', 'news_data', 'cafe_data', 'kin_data', 'academic_data']}]
+[2022-10-12 21:47:12] (DEBUG) => Request task-988857 to Assistant Domain: 10.0.0.4:50152
+[2022-10-12 21:47:12] (DEBUG) => {'channel': 'naver', 'data_type_name': 'web_data', 'state': 'Y'}
+[2022-10-12 21:47:12] (DEBUG) => (1054, "Unknown column 'web_data_data' in 'field list'")
+[2022-10-12 21:47:12] (DEBUG) => Assistant 서버[10.0.0.4:50152]를 연결할 수 없습니다. (2)
+[2022-10-12 21:50:15] (DEBUG) => Started Manager Server From 10.0.0.4:50151
+[2022-10-12 21:50:15] (DEBUG) => ['web_data', 'blog_data', 'news_data', 'cafe_data', 'kin_data', 'academic_data']
+[2022-10-12 21:50:15] (DEBUG) => [{'idx': 988857, 'k_idx': 1165139, 'k_ip': '10.0.0.4', 'web_data': 'Y', 'blog_data': 'N', 'news_data': '', 'cafe_data': 'N', 'kin_data': '', 'academic_data': '', 'channel': 'naver', 'data_type_names': ['web_data', 'blog_data', 'news_data', 'cafe_data', 'kin_data', 'academic_data']}]
+[2022-10-12 21:50:15] (DEBUG) => Request task-988857 to Assistant Domain: 10.0.0.4:50152
+[2022-10-12 21:50:15] (DEBUG) => {'channel': 'naver', 'data_type_name': 'web_data', 'state': 'Y'}
+[2022-10-12 21:50:15] (DEBUG) => (1054, "Unknown column 'web_data_data' in 'field list'")
+[2022-10-12 21:50:15] (DEBUG) => Assistant 서버[10.0.0.4:50152]를 연결할 수 없습니다. (2)
+[2022-10-12 21:50:25] (DEBUG) => ['web_data', 'blog_data', 'news_data', 'cafe_data', 'kin_data', 'academic_data']
+[2022-10-12 21:50:25] (DEBUG) => [{'idx': 988857, 'k_idx': 1165139, 'k_ip': '10.0.0.4', 'web_data': 'Y', 'blog_data': 'N', 'news_data': '', 'cafe_data': 'N', 'kin_data': '', 'academic_data': '', 'channel': 'naver', 'data_type_names': ['web_data', 'blog_data', 'news_data', 'cafe_data', 'kin_data', 'academic_data']}]
+[2022-10-12 21:50:25] (DEBUG) => Request task-988857 to Assistant Domain: 10.0.0.4:50152
+[2022-10-12 21:50:25] (DEBUG) => {'channel': 'naver', 'data_type_name': 'web_data', 'state': 'Y'}
+[2022-10-12 21:50:25] (DEBUG) => (1054, "Unknown column 'web_data_data' in 'field list'")
+[2022-10-12 21:50:25] (DEBUG) => Assistant 서버[10.0.0.4:50152]를 연결할 수 없습니다. (2)
+[2022-10-12 21:50:44] (DEBUG) => Started Manager Server From 10.0.0.4:50151
+[2022-10-12 21:50:44] (DEBUG) => qwfqwfq
+[2022-10-12 21:50:44] (DEBUG) => ['web_data', 'blog_data', 'news_data', 'cafe_data', 'kin_data', 'academic_data']
+[2022-10-12 21:50:44] (DEBUG) => [{'idx': 988857, 'k_idx': 1165139, 'k_ip': '10.0.0.4', 'web_data': 'Y', 'blog_data': 'N', 'news_data': '', 'cafe_data': 'N', 'kin_data': '', 'academic_data': '', 'channel': 'naver', 'data_type_names': ['web_data', 'blog_data', 'news_data', 'cafe_data', 'kin_data', 'academic_data']}]
+[2022-10-12 21:50:44] (DEBUG) => Request task-988857 to Assistant Domain: 10.0.0.4:50152
+[2022-10-12 21:50:44] (DEBUG) => {'channel': 'naver', 'data_type_name': 'web_data', 'state': 'Y'}
+[2022-10-12 21:50:44] (DEBUG) => (1054, "Unknown column 'web_data_data' in 'field list'")
+[2022-10-12 21:50:44] (DEBUG) => Assistant 서버[10.0.0.4:50152]를 연결할 수 없습니다. (2)
+[2022-10-12 21:51:50] (DEBUG) => Started Manager Server From 10.0.0.4:50151
+[2022-10-12 21:51:50] (DEBUG) => [{'idx': 988857, 'k_idx': 1165139, 'k_ip': '10.0.0.4', 'web_data': 'Y', 'blog_data': 'N', 'news_data': '', 'cafe_data': 'N', 'kin_data': '', 'academic_data': '', 'channel': 'naver', 'data_type_names': ['web_data', 'blog_data', 'news_data', 'cafe_data', 'kin_data', 'academic_data']}]
+[2022-10-12 21:51:50] (DEBUG) => Request task-988857 to Assistant Domain: 10.0.0.4:50152
+[2022-10-12 21:51:50] (DEBUG) => {'channel': 'naver', 'data_type_name': 'web_data', 'state': 'Y'}
+[2022-10-12 21:51:50] (DEBUG) => (1054, "Unknown column 'web_data_data' in 'field list'")
+[2022-10-12 21:51:50] (DEBUG) => Assistant 서버[10.0.0.4:50152]를 연결할 수 없습니다. (2)
+[2022-10-12 21:52:00] (DEBUG) => [{'idx': 988857, 'k_idx': 1165139, 'k_ip': '10.0.0.4', 'web_data': 'Y', 'blog_data': 'N', 'news_data': '', 'cafe_data': 'N', 'kin_data': '', 'academic_data': '', 'channel': 'naver', 'data_type_names': ['web_data', 'blog_data', 'news_data', 'cafe_data', 'kin_data', 'academic_data']}]
+[2022-10-12 21:52:00] (DEBUG) => Request task-988857 to Assistant Domain: 10.0.0.4:50152
+[2022-10-12 21:52:00] (DEBUG) => {'channel': 'naver', 'data_type_name': 'web_data', 'state': 'Y'}
+[2022-10-12 21:52:00] (DEBUG) => (1054, "Unknown column 'web_data_data' in 'field list'")
+[2022-10-12 21:52:00] (DEBUG) => Assistant 서버[10.0.0.4:50152]를 연결할 수 없습니다. (2)
+[2022-10-12 21:52:10] (DEBUG) => [{'idx': 988857, 'k_idx': 1165139, 'k_ip': '10.0.0.4', 'web_data': 'Y', 'blog_data': 'N', 'news_data': '', 'cafe_data': 'N', 'kin_data': '', 'academic_data': '', 'channel': 'naver', 'data_type_names': ['web_data', 'blog_data', 'news_data', 'cafe_data', 'kin_data', 'academic_data']}]
+[2022-10-12 21:52:10] (DEBUG) => Request task-988857 to Assistant Domain: 10.0.0.4:50152
+[2022-10-12 21:52:10] (DEBUG) => {'channel': 'naver', 'data_type_name': 'web_data', 'state': 'Y'}
+[2022-10-12 21:52:10] (DEBUG) => (1054, "Unknown column 'web_data_data' in 'field list'")
+[2022-10-12 21:52:10] (DEBUG) => Assistant 서버[10.0.0.4:50152]를 연결할 수 없습니다. (2)
+[2022-10-12 21:52:54] (DEBUG) => Started Manager Server From 10.0.0.4:50151
+[2022-10-12 21:52:54] (DEBUG) => [{'idx': 988857, 'k_idx': 1165139, 'k_ip': '10.0.0.4', 'web_data': 'Y', 'blog_data': 'N', 'news_data': '', 'cafe_data': 'N', 'kin_data': '', 'academic_data': '', 'channel': 'naver', 'data_type_names': ['web_data', 'blog_data', 'news_data', 'cafe_data', 'kin_data', 'academic_data']}]
+[2022-10-12 21:52:54] (DEBUG) => Request task-988857 to Assistant Domain: 10.0.0.4:50152
+[2022-10-12 21:52:54] (DEBUG) => {'channel': 'naver', 'data_type_name': 'web_data', 'state': 'Y'}
+[2022-10-12 21:52:54] (DEBUG) => (1054, "Unknown column 'web_data_data' in 'field list'")
+[2022-10-12 21:52:54] (DEBUG) => Assistant 서버[10.0.0.4:50152]를 연결할 수 없습니다. (2)
+[2022-10-12 21:53:04] (DEBUG) => [{'idx': 988857, 'k_idx': 1165139, 'k_ip': '10.0.0.4', 'web_data': 'Y', 'blog_data': 'N', 'news_data': '', 'cafe_data': 'N', 'kin_data': '', 'academic_data': '', 'channel': 'naver', 'data_type_names': ['web_data', 'blog_data', 'news_data', 'cafe_data', 'kin_data', 'academic_data']}]
+[2022-10-12 21:53:04] (DEBUG) => Request task-988857 to Assistant Domain: 10.0.0.4:50152
+[2022-10-12 21:53:04] (DEBUG) => {'channel': 'naver', 'data_type_name': 'web_data', 'state': 'Y'}
+[2022-10-12 21:53:04] (DEBUG) => (1054, "Unknown column 'web_data_data' in 'field list'")
+[2022-10-12 21:53:04] (DEBUG) => Assistant 서버[10.0.0.4:50152]를 연결할 수 없습니다. (2)
+[2022-10-12 21:53:15] (DEBUG) => [{'idx': 988857, 'k_idx': 1165139, 'k_ip': '10.0.0.4', 'web_data': 'Y', 'blog_data': 'N', 'news_data': '', 'cafe_data': 'N', 'kin_data': '', 'academic_data': '', 'channel': 'naver', 'data_type_names': ['web_data', 'blog_data', 'news_data', 'cafe_data', 'kin_data', 'academic_data']}]
+[2022-10-12 21:53:15] (DEBUG) => Request task-988857 to Assistant Domain: 10.0.0.4:50152
+[2022-10-12 21:53:15] (DEBUG) => {'channel': 'naver', 'data_type_name': 'web_data', 'state': 'Y'}
+[2022-10-12 21:53:15] (DEBUG) => (1054, "Unknown column 'web_data_data' in 'field list'")
+[2022-10-12 21:53:15] (DEBUG) => Assistant 서버[10.0.0.4:50152]를 연결할 수 없습니다. (2)
+[2022-10-12 21:53:35] (DEBUG) => [{'idx': 988857, 'k_idx': 1165139, 'k_ip': '10.0.0.4', 'web_data': 'Y', 'blog_data': 'N', 'news_data': '', 'cafe_data': 'N', 'kin_data': '', 'academic_data': '', 'channel': 'naver', 'data_type_names': ['web_data', 'blog_data', 'news_data', 'cafe_data', 'kin_data', 'academic_data']}]
+[2022-10-12 21:53:35] (DEBUG) => Request task-988857 to Assistant Domain: 10.0.0.4:50152
+[2022-10-12 21:53:35] (DEBUG) => {'channel': 'naver', 'data_type_name': 'web_data', 'state': 'Y'}
+[2022-10-12 21:53:35] (DEBUG) => (1054, "Unknown column 'web_data_data' in 'field list'")
+[2022-10-12 21:53:35] (DEBUG) => Assistant 서버[10.0.0.4:50152]를 연결할 수 없습니다. (2)
+[2022-10-12 21:53:45] (DEBUG) => [{'idx': 988857, 'k_idx': 1165139, 'k_ip': '10.0.0.4', 'web_data': 'Y', 'blog_data': 'N', 'news_data': '', 'cafe_data': 'N', 'kin_data': '', 'academic_data': '', 'channel': 'naver', 'data_type_names': ['web_data', 'blog_data', 'news_data', 'cafe_data', 'kin_data', 'academic_data']}]
+[2022-10-12 21:53:45] (DEBUG) => Request task-988857 to Assistant Domain: 10.0.0.4:50152
+[2022-10-12 21:53:45] (DEBUG) => {'channel': 'naver', 'data_type_name': 'web_data', 'state': 'Y'}
+[2022-10-12 21:53:45] (DEBUG) => (1054, "Unknown column 'web_data_data' in 'field list'")
+[2022-10-12 21:53:45] (DEBUG) => Assistant 서버[10.0.0.4:50152]를 연결할 수 없습니다. (2)
+[2022-10-12 21:53:55] (DEBUG) => [{'idx': 988857, 'k_idx': 1165139, 'k_ip': '10.0.0.4', 'web_data': 'Y', 'blog_data': 'N', 'news_data': '', 'cafe_data': 'N', 'kin_data': '', 'academic_data': '', 'channel': 'naver', 'data_type_names': ['web_data', 'blog_data', 'news_data', 'cafe_data', 'kin_data', 'academic_data']}]
+[2022-10-12 21:53:55] (DEBUG) => Request task-988857 to Assistant Domain: 10.0.0.4:50152
+[2022-10-12 21:53:55] (DEBUG) => {'channel': 'naver', 'data_type_name': 'web_data', 'state': 'Y'}
+[2022-10-12 21:53:55] (DEBUG) => (1054, "Unknown column 'web_data_data' in 'field list'")
+[2022-10-12 21:53:55] (DEBUG) => Assistant 서버[10.0.0.4:50152]를 연결할 수 없습니다. (2)
+[2022-10-12 21:54:16] (DEBUG) => [{'idx': 988857, 'k_idx': 1165139, 'k_ip': '10.0.0.4', 'web_data': 'Y', 'blog_data': 'N', 'news_data': '', 'cafe_data': 'N', 'kin_data': '', 'academic_data': '', 'channel': 'naver', 'data_type_names': ['web_data', 'blog_data', 'news_data', 'cafe_data', 'kin_data', 'academic_data']}]
+[2022-10-12 21:54:16] (DEBUG) => Request task-988857 to Assistant Domain: 10.0.0.4:50152
+[2022-10-12 21:54:16] (DEBUG) => {'channel': 'naver', 'data_type_name': 'web_data', 'state': 'Y'}
+[2022-10-12 21:54:16] (DEBUG) => (1054, "Unknown column 'web_data_data' in 'field list'")
+[2022-10-12 21:54:16] (DEBUG) => Assistant 서버[10.0.0.4:50152]를 연결할 수 없습니다. (2)
+[2022-10-12 21:54:38] (DEBUG) => Started Manager Server From 10.0.0.4:50151
+[2022-10-12 21:54:38] (DEBUG) => [{'idx': 988857, 'k_idx': 1165139, 'k_ip': '10.0.0.4', 'web_data': 'Y', 'blog_data': 'N', 'news_data': '', 'cafe_data': 'N', 'kin_data': '', 'academic_data': '', 'channel': 'naver', 'data_type_names': ['web_data', 'blog_data', 'news_data', 'cafe_data', 'kin_data', 'academic_data']}]
+[2022-10-12 21:54:38] (DEBUG) => Request task-988857 to Assistant Domain: 10.0.0.4:50152
+[2022-10-12 21:54:38] (DEBUG) => {'channel': 'naver', 'data_type_name': 'web_data', 'state': 'Y'}
+[2022-10-12 21:54:38] (DEBUG) => (1054, "Unknown column 'web_data_data' in 'field list'")
+[2022-10-12 21:54:38] (DEBUG) => Assistant 서버[10.0.0.4:50152]를 연결할 수 없습니다. (2)
+[2022-10-12 21:54:49] (DEBUG) => [{'idx': 988857, 'k_idx': 1165139, 'k_ip': '10.0.0.4', 'web_data': 'Y', 'blog_data': 'N', 'news_data': '', 'cafe_data': 'N', 'kin_data': '', 'academic_data': '', 'channel': 'naver', 'data_type_names': ['web_data', 'blog_data', 'news_data', 'cafe_data', 'kin_data', 'academic_data']}]
+[2022-10-12 21:54:49] (DEBUG) => Request task-988857 to Assistant Domain: 10.0.0.4:50152
+[2022-10-12 21:54:49] (DEBUG) => {'channel': 'naver', 'data_type_name': 'web_data', 'state': 'Y'}
+[2022-10-12 21:54:49] (DEBUG) => (1054, "Unknown column 'web_data_data' in 'field list'")
+[2022-10-12 21:54:49] (DEBUG) => Assistant 서버[10.0.0.4:50152]를 연결할 수 없습니다. (2)
+[2022-10-12 21:55:08] (DEBUG) => Started Manager Server From 10.0.0.4:50151
+[2022-10-12 21:55:08] (DEBUG) => [{'idx': 988857, 'k_idx': 1165139, 'k_ip': '10.0.0.4', 'web_data': 'Y', 'blog_data': 'N', 'news_data': '', 'cafe_data': 'N', 'kin_data': '', 'academic_data': '', 'channel': 'naver', 'data_type_names': ['web_data', 'blog_data', 'news_data', 'cafe_data', 'kin_data', 'academic_data']}]
+[2022-10-12 21:55:08] (DEBUG) => Request task-988857 to Assistant Domain: 10.0.0.4:50152
+[2022-10-12 21:55:08] (DEBUG) => {'channel': 'naver', 'data_type_name': 'web_data', 'state': 'Y'}
+[2022-10-12 21:55:08] (DEBUG) => (1054, "Unknown column 'web_data_data' in 'field list'")
+[2022-10-12 21:55:08] (DEBUG) => Assistant 서버[10.0.0.4:50152]를 연결할 수 없습니다. (2)
+[2022-10-12 21:55:16] (DEBUG) => Started Manager Server From 10.0.0.4:50151
+[2022-10-12 21:55:16] (DEBUG) => [{'idx': 988857, 'k_idx': 1165139, 'k_ip': '10.0.0.4', 'web_data': 'Y', 'blog_data': 'N', 'news_data': '', 'cafe_data': 'N', 'kin_data': '', 'academic_data': '', 'channel': 'naver', 'data_type_names': ['web_data', 'blog_data', 'news_data', 'cafe_data', 'kin_data', 'academic_data']}]
+[2022-10-12 21:55:16] (DEBUG) => Request task-988857 to Assistant Domain: 10.0.0.4:50152
+[2022-10-12 21:55:16] (DEBUG) => {'channel': 'naver', 'data_type_name': 'web_data', 'state': 'Y'}
+[2022-10-12 21:55:16] (DEBUG) => (1054, "Unknown column 'web_data_data' in 'field list'")
+[2022-10-12 21:55:16] (DEBUG) => Assistant 서버[10.0.0.4:50152]를 연결할 수 없습니다. (2)
+[2022-10-12 21:55:26] (DEBUG) => [{'idx': 988857, 'k_idx': 1165139, 'k_ip': '10.0.0.4', 'web_data': 'Y', 'blog_data': 'N', 'news_data': '', 'cafe_data': 'N', 'kin_data': '', 'academic_data': '', 'channel': 'naver', 'data_type_names': ['web_data', 'blog_data', 'news_data', 'cafe_data', 'kin_data', 'academic_data']}]
+[2022-10-12 21:55:26] (DEBUG) => Request task-988857 to Assistant Domain: 10.0.0.4:50152
+[2022-10-12 21:55:26] (DEBUG) => {'channel': 'naver', 'data_type_name': 'web_data', 'state': 'Y'}
+[2022-10-12 21:55:26] (DEBUG) => (1054, "Unknown column 'web_data_data' in 'field list'")
+[2022-10-12 21:55:26] (DEBUG) => Assistant 서버[10.0.0.4:50152]를 연결할 수 없습니다. (2)
+[2022-10-12 21:55:35] (DEBUG) => Started Manager Server From 10.0.0.4:50151
+[2022-10-12 21:55:35] (DEBUG) => [{'idx': 988857, 'k_idx': 1165139, 'k_ip': '10.0.0.4', 'web_data': 'Y', 'blog_data': 'N', 'news_data': '', 'cafe_data': 'N', 'kin_data': '', 'academic_data': '', 'channel': 'naver', 'data_type_names': ['web_data', 'blog_data', 'news_data', 'cafe_data', 'kin_data', 'academic_data']}]
+[2022-10-12 21:55:35] (DEBUG) => Request task-988857 to Assistant Domain: 10.0.0.4:50152
+[2022-10-12 21:55:35] (DEBUG) => {'channel': 'naver', 'data_type_name': 'web_data', 'state': 'Y'}
+[2022-10-12 21:55:35] (DEBUG) => (1054, "Unknown column 'web_data_data' in 'field list'")
+[2022-10-12 21:55:35] (DEBUG) => Assistant 서버[10.0.0.4:50152]를 연결할 수 없습니다. (2)
+[2022-10-12 21:55:58] (DEBUG) => Started Manager Server From 10.0.0.4:50151
+[2022-10-12 21:55:58] (DEBUG) => ['web_data', 'blog_data', 'news_data', 'cafe_data', 'kin_data', 'academic_data']
+[2022-10-12 21:55:58] (DEBUG) => [{'idx': 988857, 'k_idx': 1165139, 'k_ip': '10.0.0.4', 'web_data': 'Y', 'blog_data': 'N', 'news_data': '', 'cafe_data': 'N', 'kin_data': '', 'academic_data': '', 'channel': 'naver', 'data_type_names': ['web_data', 'blog_data', 'news_data', 'cafe_data', 'kin_data', 'academic_data']}]
+[2022-10-12 21:55:58] (DEBUG) => Request task-988857 to Assistant Domain: 10.0.0.4:50152
+[2022-10-12 21:55:58] (DEBUG) => {'channel': 'naver', 'data_type_name': 'web_data', 'state': 'Y'}
+[2022-10-12 21:55:58] (DEBUG) => (1054, "Unknown column 'web_data_data' in 'field list'")
+[2022-10-12 21:55:58] (DEBUG) => Assistant 서버[10.0.0.4:50152]를 연결할 수 없습니다. (2)
+[2022-10-12 21:56:14] (DEBUG) => Started Manager Server From 10.0.0.4:50151
+[2022-10-12 21:57:22] (DEBUG) => Started Manager Server From 10.0.0.4:50151
+[2022-10-12 21:57:38] (DEBUG) => Started Manager Server From 10.0.0.4:50151
+[2022-10-12 21:57:38] (DEBUG) => ['web_data', 'blog_data', 'news_data', 'cafe_data', 'kin_data', 'academic_data']
+[2022-10-12 21:57:39] (DEBUG) => [{'idx': 988857, 'k_idx': 1165139, 'k_ip': '10.0.0.4', 'web_data': 'Y', 'blog_data': 'N', 'news_data': '', 'cafe_data': 'N', 'kin_data': '', 'academic_data': '', 'channel': 'naver', 'data_type_names': ['web_data', 'blog_data', 'news_data', 'cafe_data', 'kin_data', 'academic_data']}]
+[2022-10-12 21:57:39] (DEBUG) => Request task-988857 to Assistant Domain: 10.0.0.4:50152
+[2022-10-12 21:57:39] (DEBUG) => {'channel': 'naver', 'data_type_name': 'web_data', 'state': 'Y'}
+[2022-10-12 21:57:39] (DEBUG) => (1054, "Unknown column 'web_data_data' in 'field list'")
+[2022-10-12 21:57:39] (DEBUG) => Assistant 서버[10.0.0.4:50152]를 연결할 수 없습니다. (2)
+[2022-10-12 22:00:03] (DEBUG) => fkqjf123jfiowqef
+[2022-10-12 22:00:03] (DEBUG) => QWFQWFQF111
+[2022-10-12 22:00:03] (DEBUG) => ['web', 'blog', 'news', 'cafe', 'kin', 'academic']
+[2022-10-12 22:00:03] (DEBUG) => fkqjf123jfiowqef
+[2022-10-12 22:00:03] (DEBUG) => QWFQWFQF111
+[2022-10-12 22:00:03] (DEBUG) => ['web', 'news', 'facebook']
+[2022-10-12 22:00:03] (DEBUG) => fkqjf123jfiowqef
+[2022-10-12 22:00:03] (DEBUG) => QWFQWFQF111
+[2022-10-12 22:00:03] (DEBUG) => ['web', 'news', 'blog', 'cafe']
+[2022-10-12 22:00:03] (DEBUG) => fkqjf123jfiowqef
+[2022-10-12 22:00:03] (DEBUG) => QWFQWFQF111
+[2022-10-12 22:00:03] (DEBUG) => ['web', 'news', 'academic']
+[2022-10-12 22:00:03] (DEBUG) => application/google/pickles/base.pickle
+[2022-10-12 22:00:03] (DEBUG) => application/google/pickles/web.pickle
+[2022-10-12 22:00:03] (DEBUG) => application/google/pickles/news.pickle
+[2022-10-12 22:00:03] (DEBUG) => application/google/pickles/facebook.pickle
+[2022-10-12 22:00:03] (DEBUG) => application/naver/pickles/base.pickle
+[2022-10-12 22:00:03] (DEBUG) => application/naver/pickles/web.pickle
+[2022-10-12 22:00:03] (DEBUG) => application/naver/pickles/blog.pickle
+[2022-10-12 22:00:03] (DEBUG) => application/naver/pickles/news.pickle
+[2022-10-12 22:00:03] (DEBUG) => application/naver/pickles/cafe.pickle
+[2022-10-12 22:00:03] (DEBUG) => application/naver/pickles/kin.pickle
+[2022-10-12 22:00:03] (DEBUG) => application/naver/pickles/academic.pickle
+[2022-10-12 22:00:03] (DEBUG) => application/daum/pickles/base.pickle
+[2022-10-12 22:00:03] (DEBUG) => application/daum/pickles/web.pickle
+[2022-10-12 22:00:03] (DEBUG) => application/daum/pickles/news.pickle
+[2022-10-12 22:00:03] (DEBUG) => application/daum/pickles/blog.pickle
+[2022-10-12 22:00:03] (DEBUG) => application/daum/pickles/cafe.pickle
+[2022-10-12 22:00:03] (DEBUG) => application/baidu/pickles/base.pickle
+[2022-10-12 22:00:03] (DEBUG) => application/baidu/pickles/web.pickle
+[2022-10-12 22:00:03] (DEBUG) => application/baidu/pickles/news.pickle
+[2022-10-12 22:00:03] (DEBUG) => application/baidu/pickles/academic.pickle
+[2022-10-12 22:00:06] (DEBUG) => Started Manager Server From 10.0.0.4:50151
+[2022-10-12 22:00:06] (DEBUG) => ['web', 'blog', 'news', 'cafe', 'kin', 'academic']
+[2022-10-12 22:00:06] (DEBUG) => [{'idx': 988857, 'k_idx': 1165139, 'k_ip': '10.0.0.4', 'web_data': 'Y', 'blog_data': 'N', 'news_data': '', 'cafe_data': 'N', 'kin_data': '', 'academic_data': '', 'channel': 'naver', 'data_type_names': ['web', 'blog', 'news', 'cafe', 'kin', 'academic']}]
+[2022-10-12 22:00:06] (DEBUG) => Request task-988857 to Assistant Domain: 10.0.0.4:50152
+[2022-10-12 22:00:06] (DEBUG) => 'web'
+[2022-10-12 22:00:06] (DEBUG) => Assistant 서버[10.0.0.4:50152]를 연결할 수 없습니다. (2)
+[2022-10-12 22:00:23] (DEBUG) => application/google/pickles/base.pickle
+[2022-10-12 22:00:23] (DEBUG) => application/google/pickles/web.pickle
+[2022-10-12 22:00:23] (DEBUG) => application/google/pickles/news.pickle
+[2022-10-12 22:00:23] (DEBUG) => application/google/pickles/facebook.pickle
+[2022-10-12 22:00:23] (DEBUG) => application/naver/pickles/base.pickle
+[2022-10-12 22:00:23] (DEBUG) => application/naver/pickles/web.pickle
+[2022-10-12 22:00:23] (DEBUG) => application/naver/pickles/blog.pickle
+[2022-10-12 22:00:23] (DEBUG) => application/naver/pickles/news.pickle
+[2022-10-12 22:00:23] (DEBUG) => application/naver/pickles/cafe.pickle
+[2022-10-12 22:00:23] (DEBUG) => application/naver/pickles/kin.pickle
+[2022-10-12 22:00:23] (DEBUG) => application/naver/pickles/academic.pickle
+[2022-10-12 22:00:23] (DEBUG) => application/daum/pickles/base.pickle
+[2022-10-12 22:00:23] (DEBUG) => application/daum/pickles/web.pickle
+[2022-10-12 22:00:23] (DEBUG) => application/daum/pickles/news.pickle
+[2022-10-12 22:00:23] (DEBUG) => application/daum/pickles/blog.pickle
+[2022-10-12 22:00:23] (DEBUG) => application/daum/pickles/cafe.pickle
+[2022-10-12 22:00:23] (DEBUG) => application/baidu/pickles/base.pickle
+[2022-10-12 22:00:23] (DEBUG) => application/baidu/pickles/web.pickle
+[2022-10-12 22:00:23] (DEBUG) => application/baidu/pickles/news.pickle
+[2022-10-12 22:00:23] (DEBUG) => application/baidu/pickles/academic.pickle
+[2022-10-12 22:00:43] (DEBUG) => application/google/pickles/base.pickle
+[2022-10-12 22:00:43] (DEBUG) => application/google/pickles/web.pickle
+[2022-10-12 22:00:43] (DEBUG) => application/google/pickles/news.pickle
+[2022-10-12 22:00:43] (DEBUG) => application/google/pickles/facebook.pickle
+[2022-10-12 22:00:43] (DEBUG) => application/naver/pickles/base.pickle
+[2022-10-12 22:00:43] (DEBUG) => application/naver/pickles/web.pickle
+[2022-10-12 22:00:43] (DEBUG) => application/naver/pickles/blog.pickle
+[2022-10-12 22:00:43] (DEBUG) => application/naver/pickles/news.pickle
+[2022-10-12 22:00:43] (DEBUG) => application/naver/pickles/cafe.pickle
+[2022-10-12 22:00:43] (DEBUG) => application/naver/pickles/kin.pickle
+[2022-10-12 22:00:43] (DEBUG) => application/naver/pickles/academic.pickle
+[2022-10-12 22:00:43] (DEBUG) => application/daum/pickles/base.pickle
+[2022-10-12 22:00:43] (DEBUG) => application/daum/pickles/web.pickle
+[2022-10-12 22:00:43] (DEBUG) => application/daum/pickles/news.pickle
+[2022-10-12 22:00:43] (DEBUG) => application/daum/pickles/blog.pickle
+[2022-10-12 22:00:43] (DEBUG) => application/daum/pickles/cafe.pickle
+[2022-10-12 22:00:43] (DEBUG) => application/baidu/pickles/base.pickle
+[2022-10-12 22:00:43] (DEBUG) => application/baidu/pickles/web.pickle
+[2022-10-12 22:00:43] (DEBUG) => application/baidu/pickles/news.pickle
+[2022-10-12 22:00:43] (DEBUG) => application/baidu/pickles/academic.pickle
+[2022-10-12 22:00:45] (DEBUG) => Started Manager Server From 10.0.0.4:50151
+[2022-10-12 22:00:45] (DEBUG) => [{'idx': 988857, 'k_idx': 1165139, 'k_ip': '10.0.0.4', 'web_data': 'Y', 'blog_data': 'N', 'news_data': '', 'cafe_data': 'N', 'kin_data': '', 'academic_data': '', 'channel': 'naver', 'data_type_names': ['web', 'blog', 'news', 'cafe', 'kin', 'academic']}]
+[2022-10-12 22:00:45] (DEBUG) => Request task-988857 to Assistant Domain: 10.0.0.4:50152
+[2022-10-12 22:00:45] (DEBUG) => 'web'
+[2022-10-12 22:00:45] (DEBUG) => Assistant 서버[10.0.0.4:50152]를 연결할 수 없습니다. (2)
+[2022-10-12 22:00:55] (DEBUG) => [{'idx': 988857, 'k_idx': 1165139, 'k_ip': '10.0.0.4', 'web_data': 'Y', 'blog_data': 'N', 'news_data': '', 'cafe_data': 'N', 'kin_data': '', 'academic_data': '', 'channel': 'naver', 'data_type_names': ['web', 'blog', 'news', 'cafe', 'kin', 'academic']}]
+[2022-10-12 22:00:55] (DEBUG) => Request task-988857 to Assistant Domain: 10.0.0.4:50152
+[2022-10-12 22:00:55] (DEBUG) => 'web'
+[2022-10-12 22:00:55] (DEBUG) => Assistant 서버[10.0.0.4:50152]를 연결할 수 없습니다. (2)
+[2022-10-12 22:01:04] (DEBUG) => <_InactiveRpcError of RPC that terminated with:
+	status = StatusCode.UNAVAILABLE
+	details = "failed to connect to all addresses"
+	debug_error_string = "{"created":"@1665579664.125800716","description":"Failed to pick subchannel","file":"src/core/ext/filters/client_channel/client_channel.cc","file_line":3260,"referenced_errors":[{"created":"@1665579664.125799609","description":"failed to connect to all addresses","file":"src/core/lib/transport/error_utils.cc","file_line":167,"grpc_status":14}]}"
+>
+[2022-10-12 22:01:04] (DEBUG) => Manager 서버에 연결할 수 없습니다.
+[2022-10-12 22:01:04] (DEBUG) => Started Assistant Server From 10.0.0.4:50152
+[2022-10-12 22:01:04] (DEBUG) => Started Manager Server From 10.0.0.4:50151
+[2022-10-12 22:01:05] (DEBUG) => [{'idx': 988857, 'k_idx': 1165139, 'k_ip': '10.0.0.4', 'web_data': 'Y', 'blog_data': 'N', 'news_data': '', 'cafe_data': 'N', 'kin_data': '', 'academic_data': '', 'channel': 'naver', 'data_type_names': ['web', 'blog', 'news', 'cafe', 'kin', 'academic']}]
+[2022-10-12 22:01:05] (DEBUG) => Request task-988857 to Assistant Domain: 10.0.0.4:50152
+[2022-10-12 22:01:05] (DEBUG) => 'web'
+[2022-10-12 22:01:05] (DEBUG) => Assistant 서버[10.0.0.4:50152]를 연결할 수 없습니다. (2)
+[2022-10-12 22:01:15] (DEBUG) => [{'idx': 988857, 'k_idx': 1165139, 'k_ip': '10.0.0.4', 'web_data': 'Y', 'blog_data': 'N', 'news_data': '', 'cafe_data': 'N', 'kin_data': '', 'academic_data': '', 'channel': 'naver', 'data_type_names': ['web', 'blog', 'news', 'cafe', 'kin', 'academic']}]
+[2022-10-12 22:01:15] (DEBUG) => Request task-988857 to Assistant Domain: 10.0.0.4:50152
+[2022-10-12 22:01:15] (DEBUG) => 'web'
+[2022-10-12 22:01:15] (DEBUG) => Assistant 서버[10.0.0.4:50152]를 연결할 수 없습니다. (2)
+[2022-10-12 22:01:25] (DEBUG) => [{'idx': 988857, 'k_idx': 1165139, 'k_ip': '10.0.0.4', 'web_data': 'Y', 'blog_data': 'N', 'news_data': '', 'cafe_data': 'N', 'kin_data': '', 'academic_data': '', 'channel': 'naver', 'data_type_names': ['web', 'blog', 'news', 'cafe', 'kin', 'academic']}]
+[2022-10-12 22:01:25] (DEBUG) => Request task-988857 to Assistant Domain: 10.0.0.4:50152
+[2022-10-12 22:01:25] (DEBUG) => 'web'
+[2022-10-12 22:01:25] (DEBUG) => Assistant 서버[10.0.0.4:50152]를 연결할 수 없습니다. (2)
+[2022-10-12 22:01:31] (DEBUG) => Started Manager Server From 10.0.0.4:50151
+[2022-10-12 22:01:31] (DEBUG) => [{'idx': 988857, 'k_idx': 1165139, 'k_ip': '10.0.0.4', 'web_data': 'Y', 'blog_data': 'N', 'news_data': '', 'cafe_data': 'N', 'kin_data': '', 'academic_data': '', 'channel': 'naver', 'data_type_names': ['web', 'blog', 'news', 'cafe', 'kin', 'academic']}]
+[2022-10-12 22:01:31] (DEBUG) => Request task-988857 to Assistant Domain: 10.0.0.4:50152
+[2022-10-12 22:01:31] (DEBUG) => 'web'
+[2022-10-12 22:01:31] (DEBUG) => Assistant 서버[10.0.0.4:50152]를 연결할 수 없습니다. (2)
+[2022-10-12 22:01:41] (DEBUG) => [{'idx': 988857, 'k_idx': 1165139, 'k_ip': '10.0.0.4', 'web_data': 'Y', 'blog_data': 'N', 'news_data': '', 'cafe_data': 'N', 'kin_data': '', 'academic_data': '', 'channel': 'naver', 'data_type_names': ['web', 'blog', 'news', 'cafe', 'kin', 'academic']}]
+[2022-10-12 22:01:41] (DEBUG) => Request task-988857 to Assistant Domain: 10.0.0.4:50152
+[2022-10-12 22:01:41] (DEBUG) => 'web'
+[2022-10-12 22:01:41] (DEBUG) => Assistant 서버[10.0.0.4:50152]를 연결할 수 없습니다. (2)
+[2022-10-12 22:01:51] (DEBUG) => [{'idx': 988857, 'k_idx': 1165139, 'k_ip': '10.0.0.4', 'web_data': 'Y', 'blog_data': 'N', 'news_data': '', 'cafe_data': 'N', 'kin_data': '', 'academic_data': '', 'channel': 'naver', 'data_type_names': ['web', 'blog', 'news', 'cafe', 'kin', 'academic']}]
+[2022-10-12 22:01:51] (DEBUG) => Request task-988857 to Assistant Domain: 10.0.0.4:50152
+[2022-10-12 22:01:51] (DEBUG) => 'web'
+[2022-10-12 22:01:51] (DEBUG) => Assistant 서버[10.0.0.4:50152]를 연결할 수 없습니다. (2)
+[2022-10-12 22:01:52] (DEBUG) => Started Manager Server From 10.0.0.4:50151
+[2022-10-12 22:01:53] (DEBUG) => Request task-988857 to Assistant Domain: 10.0.0.4:50152
+[2022-10-12 22:01:53] (DEBUG) => 'web'
+[2022-10-12 22:01:53] (DEBUG) => Assistant 서버[10.0.0.4:50152]를 연결할 수 없습니다. (2)
+[2022-10-12 22:02:03] (DEBUG) => Request task-988857 to Assistant Domain: 10.0.0.4:50152
+[2022-10-12 22:02:03] (DEBUG) => 'web'
+[2022-10-12 22:02:03] (DEBUG) => Assistant 서버[10.0.0.4:50152]를 연결할 수 없습니다. (2)
+[2022-10-12 22:02:13] (DEBUG) => Request task-988857 to Assistant Domain: 10.0.0.4:50152
+[2022-10-12 22:02:13] (DEBUG) => 'web'
+[2022-10-12 22:02:13] (DEBUG) => Assistant 서버[10.0.0.4:50152]를 연결할 수 없습니다. (2)
+[2022-10-12 22:02:23] (DEBUG) => Request task-988857 to Assistant Domain: 10.0.0.4:50152
+[2022-10-12 22:02:23] (DEBUG) => 'web'
+[2022-10-12 22:02:23] (DEBUG) => Assistant 서버[10.0.0.4:50152]를 연결할 수 없습니다. (2)
+[2022-10-12 22:02:33] (DEBUG) => Request task-988857 to Assistant Domain: 10.0.0.4:50152
+[2022-10-12 22:02:33] (DEBUG) => 'web'
+[2022-10-12 22:02:33] (DEBUG) => Assistant 서버[10.0.0.4:50152]를 연결할 수 없습니다. (2)
+[2022-10-12 22:02:43] (DEBUG) => Request task-988857 to Assistant Domain: 10.0.0.4:50152
+[2022-10-12 22:02:43] (DEBUG) => 'web'
+[2022-10-12 22:02:43] (DEBUG) => Assistant 서버[10.0.0.4:50152]를 연결할 수 없습니다. (2)
+[2022-10-12 22:02:53] (DEBUG) => Request task-988857 to Assistant Domain: 10.0.0.4:50152
+[2022-10-12 22:02:53] (DEBUG) => 'web'
+[2022-10-12 22:02:53] (DEBUG) => Assistant 서버[10.0.0.4:50152]를 연결할 수 없습니다. (2)
+[2022-10-12 22:03:03] (DEBUG) => Request task-988857 to Assistant Domain: 10.0.0.4:50152
+[2022-10-12 22:03:03] (DEBUG) => 'web'
+[2022-10-12 22:03:03] (DEBUG) => Assistant 서버[10.0.0.4:50152]를 연결할 수 없습니다. (2)
+[2022-10-12 22:03:13] (DEBUG) => Request task-988857 to Assistant Domain: 10.0.0.4:50152
+[2022-10-12 22:03:13] (DEBUG) => 'web'
+[2022-10-12 22:03:13] (DEBUG) => Assistant 서버[10.0.0.4:50152]를 연결할 수 없습니다. (2)
+[2022-10-12 22:03:23] (DEBUG) => Request task-988857 to Assistant Domain: 10.0.0.4:50152
+[2022-10-12 22:03:23] (DEBUG) => 'web'
+[2022-10-12 22:03:23] (DEBUG) => Assistant 서버[10.0.0.4:50152]를 연결할 수 없습니다. (2)
+[2022-10-12 22:03:31] (DEBUG) => application/google/pickles/base.pickle
+[2022-10-12 22:03:31] (DEBUG) => application/google/pickles/web.pickle
+[2022-10-12 22:03:31] (DEBUG) => application/google/pickles/news.pickle
+[2022-10-12 22:03:31] (DEBUG) => application/google/pickles/facebook.pickle
+[2022-10-12 22:03:31] (DEBUG) => application/naver/pickles/base.pickle
+[2022-10-12 22:03:31] (DEBUG) => application/naver/pickles/web.pickle
+[2022-10-12 22:03:31] (DEBUG) => application/naver/pickles/blog.pickle
+[2022-10-12 22:03:31] (DEBUG) => application/naver/pickles/news.pickle
+[2022-10-12 22:03:31] (DEBUG) => application/naver/pickles/cafe.pickle
+[2022-10-12 22:03:31] (DEBUG) => application/naver/pickles/kin.pickle
+[2022-10-12 22:03:31] (DEBUG) => application/naver/pickles/academic.pickle
+[2022-10-12 22:03:31] (DEBUG) => application/daum/pickles/base.pickle
+[2022-10-12 22:03:31] (DEBUG) => application/daum/pickles/web.pickle
+[2022-10-12 22:03:31] (DEBUG) => application/daum/pickles/news.pickle
+[2022-10-12 22:03:31] (DEBUG) => application/daum/pickles/blog.pickle
+[2022-10-12 22:03:31] (DEBUG) => application/daum/pickles/cafe.pickle
+[2022-10-12 22:03:31] (DEBUG) => application/baidu/pickles/base.pickle
+[2022-10-12 22:03:31] (DEBUG) => application/baidu/pickles/web.pickle
+[2022-10-12 22:03:31] (DEBUG) => application/baidu/pickles/news.pickle
+[2022-10-12 22:03:31] (DEBUG) => application/baidu/pickles/academic.pickle
+[2022-10-12 22:03:33] (DEBUG) => Started Manager Server From 10.0.0.4:50151
+[2022-10-12 22:03:33] (DEBUG) => Request task-988857 to Assistant Domain: 10.0.0.4:50152
+[2022-10-12 22:03:33] (DEBUG) => 'web'
+[2022-10-12 22:03:33] (DEBUG) => Assistant 서버[10.0.0.4:50152]를 연결할 수 없습니다. (2)
+[2022-10-12 22:03:43] (DEBUG) => Request task-988857 to Assistant Domain: 10.0.0.4:50152
+[2022-10-12 22:03:43] (DEBUG) => 'web'
+[2022-10-12 22:03:43] (DEBUG) => Assistant 서버[10.0.0.4:50152]를 연결할 수 없습니다. (2)
+[2022-10-12 22:03:53] (DEBUG) => Request task-988857 to Assistant Domain: 10.0.0.4:50152
+[2022-10-12 22:03:53] (DEBUG) => 'web'
+[2022-10-12 22:03:53] (DEBUG) => Assistant 서버[10.0.0.4:50152]를 연결할 수 없습니다. (2)
+[2022-10-12 22:04:03] (DEBUG) => Request task-988857 to Assistant Domain: 10.0.0.4:50152
+[2022-10-12 22:04:03] (DEBUG) => 'web'
+[2022-10-12 22:04:03] (DEBUG) => Assistant 서버[10.0.0.4:50152]를 연결할 수 없습니다. (2)
+[2022-10-12 22:04:13] (DEBUG) => Request task-988857 to Assistant Domain: 10.0.0.4:50152
+[2022-10-12 22:04:13] (DEBUG) => 'web'
+[2022-10-12 22:04:13] (DEBUG) => Assistant 서버[10.0.0.4:50152]를 연결할 수 없습니다. (2)
+[2022-10-12 22:04:24] (DEBUG) => Request task-988857 to Assistant Domain: 10.0.0.4:50152
+[2022-10-12 22:04:24] (DEBUG) => 'web'
+[2022-10-12 22:04:24] (DEBUG) => Assistant 서버[10.0.0.4:50152]를 연결할 수 없습니다. (2)
+[2022-10-12 22:04:34] (DEBUG) => Request task-988857 to Assistant Domain: 10.0.0.4:50152
+[2022-10-12 22:04:34] (DEBUG) => 'web'
+[2022-10-12 22:04:34] (DEBUG) => Assistant 서버[10.0.0.4:50152]를 연결할 수 없습니다. (2)
+[2022-10-12 22:04:44] (DEBUG) => Request task-988857 to Assistant Domain: 10.0.0.4:50152
+[2022-10-12 22:04:44] (DEBUG) => 'web'
+[2022-10-12 22:04:44] (DEBUG) => Assistant 서버[10.0.0.4:50152]를 연결할 수 없습니다. (2)
+[2022-10-12 22:04:54] (DEBUG) => Request task-988857 to Assistant Domain: 10.0.0.4:50152
+[2022-10-12 22:04:54] (DEBUG) => 'web'
+[2022-10-12 22:04:54] (DEBUG) => Assistant 서버[10.0.0.4:50152]를 연결할 수 없습니다. (2)
+[2022-10-12 22:05:05] (DEBUG) => Started Manager Server From 10.0.0.4:50151
+[2022-10-12 22:05:05] (DEBUG) => Request task-988857 to Assistant Domain: 10.0.0.4:50152
+[2022-10-12 22:05:05] (DEBUG) => Assistant 서버[10.0.0.4:50152]를 연결할 수 없습니다. (2)
+[2022-10-12 22:06:09] (DEBUG) => application/google/pickles/base.pickle
+[2022-10-12 22:06:09] (DEBUG) => application/google/pickles/web.pickle
+[2022-10-12 22:06:09] (DEBUG) => application/google/pickles/news.pickle
+[2022-10-12 22:06:09] (DEBUG) => application/google/pickles/facebook.pickle
+[2022-10-12 22:06:09] (DEBUG) => application/naver/pickles/base.pickle
+[2022-10-12 22:06:09] (DEBUG) => application/naver/pickles/web.pickle
+[2022-10-12 22:06:09] (DEBUG) => application/naver/pickles/blog.pickle
+[2022-10-12 22:06:09] (DEBUG) => application/naver/pickles/news.pickle
+[2022-10-12 22:06:09] (DEBUG) => application/naver/pickles/cafe.pickle
+[2022-10-12 22:06:09] (DEBUG) => application/naver/pickles/kin.pickle
+[2022-10-12 22:06:09] (DEBUG) => application/naver/pickles/academic.pickle
+[2022-10-12 22:06:09] (DEBUG) => application/daum/pickles/base.pickle
+[2022-10-12 22:06:09] (DEBUG) => application/daum/pickles/web.pickle
+[2022-10-12 22:06:09] (DEBUG) => application/daum/pickles/news.pickle
+[2022-10-12 22:06:09] (DEBUG) => application/daum/pickles/blog.pickle
+[2022-10-12 22:06:09] (DEBUG) => application/daum/pickles/cafe.pickle
+[2022-10-12 22:06:09] (DEBUG) => application/baidu/pickles/base.pickle
+[2022-10-12 22:06:09] (DEBUG) => application/baidu/pickles/web.pickle
+[2022-10-12 22:06:09] (DEBUG) => application/baidu/pickles/news.pickle
+[2022-10-12 22:06:09] (DEBUG) => application/baidu/pickles/academic.pickle
+[2022-10-12 22:06:10] (DEBUG) => Started Manager Server From 10.0.0.4:50151
+[2022-10-12 22:06:10] (DEBUG) => Request task-988857 to Assistant Domain: 10.0.0.4:50152
+[2022-10-12 22:06:10] (DEBUG) => 'web'
+[2022-10-12 22:06:10] (DEBUG) => Assistant 서버[10.0.0.4:50152]를 연결할 수 없습니다. (2)
+[2022-10-12 22:06:20] (DEBUG) => Request task-988857 to Assistant Domain: 10.0.0.4:50152
+[2022-10-12 22:06:20] (DEBUG) => 'web'
+[2022-10-12 22:06:20] (DEBUG) => Assistant 서버[10.0.0.4:50152]를 연결할 수 없습니다. (2)
+[2022-10-12 22:06:30] (DEBUG) => Request task-988857 to Assistant Domain: 10.0.0.4:50152
+[2022-10-12 22:06:30] (DEBUG) => 'web'
+[2022-10-12 22:06:31] (DEBUG) => Assistant 서버[10.0.0.4:50152]를 연결할 수 없습니다. (2)
+[2022-10-12 22:06:37] (DEBUG) => Started Manager Server From 10.0.0.4:50151
+[2022-10-12 22:06:37] (DEBUG) => Request task-988857 to Assistant Domain: 10.0.0.4:50152
+[2022-10-12 22:06:37] (DEBUG) => {'idx': 988857, 'k_idx': 1165139, 'k_ip': '10.0.0.4', 'web_data': 'Y', 'blog_data': 'N', 'news_data': '', 'cafe_data': 'N', 'kin_data': '', 'academic_data': '', 'channel': 'naver', 'data_type_names': ['web', 'blog', 'news', 'cafe', 'kin', 'academic']}
+[2022-10-12 22:06:37] (DEBUG) => 'web'
+[2022-10-12 22:06:37] (DEBUG) => Assistant 서버[10.0.0.4:50152]를 연결할 수 없습니다. (2)
+[2022-10-12 22:06:48] (DEBUG) => Request task-988857 to Assistant Domain: 10.0.0.4:50152
+[2022-10-12 22:06:48] (DEBUG) => {'idx': 988857, 'k_idx': 1165139, 'k_ip': '10.0.0.4', 'web_data': 'Y', 'blog_data': 'N', 'news_data': '', 'cafe_data': 'N', 'kin_data': '', 'academic_data': '', 'channel': 'naver', 'data_type_names': ['web', 'blog', 'news', 'cafe', 'kin', 'academic']}
+[2022-10-12 22:06:48] (DEBUG) => 'web'
+[2022-10-12 22:06:48] (DEBUG) => Assistant 서버[10.0.0.4:50152]를 연결할 수 없습니다. (2)
+[2022-10-12 22:06:58] (DEBUG) => Request task-988857 to Assistant Domain: 10.0.0.4:50152
+[2022-10-12 22:06:58] (DEBUG) => {'idx': 988857, 'k_idx': 1165139, 'k_ip': '10.0.0.4', 'web_data': 'Y', 'blog_data': 'N', 'news_data': '', 'cafe_data': 'N', 'kin_data': '', 'academic_data': '', 'channel': 'naver', 'data_type_names': ['web', 'blog', 'news', 'cafe', 'kin', 'academic']}
+[2022-10-12 22:06:58] (DEBUG) => 'web'
+[2022-10-12 22:06:58] (DEBUG) => Assistant 서버[10.0.0.4:50152]를 연결할 수 없습니다. (2)
+[2022-10-12 22:07:08] (DEBUG) => Request task-988857 to Assistant Domain: 10.0.0.4:50152
+[2022-10-12 22:07:08] (DEBUG) => {'idx': 988857, 'k_idx': 1165139, 'k_ip': '10.0.0.4', 'web_data': 'Y', 'blog_data': 'N', 'news_data': '', 'cafe_data': 'N', 'kin_data': '', 'academic_data': '', 'channel': 'naver', 'data_type_names': ['web', 'blog', 'news', 'cafe', 'kin', 'academic']}
+[2022-10-12 22:07:08] (DEBUG) => 'web'
+[2022-10-12 22:07:08] (DEBUG) => Assistant 서버[10.0.0.4:50152]를 연결할 수 없습니다. (2)
+[2022-10-12 22:07:10] (DEBUG) => Started Manager Server From 10.0.0.4:50151
+[2022-10-12 22:07:11] (DEBUG) => Request task-988857 to Assistant Domain: 10.0.0.4:50152
+[2022-10-12 22:07:11] (DEBUG) => {'idx': 988857, 'k_idx': 1165139, 'k_ip': '10.0.0.4', 'web_data': 'Y', 'blog_data': 'N', 'news_data': '', 'cafe_data': 'N', 'kin_data': '', 'academic_data': '', 'channel': 'naver', 'data_type_names': ['web', 'blog', 'news', 'cafe', 'kin', 'academic']}
+[2022-10-12 22:07:11] (DEBUG) => af22222222
+[2022-10-12 22:07:11] (DEBUG) => 00000000
+[2022-10-12 22:07:11] (DEBUG) => 111111111
+[2022-10-12 22:07:13] (DEBUG) => Worker-[1000]가 task-[988857]의 'web'(을)를 시작합니다. (Thread: 12921)
+[2022-10-12 22:07:13] (DEBUG) => Worker-[1000]가 task-[988857]의 'web'(을)를 처리중입니다.
+[2022-10-12 22:07:13] (DEBUG) => 수집정보 => 채널: naver, 유형: web, 키워드: 초록매실, 기간: 2021-11-01 ~ 2022-02-28, 테이블: scraw_naver_datainfo
+[2022-10-12 22:10:41] (DEBUG) => application/google/pickles/base.pickle
+[2022-10-12 22:10:41] (DEBUG) => application/google/pickles/web.pickle
+[2022-10-12 22:10:41] (DEBUG) => application/google/pickles/news.pickle
+[2022-10-12 22:10:41] (DEBUG) => application/google/pickles/facebook.pickle
+[2022-10-12 22:10:41] (DEBUG) => application/naver/pickles/base.pickle
+[2022-10-12 22:10:41] (DEBUG) => application/naver/pickles/web.pickle
+[2022-10-12 22:10:41] (DEBUG) => application/naver/pickles/blog.pickle
+[2022-10-12 22:10:41] (DEBUG) => application/naver/pickles/news.pickle
+[2022-10-12 22:10:41] (DEBUG) => application/naver/pickles/cafe.pickle
+[2022-10-12 22:10:41] (DEBUG) => application/naver/pickles/kin.pickle
+[2022-10-12 22:10:41] (DEBUG) => application/naver/pickles/academic.pickle
+[2022-10-12 22:10:41] (DEBUG) => application/daum/pickles/base.pickle
+[2022-10-12 22:10:41] (DEBUG) => application/daum/pickles/web.pickle
+[2022-10-12 22:10:41] (DEBUG) => application/daum/pickles/news.pickle
+[2022-10-12 22:10:41] (DEBUG) => application/daum/pickles/blog.pickle
+[2022-10-12 22:10:41] (DEBUG) => application/daum/pickles/cafe.pickle
+[2022-10-12 22:10:41] (DEBUG) => application/baidu/pickles/base.pickle
+[2022-10-12 22:10:41] (DEBUG) => application/baidu/pickles/web.pickle
+[2022-10-12 22:10:41] (DEBUG) => application/baidu/pickles/news.pickle
+[2022-10-12 22:10:41] (DEBUG) => application/baidu/pickles/academic.pickle
+[2022-10-12 22:10:43] (DEBUG) => Started Manager Server From 10.0.0.4:50151
+[2022-10-12 22:10:45] (DEBUG) => Manager로부터 받은 echo 메시지: 50152
+[2022-10-12 22:10:45] (DEBUG) => Started Assistant Server From 10.0.0.4:50152
+[2022-10-12 22:10:49] (DEBUG) => <_InactiveRpcError of RPC that terminated with:
+	status = StatusCode.UNAVAILABLE
+	details = "failed to connect to all addresses"
+	debug_error_string = "{"created":"@1665580249.068239519","description":"Failed to pick subchannel","file":"src/core/ext/filters/client_channel/client_channel.cc","file_line":3260,"referenced_errors":[{"created":"@1665580249.068238394","description":"failed to connect to all addresses","file":"src/core/lib/transport/error_utils.cc","file_line":167,"grpc_status":14}]}"
+>
+[2022-10-12 22:10:49] (DEBUG) => Manager 서버에 연결할 수 없습니다.
+[2022-10-12 22:10:49] (DEBUG) => Started Assistant Server From 10.0.0.4:50152
+[2022-10-12 22:10:50] (DEBUG) => Started Manager Server From 10.0.0.4:50151
+[2022-10-12 22:10:55] (DEBUG) => Request task-988857 to Assistant Domain: 10.0.0.4:50152
+[2022-10-12 22:10:55] (DEBUG) => {'idx': 988857, 'k_idx': 1165139, 'k_ip': '10.0.0.4', 'web_data': 'Y', 'blog_data': 'N', 'news_data': '', 'cafe_data': 'N', 'kin_data': '', 'academic_data': '', 'channel': 'naver', 'data_type_names': ['web', 'blog', 'news', 'cafe', 'kin', 'academic']}
+[2022-10-12 22:10:58] (DEBUG) => Worker-[1000]가 task-[988857]의 'web'(을)를 시작합니다. (Thread: 13282)
+[2022-10-12 22:10:58] (DEBUG) => Worker-[1000]가 task-[988857]의 'web'(을)를 처리중입니다.
+[2022-10-12 22:10:58] (DEBUG) => 수집정보 => 채널: naver, 유형: web, 키워드: 초록매실, 기간: 2021-11-01 ~ 2022-02-28, 테이블: scraw_naver_datainfo
+[2022-10-12 22:14:08] (DEBUG) => <_InactiveRpcError of RPC that terminated with:
+	status = StatusCode.UNAVAILABLE
+	details = "failed to connect to all addresses"
+	debug_error_string = "{"created":"@1665580448.590953525","description":"Failed to pick subchannel","file":"src/core/ext/filters/client_channel/client_channel.cc","file_line":3260,"referenced_errors":[{"created":"@1665580448.590952434","description":"failed to connect to all addresses","file":"src/core/lib/transport/error_utils.cc","file_line":167,"grpc_status":14}]}"
+>
+[2022-10-12 22:14:08] (DEBUG) => Manager 서버에 연결할 수 없습니다.
+[2022-10-12 22:14:08] (DEBUG) => Started Assistant Server From 10.0.0.4:50152
+[2022-10-12 22:14:08] (DEBUG) => Started Manager Server From 10.0.0.4:50151
+[2022-10-12 22:14:13] (DEBUG) => <_InactiveRpcError of RPC that terminated with:
+	status = StatusCode.UNAVAILABLE
+	details = "failed to connect to all addresses"
+	debug_error_string = "{"created":"@1665580453.915503369","description":"Failed to pick subchannel","file":"src/core/ext/filters/client_channel/client_channel.cc","file_line":3260,"referenced_errors":[{"created":"@1665580453.915502216","description":"failed to connect to all addresses","file":"src/core/lib/transport/error_utils.cc","file_line":167,"grpc_status":14}]}"
+>
+[2022-10-12 22:14:13] (DEBUG) => Manager 서버에 연결할 수 없습니다.
+[2022-10-12 22:14:13] (DEBUG) => Started Assistant Server From 10.0.0.4:50152
+[2022-10-12 22:14:14] (DEBUG) => Started Manager Server From 10.0.0.4:50151
+[2022-10-12 22:14:28] (DEBUG) => <_InactiveRpcError of RPC that terminated with:
+	status = StatusCode.UNAVAILABLE
+	details = "failed to connect to all addresses"
+	debug_error_string = "{"created":"@1665580468.185210848","description":"Failed to pick subchannel","file":"src/core/ext/filters/client_channel/client_channel.cc","file_line":3260,"referenced_errors":[{"created":"@1665580468.185209754","description":"failed to connect to all addresses","file":"src/core/lib/transport/error_utils.cc","file_line":167,"grpc_status":14}]}"
+>
+[2022-10-12 22:14:28] (DEBUG) => Manager 서버에 연결할 수 없습니다.
+[2022-10-12 22:14:28] (DEBUG) => Started Assistant Server From 10.0.0.4:50152
+[2022-10-12 22:14:28] (DEBUG) => Started Manager Server From 10.0.0.4:50151
+[2022-10-12 22:14:33] (DEBUG) => Request task-988857 to Assistant Domain: 10.0.0.4:50152
+[2022-10-12 22:14:33] (DEBUG) => {'idx': 988857, 'k_idx': 1165139, 'k_ip': '10.0.0.4', 'web_data': 'Y', 'blog_data': 'N', 'news_data': '', 'cafe_data': 'N', 'kin_data': '', 'academic_data': '', 'channel': 'naver', 'data_type_names': ['web', 'blog', 'news', 'cafe', 'kin', 'academic']}
+[2022-10-12 22:14:34] (DEBUG) => Worker-[1000]가 task-[988857]의 'web'(을)를 시작합니다. (Thread: 13798)
+[2022-10-12 22:14:34] (DEBUG) => Worker-[1000]가 task-[988857]의 'web'(을)를 처리중입니다.
+[2022-10-12 22:14:34] (DEBUG) => 수집정보 => 채널: naver, 유형: web, 키워드: 초록매실, 기간: 2021-11-01 ~ 2022-02-28, 테이블: scraw_naver_datainfo
+[2022-10-12 22:16:06] (DEBUG) => <_InactiveRpcError of RPC that terminated with:
+	status = StatusCode.UNAVAILABLE
+	details = "failed to connect to all addresses"
+	debug_error_string = "{"created":"@1665580566.452607053","description":"Failed to pick subchannel","file":"src/core/ext/filters/client_channel/client_channel.cc","file_line":3260,"referenced_errors":[{"created":"@1665580566.452605965","description":"failed to connect to all addresses","file":"src/core/lib/transport/error_utils.cc","file_line":167,"grpc_status":14}]}"
+>
+[2022-10-12 22:16:06] (DEBUG) => Manager 서버에 연결할 수 없습니다.
+[2022-10-12 22:16:06] (DEBUG) => Started Assistant Server From 10.0.0.4:50152
+[2022-10-12 22:16:06] (DEBUG) => Started Manager Server From 10.0.0.4:50151
+[2022-10-12 22:16:12] (DEBUG) => Request task-988857 to Assistant Domain: 10.0.0.4:50152
+[2022-10-12 22:16:12] (DEBUG) => {'idx': 988857, 'k_idx': 1165139, 'k_ip': '10.0.0.4', 'web_data': 'Y', 'blog_data': 'N', 'news_data': '', 'cafe_data': 'N', 'kin_data': '', 'academic_data': '', 'channel': 'naver', 'data_type_names': ['web', 'blog', 'news', 'cafe', 'kin', 'academic']}
+[2022-10-12 22:16:12] (DEBUG) => Worker-[1000]가 task-[988857]의 'web'(을)를 시작합니다. (Thread: 14056)
+[2022-10-12 22:16:12] (DEBUG) => Worker-[1000]가 task-[988857]의 'web'(을)를 처리중입니다.
+[2022-10-12 22:16:12] (DEBUG) => 수집정보 => 채널: naver, 유형: web, 키워드: 초록매실, 기간: 2021-11-01 ~ 2022-02-28, 테이블: scraw_naver_datainfo
+[2022-10-12 22:19:35] (DEBUG) => Started Manager Server From 10.0.0.4:50151
+[2022-10-12 22:19:40] (DEBUG) => Assistant 서버[10.0.0.4:50152]를 연결할 수 없습니다. (1)
+[2022-10-12 22:19:51] (DEBUG) => application/google/pickles/base.pickle
+[2022-10-12 22:19:51] (DEBUG) => application/google/pickles/web.pickle
+[2022-10-12 22:19:51] (DEBUG) => application/google/pickles/news.pickle
+[2022-10-12 22:19:51] (DEBUG) => application/google/pickles/facebook.pickle
+[2022-10-12 22:19:51] (DEBUG) => application/naver/pickles/base.pickle
+[2022-10-12 22:19:51] (DEBUG) => application/naver/pickles/web.pickle
+[2022-10-12 22:19:51] (DEBUG) => application/naver/pickles/blog.pickle
+[2022-10-12 22:19:51] (DEBUG) => application/naver/pickles/news.pickle
+[2022-10-12 22:19:51] (DEBUG) => application/naver/pickles/cafe.pickle
+[2022-10-12 22:19:51] (DEBUG) => application/naver/pickles/kin.pickle
+[2022-10-12 22:19:51] (DEBUG) => application/naver/pickles/academic.pickle
+[2022-10-12 22:19:51] (DEBUG) => application/daum/pickles/base.pickle
+[2022-10-12 22:19:51] (DEBUG) => application/daum/pickles/web.pickle
+[2022-10-12 22:19:51] (DEBUG) => application/daum/pickles/news.pickle
+[2022-10-12 22:19:51] (DEBUG) => application/daum/pickles/blog.pickle
+[2022-10-12 22:19:51] (DEBUG) => application/daum/pickles/cafe.pickle
+[2022-10-12 22:19:51] (DEBUG) => application/baidu/pickles/base.pickle
+[2022-10-12 22:19:51] (DEBUG) => application/baidu/pickles/web.pickle
+[2022-10-12 22:19:51] (DEBUG) => application/baidu/pickles/news.pickle
+[2022-10-12 22:19:51] (DEBUG) => application/baidu/pickles/academic.pickle
+[2022-10-12 22:19:53] (DEBUG) => <_InactiveRpcError of RPC that terminated with:
+	status = StatusCode.UNAVAILABLE
+	details = "failed to connect to all addresses"
+	debug_error_string = "{"created":"@1665580793.080272894","description":"Failed to pick subchannel","file":"src/core/ext/filters/client_channel/client_channel.cc","file_line":3260,"referenced_errors":[{"created":"@1665580793.080271712","description":"failed to connect to all addresses","file":"src/core/lib/transport/error_utils.cc","file_line":167,"grpc_status":14}]}"
+>
+[2022-10-12 22:19:53] (DEBUG) => Manager 서버에 연결할 수 없습니다.
+[2022-10-12 22:19:53] (DEBUG) => Started Assistant Server From 10.0.0.4:50152
+[2022-10-12 22:19:54] (DEBUG) => Started Manager Server From 10.0.0.4:50151
+[2022-10-12 22:19:54] (DEBUG) => Request task-988857 to Assistant Domain: 10.0.0.4:50152
+[2022-10-12 22:19:54] (DEBUG) => {'idx': 988857, 'k_idx': 1165139, 'k_ip': '10.0.0.4', 'web_data': 'Y', 'blog_data': 'N', 'news_data': '', 'cafe_data': 'N', 'kin_data': '', 'academic_data': '', 'channel': 'naver', 'data_type_names': ['web', 'blog', 'news', 'cafe', 'kin', 'academic']}
+[2022-10-12 22:19:56] (DEBUG) => Worker-[1000]가 task-[988857]의 'web'(을)를 시작합니다. (Thread: 14771)
+[2022-10-12 22:19:56] (DEBUG) => Worker-[1000]가 task-[988857]의 'web'(을)를 처리중입니다.
+[2022-10-12 22:19:56] (DEBUG) => 수집정보 => 채널: naver, 유형: web, 키워드: 초록매실, 기간: 2021-11-01 ~ 2022-02-28, 테이블: scraw_naver_datainfo
+[2022-10-12 22:20:56] (DEBUG) => <_InactiveRpcError of RPC that terminated with:
+	status = StatusCode.UNAVAILABLE
+	details = "failed to connect to all addresses"
+	debug_error_string = "{"created":"@1665580856.637811293","description":"Failed to pick subchannel","file":"src/core/ext/filters/client_channel/client_channel.cc","file_line":3260,"referenced_errors":[{"created":"@1665580856.637809875","description":"failed to connect to all addresses","file":"src/core/lib/transport/error_utils.cc","file_line":167,"grpc_status":14}]}"
+>
+[2022-10-12 22:20:56] (DEBUG) => Manager 서버에 연결할 수 없습니다.
+[2022-10-12 22:20:56] (DEBUG) => Started Assistant Server From 10.0.0.4:50152
+[2022-10-12 22:20:56] (DEBUG) => Started Manager Server From 10.0.0.4:50151
+[2022-10-12 22:21:07] (DEBUG) => Request task-988857 to Assistant Domain: 10.0.0.4:50152
+[2022-10-12 22:21:07] (DEBUG) => {'idx': 988857, 'k_idx': 1165139, 'k_ip': '10.0.0.4', 'web_data': 'Y', 'blog_data': 'N', 'news_data': '', 'cafe_data': 'N', 'kin_data': '', 'academic_data': '', 'channel': 'naver', 'data_type_names': ['web', 'blog', 'news', 'cafe', 'kin', 'academic']}
+[2022-10-12 22:21:08] (DEBUG) => Worker-[1000]가 task-[988857]의 'web'(을)를 시작합니다. (Thread: 15255)
+[2022-10-12 22:21:08] (DEBUG) => Worker-[1000]가 task-[988857]의 'web'(을)를 처리중입니다.
+[2022-10-12 22:21:08] (DEBUG) => 수집정보 => 채널: naver, 유형: web, 키워드: 초록매실, 기간: 2021-11-01 ~ 2022-02-28, 테이블: scraw_naver_datainfo
+[2022-10-12 22:21:17] (DEBUG) => task-[988857] 수집 중 => 키워드: 초록매실, 기간: 20211101 ~ 20220228, 카운트: 11, 
+[2022-10-12 22:21:20] (DEBUG) => task-[988857] 수집 중 => 키워드: 초록매실, 기간: 20211101 ~ 20220228, 카운트: 21, 
+[2022-10-12 22:21:23] (DEBUG) => task-[988857] 수집 중 => 키워드: 초록매실, 기간: 20211101 ~ 20220228, 카운트: 31, 
+[2022-10-12 22:21:26] (DEBUG) => task-[988857] 수집 중 => 키워드: 초록매실, 기간: 20211101 ~ 20220228, 카운트: 41, 
+[2022-10-12 22:21:29] (DEBUG) => task-[988857] 수집 중 => 키워드: 초록매실, 기간: 20211101 ~ 20220228, 카운트: 51, 
+[2022-10-12 22:21:32] (DEBUG) => task-[988857] 수집 중 => 키워드: 초록매실, 기간: 20211101 ~ 20220228, 카운트: 61, 
+[2022-10-12 22:21:35] (DEBUG) => task-[988857] 수집 중 => 키워드: 초록매실, 기간: 20211101 ~ 20220228, 카운트: 71, 
+[2022-10-12 22:21:38] (DEBUG) => task-[988857] 수집 중 => 키워드: 초록매실, 기간: 20211101 ~ 20220228, 카운트: 81, 
+[2022-10-12 22:21:41] (DEBUG) => task-[988857] 수집 중 => 키워드: 초록매실, 기간: 20211101 ~ 20220228, 카운트: 91, 
+[2022-10-12 22:21:50] (DEBUG) => Manager로부터 받은 echo 메시지: 50152
+[2022-10-12 22:21:50] (DEBUG) => Started Assistant Server From 10.0.0.4:50152
+[2022-10-12 22:21:52] (DEBUG) => Request task-988857 to Assistant Domain: 10.0.0.4:50152
+[2022-10-12 22:21:52] (DEBUG) => {'idx': 988857, 'k_idx': 1165139, 'k_ip': '10.0.0.4', 'web_data': 'Y', 'blog_data': 'N', 'news_data': '', 'cafe_data': 'N', 'kin_data': '', 'academic_data': '', 'channel': 'naver', 'data_type_names': ['web', 'blog', 'news', 'cafe', 'kin', 'academic']}
+[2022-10-12 22:21:53] (DEBUG) => Worker-[1000]가 task-[988857]의 'web'(을)를 시작합니다. (Thread: 15799)
+[2022-10-12 22:21:53] (DEBUG) => Worker-[1000]가 task-[988857]의 'web'(을)를 처리중입니다.
+[2022-10-12 22:21:53] (DEBUG) => 수집정보 => 채널: naver, 유형: web, 키워드: 초록매실, 기간: 2021-11-01 ~ 2022-02-28, 테이블: scraw_naver_datainfo
+[2022-10-12 22:22:02] (DEBUG) => task-[988857] 수집 중 => 키워드: 초록매실, 기간: 20211101 ~ 20220228, 카운트: 11, 
+[2022-10-12 22:22:05] (DEBUG) => task-[988857] 수집 중 => 키워드: 초록매실, 기간: 20211101 ~ 20220228, 카운트: 21, 
+[2022-10-12 22:22:08] (DEBUG) => task-[988857] 수집 중 => 키워드: 초록매실, 기간: 20211101 ~ 20220228, 카운트: 31, 
+[2022-10-12 22:22:11] (DEBUG) => task-[988857] 수집 중 => 키워드: 초록매실, 기간: 20211101 ~ 20220228, 카운트: 41, 
+[2022-10-12 22:22:14] (DEBUG) => task-[988857] 수집 중 => 키워드: 초록매실, 기간: 20211101 ~ 20220228, 카운트: 51, 
+[2022-10-12 22:22:17] (DEBUG) => task-[988857] 수집 중 => 키워드: 초록매실, 기간: 20211101 ~ 20220228, 카운트: 61, 
+[2022-10-12 22:22:24] (DEBUG) => <_InactiveRpcError of RPC that terminated with:
+	status = StatusCode.UNAVAILABLE
+	details = "failed to connect to all addresses"
+	debug_error_string = "{"created":"@1665580944.205293806","description":"Failed to pick subchannel","file":"src/core/ext/filters/client_channel/client_channel.cc","file_line":3260,"referenced_errors":[{"created":"@1665580944.205292660","description":"failed to connect to all addresses","file":"src/core/lib/transport/error_utils.cc","file_line":167,"grpc_status":14}]}"
+>
+[2022-10-12 22:22:24] (DEBUG) => Manager 서버에 연결할 수 없습니다.
+[2022-10-12 22:22:24] (DEBUG) => Started Assistant Server From 10.0.0.4:50152
+[2022-10-12 22:22:39] (DEBUG) => Started Manager Server From 10.0.0.4:50151
+[2022-10-12 22:22:39] (DEBUG) => Request task-988857 to Assistant Domain: 10.0.0.4:50152
+[2022-10-12 22:22:39] (DEBUG) => {'idx': 988857, 'k_idx': 1165139, 'k_ip': '10.0.0.4', 'web_data': 'Y', 'blog_data': 'N', 'news_data': '', 'cafe_data': 'N', 'kin_data': '', 'academic_data': '', 'channel': 'naver', 'data_type_names': ['web', 'blog', 'news', 'cafe', 'kin', 'academic']}
+[2022-10-12 22:22:42] (DEBUG) => Worker-[1000]가 task-[988857]의 'web'(을)를 시작합니다. (Thread: 16425)
+[2022-10-12 22:22:42] (DEBUG) => Worker-[1000]가 task-[988857]의 'web'(을)를 처리중입니다.
+[2022-10-12 22:22:42] (DEBUG) => 수집정보 => 채널: naver, 유형: web, 키워드: 초록매실, 기간: 2021-11-01 ~ 2022-02-28, 테이블: scraw_naver_datainfo
+[2022-10-12 22:22:51] (DEBUG) => task-[988857] 수집 중qwdqwd => 키워드: 초록매실, 기간: 20211101 ~ 20220228, 카운트: 11, 
+[2022-10-12 22:22:54] (DEBUG) => task-[988857] 수집 중qwdqwd => 키워드: 초록매실, 기간: 20211101 ~ 20220228, 카운트: 21, 
+[2022-10-12 22:22:55] (DEBUG) => application/google/pickles/base.pickle
+[2022-10-12 22:22:55] (DEBUG) => application/google/pickles/web.pickle
+[2022-10-12 22:22:55] (DEBUG) => application/google/pickles/news.pickle
+[2022-10-12 22:22:55] (DEBUG) => application/google/pickles/facebook.pickle
+[2022-10-12 22:22:55] (DEBUG) => application/naver/pickles/base.pickle
+[2022-10-12 22:22:55] (DEBUG) => application/naver/pickles/web.pickle
+[2022-10-12 22:22:55] (DEBUG) => application/naver/pickles/blog.pickle
+[2022-10-12 22:22:55] (DEBUG) => application/naver/pickles/news.pickle
+[2022-10-12 22:22:55] (DEBUG) => application/naver/pickles/cafe.pickle
+[2022-10-12 22:22:55] (DEBUG) => application/naver/pickles/kin.pickle
+[2022-10-12 22:22:55] (DEBUG) => application/naver/pickles/academic.pickle
+[2022-10-12 22:22:55] (DEBUG) => application/daum/pickles/base.pickle
+[2022-10-12 22:22:55] (DEBUG) => application/daum/pickles/web.pickle
+[2022-10-12 22:22:55] (DEBUG) => application/daum/pickles/news.pickle
+[2022-10-12 22:22:55] (DEBUG) => application/daum/pickles/blog.pickle
+[2022-10-12 22:22:55] (DEBUG) => application/daum/pickles/cafe.pickle
+[2022-10-12 22:22:55] (DEBUG) => application/baidu/pickles/base.pickle
+[2022-10-12 22:22:55] (DEBUG) => application/baidu/pickles/web.pickle
+[2022-10-12 22:22:55] (DEBUG) => application/baidu/pickles/news.pickle
+[2022-10-12 22:22:55] (DEBUG) => application/baidu/pickles/academic.pickle
+[2022-10-12 22:22:57] (DEBUG) => task-[988857] 수집 중qwdqwd => 키워드: 초록매실, 기간: 20211101 ~ 20220228, 카운트: 31, 
+[2022-10-12 22:23:00] (DEBUG) => task-[988857] 수집 중qwdqwd => 키워드: 초록매실, 기간: 20211101 ~ 20220228, 카운트: 41, 
+[2022-10-12 22:23:03] (DEBUG) => task-[988857] 수집 중qwdqwd => 키워드: 초록매실, 기간: 20211101 ~ 20220228, 카운트: 51, 
+[2022-10-12 22:23:06] (DEBUG) => task-[988857] 수집 중qwdqwd => 키워드: 초록매실, 기간: 20211101 ~ 20220228, 카운트: 61, 
+[2022-10-12 22:23:09] (DEBUG) => task-[988857] 수집 중qwdqwd => 키워드: 초록매실, 기간: 20211101 ~ 20220228, 카운트: 71, 
+[2022-10-12 22:23:12] (DEBUG) => task-[988857] 수집 중qwdqwd => 키워드: 초록매실, 기간: 20211101 ~ 20220228, 카운트: 81, 
+[2022-10-12 22:23:14] (DEBUG) => task-[988857] 수집 중qwdqwd => 키워드: 초록매실, 기간: 20211101 ~ 20220228, 카운트: 91, 
+[2022-10-12 22:23:17] (DEBUG) => task-[988857] 수집 중qwdqwd => 키워드: 초록매실, 기간: 20211101 ~ 20220228, 카운트: 101, 
+[2022-10-12 22:23:20] (DEBUG) => task-[988857] 수집 중qwdqwd => 키워드: 초록매실, 기간: 20211101 ~ 20220228, 카운트: 111, 
+[2022-10-12 22:23:23] (DEBUG) => task-[988857] 수집 중qwdqwd => 키워드: 초록매실, 기간: 20211101 ~ 20220228, 카운트: 121, 
+[2022-10-12 22:23:25] (DEBUG) => task-[988857] 수집 중qwdqwd => 키워드: 초록매실, 기간: 20211101 ~ 20220228, 카운트: 131, 
+[2022-10-12 22:23:28] (DEBUG) => task-[988857] 수집 중qwdqwd => 키워드: 초록매실, 기간: 20211101 ~ 20220228, 카운트: 141, 
+[2022-10-12 22:23:31] (DEBUG) => task-[988857] 수집 중qwdqwd => 키워드: 초록매실, 기간: 20211101 ~ 20220228, 카운트: 151, 
+[2022-10-12 22:23:33] (DEBUG) => task-[988857] 수집 중qwdqwd => 키워드: 초록매실, 기간: 20211101 ~ 20220228, 카운트: 161, 
+[2022-10-12 22:23:36] (DEBUG) => task-[988857] 수집 중qwdqwd => 키워드: 초록매실, 기간: 20211101 ~ 20220228, 카운트: 171, 
+[2022-10-12 22:23:38] (DEBUG) => task-[988857] 수집 중qwdqwd => 키워드: 초록매실, 기간: 20211101 ~ 20220228, 카운트: 181, 
+[2022-10-12 22:23:41] (DEBUG) => task-[988857] 수집 중qwdqwd => 키워드: 초록매실, 기간: 20211101 ~ 20220228, 카운트: 191, 
+[2022-10-12 22:23:43] (DEBUG) => task-[988857] 수집 중qwdqwd => 키워드: 초록매실, 기간: 20211101 ~ 20220228, 카운트: 201, 
+[2022-10-12 22:23:46] (DEBUG) => task-[988857] 수집 중qwdqwd => 키워드: 초록매실, 기간: 20211101 ~ 20220228, 카운트: 211, 
+[2022-10-12 22:23:49] (DEBUG) => task-[988857] 수집 중qwdqwd => 키워드: 초록매실, 기간: 20211101 ~ 20220228, 카운트: 221, 
+[2022-10-12 22:23:51] (DEBUG) => task-[988857] 수집 중qwdqwd => 키워드: 초록매실, 기간: 20211101 ~ 20220228, 카운트: 231, 
+[2022-10-12 22:23:54] (DEBUG) => task-[988857] 수집 중qwdqwd => 키워드: 초록매실, 기간: 20211101 ~ 20220228, 카운트: 241, 
+[2022-10-12 22:23:56] (DEBUG) => task-[988857] 수집 중qwdqwd => 키워드: 초록매실, 기간: 20211101 ~ 20220228, 카운트: 251, 
+[2022-10-12 22:23:59] (DEBUG) => task-[988857] 수집 중qwdqwd => 키워드: 초록매실, 기간: 20211101 ~ 20220228, 카운트: 261, 
+[2022-10-12 22:24:01] (DEBUG) => task-[988857] 수집 중qwdqwd => 키워드: 초록매실, 기간: 20211101 ~ 20220228, 카운트: 271, 
+[2022-10-12 22:24:04] (DEBUG) => task-[988857] 수집 중qwdqwd => 키워드: 초록매실, 기간: 20211101 ~ 20220228, 카운트: 281, 
+[2022-10-12 22:24:06] (DEBUG) => task-[988857] 수집 중qwdqwd => 키워드: 초록매실, 기간: 20211101 ~ 20220228, 카운트: 291, 
+[2022-10-12 22:24:09] (DEBUG) => task-[988857] 수집 중qwdqwd => 키워드: 초록매실, 기간: 20211101 ~ 20220228, 카운트: 301, 
+[2022-10-12 22:24:11] (DEBUG) => task-[988857] 수집 중qwdqwd => 키워드: 초록매실, 기간: 20211101 ~ 20220228, 카운트: 311, 
+[2022-10-12 22:24:14] (DEBUG) => task-[988857] 수집 중qwdqwd => 키워드: 초록매실, 기간: 20211101 ~ 20220228, 카운트: 321, 
+[2022-10-12 22:24:17] (DEBUG) => task-[988857] 수집 중qwdqwd => 키워드: 초록매실, 기간: 20211101 ~ 20220228, 카운트: 331, 
+[2022-10-12 22:24:19] (DEBUG) => task-[988857] 수집 중qwdqwd => 키워드: 초록매실, 기간: 20211101 ~ 20220228, 카운트: 341, 
+[2022-10-12 22:24:22] (DEBUG) => task-[988857] 수집 중qwdqwd => 키워드: 초록매실, 기간: 20211101 ~ 20220228, 카운트: 351, 
+[2022-10-12 22:24:24] (DEBUG) => task-[988857] 수집 중qwdqwd => 키워드: 초록매실, 기간: 20211101 ~ 20220228, 카운트: 361, 
+[2022-10-12 22:24:27] (DEBUG) => task-[988857] 수집 중qwdqwd => 키워드: 초록매실, 기간: 20211101 ~ 20220228, 카운트: 371, 
+[2022-10-12 22:24:29] (DEBUG) => task-[988857] 수집 중qwdqwd => 키워드: 초록매실, 기간: 20211101 ~ 20220228, 카운트: 381, 
+[2022-10-12 22:24:32] (DEBUG) => task-[988857] 수집 중qwdqwd => 키워드: 초록매실, 기간: 20211101 ~ 20220228, 카운트: 391, 
+[2022-10-12 22:24:34] (DEBUG) => task-[988857] 수집 중qwdqwd => 키워드: 초록매실, 기간: 20211101 ~ 20220228, 카운트: 401, 
+[2022-10-12 22:24:37] (DEBUG) => task-[988857] 수집 중qwdqwd => 키워드: 초록매실, 기간: 20211101 ~ 20220228, 카운트: 411, 
+[2022-10-12 22:24:40] (DEBUG) => task-[988857] 수집 중qwdqwd => 키워드: 초록매실, 기간: 20211101 ~ 20220228, 카운트: 421, 
+[2022-10-12 22:24:42] (DEBUG) => task-[988857] 수집 중qwdqwd => 키워드: 초록매실, 기간: 20211101 ~ 20220228, 카운트: 431, 
+[2022-10-12 22:24:45] (DEBUG) => task-[988857] 수집 중qwdqwd => 키워드: 초록매실, 기간: 20211101 ~ 20220228, 카운트: 441, 
+[2022-10-12 22:24:47] (DEBUG) => task-[988857] 수집 중qwdqwd => 키워드: 초록매실, 기간: 20211101 ~ 20220228, 카운트: 451, 
+[2022-10-12 22:24:50] (DEBUG) => task-[988857] 수집 중qwdqwd => 키워드: 초록매실, 기간: 20211101 ~ 20220228, 카운트: 461, 
+[2022-10-12 22:24:52] (DEBUG) => task-[988857] 수집 중qwdqwd => 키워드: 초록매실, 기간: 20211101 ~ 20220228, 카운트: 471, 
+[2022-10-12 22:24:55] (DEBUG) => task-[988857] 수집 중qwdqwd => 키워드: 초록매실, 기간: 20211101 ~ 20220228, 카운트: 481, 
+[2022-10-12 22:24:57] (DEBUG) => task-[988857] 수집 중qwdqwd => 키워드: 초록매실, 기간: 20211101 ~ 20220228, 카운트: 491, 
+[2022-10-12 22:25:00] (DEBUG) => task-[988857] 수집 중qwdqwd => 키워드: 초록매실, 기간: 20211101 ~ 20220228, 카운트: 501, 
+[2022-10-12 22:25:02] (DEBUG) => task-[988857] 수집 중qwdqwd => 키워드: 초록매실, 기간: 20211101 ~ 20220228, 카운트: 511, 
+[2022-10-12 22:25:05] (DEBUG) => task-[988857] 수집 중qwdqwd => 키워드: 초록매실, 기간: 20211101 ~ 20220228, 카운트: 521, 
+[2022-10-12 22:25:08] (DEBUG) => task-[988857] 수집 중qwdqwd => 키워드: 초록매실, 기간: 20211101 ~ 20220228, 카운트: 531, 
+[2022-10-12 22:25:10] (DEBUG) => task-[988857] 수집 중qwdqwd => 키워드: 초록매실, 기간: 20211101 ~ 20220228, 카운트: 541, 
+[2022-10-12 22:25:13] (DEBUG) => task-[988857] 수집 중qwdqwd => 키워드: 초록매실, 기간: 20211101 ~ 20220228, 카운트: 551, 
+[2022-10-12 22:25:15] (DEBUG) => task-[988857] 수집 중qwdqwd => 키워드: 초록매실, 기간: 20211101 ~ 20220228, 카운트: 561, 
+[2022-10-12 22:25:18] (DEBUG) => task-[988857] 수집 중qwdqwd => 키워드: 초록매실, 기간: 20211101 ~ 20220228, 카운트: 571, 
+[2022-10-12 22:25:20] (DEBUG) => task-[988857] 수집 중qwdqwd => 키워드: 초록매실, 기간: 20211101 ~ 20220228, 카운트: 581, 
+[2022-10-12 22:25:23] (DEBUG) => task-[988857] 수집 중qwdqwd => 키워드: 초록매실, 기간: 20211101 ~ 20220228, 카운트: 591, 
+[2022-10-12 22:25:25] (DEBUG) => task-[988857] 수집 중qwdqwd => 키워드: 초록매실, 기간: 20211101 ~ 20220228, 카운트: 601, 
+[2022-10-12 22:25:28] (DEBUG) => task-[988857] 수집 중qwdqwd => 키워드: 초록매실, 기간: 20211101 ~ 20220228, 카운트: 611, 
+[2022-10-12 22:25:30] (DEBUG) => task-[988857] 수집 중qwdqwd => 키워드: 초록매실, 기간: 20211101 ~ 20220228, 카운트: 621, 
+[2022-10-12 22:25:33] (DEBUG) => task-[988857] 수집 중qwdqwd => 키워드: 초록매실, 기간: 20211101 ~ 20220228, 카운트: 631, 
+[2022-10-12 22:25:36] (DEBUG) => task-[988857] 수집 중qwdqwd => 키워드: 초록매실, 기간: 20211101 ~ 20220228, 카운트: 641, 
+[2022-10-12 22:25:38] (DEBUG) => task-[988857] 수집 중qwdqwd => 키워드: 초록매실, 기간: 20211101 ~ 20220228, 카운트: 651, 
+[2022-10-12 22:25:41] (DEBUG) => task-[988857] 수집 중qwdqwd => 키워드: 초록매실, 기간: 20211101 ~ 20220228, 카운트: 661, 
+[2022-10-12 22:25:43] (DEBUG) => task-[988857] 수집 중qwdqwd => 키워드: 초록매실, 기간: 20211101 ~ 20220228, 카운트: 671, 
+[2022-10-12 22:25:46] (DEBUG) => task-[988857] 수집 중qwdqwd => 키워드: 초록매실, 기간: 20211101 ~ 20220228, 카운트: 681, 
+[2022-10-12 22:25:48] (DEBUG) => task-[988857] 수집 중qwdqwd => 키워드: 초록매실, 기간: 20211101 ~ 20220228, 카운트: 691, 
+[2022-10-12 22:25:51] (DEBUG) => task-[988857] 수집 중qwdqwd => 키워드: 초록매실, 기간: 20211101 ~ 20220228, 카운트: 701, 
+[2022-10-12 22:25:53] (DEBUG) => task-[988857] 수집 중qwdqwd => 키워드: 초록매실, 기간: 20211101 ~ 20220228, 카운트: 711, 
+[2022-10-12 22:25:56] (DEBUG) => task-[988857] 수집 중qwdqwd => 키워드: 초록매실, 기간: 20211101 ~ 20220228, 카운트: 721, 
+[2022-10-12 22:25:58] (DEBUG) => task-[988857] 수집 중qwdqwd => 키워드: 초록매실, 기간: 20211101 ~ 20220228, 카운트: 731, 
+[2022-10-12 22:26:01] (DEBUG) => task-[988857] 수집 중qwdqwd => 키워드: 초록매실, 기간: 20211101 ~ 20220228, 카운트: 741, 
+[2022-10-12 22:26:04] (DEBUG) => task-[988857] 수집 중qwdqwd => 키워드: 초록매실, 기간: 20211101 ~ 20220228, 카운트: 751, 
+[2022-10-12 22:26:06] (DEBUG) => task-[988857] 수집 중qwdqwd => 키워드: 초록매실, 기간: 20211101 ~ 20220228, 카운트: 761, 
+[2022-10-12 22:26:09] (DEBUG) => task-[988857] 수집 중qwdqwd => 키워드: 초록매실, 기간: 20211101 ~ 20220228, 카운트: 771, 
+[2022-10-12 22:26:11] (DEBUG) => task-[988857] 수집 중qwdqwd => 키워드: 초록매실, 기간: 20211101 ~ 20220228, 카운트: 781, 
+[2022-10-12 22:26:14] (DEBUG) => task-[988857] 수집 중qwdqwd => 키워드: 초록매실, 기간: 20211101 ~ 20220228, 카운트: 791, 
+[2022-10-12 22:26:16] (DEBUG) => task-[988857] 수집 중qwdqwd => 키워드: 초록매실, 기간: 20211101 ~ 20220228, 카운트: 801, 
+[2022-10-12 22:26:19] (DEBUG) => task-[988857] 수집 중qwdqwd => 키워드: 초록매실, 기간: 20211101 ~ 20220228, 카운트: 811, 
+[2022-10-12 22:26:21] (DEBUG) => task-[988857] 수집 중qwdqwd => 키워드: 초록매실, 기간: 20211101 ~ 20220228, 카운트: 821, 
+[2022-10-12 22:26:24] (DEBUG) => task-[988857] 수집 중qwdqwd => 키워드: 초록매실, 기간: 20211101 ~ 20220228, 카운트: 831, 
+[2022-10-12 22:26:27] (DEBUG) => task-[988857] 수집 중qwdqwd => 키워드: 초록매실, 기간: 20211101 ~ 20220228, 카운트: 841, 
+[2022-10-12 22:26:29] (DEBUG) => task-[988857] 수집 중qwdqwd => 키워드: 초록매실, 기간: 20211101 ~ 20220228, 카운트: 851, 
+[2022-10-12 22:26:32] (DEBUG) => task-[988857] 수집 중qwdqwd => 키워드: 초록매실, 기간: 20211101 ~ 20220228, 카운트: 861, 
+[2022-10-12 22:26:34] (DEBUG) => task-[988857] 수집 중qwdqwd => 키워드: 초록매실, 기간: 20211101 ~ 20220228, 카운트: 871, 
+[2022-10-12 22:26:37] (DEBUG) => task-[988857] 수집 중qwdqwd => 키워드: 초록매실, 기간: 20211101 ~ 20220228, 카운트: 881, 
+[2022-10-12 22:26:39] (DEBUG) => task-[988857] 수집 중qwdqwd => 키워드: 초록매실, 기간: 20211101 ~ 20220228, 카운트: 891, 
+[2022-10-12 22:26:42] (DEBUG) => task-[988857] 수집 중qwdqwd => 키워드: 초록매실, 기간: 20211101 ~ 20220228, 카운트: 901, 
+[2022-10-12 22:26:44] (DEBUG) => task-[988857] 수집 중qwdqwd => 키워드: 초록매실, 기간: 20211101 ~ 20220228, 카운트: 911, 
+[2022-10-12 22:26:47] (DEBUG) => task-[988857] 수집 중qwdqwd => 키워드: 초록매실, 기간: 20211101 ~ 20220228, 카운트: 921, 
+[2022-10-12 22:26:50] (DEBUG) => task-[988857] 수집 중qwdqwd => 키워드: 초록매실, 기간: 20211101 ~ 20220228, 카운트: 931, 
+[2022-10-12 22:26:52] (DEBUG) => task-[988857] 수집 중qwdqwd => 키워드: 초록매실, 기간: 20211101 ~ 20220228, 카운트: 941, 
+[2022-10-12 22:26:55] (DEBUG) => task-[988857] 수집 중qwdqwd => 키워드: 초록매실, 기간: 20211101 ~ 20220228, 카운트: 951, 
+[2022-10-12 22:26:57] (DEBUG) => task-[988857] 수집 중qwdqwd => 키워드: 초록매실, 기간: 20211101 ~ 20220228, 카운트: 961, 
+[2022-10-12 22:27:00] (DEBUG) => task-[988857] 수집 중qwdqwd => 키워드: 초록매실, 기간: 20211101 ~ 20220228, 카운트: 971, 
+[2022-10-12 22:27:02] (DEBUG) => task-[988857] 수집 중qwdqwd => 키워드: 초록매실, 기간: 20211101 ~ 20220228, 카운트: 981, 
+[2022-10-12 22:27:05] (DEBUG) => task-[988857] 수집 중qwdqwd => 키워드: 초록매실, 기간: 20211101 ~ 20220228, 카운트: 991, 
+[2022-10-12 22:27:59] (DEBUG) => <_InactiveRpcError of RPC that terminated with:
+	status = StatusCode.UNAVAILABLE
+	details = "failed to connect to all addresses"
+	debug_error_string = "{"created":"@1665581279.589473506","description":"Failed to pick subchannel","file":"src/core/ext/filters/client_channel/client_channel.cc","file_line":3260,"referenced_errors":[{"created":"@1665581279.589472412","description":"failed to connect to all addresses","file":"src/core/lib/transport/error_utils.cc","file_line":167,"grpc_status":14}]}"
+>
+[2022-10-12 22:27:59] (DEBUG) => Manager 서버에 연결할 수 없습니다.
+[2022-10-12 22:27:59] (DEBUG) => Started Assistant Server From 10.0.0.4:50152
+[2022-10-12 22:28:02] (DEBUG) => application/google/pickles/base.pickle
+[2022-10-12 22:28:02] (DEBUG) => application/google/pickles/web.pickle
+[2022-10-12 22:28:02] (DEBUG) => application/google/pickles/news.pickle
+[2022-10-12 22:28:02] (DEBUG) => application/google/pickles/facebook.pickle
+[2022-10-12 22:28:02] (DEBUG) => application/naver/pickles/base.pickle
+[2022-10-12 22:28:02] (DEBUG) => application/naver/pickles/web.pickle
+[2022-10-12 22:28:02] (DEBUG) => application/naver/pickles/blog.pickle
+[2022-10-12 22:28:02] (DEBUG) => application/naver/pickles/news.pickle
+[2022-10-12 22:28:02] (DEBUG) => application/naver/pickles/cafe.pickle
+[2022-10-12 22:28:02] (DEBUG) => application/naver/pickles/kin.pickle
+[2022-10-12 22:28:02] (DEBUG) => application/naver/pickles/academic.pickle
+[2022-10-12 22:28:02] (DEBUG) => application/daum/pickles/base.pickle
+[2022-10-12 22:28:02] (DEBUG) => application/daum/pickles/web.pickle
+[2022-10-12 22:28:02] (DEBUG) => application/daum/pickles/news.pickle
+[2022-10-12 22:28:02] (DEBUG) => application/daum/pickles/blog.pickle
+[2022-10-12 22:28:02] (DEBUG) => application/daum/pickles/cafe.pickle
+[2022-10-12 22:28:02] (DEBUG) => application/baidu/pickles/base.pickle
+[2022-10-12 22:28:02] (DEBUG) => application/baidu/pickles/web.pickle
+[2022-10-12 22:28:02] (DEBUG) => application/baidu/pickles/news.pickle
+[2022-10-12 22:28:02] (DEBUG) => application/baidu/pickles/academic.pickle
+[2022-10-12 22:28:24] (DEBUG) => application/google/pickles/base.pickle
+[2022-10-12 22:28:24] (DEBUG) => application/google/pickles/web.pickle
+[2022-10-12 22:28:24] (DEBUG) => application/google/pickles/news.pickle
+[2022-10-12 22:28:24] (DEBUG) => application/google/pickles/facebook.pickle
+[2022-10-12 22:28:24] (DEBUG) => application/naver/pickles/base.pickle
+[2022-10-12 22:28:24] (DEBUG) => application/naver/pickles/web.pickle
+[2022-10-12 22:28:24] (DEBUG) => application/naver/pickles/blog.pickle
+[2022-10-12 22:28:24] (DEBUG) => application/naver/pickles/news.pickle
+[2022-10-12 22:28:24] (DEBUG) => application/naver/pickles/cafe.pickle
+[2022-10-12 22:28:24] (DEBUG) => application/naver/pickles/kin.pickle
+[2022-10-12 22:28:24] (DEBUG) => application/naver/pickles/academic.pickle
+[2022-10-12 22:28:24] (DEBUG) => application/daum/pickles/base.pickle
+[2022-10-12 22:28:24] (DEBUG) => application/daum/pickles/web.pickle
+[2022-10-12 22:28:24] (DEBUG) => application/daum/pickles/news.pickle
+[2022-10-12 22:28:24] (DEBUG) => application/daum/pickles/blog.pickle
+[2022-10-12 22:28:24] (DEBUG) => application/daum/pickles/cafe.pickle
+[2022-10-12 22:28:24] (DEBUG) => application/baidu/pickles/base.pickle
+[2022-10-12 22:28:24] (DEBUG) => application/baidu/pickles/web.pickle
+[2022-10-12 22:28:24] (DEBUG) => application/baidu/pickles/news.pickle
+[2022-10-12 22:28:24] (DEBUG) => application/baidu/pickles/academic.pickle
+[2022-10-12 22:28:36] (DEBUG) => Started Manager Server From 10.0.0.4:50151
+[2022-10-12 22:28:37] (DEBUG) => Request task-988857 to Assistant Domain: 10.0.0.4:50152
+[2022-10-12 22:28:37] (DEBUG) => {'idx': 988857, 'k_idx': 1165139, 'k_ip': '10.0.0.4', 'web_data': 'Y', 'blog_data': 'N', 'news_data': '', 'cafe_data': 'N', 'kin_data': '', 'academic_data': '', 'channel': 'naver', 'data_type_names': ['web', 'blog', 'news', 'cafe', 'kin', 'academic']}
+[2022-10-12 22:28:38] (DEBUG) => Worker-[1000]가 task-[988857]의 'web'(을)를 시작합니다. (Thread: 20099)
+[2022-10-12 22:28:38] (DEBUG) => Worker-[1000]가 task-[988857]의 'web'(을)를 처리중입니다.
+[2022-10-12 22:28:38] (DEBUG) => 수집정보 => 채널: naver, 유형: web, 키워드: 초록매실, 기간: 2021-11-01 ~ 2022-02-28, 테이블: scraw_naver_datainfo
+[2022-10-12 22:28:49] (DEBUG) => Manager로부터 받은 echo 메시지: 50152
+[2022-10-12 22:28:49] (DEBUG) => Started Assistant Server From 10.0.0.4:50152
+[2022-10-12 22:28:57] (DEBUG) => Request task-988857 to Assistant Domain: 10.0.0.4:50152
+[2022-10-12 22:28:57] (DEBUG) => {'idx': 988857, 'k_idx': 1165139, 'k_ip': '10.0.0.4', 'web_data': 'Y', 'blog_data': 'N', 'news_data': '', 'cafe_data': 'N', 'kin_data': '', 'academic_data': '', 'channel': 'naver', 'data_type_names': ['web', 'blog', 'news', 'cafe', 'kin', 'academic']}
+[2022-10-12 22:28:58] (DEBUG) => Worker-[1000]가 task-[988857]의 'web'(을)를 시작합니다. (Thread: 20263)
+[2022-10-12 22:28:58] (DEBUG) => Worker-[1000]가 task-[988857]의 'web'(을)를 처리중입니다.
+[2022-10-12 22:28:59] (DEBUG) => 수집정보 => 채널: naver, 유형: web, 키워드: 초록매실, 기간: 2021-11-01 ~ 2022-02-28, 테이블: scraw_naver_datainfo
+[2022-10-12 22:29:07] (DEBUG) => task-[988857] 수집 중 => 키워드: 초록매실, 기간: 20211101 ~ 20220228, 카운트: 11, 
+[2022-10-12 22:29:10] (DEBUG) => task-[988857] 수집 중 => 키워드: 초록매실, 기간: 20211101 ~ 20220228, 카운트: 21, 
+[2022-10-12 22:29:13] (DEBUG) => task-[988857] 수집 중 => 키워드: 초록매실, 기간: 20211101 ~ 20220228, 카운트: 31, 
+[2022-10-12 22:29:16] (DEBUG) => task-[988857] 수집 중 => 키워드: 초록매실, 기간: 20211101 ~ 20220228, 카운트: 41, 
+[2022-10-12 22:29:19] (DEBUG) => task-[988857] 수집 중 => 키워드: 초록매실, 기간: 20211101 ~ 20220228, 카운트: 51, 
+[2022-10-12 22:29:25] (DEBUG) => Manager로부터 받은 echo 메시지: 50152
+[2022-10-12 22:29:27] (DEBUG) => Assistant 서버[10.0.0.4:50152]를 연결할 수 없습니다. (1)
+[2022-10-12 22:29:38] (DEBUG) => Assistant 서버[10.0.0.4:50152]를 연결할 수 없습니다. (1)
+[2022-10-12 22:29:44] (DEBUG) => Started Manager Server From 10.0.0.4:50151
+[2022-10-12 22:29:44] (DEBUG) => Assistant 서버[10.0.0.4:50152]를 연결할 수 없습니다. (1)
+[2022-10-12 22:29:58] (DEBUG) => <_InactiveRpcError of RPC that terminated with:
+	status = StatusCode.UNAVAILABLE
+	details = "failed to connect to all addresses"
+	debug_error_string = "{"created":"@1665581398.947692766","description":"Failed to pick subchannel","file":"src/core/ext/filters/client_channel/client_channel.cc","file_line":3260,"referenced_errors":[{"created":"@1665581398.947691543","description":"failed to connect to all addresses","file":"src/core/lib/transport/error_utils.cc","file_line":167,"grpc_status":14}]}"
+>
+[2022-10-12 22:29:58] (DEBUG) => Manager 서버에 연결할 수 없습니다.
+[2022-10-12 22:29:58] (DEBUG) => Started Assistant Server From 10.0.0.4:50152
+[2022-10-12 22:30:01] (DEBUG) => Started Manager Server From 10.0.0.4:50151
+[2022-10-12 22:30:01] (DEBUG) => Request task-988857 to Assistant Domain: 10.0.0.4:50152
+[2022-10-12 22:30:01] (DEBUG) => {'idx': 988857, 'k_idx': 1165139, 'k_ip': '10.0.0.4', 'web_data': 'S', 'blog_data': 'Y', 'news_data': '', 'cafe_data': 'N', 'kin_data': '', 'academic_data': '', 'channel': 'naver', 'data_type_names': ['web', 'blog', 'news', 'cafe', 'kin', 'academic']}
+[2022-10-12 22:30:01] (DEBUG) => {'idx': 988857, 'k_idx': 1165139, 'k_ip': '10.0.0.4', 'web_data': 'S', 'blog_data': 'Y', 'news_data': '', 'cafe_data': 'N', 'kin_data': '', 'academic_data': '', 'channel': 'naver', 'data_type_names': ['web', 'blog', 'news', 'cafe', 'kin', 'academic']}
+[2022-10-12 22:30:04] (DEBUG) => Worker-[1000]가 task-[988857]의 'blog'(을)를 시작합니다. (Thread: 21093)
+[2022-10-12 22:30:04] (DEBUG) => Worker-[1000]가 task-[988857]의 'blog'(을)를 처리중입니다.
+[2022-10-12 22:30:05] (DEBUG) => 수집정보 => 채널: naver, 유형: blog, 키워드: 초록매실, 기간: 2021-11-01 ~ 2022-02-28, 테이블: scraw_naver_datainfo
+[2022-10-12 22:30:16] (DEBUG) => task-[988857] 수집 중 => 키워드: 초록매실, 기간: 2021-11-01 ~ 2022-02-28, 카운트: 1
+[2022-10-12 22:30:19] (DEBUG) => task-[988857] 수집 중 => 키워드: 초록매실, 기간: 2021-11-01 ~ 2022-02-28, 카운트: 2
+[2022-10-12 22:30:22] (DEBUG) => task-[988857] 수집 중 => 키워드: 초록매실, 기간: 2021-11-01 ~ 2022-02-28, 카운트: 3
+[2022-10-12 22:30:25] (DEBUG) => Manager로부터 받은 echo 메시지: 50152
+[2022-10-12 22:30:25] (DEBUG) => Started Assistant Server From 10.0.0.4:50152
+[2022-10-12 22:30:37] (DEBUG) => Request task-988857 to Assistant Domain: 10.0.0.4:50152
+[2022-10-12 22:30:37] (DEBUG) => {'idx': 988857, 'k_idx': 1165139, 'k_ip': '10.0.0.4', 'web_data': 'S', 'blog_data': 'S', 'news_data': '', 'cafe_data': 'Y', 'kin_data': '', 'academic_data': '', 'channel': 'naver', 'data_type_names': ['web', 'blog', 'news', 'cafe', 'kin', 'academic']}
+[2022-10-12 22:30:37] (DEBUG) => {'idx': 988857, 'k_idx': 1165139, 'k_ip': '10.0.0.4', 'web_data': 'S', 'blog_data': 'S', 'news_data': '', 'cafe_data': 'Y', 'kin_data': '', 'academic_data': '', 'channel': 'naver', 'data_type_names': ['web', 'blog', 'news', 'cafe', 'kin', 'academic']}
+[2022-10-12 22:30:37] (DEBUG) => {'idx': 988857, 'k_idx': 1165139, 'k_ip': '10.0.0.4', 'web_data': 'S', 'blog_data': 'S', 'news_data': '', 'cafe_data': 'Y', 'kin_data': '', 'academic_data': '', 'channel': 'naver', 'data_type_names': ['web', 'blog', 'news', 'cafe', 'kin', 'academic']}
+[2022-10-12 22:30:37] (DEBUG) => {'idx': 988857, 'k_idx': 1165139, 'k_ip': '10.0.0.4', 'web_data': 'S', 'blog_data': 'S', 'news_data': '', 'cafe_data': 'Y', 'kin_data': '', 'academic_data': '', 'channel': 'naver', 'data_type_names': ['web', 'blog', 'news', 'cafe', 'kin', 'academic']}
+[2022-10-12 22:30:40] (DEBUG) => Worker-[1000]가 task-[988857]의 'cafe'(을)를 시작합니다. (Thread: 21510)
+[2022-10-12 22:30:40] (DEBUG) => Worker-[1000]가 task-[988857]의 'cafe'(을)를 처리중입니다.
+[2022-10-12 22:30:40] (DEBUG) => 수집정보 => 채널: naver, 유형: cafe, 키워드: 초록매실, 기간: 2021-11-01 ~ 2022-02-28, 테이블: scraw_naver_datainfo
+[2022-10-12 22:30:51] (DEBUG) => task-[988857] 수집 중 => 키워드: 초록매실, 기간: 20211101 ~ 20220228, 카운트: 1
+[2022-10-12 22:30:54] (DEBUG) => task-[988857] 수집 중 => 키워드: 초록매실, 기간: 20211101 ~ 20220228, 카운트: 2
+[2022-10-12 22:30:59] (DEBUG) => Manager로부터 받은 echo 메시지: 50152
+[2022-10-12 22:31:03] (DEBUG) => Assistant 서버[10.0.0.4:50152]를 연결할 수 없습니다. (1)
+[2022-10-12 22:31:13] (DEBUG) => Assistant 서버[10.0.0.4:50152]를 연결할 수 없습니다. (1)
+[2022-10-12 22:31:19] (DEBUG) => Manager로부터 받은 echo 메시지: 50152
+[2022-10-12 22:31:23] (DEBUG) => Assistant 서버[10.0.0.4:50152]를 연결할 수 없습니다. (1)
+[2022-10-12 22:31:33] (DEBUG) => Assistant 서버[10.0.0.4:50152]를 연결할 수 없습니다. (1)
+[2022-10-12 22:31:43] (DEBUG) => Assistant 서버[10.0.0.4:50152]를 연결할 수 없습니다. (1)
+[2022-10-12 22:31:53] (DEBUG) => Assistant 서버[10.0.0.4:50152]를 연결할 수 없습니다. (1)
+[2022-10-12 22:32:03] (DEBUG) => Assistant 서버[10.0.0.4:50152]를 연결할 수 없습니다. (1)
+[2022-10-12 22:32:13] (DEBUG) => Assistant 서버[10.0.0.4:50152]를 연결할 수 없습니다. (1)
+[2022-10-12 22:32:23] (DEBUG) => Assistant 서버[10.0.0.4:50152]를 연결할 수 없습니다. (1)
+[2022-10-12 22:32:34] (DEBUG) => Assistant 서버[10.0.0.4:50152]를 연결할 수 없습니다. (1)
+[2022-10-12 22:32:44] (DEBUG) => Assistant 서버[10.0.0.4:50152]를 연결할 수 없습니다. (1)
+[2022-10-12 22:32:54] (DEBUG) => Assistant 서버[10.0.0.4:50152]를 연결할 수 없습니다. (1)
+[2022-10-12 22:33:04] (DEBUG) => Assistant 서버[10.0.0.4:50152]를 연결할 수 없습니다. (1)
+[2022-10-12 22:33:14] (DEBUG) => Assistant 서버[10.0.0.4:50152]를 연결할 수 없습니다. (1)

@@ -1,0 +1,145 @@
+
+chrome_driver_path: "/usr/local/bin/chromedriver"
+
+google:
+  web:
+    delay_time: 20
+    max_count: 1000
+
+  news:
+    delay_time: 20
+    max_count: 1000
+  
+  facebook:
+    delay_time: 50
+    max_count: 1000
+    unit_count: 10
+    repeat_count: 100
+  
+  scrap_data_save_path: "/data/crawler/file_google_data"
+  scrap_table_name: "scraw_google_datainfo"
+  data_types: [ 'web', 'news', 'facebook' ]
+  serialized_file_path: "application/google/pickles"
+  country: 'kr'
+  es_index_name: 'textom_data'
+  alias: 'google'
+  penalty_delay_time: 300
+
+naver:
+
+  web:
+    delay_time: 10
+    max_count: 1000
+    unit_count: 15
+
+  news:
+    delay_time: 10
+    max_count: 1000
+    unit_count: 10
+  
+  kin:
+    delay_time: 10
+    max_count: 1000
+    unit_count: 10
+    out_max_count: 5
+  
+  blog:
+    delay_time: 10
+    max_count: 1000
+
+  cafe:
+    delay_time: 15
+    max_count: 1000
+
+  academic:
+    delay_time: 10  #ACADEMIC_DELAY
+    max_count: 1000    #MAX_ACADEMIC_COUNT
+    out_max_count: 5   #ACADEMIC_OUT_MAX_COUNT
+    unit_count: 10     #ACADEMIC_UNIT_COUNT
+    use_cookie_jar: True
+  
+  scrap_data_save_path: "/data/crawler/file_naver_data"
+  scrap_table_name: "scraw_naver_datainfo"
+  data_types: [ 'web', 'blog', 'news', 'cafe', 'kin', 'academic' ]
+  serialized_file_path: "application/naver/pickles"
+  country: 'kr'
+  es_index_name: 'textom_data'
+  alias: 'naver'
+  penalty_delay_time: 300
+
+daum:
+  web:
+    delay_time: 8
+    max_count: 1000
+    repeat_count: 100
+
+  news:
+    delay_time: 8
+    max_count: 1000
+    repeat_count: 100
+  
+  blog:
+    delay_time: 8
+    max_count: 1000
+    repeat_count: 100
+
+  cafe:
+    delay_time: 8
+    max_count: 1000
+    repeat_count: 100
+
+  scrap_data_save_path: "/data/crawler/file_daum_data"
+  scrap_table_name: "scraw_daum_datainfo"
+  data_types: [ 'web', 'news', 'blog', 'cafe' ]
+  serialized_file_path: "application/daum/pickles"
+  country: 'kr'
+  es_index_name: 'textom_data'
+  alias: 'daum'
+  penalty_delay_time: 300
+
+baidu:
+
+  academic:
+    delay_time: 20
+    max_count: 1000
+    unit_count: 10
+
+  news:
+    delay_time: 20
+    max_count: 1000
+    unit_count: 10
+  
+  web:
+    delay_time: 20
+    max_count: 1000
+    unit_count: 10
+
+  scrap_data_save_path: "/data/crawler/file_baidu_data"
+  scrap_table_name: "scraw_baidu_datainfo"
+  data_types: [ 'web', 'news', 'academic' ]
+  serialized_file_path: "application/baidu/pickles"
+  country: 'cn'
+  es_index_name: 'textom_data_cn'
+  alias: 'baidu'
+  penalty_delay_time: 300
+
+googlecn:
+  web:
+    delay_time: 20
+    max_count: 1000
+    repeat_count: 50
+  
+  academic:
+    delay_time: 50
+    max_count: 1000
+    unit_count: 10
+    repeat_count: 50
+  
+  scrap_data_save_path: "/data/crawler/file_googlecn_data"
+  scrap_table_name: "scraw_google_datainfo"
+  data_types: [ 'web', 'academic' ]
+  serialized_file_path: "application/googlecn/pickles"
+  country: 'cn'
+  es_index_name: 'textom_data_cn'
+  alias: 'google'
+  penalty_delay_time: 300
