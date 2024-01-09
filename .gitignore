@@ -1,2 +1,5 @@
 nohup.out
 earth-compose.yml
+
+*.log
+*log*
