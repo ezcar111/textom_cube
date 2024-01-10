@@ -26,14 +26,19 @@ class BaseCrawler:
         return poly
 
     def exec_search(self, poly, data):
-        create_file_name, item_count, html_status = poly.search(
-                data["keyword"], 
-                idx_num = str(data["task_no"]), 
-                stop=data["stop"], 
-                date_start=data["date_start"], 
-                date_end=data["date_end"],
-                out_filepath = data["out_filepath"])
-
+        try:
+            create_file_name, item_count, html_status = poly.search(
+                    data["keyword"], 
+                    idx_num = str(data["task_no"]), 
+                    stop=data["stop"], 
+                    date_start=data["date_start"], 
+                    date_end=data["date_end"],
+                    out_filepath = data["out_filepath"])
+        except Exception as err:
+            log.debug(f"basecrawler 38 line error")
+            create_file_name=''
+            item_count=0
+            html_status=500
         return create_file_name, item_count, html_status
 
     def __init__(self, channel, dao):

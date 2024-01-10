@@ -45,7 +45,7 @@ class NaverNews(NaverBase):
         browser = webdriver.Chrome(chrome_driver_path,chrome_options=chrome_options)
         start = 0
         count_web = 0
-
+    
         date_start = date_start.replace('-', '')
         date_end   = date_end.replace('-', '')
         
@@ -56,9 +56,9 @@ class NaverNews(NaverBase):
             html_status = self.get_page(url, browser)
         except Exception as err:
             log.debug(f"err NaverNews_line58_{err}")
-            html_status = 'error'
+            html_status = '404'
             return creat_file_name, count_web, html_status
-            
+
         if html_status != 200:
             return creat_file_name, count_web, html_status
 
@@ -70,7 +70,6 @@ class NaverNews(NaverBase):
             time.sleep(2)
             html_element = browser.page_source
             soup = BeautifulSoup(str(html_element), "html.parser", from_encoding="utf-8")
-            
             list_html = soup.findAll('div', {'class' : 'news_wrap api_ani_send'})
 
             for temp_html in list_html:
@@ -155,11 +154,11 @@ if __name__ == "__main__":
     #     "out_filepath": '/home/theimc/incubate/textom-cube/test_folder'
     # }
     data = {
-        "keyword": '총선 +정의당', 
+        "keyword": '"해물"+"요리"', 
         "task_no": str(10), 
         "stop": 1000, 
-        "date_start": '2023-08-01', 
-        "date_end": '2023-08-31',
+        "date_start": '2023-01-01', 
+        "date_end": '2024-01-10',
         "out_filepath": '/home/theimc/incubate/textom-cube/test_folder'
     }
     naver_news = NaverNews()
