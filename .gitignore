@@ -5,3 +5,4 @@ earth-compose.yml
 *log*
 logs/logfile.log
 *.pyc
+*cache
