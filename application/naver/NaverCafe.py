@@ -46,7 +46,13 @@ class NaverCafe(NaverBase):
         creat_file_name = out_file.name
         url = self.get_url(keyword, date_start, date_end)
 
-        html_status = self.get_page(url, browser)
+        try:
+            html_status = self.get_page(url, browser)
+        except Exception as err:
+            log.debug(f"err NaverCafe_line52_{err}")
+            html_status = 'error'
+            count_web = 0
+            return creat_file_name, count_web, html_status
         if html_status != 200:
             return creat_file_name, count_web, html_status
 

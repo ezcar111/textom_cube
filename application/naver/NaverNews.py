@@ -2,7 +2,7 @@ import os, sys, time
 from selenium import webdriver
 from bs4 import BeautifulSoup
 from datetime import datetime, timedelta
-
+sys.path.append('/home/theimc/incubate/textom-cube/')
 sys.path.append(os.path.dirname(os.path.abspath(os.path.dirname(__file__))))
 from earthling.service.Logging import log
 # import application.settings as settings
@@ -44,21 +44,26 @@ class NaverNews(NaverBase):
         chrome_driver_path = self.get_chrome_driver_path()
         browser = webdriver.Chrome(chrome_driver_path,chrome_options=chrome_options)
         start = 0
-        
+        count_web = 0
+
         date_start = date_start.replace('-', '')
         date_end   = date_end.replace('-', '')
         
         out_file = open(out_filepath, "a") #createFile()
         creat_file_name = out_file.name
         url = self.get_url(keyword, date_start, date_end, start)
-
-        html_status = self.get_page(url, browser)
+        try:
+            html_status = self.get_page(url, browser)
+        except Exception as err:
+            log.debug(f"err NaverNews_line58_{err}")
+            html_status = 'error'
+            return creat_file_name, count_web, html_status
+            
         if html_status != 200:
             return creat_file_name, count_web, html_status
 
         start = 1
         count = 0
-        count_web = 0
         link_list =[]
         stat = 0
         while True:
@@ -140,3 +145,28 @@ class NaverNews(NaverBase):
 
         return creat_file_name, count_web, html_status
 
+if __name__ == "__main__":
+    # data = {
+    #     "keyword": '전주한옥마을+경관', 
+    #     "task_no": str(10), 
+    #     "stop": 1000, 
+    #     "date_start": '2020-09-07', 
+    #     "date_end": '2020-09-13',
+    #     "out_filepath": '/home/theimc/incubate/textom-cube/test_folder'
+    # }
+    data = {
+        "keyword": '총선 +정의당', 
+        "task_no": str(10), 
+        "stop": 1000, 
+        "date_start": '2023-08-01', 
+        "date_end": '2023-08-31',
+        "out_filepath": '/home/theimc/incubate/textom-cube/test_folder'
+    }
+    naver_news = NaverNews()
+    create_file_name, item_count, html_status = naver_news.search(
+        data["keyword"], 
+        idx_num = str(data["task_no"]), 
+        stop=data["stop"], 
+        date_start=data["date_start"], 
+        date_end=data["date_end"],
+        out_filepath = data["out_filepath"])

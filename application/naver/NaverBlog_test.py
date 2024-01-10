@@ -207,11 +207,11 @@ if __name__ == "__main__":
     #     "out_filepath": '/home/theimc/incubate/textom-cube/test_folder'
     # }
     data = {
-        "keyword": '플립러닝', 
+        "keyword": '총선 +정의당', 
         "task_no": str(10), 
         "stop": 1000, 
-        "date_start": '2020-09-07', 
-        "date_end": '2020-09-13',
+        "date_start": '2023-08-01', 
+        "date_end": '2023-08-31',
         "out_filepath": '/home/theimc/incubate/textom-cube/test_folder'
     }
     naver_news = NaverBlog()

@@ -70,8 +70,12 @@ class NaverWeb(NaverBase):
                 url = self.get_url(keyword, tar_date, tar_date, start)
                 
                 # print(url)
-
-                html_status = self.get_page(url, browser)
+                try:
+                    html_status = self.get_page(url, browser)
+                except Exception as err:
+                    log.debug(f"err NaverWeb_line76_{err}")
+                    html_status = 'error'
+                    return creat_file_name, count_web, html_status
                 if html_status != 200:
                     return creat_file_name, count_web, html_status
 

@@ -3,3 +3,4 @@ earth-compose.yml
 
 *.log
 *log*
+logs/logfile.log
