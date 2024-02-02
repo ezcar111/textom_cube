@@ -1,23 +1,210 @@
 import os, sys, time
 from selenium import webdriver
 from bs4 import BeautifulSoup
-
-sys.path.append(os.path.dirname(os.path.abspath(os.path.dirname(__file__))))
+import requests
+from urllib import parse
+import pandas as pd
+import random
+# sys.path.append(os.path.dirname(os.path.abspath(os.path.dirname(__file__))))
+sys.path.append('/home/theimc/incubate/textom-cube/')
 from earthling.service.Logging import log
 # import application.settings as settings
 from application.naver.NaverBase import NaverBase
 
 class NaverCafe(NaverBase):
+    def make_default_frame(self):
+        result_table = pd.DataFrame(columns=["date", "title", "contents", "url"])
+        return result_table
 
-    def get_url(self, keyword, date_start='', date_end=''):
+    def get_cafe_list(self, keyword, date_start, date_end, out_filepath):
         date_start = date_start.replace("-","")
         date_end = date_end.replace("-","")
-        if date_start == '' or date_end == '':
-            url = "https://search.naver.com/search.naver?query="+str(keyword)+"&nso=&where=article&sm=tab_viw.all"
-        else:
-            url = "https://search.naver.com/search.naver?where=article&query="+str(keyword)+"&sm=tab_viw.blog&dup_remove=1&post_blogurl=&post_blogurl_without=&nso=so%3Ar%2Ca%3Aall%2Cp%3Afrom"+(date_start)+"to"+(date_end)
+        out_file = open(out_filepath, "a")
+        creat_file_name = out_file.name
+        start = 1
+        count_web = 0
+        settings = self.get_settings("cafe")
+        stop_count = settings["max_count"]
+        link_list =[]
+        stat =0
 
-        return url
+        # page_1
+        referer_query = {
+            'query': keyword,
+            'ssc': 'tab.cafe.all', 
+            # 'where': 'cafe',
+            'sm': 'tab_opt'
+        }
+        referer_query_parse = parse.urlencode(referer_query, doseq=True)
+        referer = "https://search.naver.com/search.naver?" + referer_query_parse
+
+        url_query = {
+            # 'where': 'cafe',
+            'ssc': 'tab.cafe.all', 
+            'query': keyword,
+            'sm': 'tab_opt',
+            'nso': f'so:r,p:from{date_start}to{date_end}'
+                
+        }
+        url_query_parse = parse.urlencode(url_query, doseq=True)
+        url = "https://search.naver.com/search.naver?" + url_query_parse
+        headers = {
+            "referer":referer,
+            "user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.57 Whale/3.14.133.23 Safari/537.36"
+        }
+
+        res = requests.get(url, headers=headers)
+        html_status = res.status_code
+        if html_status != 200:
+            return creat_file_name, count_web, res.status_code
+        soup = BeautifulSoup(res.text,"lxml")  
+        
+        # data_url = soup.find('div', attrs={'class':'review_loading _trigger_base'})['data-api']
+        # nlu = data_url.split('nlu_query=')[1].split('&')[0]
+        
+        try :
+            ul = soup.select("li.bx")
+            for li in ul:
+                try:
+                    title = li.select_one(".title_link").get_text().strip()
+                    # date = li.select_one(".sub").get_text().strip()[:-1].replace(".","-")
+                    link = li.select_one(".title_link")["href"].replace("?Redirect=Log&logNo=","/")
+                    contents = li.select_one(".dsc_area").get_text().strip()
+                    if link in link_list:
+                        stat += 1
+                        continue
+                    link_list.append(url.strip())
+                    if "naver" in url:
+                        scrape_text = title + '\t' + link +'\t'+ contents
+                        out_file.write(scrape_text + '\n')
+                        count_web = count_web + 1
+                    start += 1
+                    if start > settings["max_count"]:
+                        if start > 2*settings["max_count"]:
+                            break
+                        elif count_web > settings["max_count"]:
+                            break
+                except AttributeError:
+                    continue
+        except AttributeError as er : 
+            print(er)
+            pass
+
+        time.sleep(random.randint(3,5))
+
+        # page_2: get_total_contents
+        # referer_query = {
+        #     'ssc': 'tab.cafe.all', 
+        #     # 'where': 'cafe',
+        #     'query': keyword,
+        #     'sm': 'tab_opt',
+        #     'nso': f'so:r,p:from{date_start}to{date_end}'
+        # }
+        # referer_query_parse = parse.urlencode(referer_query, doseq=True)
+        # referer = "https://search.naver.com/search.naver?" + referer_query_parse
+        # url_query = {
+        #     'ssc': 'tab.cafe.all', 
+        #     # 'where': 'cafe',
+        #     # 'sm': 'tab_pge',
+        #     'sm': 'tab_jum',
+        #     'api_type': '1',
+        #     # 'api_type': '1',
+        #     'query': keyword,
+        #     'rev': '44',
+        #     'start': '31',
+        #     'dup_remove': '1',
+        #     'nso': f'p:from{date_start}to{date_end}',
+        #     'dkey': '0',
+        #     'nx_search_query': keyword,
+        #     'spq': '0',
+        #     '_callback': 'viewMoreContents'
+        # }
+        # # 'nlu_query': nlu,
+        # url_query_parse = parse.urlencode(url_query, doseq=True)
+        # url = "https://s.search.naver.com/p/cafe/search.naver?" + url_query_parse
+        # print("url164")
+        # print(url)
+        # headers = {
+        #     "referer":referer,
+        #     "user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.57 Whale/3.14.133.23 Safari/537.36"
+        # }
+
+        # res = requests.get(url, headers=headers)
+        # print(res)
+        # total = int(res.text.strip().split("html")[0][28:-3])
+
+        # print(f"{keyword} {date_start} {date_end} : {total}")
+        # time.sleep(random.randint(3,5))
+
+        # page_N
+        k=1
+        page = 31
+        while True:
+            
+        # for page in range(31,total,30):
+            # print(page)
+            # print(int(round(page/total,1)*100))
+            url_query = {
+                'ssc': 'tab.cafe.all', 
+                # 'where': 'cafe',
+                'sm': 'tab_pge',
+                'api_type': '1',
+                'query': keyword,
+                'rev': '44',
+                'start': page,
+                'dup_remove': '1',
+                'nso': f'p:from{date_end}to{date_start}',
+                'dkey': '0',
+                'nx_search_query': keyword,
+                'spq': '0',
+                '_callback': 'viewMoreContents'
+            }
+            if page > 1200:
+                break
+            page = page+30
+            
+            # 'nlu_query': nlu,
+            url_query_parse = parse.urlencode(url_query, doseq=True)
+            url = "https://s.search.naver.com/p/cafe/search.naver?" + url_query_parse
+            res = requests.get(url, headers=headers)
+            html = res.text.strip()[18:-1].replace("\\","")
+            html = '"""'+html.split("html")[1][4:]+'"""'    
+            soup = BeautifulSoup(html,"lxml")   
+            try :
+                # ul = soup.select("li.bx")
+                
+                ul = soup.select("li.bx")
+                for li in ul:
+                    try:
+                        title = li.select_one(".api_txt_lines").get_text().strip()
+                        link = li.select_one(".api_txt_lines")["href"].replace("?Redirect=Log&logNo=","/")
+                        contents = li.select_one(".total_dsc").get_text().strip()
+                        if link in link_list:
+                            stat += 1
+                            continue
+                        link_list.append(url.strip())
+                        if "naver" in url:
+                            scrape_text = title + '\t' + link +'\t'+ contents
+                            out_file.write(scrape_text + '\n')
+                            count_web = count_web + 1
+                        start += 1
+                        if start > settings["max_count"]:
+                            if start > 2*settings["max_count"]:
+                                break
+                            elif count_web > settings["max_count"]:
+                                break
+                    except AttributeError:
+                        continue
+            except AttributeError as er : 
+                print(er)
+                pass
+
+            if k%10==0:
+                time.sleep(random.randint(4,7))
+
+            k+=1
+        return creat_file_name, count_web, html_status
+
 
     def search(
         self,
@@ -32,137 +219,30 @@ class NaverCafe(NaverBase):
         pause = 2.0,
         out_filepath=''):
 
-        chrome_options = webdriver.ChromeOptions()
-        chrome_options.add_argument('--headless')
-        chrome_options.add_argument('--no-sandbox')
-        chrome_options.add_argument('--disable-dev-shm-usage')
-        chrome_driver_path = self.get_chrome_driver_path()
-        browser = webdriver.Chrome(chrome_driver_path,chrome_options=chrome_options)
 
-        date_start = date_start.replace('-','')
-        date_end   = date_end.replace('-','')
-        
-        out_file = open(out_filepath, "a") #createFile()
-        creat_file_name = out_file.name
-        url = self.get_url(keyword, date_start, date_end)
-
-        try:
-            html_status = self.get_page(url, browser)
-        except Exception as err:
-            log.debug(f"err NaverCafe_line52_{err}")
-            html_status = 'error'
-            count_web = 0
-            return creat_file_name, count_web, html_status
-        if html_status != 200:
-            return creat_file_name, count_web, html_status
-
-        time.sleep(2)
-
-        last_height = browser.execute_script("return document.body.scrollHeight")
-
-        scroll_count = 0 
-
-        while True:
-            if scroll_count > 100:
-                break        
-
-            try:
-                browser.execute_script("window.scrollTo(0, document.body.scrollHeight);")
-                time.sleep(1)
-                new_height = browser.execute_script("return document.body.scrollHeight")
-                if new_height == last_height:
-                    break
-                last_height = new_height
-            except Exception as e:
-                time.sleep(2)
-                browser.execute_script("window.scrollTo(0, document.body.scrollHeight);")
-                new_height = browser.execute_script("return document.body.scrollHeight")
-                if new_height == last_height:
-                    break
-                last_height = new_height
-            
-            time.sleep(2)
-            scroll_count += 1
-            log.debug(f"task-[{idx_num}] 수집 중 => 키워드: {keyword}, 기간: {date_start} ~ {date_end}, 카운트: {scroll_count}")
-
-
-        html_element = browser.page_source
-
-        soup = BeautifulSoup(str(html_element), "html.parser", from_encoding="utf-8")
-        
-        start = 1
-        count_web = 0
-        settings = self.get_settings("cafe")
-        stop_count = settings["max_count"]
-        link_list =[]
-        stat =0
-
-        # 2023-10-27 수집기 변경
-        # list_html = soup.findAll('div', {'class' : 'total_wrap api_ani_send'})
-        try:
-            list_html_tmp = soup('ul', {'class' : 'lst_view _list_base'})[0]
-            list_html_tmp = BeautifulSoup(str(list_html_tmp),"html.parser")
-            list_html = list_html_tmp('li', {'class' : 'bx'})
-        except Exception as err:
-            list_html=''
-            
-        for temp_html in list_html:
-            temp_html = BeautifulSoup(str(temp_html),"html.parser")
-
-            if count_web > stop_count:
-                break
-            
-            if stat > 10:
-                break
-
-            try:
-                # 2023-10-27 수집기 변경
-                # a_link = temp_html("a",{"class":"api_txt_lines total_tit"})[0]['href']
-                a_link = temp_html('a', {'class' : 'title_link'})[0]['href']
-            except:
-                break
-            
-            if a_link in link_list:
-                    stat += 1
-                    continue
-            link_list.append(a_link.strip())
-            
-            try :
-                # 2023-10-27 수집기 변경
-                # title_text = str(temp_html('a', {'class' : 'api_txt_lines total_tit'})[0].text).strip()  
-                title_text = str(temp_html('a', {'class' : 'title_link'})[0].text).strip()             
-                title_text = str.join(' ', title_text.split())
-            except:
-                title_text=""
-            try:
-                # 2023-10-27 수집기 변경
-                # content_text = temp_html("div",{"class":"api_txt_lines dsc_txt"})[0].text
-                content_text = temp_html('a', {'class' : 'dsc_link'})[0].text       
-                content_text = str.join(' ', str(content_text).split())
-            except:
-                content_text = ""        
-            
-            try:
-                scrape_text = title_text + '\t' + a_link +'\t'+ content_text
-                out_file.write(scrape_text + '\n')
-                count_web = count_web + 1
-            except Exception as err:
-                log.debug(err)
-                break
-            start += 1
-            if start > settings["max_count"]:
-                if start > 2*settings["max_count"]:
-                    break
-                elif count_web > settings["max_count"]:
-                    break
-
-
-
-            # TODO: 전체수집 개발           
+        result_table = self.make_default_frame()
                 
-        browser.quit()
-        out_file.close()
+        headers = {
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+        }
+        creat_file_name, count_web, html_status = self.get_cafe_list(keyword, date_start, date_end, out_filepath)
 
         return creat_file_name, count_web, html_status
 
-
+if __name__=="__main__":
+    data = {
+        "keyword": '총선 +정의당', 
+        "task_no": str(10), 
+        "stop": 1000, 
+        "date_start": '2023-08-01', 
+        "date_end": '2023-09-01',
+        "out_filepath": '/home/theimc/incubate/textom-cube/test_folder.nohup'
+    }
+    naver_news = NaverCafe()
+    create_file_name, item_count, html_status = naver_news.search(
+        data["keyword"], 
+        idx_num = str(data["task_no"]), 
+        stop=data["stop"], 
+        date_start=data["date_start"], 
+        date_end=data["date_end"],
+        out_filepath = data["out_filepath"])
