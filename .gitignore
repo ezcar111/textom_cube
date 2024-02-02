@@ -1,6 +1,6 @@
 nohup.out
 earth-compose.yml
-
+*__pycache_*
 *.log
 *log*
 logs/logfile.log
