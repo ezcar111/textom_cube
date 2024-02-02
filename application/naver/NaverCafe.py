@@ -140,7 +140,6 @@ class NaverCafe(NaverBase):
         k=1
         page = 31
         while True:
-            
         # for page in range(31,total,30):
             # print(page)
             # print(int(round(page/total,1)*100))
@@ -166,9 +165,14 @@ class NaverCafe(NaverBase):
             # 'nlu_query': nlu,
             url_query_parse = parse.urlencode(url_query, doseq=True)
             url = "https://s.search.naver.com/p/cafe/search.naver?" + url_query_parse
+            print(url)
             res = requests.get(url, headers=headers)
             html = res.text.strip()[18:-1].replace("\\","")
-            html = '"""'+html.split("html")[1][4:]+'"""'    
+            try:
+                html = '"""'+html.split("html")[1][4:]+'"""'   
+            except Exception as err:
+                print(err)
+                break
             soup = BeautifulSoup(html,"lxml")   
             try :
                 # ul = soup.select("li.bx")
