@@ -184,10 +184,13 @@ class NaverBlog(NaverBase):
                             count_web = count_web + 1
                         start += 1
                         if start > settings["max_count"]:
+                            if count_web == 1000:
+                                break
                             if start > 2*settings["max_count"]:
                                 break
                             elif count_web > settings["max_count"]:
                                 break
+                        
                     except AttributeError:
                         continue
             except AttributeError as er : 
