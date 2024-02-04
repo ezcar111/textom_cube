@@ -132,10 +132,11 @@ class NaverBlog(NaverBase):
 
         res = requests.get(url, headers=headers)
         total = int(res.text.strip().split("html")[0][28:-3])
-
+        if total >= 1020:
+            total = 1020
         print(f"{keyword} {date_start} {date_end} : {total}")
         time.sleep(random.randint(3,5))
-
+        
         # page_N
         k=1
 
