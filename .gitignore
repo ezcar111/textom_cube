@@ -3,7 +3,7 @@ earth-compose.yml
 *.log
 *log*
 logs/logfile.log
-# *__pycache_*
-# *.pyc
-# *pyc*
+*__pycache_*
+*.pyc
+*pyc*
 
