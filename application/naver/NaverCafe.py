@@ -180,9 +180,13 @@ class NaverCafe(NaverBase):
                 ul = soup.select("li.bx")
                 for li in ul:
                     try:
-                        title = li.select_one(".api_txt_lines").get_text().strip()
-                        link = li.select_one(".api_txt_lines")["href"].replace("?Redirect=Log&logNo=","/")
-                        contents = li.select_one(".total_dsc").get_text().strip()
+                        title = li.select_one(".title_link").get_text().strip()
+                        link = li.select_one(".title_link")["href"].replace("?Redirect=Log&logNo=","/")
+                        contents = li.select_one(".dsc_area").get_text().strip()
+                        
+                        # title = li.select_one(".api_txt_lines").get_text().strip()
+                        # link = li.select_one(".api_txt_lines")["href"].replace("?Redirect=Log&logNo=","/")
+                        # contents = li.select_one(".total_dsc").get_text().strip()
                         if link in link_list:
                             stat += 1
                             continue
