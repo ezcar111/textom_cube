@@ -172,7 +172,12 @@ class NaverCafe(NaverBase):
                 html = '"""'+html.split("html")[1][4:]+'"""'   
             except Exception as err:
                 print(err)
-                break
+                try:
+                    html = '"""'+html1.split("html")[0][4:]+'"""'  
+                except Exception as err:
+                    print(err)
+                    break
+                
             soup = BeautifulSoup(html,"lxml")   
             try :
                 # ul = soup.select("li.bx")
@@ -234,16 +239,15 @@ class NaverCafe(NaverBase):
             "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
         }
         creat_file_name, count_web, html_status = self.get_cafe_list(keyword, date_start, date_end, out_filepath)
-
         return creat_file_name, count_web, html_status
 
 if __name__=="__main__":
     data = {
-        "keyword": '총선 +정의당', 
+        "keyword": '류마티스 관절염', 
         "task_no": str(10), 
         "stop": 1000, 
-        "date_start": '2023-08-01', 
-        "date_end": '2023-09-01',
+        "date_start": '2022-08-01', 
+        "date_end": '2022-08-30',
         "out_filepath": '/home/theimc/incubate/textom-cube/test_folder.nohup'
     }
     naver_news = NaverCafe()
