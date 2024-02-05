@@ -173,7 +173,7 @@ class NaverCafe(NaverBase):
             except Exception as err:
                 print(err)
                 try:
-                    html = '"""'+html1.split("html")[0][4:]+'"""'  
+                    html = '"""'+html.split("html")[0][4:]+'"""'  
                 except Exception as err:
                     print(err)
                     break
