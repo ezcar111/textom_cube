@@ -48,6 +48,12 @@ class NaverCafe(NaverBase):
         }
         url_query_parse = parse.urlencode(url_query, doseq=True)
         url = "https://search.naver.com/search.naver?" + url_query_parse
+
+        if any(op in keyword for op in ["|", "+", "-", '"']):
+            url = url.replace('tab_opt', 'tab_dgs')
+        else : 
+            url = url
+
         headers = {
             "referer":referer,
             "user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.57 Whale/3.14.133.23 Safari/537.36"
@@ -68,7 +74,8 @@ class NaverCafe(NaverBase):
                 try:
                     title = li.select_one(".title_link").get_text().strip()
                     # date = li.select_one(".sub").get_text().strip()[:-1].replace(".","-")
-                    link = li.select_one(".title_link")["href"].replace("?Redirect=Log&logNo=","/")
+                    link = li.select_one(".title_link")["href"].split('?')[0]
+                    # link = li.select_one(".title_link")["href"].replace("?Redirect=Log&logNo=","/")
                     contents = li.select_one(".dsc_area").get_text().strip()
                     if link in link_list:
                         stat += 1
@@ -165,13 +172,19 @@ class NaverCafe(NaverBase):
             # 'nlu_query': nlu,
             url_query_parse = parse.urlencode(url_query, doseq=True)
             url = "https://s.search.naver.com/p/cafe/search.naver?" + url_query_parse
+
+            if any(op in keyword for op in ["|", "+", "-", '"']):
+                url = url.replace('tab_pge', 'tab_dgs')
+            else : 
+                url = url
+
             print(url)
             res = requests.get(url, headers=headers)
             html = res.text.strip()[18:-1].replace("\\","")
             try:
                 html = '"""'+html.split("html")[1][4:]+'"""'   
             except Exception as err:
-                print(err)
+                # print(err)
                 try:
                     html = '"""'+html.split("html")[0][4:]+'"""'  
                 except Exception as err:
@@ -186,7 +199,8 @@ class NaverCafe(NaverBase):
                 for li in ul:
                     try:
                         title = li.select_one(".title_link").get_text().strip()
-                        link = li.select_one(".title_link")["href"].replace("?Redirect=Log&logNo=","/")
+                        link = li.select_one(".title_link")["href"].split('?')[0]
+                        # link = li.select_one(".title_link")["href"].replace("?Redirect=Log&logNo=","/")
                         contents = li.select_one(".dsc_area").get_text().strip()
                         
                         # title = li.select_one(".api_txt_lines").get_text().strip()
@@ -216,6 +230,9 @@ class NaverCafe(NaverBase):
                 time.sleep(random.randint(4,7))
 
             k+=1
+        print(scrape_text)
+        print(count_web)
+        print(creat_file_name)
         return creat_file_name, count_web, html_status
 
 
@@ -243,11 +260,11 @@ class NaverCafe(NaverBase):
 
 if __name__=="__main__":
     data = {
-        "keyword": '류마티스 관절염', 
+        "keyword": '"삼겹살" +소주', 
         "task_no": str(10), 
         "stop": 1000, 
-        "date_start": '2022-08-01', 
-        "date_end": '2022-08-30',
+        "date_start": '2023-01-01', 
+        "date_end": '2024-02-28',
         "out_filepath": '/home/theimc/incubate/textom-cube/test_folder.nohup'
     }
     naver_news = NaverCafe()

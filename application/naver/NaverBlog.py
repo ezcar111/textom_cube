@@ -49,10 +49,18 @@ class NaverBlog(NaverBase):
         }
         url_query_parse = parse.urlencode(url_query, doseq=True)
         url = "https://search.naver.com/search.naver?" + url_query_parse
+
+        if any(op in keyword for op in ["|", "+", "-", '"']):
+            url = url.replace('tab_opt', 'tab_dgs')
+        else : 
+            url = url
+
         headers = {
             "referer":referer,
             "user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.57 Whale/3.14.133.23 Safari/537.36"
         }
+        print(url)
+        print("page_1")
 
         res = requests.get(url, headers=headers)
         html_status = res.status_code
@@ -103,6 +111,12 @@ class NaverBlog(NaverBase):
         }
         referer_query_parse = parse.urlencode(referer_query, doseq=True)
         referer = "https://search.naver.com/search.naver?" + referer_query_parse
+
+        if any(op in keyword for op in ["|", "+", "-", '"']):
+            referer = referer.replace('tab_opt', 'tab_dgs')
+        else : 
+            referer = referer
+
         url_query = {
             'ssc': 'tab.blog.all', 
             'where': 'blog',
@@ -123,6 +137,12 @@ class NaverBlog(NaverBase):
         # 'nlu_query': nlu,
         url_query_parse = parse.urlencode(url_query, doseq=True)
         url = "https://s.search.naver.com/p/blog/search.naver?" + url_query_parse
+
+        if any(op in keyword for op in ["|", "+", "-", '"']):
+            url = url.replace('tab_jum', 'tab_dgs')
+        else : 
+            url = url
+
         print("url164")
         print(url)
         headers = {
@@ -161,6 +181,12 @@ class NaverBlog(NaverBase):
             # 'nlu_query': nlu,
             url_query_parse = parse.urlencode(url_query, doseq=True)
             url = "https://s.search.naver.com/p/blog/search.naver?" + url_query_parse
+
+            if any(op in keyword for op in ["|", "+", "-", '"']):
+                url = url.replace('tab_pge', 'tab_dgs')
+            else : 
+                url = url
+
             print(url)
             res = requests.get(url, headers=headers)
             html = res.text.strip()[18:-1].replace("\\","")
@@ -228,14 +254,22 @@ class NaverBlog(NaverBase):
 
         return creat_file_name, count_web, html_status
 
-if __name__=="__main__":
+if __name__ == "__main__":
+    # data = {
+    #     "keyword": '전주한옥마을+경관', 
+    #     "task_no": str(10), 
+    #     "stop": 1000, 
+    #     "date_start": '2020-09-07', 
+    #     "date_end": '2020-09-13',
+    #     "out_filepath": '/home/theimc/incubate/textom-cube/test_folder'
+    # }
     data = {
-        "keyword": '총선 +정의당', 
+        "keyword": '"삼겹살" +"소주"', 
         "task_no": str(10), 
         "stop": 1000, 
-        "date_start": '2023-08-01', 
-        "date_end": '2023-09-01',
-        "out_filepath": '/home/theimc/incubate/textom-cube/test_folder.nohup'
+        "date_start": '2023-01-01', 
+        "date_end": '2024-02-28',
+        "out_filepath": '/home/theimc/incubate/textom-cube/test_folder_test.nohup'
     }
     naver_news = NaverBlog()
     create_file_name, item_count, html_status = naver_news.search(
@@ -245,3 +279,4 @@ if __name__=="__main__":
         date_start=data["date_start"], 
         date_end=data["date_end"],
         out_filepath = data["out_filepath"])
+
